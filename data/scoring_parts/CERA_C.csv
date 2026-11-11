@@ -1,0 +1,64 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CERA-155,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-156,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-157,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+CERA-158,,,,none,,,,,,,,,,not scorable,no period
+CERA-159,,,,none,,,,,,,,,,not scorable,no period; zero date not fixed
+CERA-160,24.13,26.67,lower,call,,22.84,Rs 22.84 crore,Q4FY25,5,"During FY25, we incurred the total CAPEX of Rs. 22.84 crore with investments directed towards enhancing manufacturing infrastructure, upgrading retail experience centers",,,,,Total FY25 capex vs routine capex budget; no greenfield spend in FY25
+CERA-161,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+CERA-162,,,,none,,,,,,,,,,not scorable,margin type not named; conditional improvement
+CERA-163,63,65,lower,call,,54,Rs 54 crore,Q4FY25,4,Our advertising and marketing spend for FY25 stood at Rs. 54 crore.,,,,,Publicity spend budget; advertising and marketing spend taken as same line (FY24 publicity of 63 matches)
+CERA-164,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-165,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-166,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-167,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-168,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+CERA-169,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+CERA-170,24.13,26.67,lower,call,,22.84,Rs 22.84 crore,Q4FY25,5,"During FY25, we incurred the total CAPEX of Rs. 22.84 crore with investments directed towards enhancing manufacturing infrastructure, upgrading retail experience centers",,,,,Total FY25 capex vs routine capex budget; no greenfield spend in FY25
+CERA-171,,,,none,,,,,,,,,,not scorable,"part-period (Q2-Q4FY25), no reported actual for that span"
+CERA-172,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-173,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-174,,,,none,,,,,,,,,,not scorable,no numeric target; zero date not fixed
+CERA-175,1,9,higher,screener,rev_growth:FY25,,,,,,,,,,Single digit read as 1-9%; consolidated revenue growth
+CERA-176,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis; ratio came from analyst context
+CERA-177,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-178,23.75,26.25,lower,call,,22.84,Rs 22.84 crore,Q4FY25,5,"During FY25, we incurred the total CAPEX of Rs. 22.84 crore with investments directed towards enhancing manufacturing infrastructure, upgrading retail experience centers",,,,,Total FY25 capex vs planned capex
+CERA-179,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-180,7,9,higher,screener,rev_growth:FY25,,,,,,,,,,High single digit = 7-9%; consolidated revenue growth
+CERA-181,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-182,16,17,higher,screener,h2_ebitda_margin:FY25,,,,,,,,,,Margin type read as EBITDA; consolidated
+CERA-183,,,,none,,,,,,,,,,not scorable,no reported actual for price-increase margin benefit
+CERA-184,,,,none,,,,,,,,,,not scorable,no period
+CERA-185,23.75,26.25,higher,call,,17,17 stores,Q4FY25,4,"Our flagship Senator stores have already begun operations, with 17 stores functional as of March 2025",,,,,Luxury exclusive branch stores taken as Senator stores (Q3FY25 call restates same target as Senator)
+CERA-186,,,,none,,,,,,,,,,not scorable,review: guide can be read two ways that give different verdicts
+CERA-187,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CERA-188,,,,none,,,,,,,,,,not scorable,no period
+CERA-189,,,,none,,,,,,,,,,not scorable,no period
+CERA-190,,,,none,,,,,,,,,,not scorable,no period; range came from analyst question
+CERA-191,20,25,higher,call,,17,17 stores,Q4FY25,4,"Our flagship Senator stores have already begun operations, with 17 stores functional as of March 2025",,,,,
+CERA-192,71.25,78.75,higher,call,,40,40 stores,Q4FY26,3,"Under Senator, we have successfully expanded our retail footprint with 40 flagship stores operational during the year",,,,,Cumulative Senator stores at Mar-26; wording could also mean 40 opened in year (then 57 total)
+CERA-193,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CERA-194,23.75,26.25,lower,call,,22.84,Rs 22.84 crore,Q4FY25,5,"During FY25, we incurred the total CAPEX of Rs. 22.84 crore with investments directed towards enhancing manufacturing infrastructure, upgrading retail experience centers",,,,,Total FY25 capex vs planned capex
+CERA-195,1,3,higher,screener,rev_growth:FY25,,,,,,,,,,Lower single digit = 1-3%; consolidated revenue growth
+CERA-196,,,,none,,,,,,,,,,not scorable,no period
+CERA-197,16,17,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,Margin type read as EBITDA; consolidated
+CERA-198,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-199,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-200,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-201,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-202,,,,none,,,,,,,,,,not scorable,no period
+CERA-203,,,,none,,,,,,,,,,not scorable,opening count unclear: later calls give 40 stores either as year-end total or as opened in year
+CERA-204,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CERA-205,22.8,25.2,lower,call,,14.5,Rs 14.5 crore,Q4FY26,6,the capital expenditure for FY26 remained measured with an outlay of around INR 14.5 crore by end of March '26.,,,,,Total FY26 capex vs earmarked capex
+CERA-206,,,,none,,,,,,,,,,not scorable,"later call says over 200 dealers onboarded, a lower bound not an exact count"
+CERA-207,,,,none,,,,,,,,,,not scorable,no reported FY26 full-year EBITDA margin in sources
+CERA-208,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-209,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-210,,,,none,,,,,,,,,,not scorable,no numeric target on company basis; market growth not defined
+CERA-211,,,,none,,,,,,,,,,not scorable,no period
+CERA-212,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-213,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CERA-214,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-215,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-216,,,,none,,,,,,,,,,not due,FY28 not yet reported
+CERA-217,,,,none,,,,,,,,,,not scorable,no period

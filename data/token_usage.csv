@@ -1,0 +1,27 @@
+task,model,subagent_tokens,tool_uses,duration_ms
+extract TITAN_1,sonnet,184878,17,202459
+extract TITAN_2,sonnet,183231,11,169298
+extract TITAN_3,sonnet,193104,12,192979
+extract TITAN_4,sonnet,182365,13,121554
+extract JUBLFOOD_1,sonnet,196424,13,176472
+extract JUBLFOOD_3,sonnet,190079,14,170656
+extract JUBLFOOD_2,sonnet,201143,15,172357
+extract JUBLFOOD_4,sonnet,186385,14,182686
+extract KALYANKJIL_1,sonnet,179164,12,135106
+extract KALYANKJIL_3,sonnet,207219,18,260306
+extract KALYANKJIL_2,sonnet,211491,17,295708
+extract SENCO_1,sonnet,194386,13,183769
+score TITAN_A,sonnet,127361,23,150863
+extract SENCO_2,sonnet,208738,13,190857
+score TITAN_B,sonnet,158963,33,237283
+score TITAN_C,sonnet,141883,33,185980
+score SENCO_A,sonnet,152063,21,193511
+score SENCO_B,sonnet,148958,21,198520
+score JUBLFOOD_A,sonnet,149808,24,205238
+score JUBLFOOD_B,sonnet,154747,30,253492
+score KALYANKJIL_A,sonnet,182128,27,321266
+score KALYANKJIL_C,sonnet,157990,15,191940
+score KALYANKJIL_B,sonnet,175559,25,270596
+extract phase2 rest (41 batches; 12 companies),sonnet,6835305,473,2099267
+score phase2 (96 batches; 37 companies),sonnet,13772628,1674,6132916
+audit sample review (50 rows),sonnet,157779,31,276537

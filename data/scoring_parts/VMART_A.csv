@@ -1,0 +1,75 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VMART-001,,,,none,,,,,,,,,,not scorable,"guide is acquisition consideration for 74 stores; only total FY22 capex reported, different basis"
+VMART-002,,,,none,,,,,,,,,,not scorable,"base is calendar 2019, no reported actual on that basis"
+VMART-003,,,,none,,,,,,,,,,not scorable,"only net store addition reported for FY22, guide is organic openings; different basis"
+VMART-004,,,,none,,,,,,,,,,not scorable,no period
+VMART-005,,,,none,,,,,,,,,,not scorable,no period
+VMART-006,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-007,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+VMART-008,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-009,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-010,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+VMART-011,,,,none,,,,,,,,,,not scorable,no reported FY23 inventory days figure found in stored calls
+VMART-012,,,,none,,,,,,,,,,not scorable,no period
+VMART-013,,,,none,,,,,,,,,,not scorable,ambiguous: store growth or overall growth; no clear basis
+VMART-014,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+VMART-015,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-016,10,12,higher,call,,12,12 stores,Q4FY23,9,"The company opened 59 new stores during the year, 47 in north, 12 in south under Unlimited brand.",,,,,South openings FY23 (12 under Unlimited)
+VMART-017,,,,none,,,,,,,,,,not scorable,needs South store base; no reported actual on the guided basis
+VMART-018,,,,none,,,,,,,,,,not scorable,no period
+VMART-019,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-020,57,63,higher,call,,59,59 stores,Q4FY23,9,"The company opened 59 new stores during the year, 47 in north, 12 in south under Unlimited brand.",,,,,gross openings FY23
+VMART-021,,,,none,,,,,,,,,,not scorable,"review: actual may be part of the total, not the full figure"
+VMART-022,,,,none,,,,,,,,,,not scorable,no reported FY23 new-store capex figure found
+VMART-023,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+VMART-024,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+VMART-025,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-026,,,,none,,,,,,,,,,not scorable,no period
+VMART-027,,,,none,,,,,,,,,,not scorable,multi-year span FY23-FY25; no reported actual on the guided basis
+VMART-028,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-029,,,,none,,,,,,,,,,not scorable,"illustrative arithmetic, not a target"
+VMART-030,,,,none,,,,,,,,,,not scorable,"analyst figure, management says potential not target"
+VMART-031,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-032,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-033,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-034,0,,higher,call,,48,48% sales growth,Q4FY23,7,It has been a good quarter with sales growing at 30% year-on-year and for the full year we grew at 48% with the same store sales growth of 10% for the quarter and 23% for the full year.,,,,,record sales read as FY23 growth above 0 vs FY22; stated highest ever sales
+VMART-035,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+VMART-036,,,,none,,,,,,,,,,not scorable,no period
+VMART-037,55,60,higher,call,,59,59 stores,Q4FY23,9,"The company opened 59 new stores during the year, 47 in north, 12 in south under Unlimited brand.",,,,,gross openings FY23
+VMART-038,,,,none,,,,,,,,,,not scorable,no period
+VMART-039,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-040,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-041,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year revenue growth found on the consolidated basis
+VMART-042,,,,none,,,,,,,,,,not scorable,no reported FY24 actual on the guided basis
+VMART-043,,,,none,,,,,,,,,,not scorable,no period
+VMART-044,,,,none,,,,,,,,,,not scorable,no period
+VMART-045,,,,none,,,,,,,,,,not scorable,no period
+VMART-046,,,,none,,,,,,,,,,not scorable,no period
+VMART-047,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-048,,,,none,,,,,,,,,,not scorable,no reported FY24 retail area addition found
+VMART-049,57,63,higher,call,,46,46 stores,Q4FY24,10,"On the new stores, as I mentioned, we opened 46 stores and closed 25.",,,,,gross openings FY24
+VMART-050,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year SSSG found
+VMART-051,,,,none,,,,,,,,,,not scorable,no period
+VMART-052,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year LimeRoad loss in rupees or % of EBITDA found
+VMART-053,,,,none,,,,,,,,,,not scorable,analyst figure
+VMART-054,,,,none,,,,,,,,,,not scorable,"direction only, no numeric base"
+VMART-055,,,,none,,,,,,,,,,not scorable,no period
+VMART-056,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year LimeRoad loss share of EBITDA found
+VMART-057,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-058,50,,higher,call,,46,46 stores,Q4FY24,10,"On the new stores, as I mentioned, we opened 46 stores and closed 25.",,,,,gross openings FY24; floor of 50
+VMART-059,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+VMART-060,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+VMART-061,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year LimeRoad funding figure found
+VMART-062,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-063,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year SSSG found
+VMART-064,,,,none,,,,,,,,,,not scorable,no reported FY24 volume growth found
+VMART-065,,,,none,,,,,,,,,,not scorable,no reported Q3FY24 PAT figure found on a stored page
+VMART-066,50,,higher,call,,46,46 stores,Q4FY24,10,"On the new stores, as I mentioned, we opened 46 stores and closed 25.",,,,,gross openings FY24; floor of 50
+VMART-067,,,,none,,,,,,,,,,not scorable,FY24 and FY23 full-year gross margin not both reported on a stored page
+VMART-068,,,,none,,,,,,,,,,not scorable,no reported H2FY24 LimeRoad loss share found
+VMART-069,,,,none,,,,,,,,,,not scorable,no numeric actual
+VMART-070,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year LimeRoad burn found
+VMART-071,,,,none,,,,,,,,,,not scorable,no reported FY24 absolute EBITDA comparison on same basis found
+VMART-072,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year revenue growth found
+VMART-073,,,,none,,,,,,,,,,not scorable,no reported actual for H2 share of FY24 sales
+VMART-074,,,,none,,,,,,,,,,not scorable,analyst figure

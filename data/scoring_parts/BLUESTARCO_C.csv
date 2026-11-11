@@ -1,0 +1,21 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BLUESTARCO-145,0,,higher,call,,-12,-12% (Segment-III FY26 revenue),Q4FY26,6,Segment revenue for the year de-grew by 12% to RS.306.8 Crore as compared to RS.348.6 Crore in FY25,,,,,"direction guide: revival = growth above 0 in FY26, segment basis"
+BLUESTARCO-146,7,7.5,higher,call,,8.2,8.2% (Segment-I FY25 margin),Q4FY25,6,"Segment result was Rs. 490.9 Cr, which is 8.2% of revenue in FY25 compared to Rs. 341.1 Cr",,,,,segment result margin FY25
+BLUESTARCO-147,8,8.5,higher,call,,8.4,8.4% (Segment-II FY25 margin),Q4FY25,7,"segment results improved to Rs. 471.2 Cr, which was 8.4% of revenue in FY25",,,,,segment result margin FY25
+BLUESTARCO-148,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-149,,,,none,,,,,,,,,,not scorable,"no fixed period; couple of years vague, no reported share on this basis"
+BLUESTARCO-150,,,,none,,,,,,,,,,not scorable,no number; direction only for a segment margin
+BLUESTARCO-151,,,,none,,,,,,,,,,not scorable,"arbitration date, not a financial figure; no reported actual"
+BLUESTARCO-152,1.5,,higher,call,,1.53,1.53 million units,Q4FY25,7,sales volume crossing 1.53 million units,,,,,floor 1.5 million; management said much higher than 1.5 million
+BLUESTARCO-153,,,,none,,,,,,,,,,not due,FY27 not yet reported (3-year cumulative FY25-FY27)
+BLUESTARCO-154,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-155,,,,none,,,,,,,,,,not scorable,no period; no reported actual on same basis
+BLUESTARCO-156,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-157,,,,none,,,,,,,,,,not scorable,no reported actual for FY26 EPR cost in stored transcripts
+BLUESTARCO-158,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-159,7.125,7.875,higher,call,,7.4,7.4% (Segment-I FY26 margin),Q4FY26,5,"Segment results was RS.501.9 Crore, which was 7.4% of revenue in FY26",,,,,segment result margin FY26; point 7.5 +/-5%
+BLUESTARCO-160,8.075,8.925,higher,call,,8.2,8.2% (Segment-II FY26 margin),Q4FY26,6,"segment results declined to RS.434.8 Crore, which was 8.2% of revenue in FY26",,,,,segment result margin FY26; point 8.5 +/-5%
+BLUESTARCO-161,8.55,9.45,higher,call,,8.2,8.2% (Segment-II FY26 margin),Q4FY26,6,"segment results declined to RS.434.8 Crore, which was 8.2% of revenue in FY26",,,,,"stretch attempt, hedged; point 9 +/-5%"
+BLUESTARCO-162,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-163,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-164,,,,none,,,,,,,,,,not scorable,period not stated (summer 2025 season); no reported actual on same basis

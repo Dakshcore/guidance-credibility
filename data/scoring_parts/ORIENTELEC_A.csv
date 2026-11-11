@@ -1,0 +1,84 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ORIENTELEC-001,,,,none,,,,,,,,,,not scorable,no reported Q4FY22 price rise figure on guided basis
+ORIENTELEC-002,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-003,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-004,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-005,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-006,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+ORIENTELEC-007,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-008,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-009,,,,none,,,,,,,,,,not scorable,no reported FY23 export figure on guided basis
+ORIENTELEC-010,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+ORIENTELEC-011,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-012,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-013,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-014,,,,none,,,,,,,,,,not scorable,"qualitative, no numeric target"
+ORIENTELEC-015,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-016,,,,none,,,,,,,,,,not scorable,"qualitative target, no reported actual"
+ORIENTELEC-017,,,,none,,,,,,,,,,not scorable,no full-year FY24 EBITDA margin reported on a call
+ORIENTELEC-018,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-019,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+ORIENTELEC-020,,,,none,,,,,,,,,,not scorable,no reported final Hyderabad spend
+ORIENTELEC-021,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-022,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+ORIENTELEC-023,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+ORIENTELEC-024,,,,none,,,,,,,,,,not scorable,rolling 12-month saving; no matching reported actual
+ORIENTELEC-025,,,,none,,,,,,,,,,not scorable,no period; undefined target
+ORIENTELEC-026,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-027,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-028,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (share of growth)
+ORIENTELEC-029,,,,none,,,,,,,,,,not scorable,"only fans-category NPD share reported, different basis"
+ORIENTELEC-030,,,,none,,,,,,,,,,not scorable,accrual attribution not separately reported
+ORIENTELEC-031,,,,none,,,,,,,,,,not scorable,no e-commerce revenue share reported
+ORIENTELEC-032,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+ORIENTELEC-033,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-034,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-035,,,,none,,,,,,,,,,not scorable,no mix share reported
+ORIENTELEC-036,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-037,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-038,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-039,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-040,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-041,,,,none,,,,,,,,,,not scorable,no reported final Hyderabad spend
+ORIENTELEC-042,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-043,,,,none,,,,,,,,,,not scorable,"only ceiling-fan share reported, different basis"
+ORIENTELEC-044,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-045,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-046,,,,none,,,,,,,,,,not scorable,"run-rate, no matching reported actual"
+ORIENTELEC-047,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-048,,,,none,,,,,,,,,,not scorable,no FY24 working capital days reported on a call
+ORIENTELEC-049,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-050,,,,none,,,,,,,,,,not scorable,no FY24 people cost reported on a call
+ORIENTELEC-051,,,,none,,,,,,,,,,not scorable,no reported final Hyderabad spend
+ORIENTELEC-052,,,,none,,,,,,,,,,not scorable,no period; sub-segment basis
+ORIENTELEC-053,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-054,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+ORIENTELEC-055,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+ORIENTELEC-056,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-057,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-058,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-059,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-060,20,,higher,call,,15,15% fans growth FY24,Q4FY24,4,"For the full year also, in FY '24, the fans growth has been at 15%, which I'm quite sure is ahead of the industry.",,,,,fans-only FY24 growth stated on Q4FY24 call; guide floor 20%
+ORIENTELEC-061,,,,none,,,,,,,,,,not scorable,"Q3FY24 fans change stated only as low single-digit degrowth, no figure"
+ORIENTELEC-062,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-063,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-064,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-065,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-066,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-067,,,,none,,,,,,,,,,not scorable,no period; number from analyst
+ORIENTELEC-068,,,,none,,,,,,,,,,not scorable,opening DTM state count not reported
+ORIENTELEC-069,10,,higher,call,,10,10% FY25 revenue growth,Q4FY25,5,"For the full year, our top line reached INR3,094 crores, demonstrating a robust 10% growth compared to the previous year.",,,,,double digit = floor 10%; call figure used as stated
+ORIENTELEC-070,,,,none,,,,,,,,,,not scorable,no Q1FY25 EBITDA margin level stated by management
+ORIENTELEC-071,,,,none,,,,,,,,,,not scorable,no Mar-24 working capital days reported on a call
+ORIENTELEC-072,,,,none,,,,,,,,,,not scorable,no reported final Hyderabad spend
+ORIENTELEC-073,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-074,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-075,0,,higher,call,,29,29% fans growth Q4FY24,Q4FY24,3,"So, despite the low base, when I report to you that our fans growth is actually at 29%, which I'm sure will give you an idea",,,,,"guide: make up Q3 small degrowth, much better numbers; read as positive Q4 fans growth (floor 0)"
+ORIENTELEC-076,,,,none,,,,,,,,,,not scorable,opening DTM state count at Mar-24 not stated directly
+ORIENTELEC-077,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-078,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-079,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ORIENTELEC-080,,,,none,,,,,,,,,,not scorable,no full-year FY25 EBITDA margin reported on a call
+ORIENTELEC-081,,,,none,,,,,,,,,,not scorable,no full-year EBITDA margin on guided basis; year ambiguous
+ORIENTELEC-082,,,,none,,,,,,,,,,not scorable,no reported FY25 capex figure
+ORIENTELEC-083,14.25,15.75,lower,call,,19,Rs 19 crore EPR provision,Q4FY24,5,"in this quarter, we have made a provision of close to INR19 crores towards the EPR liability, which has come to all the industries",,,,,Rs15 cr point +/-5%; FY24 EPR provision taken in Q4FY24

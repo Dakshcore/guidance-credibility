@@ -1,0 +1,11 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RUPA-169,,,,none,,,,,,,,,,not scorable,no full-year FY26 ad-to-sales actual reported
+RUPA-170,11,12,higher,screener,rev_growth:FY26,,,,,,,,,,
+RUPA-171,10.5,11,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+RUPA-172,,,,none,,,,,,,,,,not scorable,no full-year FY26 capex actual reported
+RUPA-173,,,,none,,,,,,,,,,not scorable,no full-year FY26 ad expense actual reported
+RUPA-174,,,,none,,,,,,,,,,not scorable,no FY26 net working capital days on management basis; Screener days differ
+RUPA-175,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RUPA-176,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RUPA-177,,,,none,,,,,,,,,,not scorable,no period
+RUPA-178,,,,none,,,,,,,,,,not scorable,no period

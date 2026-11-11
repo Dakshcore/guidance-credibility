@@ -1,0 +1,41 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+WESTLIFE-085,42,,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,floor: more than 41 FY24 openings (41 per Q4FY24 p6)
+WESTLIFE-086,,,,none,,,,,,,,,,not scorable,"no period; coming quarters, no reported FY25 depreciation ratio"
+WESTLIFE-087,45,50,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,
+WESTLIFE-088,,,,none,,,,,,,,,,not due,5-6 year horizon; share of new openings
+WESTLIFE-089,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-090,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-091,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+WESTLIFE-092,,,,none,,,,,,,,,,not scorable,no reported FY25 capex actual in stored transcripts
+WESTLIFE-093,,,,none,,,,,,,,,,not scorable,no numeric target
+WESTLIFE-094,,,,none,,,,,,,,,,not scorable,no numeric target
+WESTLIFE-095,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-096,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+WESTLIFE-097,45,50,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,
+WESTLIFE-098,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+WESTLIFE-099,,,,none,,,,,,,,,,not scorable,direction only
+WESTLIFE-100,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-101,,,,none,,,,,,,,,,not scorable,no numeric target
+WESTLIFE-102,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+WESTLIFE-103,,,,none,,,,,,,,,,not scorable,no numeric target
+WESTLIFE-104,14.97288,16.54892,higher,screener,ebitda_margin:FY25,,,,,,,,,,similar to FY24: band is 15.7609 x 0.95 to x 1.05 on Screener consolidated; hedged guess
+WESTLIFE-105,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+WESTLIFE-106,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+WESTLIFE-107,,,,none,,,,,,,,,,not scorable,"product launch milestone, no numeric target"
+WESTLIFE-108,,,,none,,,,,,,,,,not scorable,no exact H2FY25 gross margin reported; Q4 only around 70%
+WESTLIFE-109,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-110,45,50,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,
+WESTLIFE-111,,,,none,,,,,,,,,,not scorable,no reported FY25 capex actual in stored transcripts
+WESTLIFE-112,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-113,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-114,,,,none,,,,,,,,,,not scorable,direction only
+WESTLIFE-115,,,,none,,,,,,,,,,not due,FY28 not yet reported
+WESTLIFE-116,,,,none,,,,,,,,,,not scorable,direction only
+WESTLIFE-117,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-118,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+WESTLIFE-119,45,50,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,number from analyst question; management confirmed guidance
+WESTLIFE-120,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+WESTLIFE-121,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-122,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+WESTLIFE-123,,,,none,,,,,,,,,,not scorable,direction only
+WESTLIFE-124,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"

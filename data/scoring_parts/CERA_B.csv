@@ -1,0 +1,78 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CERA-078,,,,none,,,,,,,,,,not scorable,"capacity vs output; later call says capable ""now"" (May-24), timing vs Mar-24 unclear"
+CERA-079,,,,none,,,,,,,,,,not scorable,"review: actual may be part of the total, not the full figure"
+CERA-080,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-081,,,,none,,,,,,,,,,not scorable,"no new debt: existing borrowings, no clean actual"
+CERA-082,,,,none,,,,,,,,,,not scorable,"only lower-bound actuals (more than 14,000 retailers)"
+CERA-083,52.25,57.75,lower,call,,57,INR 57 crore,Q4FY23,4,Our highest ever advertising spends were achieved in financial year '23 of INR 57 crore.,,,,,FY23 advertising
+CERA-084,22.8,26.25,lower,call,,20,INR 20 crore,Q4FY23,5,of which INR 20 crore was spent in the last 12 months and INR 17 crore was spent in Q4,,,,,union of 25 and 24 cr guides; FY23 regular capex spent
+CERA-085,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-086,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-087,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-088,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-089,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-090,,,,none,,,,,,,,,,not scorable,no numeric target
+CERA-091,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-092,,,,none,,,,,,,,,,not scorable,"capacity vs output; later call says capable ""now"" (May-24), timing vs Mar-24 unclear"
+CERA-093,,,,none,,,,,,,,,,not scorable,"review: actual may be part of the total, not the full figure"
+CERA-094,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-095,,,,none,,,,,,,,,,not scorable,"no new debt: existing borrowings, no clean actual"
+CERA-096,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-097,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-098,,,,none,,,,,,,,,,not scorable,multi-year; no single reported actual for weakest-year increment
+CERA-099,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-100,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-101,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-102,,,,none,,,,,,,,,,not scorable,basis unclear (with/without other income) vs Screener revenue
+CERA-103,,,,none,,,,,,,,,,not scorable,mgmt EBITDA margin incl other income; no FY24 figure on that basis
+CERA-104,,,,none,,,,,,,,,,not scorable,no reported FY24 routine capex actual
+CERA-105,,,,none,,,,,,,,,,not scorable,land cost 25 cr: unclear if full parcel; date milestone
+CERA-106,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-107,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-108,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-109,,,,none,,,,,,,,,,not scorable,"capacity vs output; later call says capable ""now"" (May-24), timing vs Mar-24 unclear"
+CERA-110,,,,none,,,,,,,,,,not scorable,"review: actual may be part of the total, not the full figure"
+CERA-111,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-112,61.75,68.25,lower,call,,63,INR 63 crore,Q4FY24,6,"In FY24, the Company continued its strategy of investing more in publicity with total spending reaching to INR 63 crore as compared to INR 57 crore in FY 23.",,,,,FY24 publicity spend
+CERA-113,,,,none,,,,,,,,,,not scorable,no reported FY24 routine capex actual
+CERA-114,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CERA-115,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-116,20,,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+CERA-117,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-118,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-119,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-120,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-121,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-122,17,19,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+CERA-123,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-124,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-125,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-126,,,,none,,,,,,,,,,not scorable,"no new debt: existing borrowings, no clean actual"
+CERA-127,,,,none,,,,,,,,,,not scorable,mgmt operating cash flow basis unclear vs Screener CFO
+CERA-128,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-129,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-130,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-131,61.75,68.25,lower,call,,63,INR 63 crore,Q4FY24,6,"In FY24, the Company continued its strategy of investing more in publicity with total spending reaching to INR 63 crore as compared to INR 57 crore in FY 23.",,,,,FY24 publicity spend
+CERA-132,,,,none,,,,,,,,,,not scorable,no reported FY24 routine capex actual
+CERA-133,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-134,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-135,,,,none,,,,,,,,,,not scorable,Mar-25 milestone basis unclear (FY vs run-rate); not restated as actual
+CERA-136,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-137,712.5,787.5,higher,call,,671,INR 671 crore,Q4FY24,8,"Sanitaryware was INR 959 crore, faucetware was INR 671 crore, wellness was INR 37.54 crore, let's say INR 38 crore and tiles was INR 191 crore.",,,,,FY24 faucetware segment revenue
+CERA-138,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-139,17.1,18.9,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+CERA-140,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-141,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-142,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-143,,,,none,,,,,,,,,,not scorable,no FY24 full-year gross margin reported
+CERA-144,17,,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+CERA-145,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-146,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-147,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-148,,,,none,,,,,,,,,,not scorable,target recalibrated to Mar-27 on Q4FY24 call; Sep-25 TTM not reported
+CERA-149,,,,none,,,,,,,,,,not scorable,Mar-25 milestone basis unclear (FY vs run-rate); not restated as actual
+CERA-150,,,,none,,,,,,,,,,not scorable,"capacity vs output; later call says capable ""now"" (May-24), timing vs Mar-24 unclear"
+CERA-151,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-152,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+CERA-153,,,,none,,,,,,,,,,not scorable,no period or no reported actual
+CERA-154,,,,none,,,,,,,,,,not scorable,no period or no reported actual

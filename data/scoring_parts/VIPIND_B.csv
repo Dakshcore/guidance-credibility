@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VIPIND-080,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-081,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-082,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-083,15,,higher,call,,15,15% revenue growth,Q4FY24,3,"after a long time, we have grown by 15% revenue, so whatever I promised that we will be doing a double digit growth we have done",,,,,Q4FY24 growth as stated on the call
+VIPIND-084,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+VIPIND-085,10,,higher,call,,15,15% revenue growth,Q4FY24,3,"after a long time, we have grown by 15% revenue, so whatever I promised that we will be doing a double digit growth we have done",,,,,Q4FY24 growth as stated on the call
+VIPIND-086,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-087,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-088,25.65,28.35,lower,screener,tax_rate:FY24,,,,,,,,,,consolidated effective rate; Screener integer
+VIPIND-089,18,20,higher,screener,q_ebitda_margin:Q1FY26,,,,,,,,,,window Jan-25 to Jul-25; last quarter in window; Q4FY25 also far below
+VIPIND-090,18,,higher,screener,q_ebitda_margin:Q1FY26,,,,,,,,,,window to Jul-25; last quarter in window; Q4FY25 also far below
+VIPIND-091,,,,none,,,,,,,,,,not scorable,no numeric outcome
+VIPIND-092,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-093,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-094,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-095,,,,none,,,,,,,,,,not scorable,basis mismatch: 541 count vs 507 EBO count at Mar-24
+VIPIND-096,570,630,higher,call,,404,404 stores,Q4FY25,4,"Overall, today we have 404 stores.",,,,,Mar-25 count; series may differ from 541 count in guide but gap is large
+VIPIND-097,47.5,52.5,higher,call,,32,32 stores opened,Q4FY25,6,"we have closed 133 stores overall, and have opened 32 stores",,,,,gross openings in FY25; net count fell so also missed on net basis
+VIPIND-098,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-099,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-100,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-101,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-102,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-103,,,,none,,,,,,,,,,not due,Jan-27 not yet reported
+VIPIND-104,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-105,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-106,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-107,,,,none,,,,,,,,,,not scorable,"direction vs industry, no numeric target"
+VIPIND-108,14.25,15.75,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+VIPIND-109,17.1,18.9,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+VIPIND-110,,,,none,,,,,,,,,,not scorable,"only reported as over Rs 200 crore, a bound"
+VIPIND-111,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-112,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-113,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-114,35,40,higher,call,,32,32 stores opened,Q4FY25,6,"we have closed 133 stores overall, and have opened 32 stores",,,,,EBO openings in FY25
+VIPIND-115,,,,none,,,,,,,,,,not scorable,"standalone basis, no actual"
+VIPIND-116,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-117,10,,higher,screener,rev_growth:FY25,,,,,,,,,,
+VIPIND-118,,,,none,,,,,,,,,,not scorable,"net debt basis, no reported actual"
+VIPIND-119,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-120,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-121,,,,none,,,,,,,,,,not scorable,"number from analyst, no reported actual"
+VIPIND-122,15,18,higher,screener,ebitda_margin:FY26,,,,,,,,,,"span FY25-FY26, both ended; weakest year FY26 used"
+VIPIND-123,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-124,17.1,18.9,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,
+VIPIND-125,10,,higher,screener,h1_ebitda_margin:FY25,,,,,,,,,,
+VIPIND-126,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-127,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-128,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-129,,,,none,,,,,,,,,,not scorable,no Dec-24 figure reported
+VIPIND-130,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-131,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-132,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-133,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-134,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-135,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-136,14.25,15.75,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,
+VIPIND-137,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-138,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-139,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-140,,,,none,,,,,,,,,,not scorable,"standalone basis, no actual"
+VIPIND-141,,,,none,,,,,,,,,,not scorable,"net debt basis, no reported actual"
+VIPIND-142,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-143,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-144,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-145,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-146,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-147,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-148,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-149,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-150,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-151,95,105,higher,call,,118,Rs 118 crore debt reduction,Q4FY25,3,Our debt during the year was reduced by Rs.118 crore.,,,,,reduction in FY25 as reported by management
+VIPIND-152,,,,none,,,,,,,,,,not scorable,"net of investments, no reported actual"
+VIPIND-153,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-154,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-155,11.4,12.6,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,Q4 per MD; analyst said second half
+VIPIND-156,3,4,higher,screener,q_ebitda_margin:Q3FY25,,,,,,,,,,
+VIPIND-157,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-158,0,,higher,screener,q_pat:Q4FY25,,,,,,,,,,period inferred as Q4FY25; H2 also negative
+VIPIND-159,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-160,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-161,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-162,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-163,,,,none,,,,,,,,,,not scorable,no reported actual
+VIPIND-164,,,,none,,,,,,,,,,not scorable,no numeric target

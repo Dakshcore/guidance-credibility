@@ -1,0 +1,58 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SENCO-001,,,,none,,,,,,,,,,not scorable,no period
+SENCO-002,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+SENCO-003,15,20,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+SENCO-004,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (H1 share of annual revenue not a stored key or stated figure)
+SENCO-005,7,8,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin
+SENCO-006,,,,none,,,,,,,,,,not scorable,no numeric target for FY24 PAT
+SENCO-007,,,,none,,,,,,,,,,not scorable,no management-reported FY23 gross margin to compare; only an analyst figure
+SENCO-008,,,,none,,,,,,,,,,not scorable,no period
+SENCO-009,18,20,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+SENCO-010,1000,,higher,screener,q_revenue:Q2FY24,,,,,,,,,,"floor of Rs 1,000 crore; consolidated Q2 revenue"
+SENCO-011,,,,none,,,,,,,,,,not scorable,no reported FY24 volume growth on the guided basis
+SENCO-012,,,,none,,,,,,,,,,not scorable,no reported FY24 volume growth on the guided basis
+SENCO-013,,,,none,,,,,,,,,,not scorable,no period
+SENCO-014,8,10,higher,call,,6,6 stores,Q4FY24,4,"The new number of stores that we opened, were about 23, out of which 17 were Company-owned-Company operated and six were franchisees.",Q2FY24,13,"so 17 stores have been added overall , this includes 4 franchise stores",,FY24 total 23 minus 17 already added at 10-Nov-23 (Q2 call) = 6 added after the guide
+SENCO-015,25,26,higher,call,,23,23 stores,Q4FY24,4,"The new number of stores that we opened, were about 23, out of which 17 were Company-owned-Company operated and six were franchisees.",,,,,FY24 stores opened; guide was a range 25-26
+SENCO-016,17.1,18.9,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth; point ~18% +/-5%
+SENCO-017,18,20,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+SENCO-018,14.5,15,higher,call,,15.3,15.3%,Q4FY24,17,Our gross margin for the current year is around 15.3%.,,,,,FY24 gross margin as stated by CFO
+SENCO-019,,,,none,,,,,,,,,,not scorable,no reported H2FY24 gross margin
+SENCO-020,3,4,higher,call,,2,2 franchise stores,Q4FY24,4,"The new number of stores that we opened, were about 23, out of which 17 were Company-owned-Company operated and six were franchisees.",Q2FY24,13,"so 17 stores have been added overall , this includes 4 franchise stores",,FY24 franchise 6 minus 4 franchise added by 10-Nov-23 (Q2 call) = 2
+SENCO-021,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SENCO-022,5,6,higher,call,,4,4 own stores,Q4FY24,4,"The new number of stores that we opened, were about 23, out of which 17 were Company-owned-Company operated and six were franchisees.",Q2FY24,13,"so 17 stores have been added overall , this includes 4 franchise stores",,FY24 own 17 minus own at 10-Nov-23 (17 added less 4 franchise = 13) = 4
+SENCO-023,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (regional split of H2 additions)
+SENCO-024,20,25,higher,call,,16,16 stores,Q4FY25,4,"In terms of the opening of new stores, net-net, we have seen 16 stores open for the full financial year.",,,,,"weakest year: FY24 23, FY25 16; FY26 higher (Q3FY26 p12: about 40 new stores in two years to Dec-25)"
+SENCO-025,,,,none,,,,,,,,,,not due,FY28 not yet reported
+SENCO-026,,,,none,,,,,,,,,,not scorable,no period
+SENCO-027,,,,none,,,,,,,,,,not scorable,no period
+SENCO-028,,,,none,,,,,,,,,,not scorable,no period
+SENCO-029,,,,none,,,,,,,,,,not scorable,no period
+SENCO-030,,,,none,,,,,,,,,,not scorable,no period
+SENCO-031,18,,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth; floor
+SENCO-032,,,,none,,,,,,,,,,not scorable,no period
+SENCO-033,,,,none,,,,,,,,,,not scorable,no period
+SENCO-034,23,24,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+SENCO-035,1,2,higher,call,,2,2 franchise stores,Q4FY24,4,"The new number of stores that we opened, were about 23, out of which 17 were Company-owned-Company operated and six were franchisees.",Q3FY24,5,The number of franchises out of those 19 stores has been four.,,FY24 franchise 6 minus 4 by Q3 call = 2 in Q4
+SENCO-036,,,,none,,,,,,,,,,not scorable,no period
+SENCO-037,6.65,7.35,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin; point ~7% +/-5%
+SENCO-038,,,,none,,,,,,,,,,not scorable,no numeric target
+SENCO-039,18,20,higher,call,,16,16 stores,Q4FY25,4,"In terms of the opening of new stores, net-net, we have seen 16 stores open for the full financial year.",,,,,FY25 total stores opened
+SENCO-040,,,,none,,,,,,,,,,not scorable,no reported FY25 capex figure on the guided basis
+SENCO-041,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SENCO-042,,,,none,,,,,,,,,,not scorable,no period
+SENCO-043,20,24,higher,call,,40,around 40 stores,Q3FY26,12,"So in the last 2 years, you can take around 40 stores which are the new store, right, owned and franchisees taken together.",,,,,"guide 10-12 own + 10-12 franchise over FY25-FY26 = 20-24; actual is stores set up since Apr-24 to Dec-25 (lower bound of the two years, already above 24)"
+SENCO-044,,,,none,,,,,,,,,,not scorable,no period
+SENCO-045,,,,none,,,,,,,,,,not scorable,no period
+SENCO-046,18,20,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated revenue growth
+SENCO-047,15,20,higher,screener,pat_growth:FY25,,,,,,,,,,consolidated PAT growth
+SENCO-048,16,20,higher,call,,16,16 stores,Q4FY25,4,"In terms of the opening of new stores, net-net, we have seen 16 stores open for the full financial year.",,,,,"guide 8-10 own + 8-10 franchise summed to 16-20; actual 16 (9 own, 6 franchise, 1 Sennes); franchise component below 8"
+SENCO-049,15,20,higher,call,,16,16 stores,Q4FY25,4,"In terms of the opening of new stores, net-net, we have seen 16 stores open for the full financial year.",,,,,FY25 total stores opened
+SENCO-050,,,,none,,,,,,,,,,not scorable,no period
+SENCO-051,,,,none,,,,,,,,,,not due,FY29 not yet reported
+SENCO-052,12.4,12.7,higher,call,,10.9,10.9%,Q4FY25,3,we have taken our stud ratio to 10.9% as we ended the year.,Q4FY24,5,grown by 100 basis points to 11.4%,,guide +100-130 bps on FY24 base 11.4% = 12.4-12.7%; FY25 stud ratio 10.9%
+SENCO-053,,,,none,,,,,,,,,,not scorable,no reported FY25 gross margin on the guided basis
+SENCO-054,20,30,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,"change in consolidated EBITDA margin in bps, FY25 vs FY24"
+SENCO-055,,,,none,,,,,,,,,,not scorable,no period
+SENCO-056,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (regional split of openings)
+SENCO-057,12,13,higher,call,,15,15%,Q4FY25,7,we continue to grow with our same-store sales growth of 15%,,,,,"guide 12-13% SSSG if total growth is 20%; FY25 consolidated growth was 20.7%, so condition about met"

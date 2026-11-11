@@ -1,0 +1,74 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+GOCOLORS-001,,,,none,,,,,,,,,,not scorable,no period (every year)
+GOCOLORS-002,,,,none,,,,,,,,,,not scorable,no reported actual for Q4FY22 alone
+GOCOLORS-003,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-004,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-005,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-006,,,,none,,,,,,,,,,not scorable,no period (every year)
+GOCOLORS-007,,,,none,,,,,,,,,,not scorable,no reported EBO share at Q3FY24 on stored calls
+GOCOLORS-008,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-009,,,,none,,,,,,,,,,not scorable,no period; direction only
+GOCOLORS-010,,,,none,,,,,,,,,,not scorable,no period (medium term CAGR)
+GOCOLORS-011,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-012,,,,none,,,,,,,,,,not scorable,"store selection criterion, not company outcome"
+GOCOLORS-013,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-014,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-015,,,,none,,,,,,,,,,not scorable,no period (every year)
+GOCOLORS-016,10,,higher,call,,2.5,2.5% online share,Q1FY23,12,"Right now, currently it is 2.5%. So, our first target is that if we can take the 2.5% to about 5%.",,,,,Online share in Q1FY23 per CEO on Q1FY23 call; guide was double digit in the coming quarter
+GOCOLORS-017,,,,none,,,,,,,,,,not scorable,inventory-days basis unclear; days came from analyst
+GOCOLORS-018,,,,none,,,,,,,,,,not scorable,no reported EBO share at Mar-24 on stored calls
+GOCOLORS-019,,,,none,,,,,,,,,,not scorable,composite multi-channel target; no reported actuals on all parts
+GOCOLORS-020,,,,none,,,,,,,,,,not scorable,no numeric actual; later call only restates a new plan to close pledge
+GOCOLORS-021,,,,none,,,,,,,,,,not scorable,"store selection criterion, not company outcome"
+GOCOLORS-022,,,,none,,,,,,,,,,not scorable,conditional; no period
+GOCOLORS-023,,,,none,,,,,,,,,,not scorable,capex not reported on stored calls
+GOCOLORS-024,,,,none,,,,,,,,,,not scorable,no period; direction only
+GOCOLORS-025,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-026,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-027,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-028,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-029,,,,none,,,,,,,,,,not scorable,no period (steady state)
+GOCOLORS-030,,,,none,,,,,,,,,,not scorable,no period (steady state)
+GOCOLORS-031,,,,none,,,,,,,,,,not scorable,days basis unclear (analyst figure); no reported H1FY23 actual on guided basis
+GOCOLORS-032,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-033,120,130,higher,call,,127,127 new stores in FY23,Q4FY23,3,"we have added 26 new stores in Q4 FY '23 and 127 new stores in FY '23, , helping us bring",,,,,FY23 stores added as stated by CEO on Q4FY23 call
+GOCOLORS-034,,,,none,,,,,,,,,,not scorable,no period; direction only
+GOCOLORS-035,4,5,lower,call,,3,3% ad spend annualised FY23,Q4FY23,14,"So in the first half, we had 4.5%. Now on an annualized basis, it's come down to 3%.",,,,,CEO: annualised ad spend 3% vs H1 4.5%; read as FY23 full year; lower is better
+GOCOLORS-036,31,32,higher,call,,31.9,31.9% EBITDA margin FY23,Q4FY23,4,"Our EBITDA for the year stood at INR212.3 crores as compared to INR122.2 crores in FY '22, a growth of 74% Y-o-Y. Our EBITDA margins stood at 31.9%.",,,,,Post-IndAS EBITDA margin for FY23 (212.3 on 665.3 crore)
+GOCOLORS-037,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-038,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-039,,,,none,,,,,,,,,,not scorable,no period (short term); city level
+GOCOLORS-040,,,,none,,,,,,,,,,not scorable,no reported full-year FY23 LFS door count on stored calls
+GOCOLORS-041,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-042,,,,none,,,,,,,,,,not scorable,non-numeric milestone; no reported actual
+GOCOLORS-043,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-044,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-045,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-046,120,130,higher,call,,127,127 new stores in FY23,Q4FY23,3,"we have added 26 new stores in Q4 FY '23 and 127 new stores in FY '23, , helping us bring",,,,,FY23 stores added as stated by CEO on Q4FY23 call
+GOCOLORS-047,60,65,higher,call,,61,61 stores in H2FY23 (127 minus 66),Q4FY23,3,"we have added 26 new stores in Q4 FY '23 and 127 new stores in FY '23, , helping us bring",Q2FY23,3,the company added 36 EBO stores and a total of 66 stores in H1 FY,,H2 = FY23 added 127 (src) minus H1 added 66 (src2)
+GOCOLORS-048,625,,higher,call,,665.3,Rs 665.3 crore FY23 revenue,Q4FY23,4,Revenues stood at INR665.3 crores as against INR401.3 crores in FY '22,,,,,Floor; FY23 revenue per CFO on Q4FY23 call
+GOCOLORS-049,13,14,higher,call,,12.4,12.4% PAT margin FY23,Q4FY23,4,profit after tax for the year stood at INR82.8 crores. PAT margin stood at 12.4%.,,,,,FY23 PAT margin per CFO on Q4FY23 call
+GOCOLORS-050,,,,none,,,,,,,,,,not scorable,ASP basis and period unclear; no clean actual
+GOCOLORS-051,,,,none,,,,,,,,,,not scorable,no period; direction only; conditional
+GOCOLORS-052,3,4,lower,call,,3,3% ad spend annualised FY23,Q4FY23,14,"So in the first half, we had 4.5%. Now on an annualized basis, it's come down to 3%.",,,,,CEO: annualised ad spend 3% vs H1 4.5%; read as FY23 full year; lower is better
+GOCOLORS-053,,4.5,lower,call,,2.1,2.1% A&P spend FY24,Q4FY24,3,"Our A&P spend stood at 2.1%, which is in line with our guidance.",,,,,Ceiling guide; FY24 A&P spend per Q4FY24 call; lower is better
+GOCOLORS-054,625,,higher,call,,665.3,Rs 665.3 crore FY23 revenue,Q4FY23,4,Revenues stood at INR665.3 crores as against INR401.3 crores in FY '22,,,,,Floor of 625-630 band taken as 625 (wider); FY23 revenue per CFO
+GOCOLORS-055,,,,none,,,,,,,,,,not scorable,no reported actual
+GOCOLORS-056,,,,none,,,,,,,,,,not scorable,no period (medium term)
+GOCOLORS-057,,,,none,,,,,,,,,,not scorable,no period (steady state)
+GOCOLORS-058,120,130,higher,call,,127,127 new stores in FY23,Q4FY23,3,"we have added 26 new stores in Q4 FY '23 and 127 new stores in FY '23, , helping us bring",,,,,FY23 stores added as stated by CEO on Q4FY23 call
+GOCOLORS-059,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-060,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-061,,,,none,,,,,,,,,,not scorable,no period (steady state)
+GOCOLORS-062,,,,none,,,,,,,,,,not scorable,net closures in Q4FY23 not reported
+GOCOLORS-063,,,,none,,,,,,,,,,not scorable,no reported EBO plus online share at Mar-26 on stored calls
+GOCOLORS-064,,,,none,,,,,,,,,,not scorable,no reported online share at Mar-26 on stored calls
+GOCOLORS-065,3,4,lower,call,,3,3% ad spend annualised FY23,Q4FY23,14,"So in the first half, we had 4.5%. Now on an annualized basis, it's come down to 3%.",,,,,CEO: annualised ad spend 3% vs H1 4.5%; read as FY23 full year; lower is better
+GOCOLORS-066,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-067,120,130,higher,call,,107,107 gross store additions FY24 (84 net plus 23 closures),Q4FY24,3,"During the year, we added a net total of 84 stores, bringing us to overall to count to 714 stores.",Q4FY24,8,"since we've had 23 closures, it's bought our net number below 100.",,"Gross = net 84 (src) + 23 closures (src2); guide is additions, not net; net 84 would also miss"
+GOCOLORS-068,,,,none,,,,,,,,,,not scorable,no period (year through basis)
+GOCOLORS-069,,,,none,,,,,,,,,,not scorable,non-numeric milestone; no reported actual
+GOCOLORS-070,120,130,higher,call,,104,104 gross openings FY25,Q4FY25,14,we have had 104 gross openings and our target was about 120 to 150.,,,,,Per-year guide FY24-FY26; FY25 gross 104 is below range so weakest year is at or below it; FY24 gross 107 also below
+GOCOLORS-071,,,,none,,,,,,,,,,not scorable,no period; direction only; conditional
+GOCOLORS-072,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-073,,,,none,,,,,,,,,,not scorable,no reported H1/H2 sales split for FY23

@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SAPPHIRE-001,,,,none,,,,,,,,,,not scorable,no Dec-25 restaurant count reported on any call
+SAPPHIRE-002,,,,none,,,,,,,,,,not scorable,no period; annual pace not a dated target
+SAPPHIRE-003,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-004,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-005,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-006,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-007,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (INR translation hit not stated)
+SAPPHIRE-008,10,15,higher,call,,19,19 store additions,Q4FY23,7,"We had 19 store additions in last 1 year, that's 20% on the previous year's base.",,,,,Sri Lanka FY23 additions from Q4FY23 call (last 1 year)
+SAPPHIRE-009,,,,none,,,,,,,,,,not scorable,no Sri Lanka base or later count on call
+SAPPHIRE-010,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-011,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-012,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-013,,,,none,,,,,,,,,,not scorable,no Screener CAGR key; brand basis differs from consolidated
+SAPPHIRE-014,,,,none,,,,,,,,,,not scorable,no Dec-25 restaurant count reported on any call
+SAPPHIRE-015,,,,none,,,,,,,,,,not scorable,Q2FY23 call not stored; no reported actual
+SAPPHIRE-016,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (INR drop not stated)
+SAPPHIRE-017,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (LKR EBITDA only described as largely flat)
+SAPPHIRE-018,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+SAPPHIRE-019,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-020,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-021,,,,none,,,,,,,,,,not scorable,no numeric target from management; number came from analyst
+SAPPHIRE-022,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-023,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-024,10,,higher,call,,19,19 store additions,Q4FY23,7,"We had 19 store additions in last 1 year, that's 20% on the previous year's base.",,,,,Sri Lanka FY23 additions from Q4FY23 call (last 1 year)
+SAPPHIRE-025,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-026,,,,none,,,,,,,,,,not scorable,no Dec-25 restaurant count reported on any call
+SAPPHIRE-027,,,,none,,,,,,,,,,not scorable,no period; annual pace not a dated target
+SAPPHIRE-028,,,,none,,,,,,,,,,not scorable,no reported ESOP cost share on a later call
+SAPPHIRE-029,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-030,,,,none,,,,,,,,,,not scorable,multi-year SSSG basis unclear and no per-year consolidated figures
+SAPPHIRE-031,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-032,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-033,19,21,higher,call,,16.3,16.3%,Q4FY26,3,"KFC grew by 11% with a restaurant EBITDA of 16.3%, down 100 basis points. We opened 73 KFC restaurants during the year, 575 total restaurants.",,,,,"weakest completed year FY26 (FY24 19.7% per Q4FY24, FY25 about 17.3%)"
+SAPPHIRE-034,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SAPPHIRE-035,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-036,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-037,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-038,,,,none,,,,,,,,,,not scorable,no clear period and no reported actual
+SAPPHIRE-039,,,,none,,,,,,,,,,not scorable,"per-store capex, no reported actual on the guided basis"
+SAPPHIRE-040,,,,none,,,,,,,,,,not scorable,"per-store capex, no reported actual on the guided basis"
+SAPPHIRE-041,,,,none,,,,,,,,,,not scorable,direction only; no reported FY24 Sri Lanka count on call
+SAPPHIRE-042,,,,none,,,,,,,,,,not scorable,no Dec-25 restaurant count reported on any call
+SAPPHIRE-043,,,,none,,,,,,,,,,not scorable,point-in-time level by May-25; no matching reported actual
+SAPPHIRE-044,,,,none,,,,,,,,,,not scorable,no period; annual pace not a dated target
+SAPPHIRE-045,,,,none,,,,,,,,,,not scorable,"per-store capex, no reported actual on the guided basis"
+SAPPHIRE-046,,,,none,,,,,,,,,,not scorable,"per-store capex, no reported actual on the guided basis"
+SAPPHIRE-047,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+SAPPHIRE-048,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-049,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SAPPHIRE-050,,,,none,,,,,,,,,,not scorable,"two brands, no combined reported figure"
+SAPPHIRE-051,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (quarterly levels only)
+SAPPHIRE-052,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+SAPPHIRE-053,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-054,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-055,,,,none,,,,,,,,,,not scorable,"per-store capex, no reported actual on the guided basis"
+SAPPHIRE-056,,,,none,,,,,,,,,,not scorable,FY24 full-year Sri Lanka restaurant EBITDA not reported on call (quarter only)
+SAPPHIRE-057,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-058,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-059,,0,higher,call,,-34,33 FY24 vs 67 FY23 (-34 stores),Q4FY24,15,"Last -- with the year gone by, we added 33 restaurants for Pizza Hut.",Q4FY23,7,"But overall, we still had the best ever year for Pizza Hut with highest ever store additions of 67, revenue growth of 41%",,change vs base = FY24 33 minus FY23 67; guide is lower than FY23
+SAPPHIRE-060,,,,none,,,,,,,,,,not scorable,no Dec-25 restaurant count reported on any call
+SAPPHIRE-061,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-062,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-063,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-064,,0,higher,call,,-34,33 FY24 vs 67 FY23 (-34 stores),Q4FY24,15,"Last -- with the year gone by, we added 33 restaurants for Pizza Hut.",Q4FY23,7,"But overall, we still had the best ever year for Pizza Hut with highest ever store additions of 67, revenue growth of 41%",,change vs base = FY24 33 minus FY23 67; guide is lower than FY23
+SAPPHIRE-065,,,,none,,,,,,,,,,not scorable,no Pizza Hut Dec-25 count reported
+SAPPHIRE-066,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-067,,,,none,,,,,,,,,,not scorable,no KFC Dec-21 base or Dec-25 count on call
+SAPPHIRE-068,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-069,,,,none,,,,,,,,,,not scorable,no KFC Dec-24 count vs base on call
+SAPPHIRE-070,,,,none,,,,,,,,,,not scorable,closure count vs portfolio not reported
+SAPPHIRE-071,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-072,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-073,,,,none,,,,,,,,,,not scorable,no Pizza Hut Dec-25 count reported
+SAPPHIRE-074,,,,none,,,,,,,,,,not scorable,no period; annual pace not a dated target
+SAPPHIRE-075,,,,none,,,,,,,,,,not scorable,multi-quarter per-quarter additions; Q1FY25 figure not reported
+SAPPHIRE-076,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-077,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+SAPPHIRE-078,,,,none,,,,,,,,,,not scorable,no period

@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VAIBHAVGBL-157,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-158,14,17,higher,screener,rev_growth:FY25,,,,,,,,,,
+VAIBHAVGBL-159,,,,none,,,,,,,,,,not scorable,no end period (FY26 onwards)
+VAIBHAVGBL-160,,,,none,,,,,,,,,,not due,2031 not yet reported
+VAIBHAVGBL-161,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-162,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-163,,,,none,,,,,,,,,,not due,FY28 not yet reported
+VAIBHAVGBL-164,,,,none,,,,,,,,,,not scorable,"no number, no period"
+VAIBHAVGBL-165,0,,higher,call,,1.1,+1.1 pts (63.1% FY25 vs 62% FY24),Q4FY25,4,"Our gross margin for the quarter remained robust at 62.1%, with a cumulative margin of 63.1% for the full year.",Q4FY24,3,Our gross margin for the quarter remains robust at 62.7% with a cumulative margin of 62% for the full year.,,actual = FY25 63.1 minus FY24 62; slightly higher = change above 0
+VAIBHAVGBL-166,,,,none,,,,,,,,,,not scorable,no reported full-year FY25 actual on call
+VAIBHAVGBL-167,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VAIBHAVGBL-168,0,,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,direction vs FY24; lo=0 bps change; mgmt agreed to analyst framing
+VAIBHAVGBL-169,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-170,,,,none,,,,,,,,,,not scorable,no reported full-year FY25 actual on call
+VAIBHAVGBL-171,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-172,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-173,14,17,higher,screener,rev_growth:FY25,,,,,,,,,,
+VAIBHAVGBL-174,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-175,2,,higher,call,,1.1,+1.1 pts (63.1% FY25 vs 62% FY24),Q4FY25,4,"Our gross margin for the quarter remained robust at 62.1%, with a cumulative margin of 63.1% for the full year.",Q4FY24,3,Our gross margin for the quarter remains robust at 62.7% with a cumulative margin of 62% for the full year.,,actual = FY25 63.1 minus FY24 62; guide at least 200 bps
+VAIBHAVGBL-176,,,,none,,,,,,,,,,not scorable,no reported HR cost actual
+VAIBHAVGBL-177,,,,none,,,,,,,,,,not scorable,leverage not defined as EBITDA margin change
+VAIBHAVGBL-178,14,16,higher,screener,rev_growth:FY26,,,,,,,,,,mid-teens per rubric; FY26 consolidated
+VAIBHAVGBL-179,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-180,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-181,14,17,higher,screener,rev_growth:FY25,,,,,,,,,,
+VAIBHAVGBL-182,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-183,,,,none,,,,,,,,,,not scorable,no reported full-year FY25 actual on call
+VAIBHAVGBL-184,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-185,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-186,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VAIBHAVGBL-187,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-188,60.8,67.2,higher,call,,63.1,63.1%,Q4FY25,4,"Our gross margin for the quarter remained robust at 62.1%, with a cumulative margin of 63.1% for the full year.",,,,,~64% point guide +/-5%
+VAIBHAVGBL-189,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-190,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-191,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-192,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-193,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-194,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-195,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-196,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual"
+VAIBHAVGBL-197,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-198,11.4,12.6,higher,screener,rev_growth:FY25,,,,,,,,,,
+VAIBHAVGBL-199,,,,none,,,,,,,,,,not scorable,no end period (FY26 onwards)
+VAIBHAVGBL-200,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-201,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-202,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-203,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-204,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-205,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-206,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-207,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-208,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-209,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-210,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-211,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-212,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-213,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-214,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-215,8,12,higher,screener,rev_growth:FY26,,,,,,,,,,
+VAIBHAVGBL-216,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-217,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-218,,,,none,,,,,,,,,,not scorable,no reported FY26 actual on call
+VAIBHAVGBL-219,,,,none,,,,,,,,,,not scorable,"milestone, no numeric actual (breakeven only)"
+VAIBHAVGBL-220,,,,none,,,,,,,,,,not scorable,no reported actual; figure from analyst
+VAIBHAVGBL-221,,,,none,,,,,,,,,,not scorable,no reported actual; figure from analyst
+VAIBHAVGBL-222,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-223,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-224,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-225,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-226,,,,none,,,,,,,,,,not scorable,not measurable
+VAIBHAVGBL-227,,,,none,,,,,,,,,,not scorable,no mgmt-stated FY26 level (analyst cited 65.5%)
+VAIBHAVGBL-228,4,6,higher,call,,1.3,1.3% US revenue growth,Q1FY26,4,"In the U.S., revenue grew by 1.3% compared to the same period last year.",,,,,US Q1FY26 revenue growth; mid single digit 4-6
+VAIBHAVGBL-229,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-230,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-231,,,,none,,,,,,,,,,not scorable,no mgmt-stated FY26 level (analyst cited 65.5%)
+VAIBHAVGBL-232,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-233,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-234,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter

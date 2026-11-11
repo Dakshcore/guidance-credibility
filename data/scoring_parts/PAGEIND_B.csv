@@ -1,0 +1,26 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+PAGEIND-085,19,21,higher,call,,21.5,21.5%,Q4FY25,5,EBITDA margin in the full year was 21.5%.,,,,,
+PAGEIND-086,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual on price change
+PAGEIND-087,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-088,19,21,higher,call,,21.4,21.4%,Q4FY25,4,EBITDA margin was 21.4%.,,,,,
+PAGEIND-089,19,21,higher,call,,22,22%,Q4FY26,5,"EBITDA for the period was INR11,529 million, growing by 8.5% year-on-year. EBITDA margin was 22%.",,,,,
+PAGEIND-090,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-091,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range; later call gives quarter only"
+PAGEIND-092,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-093,,,,none,,,,,,,,,,not scorable,"capacity view, no numeric target"
+PAGEIND-094,,,,none,,,,,,,,,,not scorable,no numeric target
+PAGEIND-095,,,,none,,,,,,,,,,not scorable,no period; outlay not a committed outcome
+PAGEIND-096,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PAGEIND-097,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PAGEIND-098,,,,none,,,,,,,,,,not scorable,no reported full-year FY26 gross margin on a later call
+PAGEIND-099,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-100,19,21,higher,call,,22,22%,Q4FY26,5,"EBITDA for the period was INR11,529 million, growing by 8.5% year-on-year. EBITDA margin was 22%.",,,,,
+PAGEIND-101,4,5,lower,call,,4,a little over 4%,Q4FY26,18,"For the bygone year, it's about a little over 4%.",,,,,actual stated as approximate; 4 used as stated; cost so better=lower
+PAGEIND-102,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PAGEIND-103,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-104,,,,none,,,,,,,,,,not scorable,no reported FY26 capex actual on a later call (only plan of Rs 140 cr)
+PAGEIND-105,,,,none,,,,,,,,,,not scorable,"policy, not a forecast"
+PAGEIND-106,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-107,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range; later call gives quarter only"
+PAGEIND-108,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-109,7,9,higher,call,,3.9,3.9% volume growth,Q4FY26,5,"Sales volume was 228.4 million pieces, growing by 3.9% year-on-year.",,,,,FY26 sales volume growth

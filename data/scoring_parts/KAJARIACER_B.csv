@@ -1,0 +1,58 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KAJARIACER-076,13,15,higher,call,,6.25,6-6.5% volume growth (midpoint),Q4FY24,9,"We at Kajaria have only grown by about 6% - 6.5% in volume terms, so I don't think that's a big gain of market share.",,,,,FY24 tile volume growth stated as about 6-6.5%; midpoint used
+KAJARIACER-077,14,16,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+KAJARIACER-078,14,16,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin
+KAJARIACER-079,,,,none,,,,,,,,,,not scorable,no reported actual for fuel saving
+KAJARIACER-080,,,,none,,,,,,,,,,not scorable,no reported actual on JV profit guided basis
+KAJARIACER-081,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-082,,,,none,,,,,,,,,,not scorable,no reported FY25 Nepal profit
+KAJARIACER-083,37.05,40.95,lower,call,,38,Rs 38 per SCM,Q2FY24,5,"Rs.38 in South, West is Rs.33 and average is about Rs.38 for Q2.",,,,,Q2 average fuel price reported on the Q2FY24 call
+KAJARIACER-084,,,,none,,,,,,,,,,not scorable,no reported FY24 capex actual
+KAJARIACER-085,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-086,128.25,141.75,lower,call,,131,Rs 131 crore,Q4FY24,4,"Our brand spends has stood at over 840 crore in the last decade, more than cumulative spends of three major listed players in the last decade. A&P spends for FY24 stood at 131 crore .",,,,,A&P spend FY24
+KAJARIACER-087,,,,none,,,,,,,,,,not scorable,no reported capacity at Mar-25
+KAJARIACER-088,,,,none,,,,,,,,,,not scorable,no reported FY24 bathware growth
+KAJARIACER-089,95,105,higher,call,,104,Rs 104 crore,Q4FY24,6,Currently an outsourcing model and the revenue were 104 crore in FY24.,,,,,plywood FY24 revenue
+KAJARIACER-090,,,,none,,,,,,,,,,not scorable,no period and no numeric target
+KAJARIACER-091,61.75,68.25,higher,call,,50,Rs 50 crore,Q4FY24,13,So in FY24 we grew at 42% from 35 crore to 50 crore and this year we're targeting a 70% growth to 85 crore.,,,,,adhesive FY24 revenue
+KAJARIACER-092,,,,none,,,,,,,,,,not scorable,no reported FY26 full-year adhesive revenue
+KAJARIACER-093,,,,none,,,,,,,,,,not scorable,no reported dealer count; only 1800 plus (lower bound)
+KAJARIACER-094,13,15,higher,call,,6,6% volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,weakest known year FY25 (FY24 was about 6-6.5%); FY26 not used
+KAJARIACER-095,,,,none,,,,,,,,,,not scorable,no numeric target; direction only
+KAJARIACER-096,14,16,higher,screener,ebitda_margin:FY24,,,,,,,,,,guided 14-16%; upper end not scored separately
+KAJARIACER-097,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 fuel price
+KAJARIACER-098,,,,none,,,,,,,,,,not scorable,no reported FY24 capex actual
+KAJARIACER-099,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-100,9,10,higher,call,,6.25,6-6.5% volume growth (midpoint),Q4FY24,9,"We at Kajaria have only grown by about 6% - 6.5% in volume terms, so I don't think that's a big gain of market share.",,,,,FY24 tile volume growth stated as about 6-6.5%; midpoint used
+KAJARIACER-101,,,,none,,,,,,,,,,not scorable,no reported actual
+KAJARIACER-102,130,140,lower,call,,131,Rs 131 crore,Q4FY24,4,"Our brand spends has stood at over 840 crore in the last decade, more than cumulative spends of three major listed players in the last decade. A&P spends for FY24 stood at 131 crore .",,,,,A&P spend FY24
+KAJARIACER-103,,,,none,,,,,,,,,,not scorable,no reported FY24 bathware growth
+KAJARIACER-104,,,,none,,,,,,,,,,not scorable,no reported actual
+KAJARIACER-105,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-106,100,,higher,call,,104,Rs 104 crore,Q4FY24,6,Currently an outsourcing model and the revenue were 104 crore in FY24.,,,,,plywood FY24 revenue; floor
+KAJARIACER-107,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-108,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-109,47.5,52.5,higher,call,,50,Rs 50 crore,Q4FY24,13,So in FY24 we grew at 42% from 35 crore to 50 crore and this year we're targeting a 70% growth to 85 crore.,,,,,adhesive FY24 revenue
+KAJARIACER-110,75,80,higher,call,,75,Rs 75 crore,Q1FY26,5,"As far as the third part is concerned, we have 3 divisions right now: Tiles, Bathware and Adhesive also. Adhesive last year did INR75 crores.",,,,,adhesive FY25 revenue stated on Q1FY26 call
+KAJARIACER-111,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-112,95,105,higher,call,,104,Rs 104 crore,Q4FY24,6,Currently an outsourcing model and the revenue were 104 crore in FY24.,,,,,plywood FY24 revenue
+KAJARIACER-113,,,,none,,,,,,,,,,not scorable,plywood discontinued; no full-year FY25 figure
+KAJARIACER-114,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-115,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-116,,,,none,,,,,,,,,,not scorable,no reported FY24 capex actual
+KAJARIACER-117,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 fuel price
+KAJARIACER-118,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-119,15,17,higher,screener,ebitda_margin:FY25,,,,,,,,,,conditional guide scored as stated; consolidated margin
+KAJARIACER-120,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-121,,,,none,,,,,,,,,,not scorable,direction only; no reported mix
+KAJARIACER-122,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 volume growth
+KAJARIACER-123,12,13,higher,call,,6,6% volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,conditional on industry growth of 5-6%; scored as stated (industry grew 2-3% per Q4FY25 call)
+KAJARIACER-124,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-125,9,10,higher,call,,7.4,7.4% EBITDA margin,Q4FY24,5,"3.6 billion is the revenue, bathware revenue in FY2024. 7.4% EBITDA margin in FY24.",,,,,bathware segment FY24 EBITDA margin
+KAJARIACER-126,,,,none,,,,,,,,,,not scorable,plywood discontinued; no reported FY25 loss on guided basis
+KAJARIACER-127,,,,none,,,,,,,,,,not scorable,plywood discontinued; no reported actual
+KAJARIACER-128,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-129,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-130,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 volume
+KAJARIACER-131,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-132,,,,none,,,,,,,,,,not scorable,no period

@@ -1,0 +1,77 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SENCO-058,18,20,higher,call,,16,16 stores,Q4FY25,4,"we have seen 16 stores open for the full financial year. We have opened 6 franchise stores, 9 Senco company -owned, company-operated stores and 1 Sennes store",,,,,FY25 openings incl franchise and 1 Sennes store (6+9+1)
+SENCO-059,18,20,higher,screener,rev_growth:FY25,,,,,,,,,,
+SENCO-060,47.5,52.5,lower,call,,56,Rs 56 crore,Q3FY25,11,We have taken a hit of Rs.29 Cr in Q2 and Rs.27 Cr in Q3.,,,,,Q2 29 + Q3 27 = 56 customs duty hit; lower is better
+SENCO-061,12.5,13,higher,call,,10.9,10.9%,Q4FY25,3,we have taken our stud ratio to 10.9% as we ended the year,,,,,year-end stud ratio; 9M was 10.5%; p21 says similar to last year
+SENCO-062,,,,none,,,,,,,,,,not scorable,no reported gross margin actual
+SENCO-063,7,8,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated reported margin; guide subject to duty impact
+SENCO-064,,,,none,,,,,,,,,,not scorable,no full-year FY25 SSSG figure stated
+SENCO-065,,,,none,,,,,,,,,,not scorable,no reported Sennes revenue actual
+SENCO-066,,,,none,,,,,,,,,,not scorable,no period
+SENCO-067,15,18,higher,screener,pat_growth:FY25,,,,,,,,,,15-18 range used; endeavour >18 not used
+SENCO-068,17.1,18.9,higher,screener,rev_growth:FY25,,,,,,,,,,point ~18 +/-5%
+SENCO-069,15,18,higher,screener,pat_growth:FY25,,,,,,,,,,"reported PAT growth, not duty-adjusted"
+SENCO-070,28.5,31.5,lower,call,,27,Rs 27 crore,Q3FY25,11,We have taken a hit of Rs.29 Cr in Q2 and Rs.27 Cr in Q3.,,,,,Q3 duty hit; lower is better
+SENCO-071,,,,none,,,,,,,,,,not scorable,no period
+SENCO-072,,,,none,,,,,,,,,,not scorable,H2 SSSG not stated separately
+SENCO-073,,,,none,,,,,,,,,,not scorable,"quoted SSSG looks like 9M, not Q3"
+SENCO-074,,,,none,,,,,,,,,,not scorable,no reported gross margin actual
+SENCO-075,19,21,higher,screener,rev_growth:FY25,,,,,,,,,,point ~20 +/-5%
+SENCO-076,,,,none,,,,,,,,,,not scorable,no period
+SENCO-077,,,,none,,,,,,,,,,not scorable,no reported gross margin actual
+SENCO-078,18,20,higher,call,,16,16 stores,Q4FY25,4,"we have seen 16 stores open for the full financial year. We have opened 6 franchise stores, 9 Senco company -owned, company-operated stores and 1 Sennes store",,,,,FY25 openings incl franchise and 1 Sennes store (6+9+1)
+SENCO-079,14,15,higher,call,,16,16 stores,Q4FY25,4,"we have seen 16 stores open for the full financial year. We have opened 6 franchise stores, 9 Senco company -owned, company-operated stores and 1 Sennes store",,,,,FY25 openings incl franchise and 1 Sennes store (6+9+1)
+SENCO-080,,,,none,,,,,,,,,,not scorable,total Sennes store count not stated
+SENCO-081,,,,none,,,,,,,,,,not scorable,no 9M revenue growth key or call figure
+SENCO-082,,,,none,,,,,,,,,,not scorable,no period
+SENCO-083,,,,none,,,,,,,,,,not scorable,no period
+SENCO-084,12,12.5,higher,call,,10.9,10.9%,Q4FY25,3,we have taken our stud ratio to 10.9% as we ended the year,,,,,year-end stud ratio; 9M was 10.5%; p21 says similar to last year
+SENCO-085,7,8,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+SENCO-086,3.5,4,higher,screener,pat_margin:FY25,,,,,,,,,,
+SENCO-087,18,20,higher,call,,16,16 stores,Q4FY25,4,"we have seen 16 stores open for the full financial year. We have opened 6 franchise stores, 9 Senco company -owned, company-operated stores and 1 Sennes store",,,,,FY25 openings incl franchise and 1 Sennes store (6+9+1)
+SENCO-088,19,21,higher,call,,16,16 stores,Q4FY25,4,"we have seen 16 stores open for the full financial year. We have opened 6 franchise stores, 9 Senco company -owned, company-operated stores and 1 Sennes store",,,,,FY25 openings incl franchise and 1 Sennes store (6+9+1)
+SENCO-089,19,21,higher,call,,26,26 showrooms,Q4FY26,23,New showroom launch: 7 new own showrooms launched in Q4 FY26 and 26 in FY 26; target 18–20 showrooms for FY27,Q2FY26,4,we have launched six showrooms in Q2 and a total of 16 showrooms we have launched in H1,,"FY26 total showrooms launched; src2 shows H1 count of 16 total, consistent with 26 being all showrooms"
+SENCO-090,,,,none,,,,,,,,,,not scorable,no period
+SENCO-091,,,,none,,,,,,,,,,not scorable,ambiguous period: year-end exit vs full year
+SENCO-092,6200,,higher,screener,revenue:FY25,,,,,,,,,,floor 6200; Rs crore
+SENCO-093,18,20,higher,screener,rev_growth:FY25,,,,,,,,,,
+SENCO-094,18,20,higher,screener,rev_growth:FY26,,,,,,,,,,
+SENCO-095,,,,none,,,,,,,,,,not scorable,no period; no gross margin actual
+SENCO-096,7,7.5,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,guide not flagged standalone; consolidated quarter used
+SENCO-097,,,,none,,,,,,,,,,not scorable,no period
+SENCO-098,,,,none,,,,,,,,,,not scorable,no period
+SENCO-099,,,,none,,,,,,,,,,not scorable,no period
+SENCO-100,,,,none,,,,,,,,,,not scorable,no reported actual
+SENCO-101,,,,none,,,,,,,,,,not scorable,direction only; no reported actual
+SENCO-102,,,,none,,,,,,,,,,not scorable,no period
+SENCO-103,,,,none,,,,,,,,,,not scorable,no reported actual
+SENCO-104,6,7,higher,screener,q_rev_growth:Q4FY25,,,,,,,,,,"Q4 over Q4; stated 6-7, could move up to 10"
+SENCO-105,19,20,higher,screener,rev_growth:FY25,,,,,,,,,,
+SENCO-106,,,,none,,,,,,,,,,not scorable,no period
+SENCO-107,,,,none,,,,,,,,,,not scorable,standalone guide; no standalone actual
+SENCO-108,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SENCO-109,7,20,higher,screener,q_rev_growth:Q4FY25,,,,,,,,,,"wide range 7-8% to 20%; lo 7, hi 20"
+SENCO-110,6300,6400,higher,screener,revenue:FY25,,,,,,,,,,Rs crore
+SENCO-111,,,,none,,,,,,,,,,not scorable,no reported gross margin actual
+SENCO-112,18,,higher,screener,q_rev_growth:Q4FY25,,,,,,,,,,"read as minimum 18; floor, hi open"
+SENCO-113,,,,none,,,,,,,,,,not scorable,overall volume actual not reported
+SENCO-114,18,20,higher,screener,rev_growth:FY26,,,,,,,,,,
+SENCO-115,6.8,7.2,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+SENCO-116,3.5,3.7,higher,screener,pat_margin:FY26,,,,,,,,,,
+SENCO-117,18,,higher,call,,26,26 showrooms,Q4FY26,23,New showroom launch: 7 new own showrooms launched in Q4 FY26 and 26 in FY 26; target 18–20 showrooms for FY27,Q2FY26,4,we have launched six showrooms in Q2 and a total of 16 showrooms we have launched in H1,,"FY26 total showrooms launched; src2 shows H1 count of 16 total, consistent with 26 being all showrooms"
+SENCO-118,,,,none,,,,,,,,,,not scorable,own/franchise split of FY26 openings not reported
+SENCO-119,,,,none,,,,,,,,,,not scorable,no reported actual
+SENCO-120,,,,none,,,,,,,,,,not scorable,standalone adjusted basis; consolidated mismatch
+SENCO-121,,,,none,,,,,,,,,,not due,3-4 year horizon not yet reached
+SENCO-122,,,,none,,,,,,,,,,not due,3-4 year horizon not yet reached
+SENCO-123,,,,none,,,,,,,,,,not scorable,no period
+SENCO-124,,,,none,,,,,,,,,,not scorable,no numeric target
+SENCO-125,7,7.5,higher,screener,ebitda_margin:FY26,,,,,,,,,,full-year FY26 used
+SENCO-126,,,,none,,,,,,,,,,not scorable,no period
+SENCO-127,,,,none,,,,,,,,,,not scorable,no reported actual
+SENCO-128,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+SENCO-129,1.0,1.2,lower,screener,de:FY26,,,,,,,,,,subject to gold price; scored as stated
+SENCO-130,,350,lower,screener,borrowing_change:FY26,,,,,,,,,,"Rs crore; conditional on stable gold, scored as stated"
+SENCO-131,,,,none,,,,,,,,,,not scorable,no full-year FY26 SSSG figure stated
+SENCO-132,,,,none,,,,,,,,,,not scorable,guided basis (volume) vs reported value growth unclear
+SENCO-133,,,,none,,,,,,,,,,not scorable,no reported Everlite count

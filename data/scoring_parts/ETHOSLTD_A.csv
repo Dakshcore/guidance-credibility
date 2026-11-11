@@ -1,0 +1,78 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ETHOSLTD-001,30,35,higher,screener,rev_growth:FY23,,,,,,,,,,consolidated guide
+ETHOSLTD-002,,,,none,,,,,,,,,,not scorable,no reported actual for Apr-May FY23 revenue
+ETHOSLTD-003,75,,higher,call,,52.5,Rs 52.5 crore billing (FY23),Q4FY23,14,"Ritesh Agarwal: Sir, INR52.5 crores billing and INR50.4 crores is the revenue.",,,,,"floor 75; FY23 CPO billing 52.5, revenue 50.4, both below"
+ETHOSLTD-004,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-005,,,,none,,,,,,,,,,not scorable,no reported opening store count for FY23
+ETHOSLTD-006,,,,none,,,,,,,,,,not scorable,"direction only, no reported ASP"
+ETHOSLTD-007,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-008,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-009,,,,none,,,,,,,,,,not scorable,high double-digit has no fixed range in rubric
+ETHOSLTD-010,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-011,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-012,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-013,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-014,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-015,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-016,30,35,higher,screener,rev_growth:FY23,,,,,,,,,,consolidated guide; pre-owned included
+ETHOSLTD-017,75,,higher,call,,52.5,Rs 52.5 crore billing (FY23),Q4FY23,14,"Ritesh Agarwal: Sir, INR52.5 crores billing and INR50.4 crores is the revenue.",,,,,"floor 75; FY23 CPO billing 52.5, revenue 50.4, both below"
+ETHOSLTD-018,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-019,1,,higher,call,,0,0 Rimowa boutiques by Feb-23,Q4FY23,9,"Rimowa, we have not yet started trading.",,,,,count monotone: not trading on 15 May 2023 so none by Feb-23; floor 1
+ETHOSLTD-020,,,,none,,,,,,,,,,not scorable,no reported start date
+ETHOSLTD-021,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-022,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-023,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-024,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-025,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-026,,,,none,,,,,,,,,,not scorable,range not restated on this call
+ETHOSLTD-027,,,,none,,,,,,,,,,not scorable,"direction only, no reported ASP"
+ETHOSLTD-028,,,,none,,,,,,,,,,not scorable,"net store count reported, guide is gross new stores"
+ETHOSLTD-029,,,,none,,,,,,,,,,not scorable,no reported actual for 24-month capex
+ETHOSLTD-030,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-031,,,,none,,,,,,,,,,not scorable,high double-digit has no fixed range in rubric
+ETHOSLTD-032,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-033,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-034,,,,none,,,,,,,,,,not scorable,closures vs relocations unclear; FY23 closures not reported
+ETHOSLTD-035,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-036,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-037,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-038,70,75,higher,call,,52.5,Rs 52.5 crore billing (FY23),Q4FY23,14,"Ritesh Agarwal: Sir, INR52.5 crores billing and INR50.4 crores is the revenue.",,,,,"range 70-75; billing 52.5, revenue 50.4, both below"
+ETHOSLTD-039,,,,none,,,,,,,,,,not scorable,no reported FY23 store additions
+ETHOSLTD-040,,,,none,,,,,,,,,,not scorable,approach not a commitment; no numeric outcome
+ETHOSLTD-041,1,,higher,call,,0,0 Rimowa boutiques by end Q1FY24,Q1FY24,4,"Our first Rimowa boutique will be coming up in the Jio World Plaza Mall in BKC, Mumbai.",,,,,first boutique still to come after Jun-23 per Aug-23 call; floor 1
+ETHOSLTD-042,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-043,,,,none,,,,,,,,,,not scorable,no reported start date
+ETHOSLTD-044,,,,none,,,,,,,,,,not due,FY28-FY31 not yet reported
+ETHOSLTD-045,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-046,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-047,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-048,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-049,,,,none,,,,,,,,,,not scorable,"net store count reported, guide is gross new stores"
+ETHOSLTD-050,,,,none,,,,,,,,,,not scorable,margin type not specified; direction only
+ETHOSLTD-051,,,,none,,,,,,,,,,not scorable,no number
+ETHOSLTD-052,,,,none,,,,,,,,,,not scorable,not checkable from reported data
+ETHOSLTD-053,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 CPO growth
+ETHOSLTD-054,95,105,higher,call,,25.71,25.7% billing growth FY24,Q4FY24,4,Billing from pre-owned CPO was INR66 crores in FY '24.,Q4FY23,14,"Ritesh Agarwal: Sir, INR52.5 crores billing and INR50.4 crores is the revenue.",,growth = 66/52.5-1 using FY24 and FY23 CPO billing; both billings
+ETHOSLTD-055,100,,higher,call,,66,Rs 66 crore billing (FY24),Q4FY24,4,Billing from pre-owned CPO was INR66 crores in FY '24.,,,,,floor 100 on CPO billings
+ETHOSLTD-056,52.25,57.75,higher,call,,52.5,Rs 52.5 crore billing (FY23),Q4FY23,14,"Ritesh Agarwal: Sir, INR52.5 crores billing and INR50.4 crores is the revenue.",,,,,"point 55 +/-5%; guide was billings, billing used"
+ETHOSLTD-057,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-058,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-059,,,,none,,,,,,,,,,not scorable,FY25 consignment share; no reported actual
+ETHOSLTD-060,,,,none,,,,,,,,,,not scorable,opening date of service centre not reported
+ETHOSLTD-061,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-062,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-063,,,,none,,,,,,,,,,not scorable,no number
+ETHOSLTD-064,145.35,160.65,lower,call,,157,157 days,Q4FY23,3,Inventory days on 31 st March ‘23 stood at 157 days of sales,,,,,flat vs 153 days +/-5%
+ETHOSLTD-065,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-066,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-067,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-068,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-069,25,30,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated guide
+ETHOSLTD-070,,,,none,,,,,,,,,,not scorable,guide is revenue growth; only billing reported for FY24 (basis mismatch)
+ETHOSLTD-071,,,,none,,,,,,,,,,not scorable,"net store count reported, guide is gross new stores"
+ETHOSLTD-072,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-073,14.4486,,higher,screener,ebitda_margin:FY24,,,,,,,,,,stable-or-higher vs FY23 base 15.2091 (Screener) less 5%; Screener basis both years
+ETHOSLTD-074,,,,none,,,,,,,,,,not due,FY24-FY27; FY27 not yet reported
+ETHOSLTD-075,1,,higher,call,,0,0 Rimowa boutiques by end Q2FY24,Q2FY24,4,"on October 31, 2023, we opened our first RIMOWA boutique in India",,,,,"first boutique opened 31 Oct 2023, after Q2FY24 end; floor 1"
+ETHOSLTD-076,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-077,,,,none,,,,,,,,,,not scorable,not checkable from reported data

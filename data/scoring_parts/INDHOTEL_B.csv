@@ -1,0 +1,64 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+INDHOTEL-074,,,,none,,,,,,,,,,not due,2030 not yet reached
+INDHOTEL-075,,,,none,,,,,,,,,,not scorable,"launch event, no numeric range"
+INDHOTEL-076,,,,none,,,,,,,,,,not scorable,guided ex-TajSATS; no ex-TajSATS actual reported
+INDHOTEL-077,,,,none,,,,,,,,,,not scorable,July-24 monthly figure not reported
+INDHOTEL-078,23.75,26.25,higher,call,,26,26 openings,Q4FY25,4,"We have set a new growth benchmark with 74 signings and 26 openings in FY '24-'25, taking our portfolio to 381 hotels with 247 hotels operational as on date.",,,,,25 hotels point +/-5%; FY25 openings as stated by management
+INDHOTEL-079,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-080,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-081,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-082,1550,,higher,screener,q_revenue:Q2FY25,1826,INR 1826 crore,,,,,,,,Stronger than Q1: lo = Q1FY25 consolidated revenue 1550 (Screener q_revenue:Q1FY25); Rs crore
+INDHOTEL-083,,,,none,,,,,,,,,,not scorable,no reported payroll ratio found on later calls
+INDHOTEL-084,30,35,higher,call,,40,40% growth,Q4FY25,5,"delivered a 40% growth in FY '25, resulting in a consolidated revenue of INR 602 crores",,,,,New businesses vertical FY25 growth (now incl. Tree of Life); union 30-35 used
+INDHOTEL-085,,,,none,,,,,,,,,,not scorable,no reported actual for reimagined businesses
+INDHOTEL-086,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-087,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-088,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-089,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-090,,,,none,,,,,,,,,,not scorable,metric unclear
+INDHOTEL-091,,,,none,,,,,,,,,,not scorable,no reported H2 hotel segment growth; only Q3 and Q4 separately
+INDHOTEL-092,,,,none,,,,,,,,,,not due,2030 not yet reached
+INDHOTEL-093,,,,none,,,,,,,,,,not scorable,guided ex-TajSATS; no ex-TajSATS actual reported
+INDHOTEL-094,,,,none,,,,,,,,,,not scorable,guided ex-TajSATS H2; no such actual reported
+INDHOTEL-095,23.75,26.25,higher,call,,26,26 openings,Q4FY25,4,"We have set a new growth benchmark with 74 signings and 26 openings in FY '24-'25, taking our portfolio to 381 hotels with 247 hotels operational as on date.",,,,,25 hotels point +/-5%
+INDHOTEL-096,28.5,31.5,higher,call,,36,36 hotels,Q4FY26,13,"the 26 plus 36 hotels, which we opened in last year, they were also in their growth phase",,,,,"30 hotels point +/-5%; 36 is the second figure in ""26 plus 36"" (FY25 26, FY26 36)"
+INDHOTEL-097,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-098,,,,none,,,,,,,,,,not scorable,ratio basis unclear; typical level with one-offs; no reported ratio
+INDHOTEL-099,700,800,lower,call,,1074,INR 1074 crore,Q4FY25,9,"this year, we have spent close to about INR 1,100 crores. This is on a consolidated basis, INR 1,074 crores number, which is evenly split between greenfield and renovation",,,,,Capex budget range; overshoot treated as worse; consolidated actual
+INDHOTEL-100,,,,none,,,,,,,,,,not scorable,direction with no base period
+INDHOTEL-101,750,800,lower,call,,1074,INR 1074 crore,Q4FY25,9,"this year, we have spent close to about INR 1,100 crores. This is on a consolidated basis, INR 1,074 crores number, which is evenly split between greenfield and renovation",,,,,Capex budget range; overshoot treated as worse; consolidated actual
+INDHOTEL-102,,,,none,,,,,,,,,,not scorable,reported split is renovation plus routine plus digital; basis differs
+INDHOTEL-103,,,,none,,,,,,,,,,not scorable,"no exact reported figure; only ""double-digit"""
+INDHOTEL-104,,,,none,,,,,,,,,,not scorable,single-hotel occupancy not reported
+INDHOTEL-105,,,,none,,,,,,,,,,not scorable,single-hotel ARR not reported
+INDHOTEL-106,1826,,higher,screener,q_revenue:Q3FY25,2533,INR 2533 crore,,,,,,,,Stronger than Q2: lo = Q2FY25 consolidated revenue 1826; Rs crore
+INDHOTEL-107,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-108,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-109,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+INDHOTEL-110,10,,higher,screener,rev_growth:FY25,23.1349,23.1%,,,,,,,,Double digit floor; consolidated growth
+INDHOTEL-111,23.75,26.25,higher,call,,26,26 openings,Q4FY25,4,"We have set a new growth benchmark with 74 signings and 26 openings in FY '24-'25, taking our portfolio to 381 hotels with 247 hotels operational as on date.",,,,,25 hotels point +/-5%
+INDHOTEL-112,28.5,31.5,higher,call,,36,36 hotels,Q4FY26,13,"the 26 plus 36 hotels, which we opened in last year, they were also in their growth phase",,,,,30 hotels point +/-5%
+INDHOTEL-113,,,,none,,,,,,,,,,not due,2030 not yet reached
+INDHOTEL-114,,,,none,,,,,,,,,,not due,2030 not yet reached
+INDHOTEL-115,7,13,higher,call,,16,16% RevPAR growth,Q4FY25,4,IHCL delivered 16% consolidated RevPAR growth in Q4 and 12% for the full year on a domestic like-for-like basis,,,,,"High single to low double digit = 7-13; domestic like-for-like, same basis as Q3"
+INDHOTEL-116,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-117,,,,none,,,,,,,,,,not scorable,no reported Pierre Q4 revenue figure
+INDHOTEL-118,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-119,,,,none,,,,,,,,,,not scorable,actual only a lower bound (INR100-plus crore)
+INDHOTEL-120,10,,higher,screener,rev_growth:FY26,16.2448,16.2%,,,,,,,,Double digit floor; consolidated growth
+INDHOTEL-121,30,,higher,call,,36,36 hotels,Q4FY26,13,"the 26 plus 36 hotels, which we opened in last year, they were also in their growth phase",,,,,30-plus floor; FY26 openings 36
+INDHOTEL-122,2.1375,2.3625,higher,call,,2.25,INR 2.25 per share,Q4FY26,6,The proposed dividend of INR3.25 per share represents an increase of approximately 44% over the dividend of INR2.25 per share declared in FY '24-'25.,,,,,Per-share dividend only (point +/-5%); the ~20% of PAT part not checked
+INDHOTEL-123,,,,none,,,,,,,,,,not scorable,no period; payback not reported
+INDHOTEL-124,1.9,2.1,higher,call,,2,2 hotels,Q3FY26,13,"opened at the same time 2 company-owned hotels as I mentioned also before in Ekta Nagar, 1 Ginger, 1 Vivanta",,,,,Ekta Nagar Vivanta and Ginger both opened
+INDHOTEL-125,,,,none,,,,,,,,,,not scorable,"date event, no numeric range"
+INDHOTEL-126,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-127,,,,none,,,,,,,,,,not scorable,"actual only a lower bound (over INR1,000 crore)"
+INDHOTEL-128,,,,none,,,,,,,,,,not scorable,reported split not on guided basis
+INDHOTEL-129,,,,none,,,,,,,,,,not scorable,opening not confirmed on a later call
+INDHOTEL-130,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-131,,,,none,,,,,,,,,,not scorable,Taj SATS margin impact not reported as a number
+INDHOTEL-132,,,,none,,,,,,,,,,not scorable,Taj SATS levy impact not reported as a number
+INDHOTEL-133,,,,none,,,,,,,,,,not due,FY30 not yet reported
+INDHOTEL-134,,,,none,,,,,,,,,,not due,FY27 not yet reported
+INDHOTEL-135,33.2214,,higher,screener,ebitda_margin:FY26,32.9859,33.0%,,,,,,,,Higher than FY25 margin 33.2214 (Screener ebitda_margin:FY25); consolidated; management gave no firm margin guide
+INDHOTEL-136,,,,none,,,,,,,,,,not scorable,no later report found

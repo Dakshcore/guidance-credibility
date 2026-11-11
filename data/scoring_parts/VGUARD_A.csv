@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VGUARD-001,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-002,,,,none,,,,,,,,,,not scorable,AGM call; no full-year FY22 actual on guided basis
+VGUARD-003,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-004,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-005,,,,none,,,,,,,,,,not scorable,no numeric target; segment revenue not reported
+VGUARD-006,,,,none,,,,,,,,,,not scorable,no numeric target; no base level stated
+VGUARD-007,,,,none,,,,,,,,,,not scorable,no reported cumulative capex actual
+VGUARD-008,23.94,26.46,lower,screener,tax_rate:FY23,,,,,,,,,,point 25.2% +/-5%; Screener consolidated tax rate FY23 (rounded integer)
+VGUARD-009,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-010,10,,higher,screener,ebitda_margin:FY23,,,,,,,,,,double-digit floor; consolidated
+VGUARD-011,,,,none,,,,,,,,,,not scorable,no reported annual capex actual
+VGUARD-012,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-013,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-014,0,,higher,screener,cfo:FY23,,,,,,,,,,positive operating cash flow; consolidated
+VGUARD-015,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-016,32,33,higher,call,,29.6,29.6% gross margin Q3FY23,Q3FY23,4,The gross margin stood at 29.6% in Q3 FY23 which is an improvement over the immediately preceding quarter,,,,,"range 32-33% per page 7 of the same call; actual is Q3FY23, last quarter of the guided window"
+VGUARD-017,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+VGUARD-018,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-019,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-020,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-021,,,,none,,,,,,,,,,not scorable,volume growth not reported for FY23
+VGUARD-022,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 segment EBIT margin
+VGUARD-023,,,,none,,,,,,,,,,not scorable,multi-year; no reported actual on guided basis
+VGUARD-024,,,,none,,,,,,,,,,not scorable,no Mar-25 figure on guided basis
+VGUARD-025,,,,none,,,,,,,,,,not scorable,no reported FY23 retailer additions
+VGUARD-026,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-027,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-028,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-029,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-030,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-031,,,,none,,,,,,,,,,not scorable,no number stated on this call
+VGUARD-032,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-033,,,,none,,,,,,,,,,not scorable,no reported FY23 outlet additions
+VGUARD-034,15,20,higher,call,,13,inventory down 13 days (105 to 92),Q3FY23,4,Inventory days for the quarter were at 92 days compared to 105 days in Q2 FY '23,,,,,"actual = 105 - 92 = 13 days reduction, both figures in one quote; better=higher means larger reduction"
+VGUARD-035,,,,none,,,,,,,,,,not scorable,unclear if total or per year
+VGUARD-036,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-037,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-038,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+VGUARD-039,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-040,10,,higher,call,,8.642,EBITDA margin 8.64% Q1FY24 (105/1215),Q1FY24,4,"Consolidated EBITDA excluding other income was Rs. 105 crore in Q1, an increase of 27.7% on a YoY basis.",Q1FY24,3,"We reported consolidated net revenues of Rs. 1,215 crore in Q1FY24, higher by 19.3% on a YoY basis.",,margin = 105 / 1215 x 100 from two reported figures; floor 10% pre-COVID; same basis as Screener quarterly
+VGUARD-041,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-042,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-043,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-044,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-045,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-046,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-047,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-048,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-049,,,,none,,,,,,,,,,not scorable,no reported annual capex actual
+VGUARD-050,,,,none,,,,,,,,,,not due,Feb-28 not yet reported
+VGUARD-051,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-052,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-053,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-054,31.3,,higher,call,,32.5,32.5% gross margin Q1FY24,Q1FY24,3,"Gross margins improved to 32.5% this quarter from 30.0% in Q1 last year. Sequentially, there is an improvement by 120 basis points compared to 31.3% in the last quarter.",,,,,floor = Q4FY23 gross margin 31.3% (stated in the same quote); direction against previous quarter
+VGUARD-055,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-056,,,,none,,,,,,,,,,not scorable,no reported FY24 capex actual
+VGUARD-057,32,33,higher,call,,33.8,33.8% gross margin Q2FY24,Q2FY24,3,We have reported an improvement in the gross margin to 33.8% in this quarter from 29.3% in Q2 last year,,,,,by Sep-23 read as Q2FY24 quarter; conditional on stable pricing and raw material prices
+VGUARD-058,,,,none,,,,,,,,,,not scorable,no reported FY24 growth ex-Sunflame
+VGUARD-059,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-060,,,,none,,,,,,,,,,not scorable,no reported FY24 Sunflame revenue
+VGUARD-061,,,,none,,,,,,,,,,not scorable,no reported FY24 Sunflame EBITDA margin
+VGUARD-062,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year gross margin
+VGUARD-063,,,,none,,,,,,,,,,not scorable,no reported FY24 A&P share
+VGUARD-064,,,,none,,,,,,,,,,not scorable,pump revenue growth not reported
+VGUARD-065,,,,none,,,,,,,,,,not scorable,no reported FY24 growth ex-Sunflame
+VGUARD-066,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-067,,,,none,,,,,,,,,,not scorable,no reported FY24 Sunflame revenue
+VGUARD-068,,,,none,,,,,,,,,,not scorable,no reported FY24 Sunflame revenue
+VGUARD-069,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-070,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-071,9,9.5,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated
+VGUARD-072,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-073,,,,none,,,,,,,,,,not scorable,only part-period (Q4) segment figure reported
+VGUARD-074,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-075,,,,none,,,,,,,,,,not scorable,vague target ('most of the debt')
+VGUARD-076,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+VGUARD-077,,,,none,,,,,,,,,,not due,FY28 not yet reported
+VGUARD-078,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-079,,,,none,,,,,,,,,,not scorable,no Q4FY24 gross margin level reported
+VGUARD-080,,,,none,,,,,,,,,,not scorable,no reported FY24 capex actual
+VGUARD-081,,,,none,,,,,,,,,,not scorable,no reported FY25 capex actual
+VGUARD-082,,,,none,,,,,,,,,,not scorable,only approximate figure reported ('slightly more than 65%')
+VGUARD-083,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-084,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-085,,,,none,,,,,,,,,,not scorable,no reported FY24 growth ex-Sunflame

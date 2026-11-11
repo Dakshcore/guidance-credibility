@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VAIBHAVGBL-079,,,,none,,,,,,,,,,not scorable,no H2FY23 EBITDA margin reported
+VAIBHAVGBL-080,2,4,higher,screener,rev_growth:FY23,,,,,,,,,,"FY23 consolidated revenue growth, Screener"
+VAIBHAVGBL-081,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-082,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-083,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+VAIBHAVGBL-084,,,,none,,,,,,,,,,not scorable,no reported H2FY24 Germany figure
+VAIBHAVGBL-085,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-086,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-087,,,,none,,,,,,,,,,not scorable,"segment direction only, no reported actual"
+VAIBHAVGBL-088,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-089,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-090,,,,none,,,,,,,,,,not scorable,"analyst figure, not management guide; no reported actual"
+VAIBHAVGBL-091,,,,none,,,,,,,,,,not scorable,no reported Germany quarterly burn actual
+VAIBHAVGBL-092,0,2,higher,call,,1.1,1.1%,Q4FY23,3,"Sales for the quarter were INR693 crores, an increase of 1.1% from INR685 crores in the fourth quarter of last year.",,,,,flattish read as 0 to 2%; Q4FY23 consolidated INR revenue growth
+VAIBHAVGBL-093,-3,-2,higher,screener,rev_growth:FY23,,,,,,,,,,"FY23 consolidated revenue growth, Screener"
+VAIBHAVGBL-094,,,,none,,,,,,,,,,not scorable,FY24 organic growth not reported; Screener FY24 includes acquisitions
+VAIBHAVGBL-095,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-096,,,,none,,,,,,,,,,not scorable,no reported H2FY24 Germany figure
+VAIBHAVGBL-097,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-098,0,,higher,screener,ebitda_change_bps:FY24,,,,,,,,,,"Direction guide: FY24 margin change vs FY23 in bps, lo 0"
+VAIBHAVGBL-099,,,,none,,,,,,,,,,not scorable,quarterly YoY EBITDA for all FY24 quarters not available
+VAIBHAVGBL-100,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-101,,,,none,,,,,,,,,,not scorable,no reported Germany H2FY24 monthly revenue
+VAIBHAVGBL-102,0,,higher,call,,-2.5,loss of $2-3 million,Q4FY25,8,"which is right now around $2 million, $3 million losses that we have seen in the Germany operation in full financial year",,,,,"Germany FY25 reported as a loss of $2-3m; midpoint used, any value in the range gives the same verdict"
+VAIBHAVGBL-103,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-104,,,,none,,,,,,,,,,not scorable,"hedged remark, not a commitment"
+VAIBHAVGBL-105,,,,none,,,,,,,,,,not scorable,FY24 organic constant-currency growth not reported; Screener FY24 includes acquisitions
+VAIBHAVGBL-106,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-107,,,,none,,,,,,,,,,not due,FY31 not yet reported
+VAIBHAVGBL-108,,,,none,,,,,,,,,,not scorable,no reported H2FY24 Germany figure
+VAIBHAVGBL-109,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-110,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-111,0,,higher,screener,ebitda_growth:FY24,,,,,,,,,,"Direction guide: FY24 EBITDA growth vs FY23, lo 0"
+VAIBHAVGBL-112,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-113,,,,none,,,,,,,,,,not scorable,FY24 organic constant-currency growth not reported; Screener FY24 includes acquisitions
+VAIBHAVGBL-114,,,,none,,,,,,,,,,not scorable,no number; reported customer count includes acquisitions
+VAIBHAVGBL-115,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-116,,,,none,,,,,,,,,,not scorable,no reported Germany H2FY24 monthly revenue
+VAIBHAVGBL-117,,,,none,,,,,,,,,,not scorable,original 8-10% was organic; FY24 organic not reported
+VAIBHAVGBL-118,14,16,higher,screener,rev_growth:FY25,,,,,,,,,,"FY25 consolidated revenue growth, Screener; mid-teens read as 14-16"
+VAIBHAVGBL-119,0,,higher,call,,0,EBITDA breakeven,Q3FY25,3,I am happy to share that our Germany operations have broken even at EBITDA level,Q4FY25,6,"Germany stood out by significantly outpacing the market, achieving EBITDA break even once again in this quarter.",,Germany H2FY25 = Q3 and Q4FY25 both at EBITDA breakeven; breakeven coded as 0; operating level read as EBITDA
+VAIBHAVGBL-120,,,,none,,,,,,,,,,not scorable,"reported 95% household reach, guide was over 95%; cannot confirm"
+VAIBHAVGBL-121,0,,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,"Guide covers FY24 and FY25; weakest year FY25 EBITDA margin change in bps, lo 0"
+VAIBHAVGBL-122,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-123,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-124,,,,none,,,,,,,,,,not due,FY28 not yet reported
+VAIBHAVGBL-125,,,,none,,,,,,,,,,not scorable,explicitly not a formal projection; 7-8 years out
+VAIBHAVGBL-126,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-127,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-128,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-129,47.5,52.5,higher,call,,44,44% of B2C sales,Q4FY26,4,Digital contribution stood at around 44% of B2C sales for the year,,,,,FY26 digital share of B2C sales; guide was digital vs TV revenue 50-50
+VAIBHAVGBL-130,0,,higher,call,,0,EBITDA breakeven,Q3FY25,3,I am happy to share that our Germany operations have broken even at EBITDA level,Q4FY25,6,"Germany stood out by significantly outpacing the market, achieving EBITDA break even once again in this quarter.",,Germany H2FY25 = Q3 and Q4FY25 both at EBITDA breakeven; breakeven coded as 0; operating level read as EBITDA
+VAIBHAVGBL-131,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-132,13,15,higher,screener,rev_growth:FY24,,,,,,,,,,"FY24 consolidated revenue growth, Screener (includes acquisitions)"
+VAIBHAVGBL-133,17,19,higher,screener,rev_growth:FY25,,,,,,,,,,"FY25 consolidated revenue growth, Screener (includes acquisitions)"
+VAIBHAVGBL-134,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-135,,,,none,,,,,,,,,,not scorable,FY24 organic growth not reported
+VAIBHAVGBL-136,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-137,,,,none,,,,,,,,,,not scorable,"segment only, no period"
+VAIBHAVGBL-138,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-139,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-140,0,,higher,call,,0,EBITDA breakeven,Q3FY25,3,I am happy to share that our Germany operations have broken even at EBITDA level,Q4FY25,6,"Germany stood out by significantly outpacing the market, achieving EBITDA break even once again in this quarter.",,Germany H2FY25 = Q3 and Q4FY25 both at EBITDA breakeven; breakeven coded as 0; operating level read as EBITDA
+VAIBHAVGBL-141,,,,none,,,,,,,,,,not due,FY31 not yet reported
+VAIBHAVGBL-142,13,15,higher,screener,rev_growth:FY24,,,,,,,,,,"FY24 consolidated revenue growth, Screener (includes acquisitions)"
+VAIBHAVGBL-143,17,19,higher,screener,rev_growth:FY25,,,,,,,,,,"FY25 consolidated revenue growth, Screener (includes acquisitions)"
+VAIBHAVGBL-144,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VAIBHAVGBL-145,,,,none,,,,,,,,,,not due,FY28 not yet reported
+VAIBHAVGBL-146,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-147,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-148,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-149,,,,none,,,,,,,,,,not scorable,"segment basis, no reported actual"
+VAIBHAVGBL-150,,,,none,,,,,,,,,,not scorable,no reported Germany H2FY25 monthly revenue
+VAIBHAVGBL-151,18,19,higher,call,,14.5,14.5% in USD,Q4FY24,6,"If we include acquisitions, the overall year-over-year growth was 14.5% in U.S. dollars and 13% on a constant currency basis in last quarter.",,,,,Q4FY24 growth incl. acquisitions; INR growth 14% and constant currency 13% give the same verdict
+VAIBHAVGBL-152,,,,none,,,,,,,,,,not scorable,existing-territory growth for FY25-FY26 not reported
+VAIBHAVGBL-153,,,,none,,,,,,,,,,not scorable,US and UK ex Ideal World FY25 growth not reported
+VAIBHAVGBL-154,,,,none,,,,,,,,,,not scorable,no numeric target
+VAIBHAVGBL-155,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-156,,,,none,,,,,,,,,,not scorable,no numeric target on a reported metric

@@ -1,0 +1,80 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KALYANKJIL-001,12,15,higher,call,,11,11 own showrooms,Q4FY23,12,One is that we opened 11 own showrooms in the financial year.,,,,,FY23 owned showrooms in India; guide 12-15
+KALYANKJIL-002,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-003,0.95,1.05,higher,call,,1,1 Candere showroom,Q2FY23,6,"We opened five new outlets in the quarter, four in Kalyan Jewelers and the first offline outlet in Candere during this quarter taking the total stores opened during the first half of the current financial year to nine.",,,,,"first Candere showroom opened in Q2FY23 (Jul-Sep 2022), inside H1"
+KALYANKJIL-004,6,,higher,call,,15,15 franchise showrooms,Q4FY23,4,"During the last financial year, we launched 15 franchised showrooms in India as a part of our Phase 4 expansion.",,,,,floor of 6; FY23 India franchise launches
+KALYANKJIL-005,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-006,,,,none,,,,,,,,,,not scorable,no reported FY23 Middle East showroom openings
+KALYANKJIL-007,20000,,higher,screener,revenue:FY25,,,,,,,,,,"consolidated revenue; objective to reach Rs 20,000 crore treated as a floor"
+KALYANKJIL-008,,,,none,,,,,,,,,,not scorable,no reported gross margin actual on the guided basis
+KALYANKJIL-009,9.5,10.5,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated EBITDA margin; ~10% point +/-5%
+KALYANKJIL-010,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-011,,,,none,,,,,,,,,,not scorable,"only an approximate unverified figure (""around 25%, I will just check"") and basis not confirmed as India"
+KALYANKJIL-012,,,,none,,,,,,,,,,not scorable,no reported FY25 India studded share found in later calls
+KALYANKJIL-013,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-014,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-015,,,,none,,,,,,,,,,not scorable,no reported opex actual on the guided basis
+KALYANKJIL-016,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-017,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-018,0.95,1.05,higher,call,,1,1 Candere showroom,Q2FY23,6,"We opened five new outlets in the quarter, four in Kalyan Jewelers and the first offline outlet in Candere during this quarter taking the total stores opened during the first half of the current financial year to nine.",,,,,"first Candere showroom opened in Jul-Sep 2022, before Diwali (Oct-22)"
+KALYANKJIL-019,,,,none,,,,,,,,,,not scorable,no reported FY23 advertising share found
+KALYANKJIL-020,,,,none,,,,,,,,,,not scorable,"later count is as of the call date, not the guided date"
+KALYANKJIL-021,7.6,8.4,higher,call,,7.6591,7.66%,Q2FY23,5,"our Company reported consolidated revenues of Rs 3,473 crores, a 20% growth compared to the corresponding quarter of the previous year. Consolidated EBITDA came in at Rs 266 crores",,,,,"Q2FY23 consolidated EBITDA 266 / revenue 3,473 computed from the quoted figures; ~8% point +/-5%"
+KALYANKJIL-022,,,,none,,,,,,,,,,not scorable,needs several quarterly figures; no single reported H1 vs H2 actual
+KALYANKJIL-023,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-024,,,,none,,,,,,,,,,not scorable,~3% figure came from analyst; no management target
+KALYANKJIL-025,,,,none,,,,,,,,,,not scorable,later calls give conflicting FY23 opening totals (23 vs 11 own + 15 franchise)
+KALYANKJIL-026,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-027,,,,none,,,,,,,,,,not scorable,"later count is as of the call date, not the guided date"
+KALYANKJIL-028,,,,none,,,,,,,,,,not scorable,no consolidated Mar-23 gross debt on the guided basis
+KALYANKJIL-029,,,,none,,,,,,,,,,not scorable,no reported bank interest actual on the guided basis
+KALYANKJIL-030,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-031,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-032,1776.5,1963.5,lower,call,,1853,"Rs 1,853 crore",Q4FY23,7,"gold metal loan balance as on March 23 is INR 1,853 crores which is consolidated, of which India is INR 1,091 crores",,,,,"consolidated gold metal loan at Mar-23; ~1,870 point +/-5%"
+KALYANKJIL-033,,,,none,,,,,,,,,,not scorable,no reported FY23 advertising share found
+KALYANKJIL-034,10,,higher,call,,13,13%,Q3FY23,3,We recorded consolidated revenue growth of approximately 13% in Q3 FY 2023 over the same period in the prior year,,,,,strong double digit read as 10% floor; Q3FY23 consolidated revenue growth
+KALYANKJIL-035,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-036,0.95,1.05,higher,call,,0,0 franchise showrooms,Q4FY23,4,"There has been a slight delay in setting up the vertical, largely due to the local regulatory compliances and we expect to launch the first franchised showroom shortly.",Q4FY24,4,The year also saw the launch of our first franchised showroom in the Middle East.,,"first ME franchise showroom launched in FY24, so none in FY23"
+KALYANKJIL-037,,,,none,,,,,,,,,,not scorable,"""retire most"" of cash credit, no numeric target"
+KALYANKJIL-038,,,,none,,,,,,,,,,not scorable,"no reported FY23 total across India, Middle East and Candere"
+KALYANKJIL-039,,,,none,,,,,,,,,,not scorable,later calls give conflicting FY23 opening counts
+KALYANKJIL-040,23.75,26.25,higher,screener,tax_rate:FY23,,,,,,,,,,consolidated tax rate; 25% point +/-5%
+KALYANKJIL-041,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-042,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-043,,,,none,,,,,,,,,,not scorable,no reported showroom count for calendar 2023
+KALYANKJIL-044,,,,none,,,,,,,,,,not scorable,"later count is as of the call date, not the guided date"
+KALYANKJIL-045,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-046,,,,none,,,,,,,,,,not scorable,no reported FY24 Candere offline share found
+KALYANKJIL-047,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 franchise additions (counts at different dates)
+KALYANKJIL-048,,,,none,,,,,,,,,,not scorable,"later count is as of the call date, not the guided date"
+KALYANKJIL-049,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-050,,,,none,,,,,,,,,,not scorable,no reported FY24 opening and closing total store counts
+KALYANKJIL-051,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-052,,,,none,,,,,,,,,,not scorable,"non-core asset sale, no numeric target"
+KALYANKJIL-053,,,,none,,,,,,,,,,not scorable,no reported stock turn on the guided basis
+KALYANKJIL-054,,,,none,,,,,,,,,,not scorable,no reported bank debt change on the guided basis
+KALYANKJIL-055,28.5,31.5,higher,call,,13,13 Candere showrooms,Q4FY24,4,"We launched 11 off-line showrooms in Candere during the last year, taking the total number of showrooms to 13 as on March 31, 2024.",,,,,total Candere showrooms at Mar-24; ~30 point +/-5%
+KALYANKJIL-056,,,,none,,,,,,,,,,not scorable,FY24 owned-store opening count not stated
+KALYANKJIL-057,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-058,49.4,54.6,higher,call,,58,58 showrooms,Q4FY24,4,we launched 58 new Kalyan showrooms through the capital efficient FOCO model in India during the last financial year.,,,,,FY24 FOCO launches in India; 52 point +/-5%; 58 may include a few South pilots
+KALYANKJIL-059,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-060,30,,higher,call,,11,11 Candere showrooms,Q4FY24,4,"We launched 11 off-line showrooms in Candere during the last year, taking the total number of showrooms to 13 as on March 31, 2024.",,,,,floor of 30 showrooms launched in FY24
+KALYANKJIL-061,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-062,827,,higher,screener,fcf:FY24,,,,,,,,,,consolidated free cash flow vs FY23 base of 827 (Screener fcf:FY23); floor at base
+KALYANKJIL-063,18,,higher,call,,31,31%,Q1FY24,4,"While our consolidated revenue growth was approximately 31%, the consolidated PAT grew by around 33%",Q4FY23,5,"a consolidated revenue of INR 3,382 crores, an 18% growth over the same quarter in the previous year",,Q1FY24 growth must exceed Q4FY23 growth of 18%
+KALYANKJIL-064,,,,none,,,,,,,,,,not scorable,no consolidated Mar-24 gold metal loan balance found
+KALYANKJIL-065,14,,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth; at least mid-to-late teens read as 14% floor
+KALYANKJIL-066,5,6,higher,call,,12,12%,Q4FY24,6,"SSSGs if you see, it has been very strong around 12%.",,,,,FY24 same-store sales growth as stated
+KALYANKJIL-067,300,400,higher,call,,270,Rs 270 crore,Q4FY24,4,"Overall, working capital loans in India came down by INR 270 crores.",,,,,"15% of India gross debt stated as Rs 300-400 crore on Q4FY23 p20; amount of reduction, so higher is better"
+KALYANKJIL-068,,,,none,,,,,,,,,,not scorable,no reported FY24 interest reduction on the guided basis
+KALYANKJIL-069,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-070,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-071,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-072,,,,none,,,,,,,,,,not scorable,"intention, no reported actual on the guided basis"
+KALYANKJIL-073,,,,none,,,,,,,,,,not scorable,"later call gives limit increase, not balance change"
+KALYANKJIL-074,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+KALYANKJIL-075,,,,none,,,,,,,,,,not scorable,no numeric target
+KALYANKJIL-076,,,,none,,,,,,,,,,not scorable,no PBT margin key or stated FY24 PBT margin on the guided basis
+KALYANKJIL-077,,8.2794,higher,screener,ebitda_margin:FY24,,,,,,,,,,guide is lower than FY23; base is Screener FY23 consolidated EBITDA margin 8.2794 (management cited 7.9%)
+KALYANKJIL-078,,,,none,,,,,,,,,,not scorable,no period
+KALYANKJIL-079,,,,none,,,,,,,,,,not scorable,no numeric target

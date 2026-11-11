@@ -1,0 +1,77 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BATAINDIA-001,,,,none,,,,,,,,,,not scorable,per-quarter pace; no quarterly actuals on guided basis
+BATAINDIA-002,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-003,,,,none,,,,,,,,,,not scorable,base not quantified
+BATAINDIA-004,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-005,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-006,,,,none,,,,,,,,,,not scorable,no rupee figure
+BATAINDIA-007,75,,higher,call,,116,116 franchise stores added in FY23,Q4FY23,5,"2021-22, we added 75. Last year, we added 116.",,,,,Floor = FY22 franchise additions (75); FY23 additions 116 reported on Q4FY23 call
+BATAINDIA-008,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-009,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-010,475,525,higher,call,,600,franchise at 600 stores (Sep-24),Q2FY25,4,"franchise at 600 landmark. So that's a great landmark. In fact, I said 2024 as the landmark for 500, so six or whatever three months in advance, we have hit 600 itself",,,,,"Point 500 +/-5%; 600 reached by Sep-24, before the end-2024 deadline"
+BATAINDIA-011,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (share of network)
+BATAINDIA-012,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-013,70,,higher,call,,116,116 franchise stores added in FY23,Q4FY23,5,"2021-22, we added 75. Last year, we added 116.",,,,,Floor = about 70 stated in guide (FY22 actual was 75); FY23 additions 116
+BATAINDIA-014,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-015,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-016,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-017,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-018,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-019,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-020,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-021,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (Floatz run-rate)
+BATAINDIA-022,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-023,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-024,,,,none,,,,,,,,,,not scorable,no reported FY24 net additions on the guided basis
+BATAINDIA-025,475,525,higher,call,,600,franchise at 600 stores (Sep-24),Q2FY25,4,"franchise at 600 landmark. So that's a great landmark. In fact, I said 2024 as the landmark for 500, so six or whatever three months in advance, we have hit 600 itself",,,,,"Point 500 +/-5%; 600 reached by Sep-24, before the Dec-24 deadline"
+BATAINDIA-026,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-027,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-028,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-029,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-030,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-031,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-032,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-033,,,,none,,,,,,,,,,not scorable,IT capex only; no reported actual on that basis
+BATAINDIA-034,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-035,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-036,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-037,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-038,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-039,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-040,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-041,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-042,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-043,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-044,,,,none,,,,,,,,,,not scorable,margin type not specified; Q1FY24 base not in Screener
+BATAINDIA-045,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+BATAINDIA-046,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-047,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-048,475,525,higher,call,,625,about 625 franchise stores (Mar-25),Q4FY25,6,Now franchise stores stand at about 625.,,,,,Point 500 +/-5%; count at Mar-25 from Q4FY25 call
+BATAINDIA-049,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-050,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-051,,,,none,,,,,,,,,,not scorable,"internal threshold, not an outcome"
+BATAINDIA-052,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-053,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-054,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-055,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-056,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-057,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+BATAINDIA-058,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-059,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-060,,,,none,,,,,,,,,,not scorable,no reported actual
+BATAINDIA-061,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-062,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-063,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-064,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-065,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-066,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric range"
+BATAINDIA-067,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-068,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-069,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+BATAINDIA-070,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-071,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-072,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-073,,,,none,,,,,,,,,,not due,Feb-27 not yet reported
+BATAINDIA-074,,,,none,,,,,,,,,,not scorable,"internal threshold, not an outcome"
+BATAINDIA-075,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+BATAINDIA-076,,,,none,,,,,,,,,,not scorable,no period

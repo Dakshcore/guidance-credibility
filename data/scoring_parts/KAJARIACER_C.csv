@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KAJARIACER-133,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-134,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-135,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range under rubric
+KAJARIACER-136,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-137,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-138,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-139,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-140,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-141,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-142,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-143,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+KAJARIACER-144,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-145,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-146,11,13,higher,call,,6,6% tile volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,FY25 tile volume growth
+KAJARIACER-147,15,17,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+KAJARIACER-148,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-149,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-150,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-151,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-152,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-153,80.75,89.25,higher,call,,75,Rs 75 crore adhesive revenue,Q1FY26,5,"we have 3 divisions right now: Tiles, Bathware and Adhesive also. Adhesive last year did INR75 crores.",,,,,FY25 adhesive revenue
+KAJARIACER-154,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-155,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-156,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-157,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-158,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-159,,,,none,,,,,,,,,,not scorable,no reported actual realization change
+KAJARIACER-160,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-161,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-162,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-163,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range under rubric
+KAJARIACER-164,11,13,higher,call,,6,6% tile volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,FY25 tile volume growth
+KAJARIACER-165,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-166,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range under rubric
+KAJARIACER-167,8,9,higher,screener,rev_growth:FY25,,,,,,,,,,
+KAJARIACER-168,11,12,higher,call,,8.5,8.5% tile volume growth,Q2FY25,3,our tile volumes in quarter 2 F '25 grew by 8.5% year-to-year to 28.70 million square meters.,,,,,Q2FY25 tile volume growth
+KAJARIACER-169,15,16,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+KAJARIACER-170,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-171,,,,none,,,,,,,,,,not scorable,"relative to industry, no period-matched reported actual"
+KAJARIACER-172,,,,none,,,,,,,,,,not scorable,no reported FY25 bathware growth rate on guided basis; only rounded revenue figures
+KAJARIACER-173,,,,none,,,,,,,,,,not scorable,no reported actual on later calls
+KAJARIACER-174,,,,none,,,,,,,,,,not scorable,no reported actual on later calls
+KAJARIACER-175,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-176,15,17,higher,screener,ebitda_margin:FY25,,,,,,,,,,wider union of 15-16 and 15-17 on same call
+KAJARIACER-177,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-178,,,,none,,,,,,,,,,not scorable,no reported actual on later calls
+KAJARIACER-179,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-180,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-181,47.5,52.5,lower,call,,51,51 days,Q4FY25,4,"As of 31st March, ‘25, the working capital days decreased by 7 days to 51 days compared to 31st of March",,,,,"working capital days at Mar-25, as reported by management"
+KAJARIACER-182,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-183,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-184,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-185,9,10,higher,call,,6,6% tile volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,FY25 tile volume growth
+KAJARIACER-186,14.25,15.75,higher,screener,ebitda_margin:FY25,,,,,,,,,,~15% point band
+KAJARIACER-187,,,,none,,,,,,,,,,not scorable,basis unclear; government share figures inconsistent across calls
+KAJARIACER-188,12.5,13,higher,call,,6,about 6% of volume,Q4FY25,12,this year we are targeting for about 8 % to 10%. I think roughly we have done about 6% as far as government projects are concerned.,,,,,"FY25 government share of volume, hedged (""roughly"")"
+KAJARIACER-189,,,,none,,,,,,,,,,not scorable,no reported FY26 government share
+KAJARIACER-190,,,,none,,,,,,,,,,not scorable,no reported FY25 bathware growth rate on guided basis; only rounded revenue figures
+KAJARIACER-191,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range under rubric
+KAJARIACER-192,,,,none,,,,,,,,,,not scorable,no reported actual on later calls
+KAJARIACER-193,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-194,190,210,lower,call,,250,Rs 250 crore,Q4FY25,22,"Rs. 250 crores we did last year , t his year the projection is around Rs. 200 crores plus.",,,,,FY25 capex stated as done last year; lower is better
+KAJARIACER-195,16,17,higher,screener,ebitda_margin:FY26,,,,,,,,,,middle to upper end of 15-17 read as 16-17
+KAJARIACER-196,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-197,,,,none,,,,,,,,,,not scorable,guide is exit utilization; only quarter-average utilization reported
+KAJARIACER-198,,,,none,,,,,,,,,,not scorable,no reported FY25 bathware growth rate on guided basis; only rounded revenue figures
+KAJARIACER-199,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-200,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-201,,,,none,,,,,,,,,,not scorable,no period and no numeric target
+KAJARIACER-202,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KAJARIACER-203,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-204,,,,none,,,,,,,,,,not scorable,no reported actual
+KAJARIACER-205,14,15,higher,screener,ebitda_margin:FY26,,,,,,,,,,"range from analyst question, management said it will"
+KAJARIACER-206,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-207,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+KAJARIACER-208,8,9,higher,call,,6,6% tile volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,FY25 tile volume growth
+KAJARIACER-209,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-210,,,,none,,,,,,,,,,not scorable,no reported actual
+KAJARIACER-211,,,,none,,,,,,,,,,not scorable,no reported FY26 bathware margin
+KAJARIACER-212,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-213,,,,none,,,,,,,,,,not scorable,no reported FY26 capex
+KAJARIACER-214,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-215,,,,none,,,,,,,,,,not scorable,no numeric target
+KAJARIACER-216,,,,none,,,,,,,,,,not scorable,no reported FY26 capex
+KAJARIACER-217,,,,none,,,,,,,,,,not scorable,composite breakdown; no reported actual

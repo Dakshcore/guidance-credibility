@@ -1,0 +1,38 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VIPIND-165,,,,none,,,,,,,,,,not scorable,no reported actual for Carlton store count by Jul-25
+VIPIND-166,11.4,12.6,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,point 12% exit-quarter EBITDA margin; consolidated Q4FY25
+VIPIND-167,95,105,higher,call,,118,Rs 118 crore debt reduction,Q4FY25,3,Our debt during the year was reduced by Rs.118 crore.,,,,,guide Rs100 crore reduction (point +/-5%); reduction in FY25 as reported by management
+VIPIND-168,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-169,,,,none,,,,,,,,,,not scorable,incremental vs cumulative space cut unclear; no like-for-like actual
+VIPIND-170,,,,none,,,,,,,,,,not scorable,"contribution split, not a reported metric"
+VIPIND-171,,,,none,,,,,,,,,,not scorable,no reported actual for Mar-25 inventory in Rs crore
+VIPIND-172,,,,none,,,,,,,,,,not scorable,no reported actual for Jun-25 inventory in Rs crore
+VIPIND-173,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-174,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-175,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-176,,,,none,,,,,,,,,,not scorable,"figure is industry growth, not company outcome"
+VIPIND-177,14.25,15.75,higher,screener,ebitda_margin:FY26,,,,,,,,,,"point 15% FY26 EBITDA margin, conditional on extra brand spend; consolidated"
+VIPIND-178,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-179,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-180,,,,none,,,,,,,,,,not scorable,no reported Q4FY25 gross margin
+VIPIND-181,,,,none,,,,,,,,,,not scorable,no reported FY26 gross margin on call or Screener
+VIPIND-182,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-183,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-184,,,,none,,,,,,,,,,not scorable,no reported actual for Jan-26 store count
+VIPIND-185,,,,none,,,,,,,,,,not scorable,"direction only, no named base"
+VIPIND-186,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-187,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-188,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-189,,,,none,,,,,,,,,,not scorable,no reported FY26 gross margin on call or Screener
+VIPIND-190,,,,none,,,,,,,,,,not scorable,no reported FY26 inventory reduction in Rs crore
+VIPIND-191,-157.5,-142.5,lower,screener,borrowing_change:FY26,,,,,,,,,,point ~Rs150 crore FY26 debt reduction as change in borrowings (negative = reduction); consolidated
+VIPIND-192,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-193,,,,none,,,,,,,,,,not scorable,relative to category growth not reported
+VIPIND-194,,,,none,,,,,,,,,,not scorable,base not named
+VIPIND-195,,,,none,,,,,,,,,,not scorable,"direction only, base unclear"
+VIPIND-196,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-197,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VIPIND-198,,,,none,,,,,,,,,,not scorable,conditional hypothetical on segment
+VIPIND-199,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-200,-131.25,-118.75,lower,screener,borrowing_change:FY26,,,,,,,,,,point Rs125 crore FY26 debt reduction as change in borrowings (negative = reduction); consolidated
+VIPIND-201,,,,none,,,,,,,,,,not scorable,amount not stated

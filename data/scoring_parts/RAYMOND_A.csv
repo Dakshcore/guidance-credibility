@@ -1,0 +1,74 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RAYMOND-001,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RAYMOND-002,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-003,,,,none,,,,,,,,,,not scorable,no reported FY23 real estate segment EBITDA margin on a later call
+RAYMOND-004,,,,none,,,,,,,,,,not scorable,no reported shirting growth for the guided period
+RAYMOND-005,,,,none,,,,,,,,,,not scorable,no reported Ethnix revenue on the guided basis
+RAYMOND-006,130,150,higher,call,,60,60 stores,Q1FY24,5,"we open 15 stores during the quarter, leading to a total of 75 stores of ‘Ethnix by Raymond’ as on 30th of June 2023",,,,,Ethnix stores at 31-Mar-23 = 75 at 30-Jun-23 less 15 opened in Q1FY24 = 60; guide ~130-150 stores/doors
+RAYMOND-007,,,,none,,,,,,,,,,not scorable,base of the doubling unclear and no Ethnix count at Mar-25 on a stored call
+RAYMOND-008,,,,none,,,,,,,,,,not scorable,multi-year garmenting margin; no single reported actual on the guided basis
+RAYMOND-009,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-010,24,25,lower,screener,tax_rate:FY23,,,,,,,,,,"consolidated effective tax rate FY23 (Screener, whole number)"
+RAYMOND-011,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-012,,,,none,,,,,,,,,,not scorable,no reported Mar-23 net debt on the guided basis
+RAYMOND-013,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-014,,,,none,,,,,,,,,,not scorable,no reported Mar-23 NWC days on a stored call
+RAYMOND-015,,,,none,,,,,,,,,,not scorable,no numeric target
+RAYMOND-016,,,,none,,,,,,,,,,not scorable,no reported FY23 gross openings on the guided basis
+RAYMOND-017,,,,none,,,,,,,,,,not scorable,no reported share of company operated new stores
+RAYMOND-018,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RAYMOND-019,15.4,,higher,screener,ebitda_margin:FY23,,,,,,,,,,"consolidated FY23 EBITDA margin; guide at least +200 bps on Q1FY23 13.4% (Q1FY23 p4, p12) so floor 15.4"
+RAYMOND-020,,,,none,,,,,,,,,,not scorable,no reported FY23 H1 revenue split
+RAYMOND-021,,,,none,,,,,,,,,,not scorable,debt free wording ambiguous (gross or net); company still has borrowings
+RAYMOND-022,,,,none,,,,,,,,,,not scorable,category growth not quantified
+RAYMOND-023,10,,higher,call,,11.2,11.2%,Q3FY23,6,The segment reported a double -digit EBITDA margin of 11.2% as compared to 10.7% in the same quarter previous year,,,,,branded apparel segment EBITDA margin Q3FY23 as reported on the Q3FY23 call
+RAYMOND-024,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-025,,,,none,,,,,,,,,,not scorable,no base revenue and no reported Ethnix revenue
+RAYMOND-026,110,120,higher,call,,60,60 stores,Q1FY24,5,"we open 15 stores during the quarter, leading to a total of 75 stores of ‘Ethnix by Raymond’ as on 30th of June 2023",,,,,Ethnix stores at 31-Mar-23 = 75 at 30-Jun-23 less 15 opened in Q1FY24 = 60
+RAYMOND-027,,27.5,higher,call,,25.6,25.6%,Q2FY23,6,The EBITDA margin stood at 25.6% as compared to 20.6% in previous year,,,,,"real estate segment Q2FY23 margin; guide slightly lower than Q1FY23 27.5%, so ceiling 27.5"
+RAYMOND-028,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-029,,,,none,,,,,,,,,,not scorable,no reported cumulative free cash flow on the guided basis
+RAYMOND-030,,,,none,,,,,,,,,,not scorable,no Ethnix count at Jun-22 on a stored call
+RAYMOND-031,,,,none,,,,,,,,,,not scorable,no reported FY23 net store additions in a stored quote
+RAYMOND-032,,,,none,,,,,,,,,,not scorable,no reported Mar-23 NWC days on a stored call
+RAYMOND-033,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RAYMOND-034,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-035,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+RAYMOND-036,,,,none,,,,,,,,,,not scorable,no reported cumulative free cash flow on the guided basis
+RAYMOND-037,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RAYMOND-038,,,,none,,,,,,,,,,not scorable,no reported Mar-23 NWC days on a stored call
+RAYMOND-039,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-040,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-041,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-042,,,,none,,,,,,,,,,not scorable,"launch milestone, no numeric outcome"
+RAYMOND-043,,,,none,,,,,,,,,,not scorable,"launch milestone, no numeric outcome"
+RAYMOND-044,,,,none,,,,,,,,,,not scorable,no reported FY23 year-end store count in a single stored quote
+RAYMOND-045,,,,none,,,,,,,,,,not scorable,no reported Mar-23 NWC days on a stored call
+RAYMOND-046,71.25,78.75,higher,call,,60,60 stores,Q1FY24,5,"we open 15 stores during the quarter, leading to a total of 75 stores of ‘Ethnix by Raymond’ as on 30th of June 2023",,,,,"Ethnix stores at 31-Mar-23 = 75 at 30-Jun-23 less 15 opened in Q1FY24 = 60; transcript prints 75% mark, read as 75 stores"
+RAYMOND-047,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 gross store openings
+RAYMOND-048,,,,none,,,,,,,,,,not scorable,intent across brands; no reported store count on the guided basis
+RAYMOND-049,,,,none,,,,,,,,,,not scorable,no Ethnix count by Feb-25 on a stored call
+RAYMOND-050,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-051,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-052,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-053,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric outcome"
+RAYMOND-054,,,,none,,,,,,,,,,not scorable,no numeric outcome
+RAYMOND-055,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric outcome"
+RAYMOND-056,,,,none,,,,,,,,,,not scorable,"no reported store additions on the guided basis (franchise, gross vs net)"
+RAYMOND-057,,,,none,,,,,,,,,,not scorable,no reported completion or spend on the guided basis
+RAYMOND-058,,,,none,,,,,,,,,,not scorable,no reported spend on the guided basis
+RAYMOND-059,,,,none,,,,,,,,,,not scorable,"launch milestone, no numeric outcome"
+RAYMOND-060,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+RAYMOND-061,,,,none,,,,,,,,,,not scorable,Jun-24 count not on a stored call; Mar-24 figure is part-period
+RAYMOND-062,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RAYMOND-063,,,,none,,,,,,,,,,not scorable,branded apparel now in separately listed entity; no reported actual on the guided basis
+RAYMOND-064,,,,none,,,,,,,,,,not scorable,branded apparel now in separately listed entity; no reported actual on the guided basis
+RAYMOND-065,,,,none,,,,,,,,,,not scorable,"milestone, no numeric outcome"
+RAYMOND-066,,,,none,,,,,,,,,,not scorable,"milestone, no numeric outcome"
+RAYMOND-067,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-068,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-069,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-070,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-071,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-072,,,,none,,,,,,,,,,not due,FY28 not yet reported
+RAYMOND-073,,,,none,,,,,,,,,,not scorable,no period

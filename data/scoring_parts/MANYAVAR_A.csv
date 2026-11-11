@@ -1,0 +1,78 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+MANYAVAR-001,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-002,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-003,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-004,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-005,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-006,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-007,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-008,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-009,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-010,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-011,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-012,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-013,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-014,1.9,2.1,higher,call,,1,1 international store,Q1FY23,4,We have also opened one new international store in UAE in Abu Dhabi in this quarter and now has 13 international stores spanning across three countries.,,,,,International stores opened in Q1FY23 = 1 (Abu Dhabi); London and Chicago not opened in Q1
+MANYAVAR-015,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-016,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-017,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-018,5,6,lower,call,,5,about 5% of revenue,Q4FY23,13,"So, at a yearly financial level, we closed A&P at about 5%, which is what we had planned for.",,,,,FY23 A&P % of revenue as stated by CFO
+MANYAVAR-019,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-020,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-021,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-022,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-023,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-024,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-025,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-026,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-027,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-028,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-029,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-030,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-031,,,,none,,,,,,,,,,not scorable,no count or period; store opening count not reported on guided basis
+MANYAVAR-032,,,,none,,,,,,,,,,not scorable,"date milestone; later call gives launch quarter, not a numeric actual"
+MANYAVAR-033,5,6,lower,call,,5,about 5% of revenue,Q4FY23,13,"So, at a yearly financial level, we closed A&P at about 5%, which is what we had planned for.",,,,,FY23 A&P % of revenue as stated by CFO
+MANYAVAR-034,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-035,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-036,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-037,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-038,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-039,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-040,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-041,3.8,4.2,higher,call,,3,3 Twamev EBOs,Q1FY24,3,"We have opened 3 Twamev exclusive outlets in this quarter as well, aggregating to 22,000 square feet area cumulatively.",,,,,Twamev EBOs opened in Q1FY24
+MANYAVAR-042,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-043,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-044,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-045,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-046,,,,none,,,,,,,,,,not scorable,H1/H2 share of customer sales not reported as a figure
+MANYAVAR-047,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-048,,,,none,,,,,,,,,,not scorable,H1/H2 share of customer sales not reported as a figure
+MANYAVAR-049,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-050,,,,none,,,,,,,,,,not scorable,"date milestone; later call gives launch quarter, not a numeric actual"
+MANYAVAR-051,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-052,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-053,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-054,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-055,,,,none,,,,,,,,,,not scorable,analyst figure; management says no guidance
+MANYAVAR-056,,,,none,,,,,,,,,,not scorable,"area target, not store count; no clean period or area actual"
+MANYAVAR-057,0.95,1.05,higher,call,,1,1 Mohey flagship EBO,Q4FY24,3,"We are pleased to announce that we have successfully launched the first EBO of Mohey brand, measuring about 7,500 square feet in the city of Bengaluru.",,,,,First Mohey EBO launched in Q4FY24
+MANYAVAR-058,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-059,,,,none,,,,,,,,,,not scorable,"direction only, no named base or period"
+MANYAVAR-060,,,,none,,,,,,,,,,not scorable,gross vs net area unclear; only net FY25 area reported
+MANYAVAR-061,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-062,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-063,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-064,,,,none,,,,,,,,,,not scorable,"timing or no plan number, or no full-year actual"
+MANYAVAR-065,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-066,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-067,,,,none,,,,,,,,,,not scorable,"direction only, no named base or period"
+MANYAVAR-068,,,,none,,,,,,,,,,not scorable,closure share not reported for FY25
+MANYAVAR-069,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+MANYAVAR-070,,,,none,,,,,,,,,,not scorable,gross vs net area unclear; only net FY25 area reported
+MANYAVAR-071,,,,none,,,,,,,,,,not scorable,"timing or no plan number, or no full-year actual"
+MANYAVAR-072,,,,none,,,,,,,,,,not scorable,no period
+MANYAVAR-073,,,,none,,,,,,,,,,not scorable,no clean reported count for the guided period and basis
+MANYAVAR-074,,,,none,,,,,,,,,,not due,FY27 not yet reported
+MANYAVAR-075,,,,none,,,,,,,,,,not scorable,"no period (medium term), brand-level target"
+MANYAVAR-076,,,,none,,,,,,,,,,not scorable,"timing or no plan number, or no full-year actual"
+MANYAVAR-077,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"

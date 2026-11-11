@@ -1,0 +1,70 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+TITAN-035,,,,none,,,,,,,,,,not scorable,no period
+TITAN-036,,,,none,,,,,,,,,,not scorable,no period
+TITAN-037,12,13,higher,call,,13.7,13.7%,Q4FY23,8,"In the full year FY23, we have got an EBIT margin of 13.7%",,,,,Jewellery FY23 EBIT margin as stated by jewellery CEO
+TITAN-038,,,,none,,,,,,,,,,not scorable,"two brands, no combined Q2 actual"
+TITAN-039,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-040,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-041,,,,none,,,,,,,,,,not scorable,no period
+TITAN-042,,,,none,,,,,,,,,,not scorable,no period
+TITAN-043,,,,none,,,,,,,,,,not scorable,no period
+TITAN-044,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-045,,,,none,,,,,,,,,,not scorable,no period
+TITAN-046,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-047,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-048,2,3,higher,call,,1,1 US store,Q4FY23,13,"We are up to 7 stores now, six in the UAE and one open in the US since December.",,,,,"US store count at FY23 end (one opened since Dec-22, none other)"
+TITAN-049,,,,none,,,,,,,,,,not scorable,no period
+TITAN-050,,,,none,,,,,,,,,,not scorable,no period
+TITAN-051,,,,none,,,,,,,,,,not scorable,no period
+TITAN-052,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-053,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-054,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-055,,,,none,,,,,,,,,,not scorable,no period
+TITAN-056,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-057,,,,none,,,,,,,,,,not scorable,no period
+TITAN-058,,,,none,,,,,,,,,,not scorable,no period
+TITAN-059,,,,none,,,,,,,,,,not scorable,no period
+TITAN-060,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-061,,,,none,,,,,,,,,,not scorable,no management-stated FY23 watches margin figure
+TITAN-062,,,,none,,,,,,,,,,not scorable,no period
+TITAN-063,,,,none,,,,,,,,,,not scorable,no period
+TITAN-064,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-065,,,,none,,,,,,,,,,not scorable,no period
+TITAN-066,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-067,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-068,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-069,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-070,,,,none,,,,,,,,,,not scorable,vague target (similar to Mia)
+TITAN-071,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-072,,,,none,,,,,,,,,,not scorable,no period
+TITAN-073,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-074,,,,none,,,,,,,,,,not scorable,no period
+TITAN-075,12,13,higher,call,,12.3,12.3%,Q4FY24,6,We still ended the year with a fairly healthy 12.3% EBIT margin.,,,,,Jewellery FY24 EBIT margin
+TITAN-076,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-077,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-078,19,21,higher,call,,16,16 international stores,Q4FY24,10,"from the 16 stores, we are looking to get to something like around 30 stores",,,,,'Up to 20' read as a point target of 20 +/-5%; as a pure ceiling it would be met trivially
+TITAN-079,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-080,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-081,,,,none,,,,,,,,,,not scorable,no Q4 quarterly wedding share reported
+TITAN-082,,,,none,,,,,,,,,,not scorable,no period
+TITAN-083,,,,none,,,,,,,,,,not scorable,no period
+TITAN-084,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-085,,,,none,,,,,,,,,,not scorable,no period
+TITAN-086,,,,none,,,,,,,,,,not scorable,no period
+TITAN-087,,,,none,,,,,,,,,,not scorable,no period
+TITAN-088,,,,none,,,,,,,,,,not scorable,no period
+TITAN-089,,,,none,,,,,,,,,,not scorable,no period
+TITAN-090,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-091,,,,none,,,,,,,,,,not scorable,no period
+TITAN-092,,,,none,,,,,,,,,,not scorable,no period
+TITAN-093,40,,higher,call,,46,46 stores,Q4FY24,6,"we have added in the current year several stores, in fact, 46 or 47 new stores in Tanishq.",,,,,Used lower of 46 or 47; floor 40
+TITAN-094,,,,none,,,,,,,,,,not scorable,no like-for-like actual (projects counted differently)
+TITAN-095,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-096,12.5,13,higher,call,,12.3,12.3%,Q4FY24,6,We still ended the year with a fairly healthy 12.3% EBIT margin.,,,,,Jewellery FY24 EBIT margin; reported figure compared with normalised guide
+TITAN-097,,,,none,,,,,,,,,,not scorable,no period
+TITAN-098,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-099,23.75,26.25,higher,call,,16,16 international stores,Q4FY24,10,"from the 16 stores, we are looking to get to something like around 30 stores",,,,,Count at FY24 end/May-24 call; ~25 +/-5%
+TITAN-100,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-101,,,,none,,,,,,,,,,not scorable,"no reported closing count; base plus additions is an upper bound, not an actual"
+TITAN-102,,,,none,,,,,,,,,,not scorable,no period
+TITAN-103,,,,none,,,,,,,,,,not scorable,only a part-period figure (60-plus by Feb-24) was reported

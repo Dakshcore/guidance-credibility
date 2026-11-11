@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VOLTAS-001,,,,none,,,,,,,,,,not scorable,no FY23-end EBO count reported (270 in Aug-23 is part-period)
+VOLTAS-002,,,,none,,,,,,,,,,not scorable,calendar vs fiscal 2025 unclear; no reported share on the guided basis
+VOLTAS-003,,,,none,,,,,,,,,,not scorable,direction vs industry; no reported actual on same basis
+VOLTAS-004,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+VOLTAS-005,,,,none,,,,,,,,,,not scorable,multi-year capex; no reported actual on same basis
+VOLTAS-006,,,,none,,,,,,,,,,not scorable,quarter vs year order booking comparison unclear; no numeric target
+VOLTAS-007,,,,none,,,,,,,,,,not scorable,no numeric target; cost direction only
+VOLTAS-008,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-009,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range
+VOLTAS-010,,,,none,,,,,,,,,,not scorable,segment result includes exceptional loss; margin basis unclear; no reported actual
+VOLTAS-011,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+VOLTAS-012,,,,none,,,,,,,,,,not scorable,calendar vs fiscal 2025 unclear; no reported share on the guided basis
+VOLTAS-013,7,9,higher,call,,8.3089,8.31%,Q4FY23,5,"the segment registered 33% growth in turnover to INR6,475 crores from INR4,882 crores with the EBIT of INR538 crores.",,,,,"UCP FY23 margin = EBIT 538 / revenue 6,475 from one quote; high single digit = 7-9"
+VOLTAS-014,,,,none,,,,,,,,,,not scorable,no reported actual for the incremental margin benefit
+VOLTAS-015,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-016,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-017,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-018,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+VOLTAS-019,,,,none,,,,,,,,,,not scorable,no numeric target (price hike size not given)
+VOLTAS-020,,,,none,,,,,,,,,,not scorable,no reported actual on same basis (volume figures not reported)
+VOLTAS-021,,,,none,,,,,,,,,,not scorable,single digit has no rubric range; ambiguous ceiling/floor
+VOLTAS-022,,,,none,,,,,,,,,,not scorable,no reported Voltbek PAT on the guided basis
+VOLTAS-023,,,,none,,,,,,,,,,not scorable,slippage statement; no numeric target or period
+VOLTAS-024,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-025,,,,none,,,,,,,,,,not scorable,no reported FY24 capex on the guided basis
+VOLTAS-026,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+VOLTAS-027,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-028,,,,none,,,,,,,,,,not scorable,direction only; base is monthly MBO share; no matching reported actual
+VOLTAS-029,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-030,5,,higher,call,,-8.9058,-8.9%,Q4FY25,5,"For the year ended March 2025, segment revenue increased by 13%, reaching INR4,157 crores compared to INR3,683 crores in the same period last year. The segment results was a positive INR169 crores, a significant turnaround from a loss of INR328 crores last year.",,,,,"EMP FY24 margin = segment result -328 / revenue 3,683 (as stated in FY25 call); blended project margin guide in excess of 5%; includes overseas provisions"
+VOLTAS-031,,,,none,,,,,,,,,,not scorable,"recovery timing, no numeric target; no reported actual"
+VOLTAS-032,,,,none,,,,,,,,,,not scorable,management declined to quote a number
+VOLTAS-033,,,,none,,,,,,,,,,not scorable,"hopeful, base about 19% approximate; no precise target"
+VOLTAS-034,,,,none,,,,,,,,,,not scorable,"direction only, no base number"
+VOLTAS-035,,,,none,,,,,,,,,,not scorable,"direction only, no base number"
+VOLTAS-036,,,,none,,,,,,,,,,not scorable,"multi-quarter, hedged; no per-quarter reported actual on same basis"
+VOLTAS-037,,,,none,,,,,,,,,,not scorable,no reported Voltbek EBITDA for FY25
+VOLTAS-038,,,,none,,,,,,,,,,not scorable,no numeric period
+VOLTAS-039,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-040,,,,none,,,,,,,,,,not scorable,no period; unclear whether incremental or total
+VOLTAS-041,,,,none,,,,,,,,,,not scorable,target value not stated
+VOLTAS-042,,,,none,,,,,,,,,,not scorable,"direction only, no base number"
+VOLTAS-043,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-044,,,,none,,,,,,,,,,not scorable,"recovery, no numeric target; no reported actual"
+VOLTAS-045,50,60,higher,call,,80.4,+80 bps,Q4FY24,5,"UCP segment registered revenue of Rs. 2,955 crores, a 44% growth in turnover from Rs. 2,049 crores in Q4 FY ‘23. Segment reported an EBIT of Rs. 270 crores in Q4 FY ‘24",Q3FY24,5,"UCP segment registered revenue of INR 1,476 crores, a 21% growth in turnover from INR 1,216 crores in quarter 3 financial year '23. Segment reported an EBIT of INR123 crores",,"UCP sequential margin change Q3FY24 to Q4FY24 in bps; Q4 270/2955=9.14%, Q3 123/1476=8.33%; Q4 revenue and EBIT from src, Q3 from src2"
+VOLTAS-046,,,,none,,,,,,,,,,not scorable,no Dec-2023 exit share reported on a later call on same basis
+VOLTAS-047,,,,none,,,,,,,,,,not scorable,"multi-year, vague; no reported Voltbek profit figure"
+VOLTAS-048,,,,none,,,,,,,,,,not scorable,no separate international segment result reported
+VOLTAS-049,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-050,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-051,7,9,higher,call,,8.404,8.40%,Q4FY25,4,"UCP segment grew by 30%, reaching INR10,614 crores, up from INR8,160 crores in the same period last year. Segment also reported an increase in 29% in results in line with revenue growth amounting to INR892 crores",,,,,"UCP FY25 margin = segment result 892 / revenue 10,614; high single digit = 7-9"
+VOLTAS-052,,,,none,,,,,,,,,,not scorable,date milestone; no numeric range
+VOLTAS-053,,,,none,,,,,,,,,,not scorable,no reported capacity addition figure
+VOLTAS-054,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VOLTAS-055,4,5,higher,call,,4.0654,4.07%,Q4FY25,5,"For the year ended March 2025, segment revenue increased by 13%, reaching INR4,157 crores compared to INR3,683 crores in the same period last year. The segment results was a positive INR169 crores, a significant turnaround from a loss of INR328 crores last year.",,,,,"Segment B FY25 margin = result 169 / revenue 4,157; guide 4-5% for project business"
+VOLTAS-056,,,,none,,,,,,,,,,not scorable,no reported Voltbek EBITDA for FY25
+VOLTAS-057,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-058,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-059,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+VOLTAS-060,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+VOLTAS-061,,,,none,,,,,,,,,,not scorable,direction only; no reported CAC margin on a later call
+VOLTAS-062,,,,none,,,,,,,,,,not scorable,direction only; no reported actual on same basis
+VOLTAS-063,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-064,7,9,higher,call,,8.404,8.40%,Q4FY25,4,"UCP segment grew by 30%, reaching INR10,614 crores, up from INR8,160 crores in the same period last year. Segment also reported an increase in 29% in results in line with revenue growth amounting to INR892 crores",,,,,"UCP FY25 margin = 892/10,614; high single digit = 7-9"
+VOLTAS-065,4,5,higher,call,,4.0654,4.07%,Q4FY25,5,"For the year ended March 2025, segment revenue increased by 13%, reaching INR4,157 crores compared to INR3,683 crores in the same period last year. The segment results was a positive INR169 crores, a significant turnaround from a loss of INR328 crores last year.",,,,,"Segment B FY25 margin = 169/4,157; guide 4-5%"
+VOLTAS-066,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-067,8.5,9,higher,call,,8.404,8.40%,Q4FY25,4,"UCP segment grew by 30%, reaching INR10,614 crores, up from INR8,160 crores in the same period last year. Segment also reported an increase in 29% in results in line with revenue growth amounting to INR892 crores",,,,,"UCP FY25 margin = 892/10,614; guide 8.5-9%"
+VOLTAS-068,,,,none,,,,,,,,,,not scorable,"collection timing, no numeric target; no reported actual"
+VOLTAS-069,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-070,,,,none,,,,,,,,,,not scorable,no reported FY25 ad spend ratio
+VOLTAS-071,,,,none,,,,,,,,,,not scorable,no reported Voltbek EBITDA for FY25
+VOLTAS-072,,,,none,,,,,,,,,,not scorable,"no period; threshold, not an outcome"
+VOLTAS-073,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-074,,,,none,,,,,,,,,,not scorable,no reported Voltbek EBITDA for FY26
+VOLTAS-075,,,,none,,,,,,,,,,not scorable,no period
+VOLTAS-076,,,,none,,,,,,,,,,not scorable,calendar vs fiscal 2026 unclear; no reported capacity
+VOLTAS-077,,,,none,,,,,,,,,,not scorable,no reported H2 domestic projects growth on same basis
+VOLTAS-078,,,,none,,,,,,,,,,not scorable,analyst figure; no reported H2 segment C margin

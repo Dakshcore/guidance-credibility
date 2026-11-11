@@ -1,0 +1,66 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RAYMOND-074,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-075,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-076,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-077,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-078,,,,none,,,,,,,,,,not scorable,no period; segment basis
+RAYMOND-079,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-080,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-081,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-082,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-083,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-084,,,,none,,,,,,,,,,not scorable,"revenue potential, not annual revenue; no period"
+RAYMOND-085,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+RAYMOND-086,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+RAYMOND-087,,,,none,,,,,,,,,,not scorable,"per-project criterion, no period"
+RAYMOND-088,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-089,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+RAYMOND-090,,,,none,,,,,,,,,,not scorable,no numeric target
+RAYMOND-091,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-092,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-093,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-094,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-095,,,,none,,,,,,,,,,not scorable,no reported actual in stored transcripts (Lifestyle calls not stored)
+RAYMOND-096,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-097,,,,none,,,,,,,,,,not scorable,branded apparel segment margin; no reported actual on that basis (Screener is consolidated)
+RAYMOND-098,,,,none,,,,,,,,,,not scorable,no numeric target
+RAYMOND-099,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+RAYMOND-100,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-101,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-102,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-103,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-104,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-105,,,,none,,,,,,,,,,not due,"4-5 years, not yet reported; number from analyst"
+RAYMOND-106,,,,none,,,,,,,,,,not scorable,no full-year FY25/FY26 presales or booking value in stored transcripts
+RAYMOND-107,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+RAYMOND-108,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-109,,,,none,,,,,,,,,,not due,7-8 years not yet reported
+RAYMOND-110,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-111,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-112,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-113,,,,none,,,,,,,,,,not due,FY29 not yet reported
+RAYMOND-114,,,,none,,,,,,,,,,not scorable,no numeric target
+RAYMOND-115,,,,none,,,,,,,,,,not due,FY28 not yet reported
+RAYMOND-116,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-117,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-118,,,,none,,,,,,,,,,not scorable,no reported headcount in stored transcripts
+RAYMOND-119,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-120,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-121,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-122,,,,none,,,,,,,,,,not scorable,no reported FY25 Thane presales in stored transcripts
+RAYMOND-123,,,,none,,,,,,,,,,not scorable,no reported FY25 booking value growth in stored transcripts
+RAYMOND-124,,,,none,,,,,,,,,,not scorable,no reported FY25 booking value in stored transcripts
+RAYMOND-125,,,,none,,,,,,,,,,not scorable,no reported FY26 booking value in stored transcripts
+RAYMOND-126,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-127,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-128,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-129,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-130,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RAYMOND-131,,,,none,,,,,,,,,,not scorable,needs four quarterly engineering figures from several calls; no reported H2 vs H1
+RAYMOND-132,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-133,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-134,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-135,,,,none,,,,,,,,,,not scorable,no reported FY25 booking value growth in stored transcripts
+RAYMOND-136,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"
+RAYMOND-137,,,,none,,,,,,,,,,not scorable,no period
+RAYMOND-138,,,,none,,,,,,,,,,not scorable,"date/event, no numeric range"

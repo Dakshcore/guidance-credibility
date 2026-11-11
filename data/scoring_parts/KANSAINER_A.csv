@@ -1,0 +1,76 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KANSAINER-001,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-002,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-003,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-004,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (distribution count)
+KANSAINER-005,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-006,,,,none,,,,,,,,,,not scorable,no reported actual (FY22 regular capex not on disk on this basis)
+KANSAINER-007,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-008,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-009,,,,none,,,,,,,,,,not scorable,milestone with no reported actual on disk
+KANSAINER-010,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-011,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+KANSAINER-012,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-013,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-014,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-015,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-016,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-017,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-018,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-019,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-020,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-021,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-022,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-023,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+KANSAINER-024,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-025,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-026,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-027,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (cumulative spend not found)
+KANSAINER-028,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-029,,,,none,,,,,,,,,,not scorable,"exit milestone, no reported actual"
+KANSAINER-030,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-031,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-032,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-033,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-034,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-035,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-036,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-037,13.3,14.7,higher,call,,13.8,13.8%,Q4FY24,8,"So, on the standalone EBITDA, if you see 13.8%, we, I think we have been discussing that's our target, what we were keeping the band at, 13% to 14%. So this is what we have achieved.",,,,,Mgmt-reported FY24 EBITDA margin; quote says standalone then consolidated; Screener FY24 is 13.18
+KANSAINER-038,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-039,0,,higher,screener,ebitda_change_bps:FY24,,,,,,,,,,"Change in consolidated EBITDA margin FY24 vs FY23, bps"
+KANSAINER-040,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-041,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-042,,,,none,,,,,,,,,,not scorable,no reported actual for full-year distribution growth
+KANSAINER-043,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-044,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-045,,,,none,,,,,,,,,,not scorable,"vague level, no usable range"
+KANSAINER-046,,,,none,,,,,,,,,,not scorable,unclear value or volume; no Q3FY24 growth actual on the guided basis
+KANSAINER-047,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on the guided basis
+KANSAINER-048,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-049,,,,none,,,,,,,,,,not scorable,"volume growth; hedged, no reported H2 volume actual on disk"
+KANSAINER-050,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-051,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-052,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-053,,,,none,,,,,,,,,,not scorable,no reported actual for Q4 tax rate
+KANSAINER-054,13.3,14.7,higher,call,,13.8,13.8%,Q4FY24,8,"So, on the standalone EBITDA, if you see 13.8%, we, I think we have been discussing that's our target, what we were keeping the band at, 13% to 14%. So this is what we have achieved.",,,,,Standalone FY24 EBITDA margin as reported by management
+KANSAINER-055,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-056,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-057,,0,lower,screener,ebitda_change_bps:FY25,,,,,,,,,,"Change in consolidated EBITDA margin FY25 vs FY24, bps; guide basis not stated, direction only"
+KANSAINER-058,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-059,,,,none,,,,,,,,,,not scorable,segment growth; no reported actual on the guided basis
+KANSAINER-060,,,,none,,,,,,,,,,not scorable,decorative volume growth; no reported full-year actual on the guided basis
+KANSAINER-061,,,,none,,,,,,,,,,not scorable,no reported actual for full-year distribution growth
+KANSAINER-062,,,,none,,,,,,,,,,not scorable,no reported actual (FY25 capex not found in transcripts)
+KANSAINER-063,,,,none,,,,,,,,,,not scorable,decorative volume growth; no reported full-year actual and ambiguous guide
+KANSAINER-064,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-065,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-066,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-067,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-068,,,,none,,,,,,,,,,not scorable,no reported actual (FY25 capex not found in transcripts)
+KANSAINER-069,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-070,,,,none,,,,,,,,,,not scorable,no reported actual (capacity increase not found in later calls)
+KANSAINER-071,,,,none,,,,,,,,,,not scorable,no reported actual (installed capacity not found in later calls)
+KANSAINER-072,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-073,,,,none,,,,,,,,,,not due,FY27-FY29 target not yet reported
+KANSAINER-074,,,,none,,,,,,,,,,not scorable,small base; no reported actual on the guided basis
+KANSAINER-075,,,,none,,,,,,,,,,not scorable,no period

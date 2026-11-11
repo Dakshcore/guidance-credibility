@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SHOPERSTOP-001,,,,none,,,,,,,,,,not scorable,no single FY22 total reported on call for all formats
+SHOPERSTOP-002,10,12,higher,call,,8,8 department stores,Q4FY22,7,Overall we opened eight department stores in the financial year,,,,,department stores opened in FY22
+SHOPERSTOP-003,,,,none,,,,,,,,,,not scorable,basis not stated; no gross margin actual
+SHOPERSTOP-004,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-005,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-006,80,100,lower,call,,101,Rs 101 crore,Q4FY22,5,We also invested Rs.46 Crores as capex in the last quarter and cumulatively Rs.101 Crores for the full year.,,,,,capex treated as spend: lower is better
+SHOPERSTOP-007,,,,none,,,,,,,,,,not scorable,omni share not reported after management stopped tracking digital sales separately
+SHOPERSTOP-008,,,,none,,,,,,,,,,not scorable,no reported actual on closures
+SHOPERSTOP-009,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-010,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-011,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-012,,,,none,,,,,,,,,,not scorable,no numeric target; no actual on guided basis
+SHOPERSTOP-013,38.95,43.05,higher,call,,28,28 new beauty brands,Q3FY22,5,"This quarter, we launched 28 new brands in Beauty and so far in the year, we have now launched 70 new brands.",,,,,
+SHOPERSTOP-014,,,,none,,,,,,,,,,not scorable,"Q4 actual reported as 85 new options, not the 200 lipstick/nail variants guided"
+SHOPERSTOP-015,,,,none,,,,,,,,,,not scorable,"actual is Estee Lauder beauty stores, not Beauty by Shoppers Stop standalone"
+SHOPERSTOP-016,,,,none,,,,,,,,,,not scorable,no clean count of standalone beauty stores over the 12 months
+SHOPERSTOP-017,5.7,6.3,higher,call,,3,3 department stores,Q3FY22,4,"we opened 5 new stores, 3 department stores and 2 Beauty stores",,,,,department store part scored; beauty part (2 vs 3) also short
+SHOPERSTOP-018,10,12,higher,call,,8,8 department stores,Q4FY22,7,Overall we opened eight department stores in the financial year,,,,,department store part scored for weakest year FY22; beauty part not checked
+SHOPERSTOP-019,,,,none,,,,,,,,,,not scorable,net cash given only as a range on call
+SHOPERSTOP-020,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-021,,,,none,,,,,,,,,,not scorable,no numeric target; margin type not stated
+SHOPERSTOP-022,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-023,,,,none,,,,,,,,,,not scorable,no numeric target
+SHOPERSTOP-024,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-025,,,,none,,,,,,,,,,not scorable,no reported H2 renovation count
+SHOPERSTOP-026,,,,none,,,,,,,,,,not scorable,no reported actual for omni opex H2FY22
+SHOPERSTOP-027,,,,none,,,,,,,,,,not scorable,basis not stated; non-GAAP margin actual not on file
+SHOPERSTOP-028,7000,,higher,screener,revenue:FY26,,,,,,,,,,"double FY20 sales (about 7000 cr); FY25-FY26 window ended; FY26 used, FY25 lower still"
+SHOPERSTOP-029,8,10,higher,call,,8,8 department stores,Q4FY22,7,Overall we opened eight department stores in the financial year,,,,,FY22 part scored; the after-FY22 part has no end date
+SHOPERSTOP-030,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-031,,,,none,,,,,,,,,,not scorable,"85 new options reported, not 75 makeup and nail SKUs"
+SHOPERSTOP-032,,,,none,,,,,,,,,,not scorable,"actual is Q4 count, not by Feb-22"
+SHOPERSTOP-033,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-034,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-035,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-036,8,10,higher,call,,8,8 department stores,Q4FY22,7,Overall we opened eight department stores in the financial year,,,,,"stores read as department stores, as in statement 29; low confidence"
+SHOPERSTOP-037,9.5,10.5,higher,call,,11,11 department stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,stores read as department stores; low confidence
+SHOPERSTOP-038,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-039,,,,none,,,,,,,,,,not scorable,quarterly guide; Screener other income is annual and includes one-offs
+SHOPERSTOP-040,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-041,,,,none,,,,,,,,,,not scorable,non-GAAP margin actual not on file; Screener is Ind AS 116
+SHOPERSTOP-042,,,,none,,,,,,,,,,not scorable,non-GAAP margin actual not on file; Screener is Ind AS 116
+SHOPERSTOP-043,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-044,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-045,40,,higher,call,,60,close to Rs 60 crore,Q4FY22,23,This year we invested close to 60 odd Crores so next year also we will invest close to that,,,,,omni opex FY22; floor
+SHOPERSTOP-046,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-047,,,,none,,,,,,,,,,not scorable,number from analyst; company does not guide gross margin
+SHOPERSTOP-048,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-049,12,15,higher,call,,11,11 department stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,
+SHOPERSTOP-050,,,,none,,,,,,,,,,not scorable,margin type not stated; no numeric target
+SHOPERSTOP-051,,,,none,,,,,,,,,,not scorable,total FY23 capex not stated by management; Rs 200 cr was analyst figure
+SHOPERSTOP-052,9.5,10.5,higher,call,,12,12 beauty stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,beauty stores/doors count as reported; unsure if guide meant standalone only
+SHOPERSTOP-053,,,,none,,,,,,,,,,not scorable,no numeric target
+SHOPERSTOP-054,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-055,,,,none,,,,,,,,,,not scorable,no numeric term loan figure; only repaid
+SHOPERSTOP-056,,0,lower,screener,working_capital_days:FY23,,,,,,,,,,negative working capital means days below zero
+SHOPERSTOP-057,,,,none,,,,,,,,,,not scorable,net debt only described as negligible
+SHOPERSTOP-058,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-059,10,,higher,screener,rev_growth:FY23,,,,,,,,,,double digit = 10 or more; consolidated
+SHOPERSTOP-060,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-061,,,,none,,,,,,,,,,not scorable,no FY23 omni opex total reported
+SHOPERSTOP-062,,,,none,,,,,,,,,,not scorable,no numeric target; margin type not stated
+SHOPERSTOP-063,12,15,higher,call,,11,11 department stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,
+SHOPERSTOP-064,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+SHOPERSTOP-065,11.4,12.6,higher,call,,11,11 department stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,FY23 weakest-year check; FY23 alone is below band so verdict holds whatever FY24-25 were; department part only
+SHOPERSTOP-066,,,,none,,,,,,,,,,not scorable,area figures reported on a different basis (carpet vs chargeable)
+SHOPERSTOP-067,16.0,,higher,call,,16.4,16.4% of sales,Q1FY24,6,"contributed to 16.4% of our overall sales with INR216 crores, an increase of 13%",,,,,"floor at 16.0%, the Q1FY23 beauty mix stated on the guiding call; Q1FY24 actual"
+SHOPERSTOP-068,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-069,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-070,,,,none,,,,,,,,,,not scorable,no full-year non-GAAP gross margin found
+SHOPERSTOP-071,,,,none,,,,,,,,,,not scorable,non-GAAP margin actual not on file; Screener is Ind AS 116
+SHOPERSTOP-072,,,,none,,,,,,,,,,not scorable,area basis changed to carpet area; no comparable actual
+SHOPERSTOP-073,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+SHOPERSTOP-074,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+SHOPERSTOP-075,11.4,12.6,higher,call,,11,11 department stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,
+SHOPERSTOP-076,14.25,15.75,higher,call,,12,12 beauty stores,Q4FY23,6,"To be precise, we opened 11 department stores and 12 beauty stores.",,,,,beauty doors counted as beauty stores in the reported figure
+SHOPERSTOP-077,,,,none,,,,,,,,,,not scorable,"actual covers quarter, not by Dec-22 window"
+SHOPERSTOP-078,,,,none,,,,,,,,,,not scorable,basis not stated; non-GAAP margin actual not on file
+SHOPERSTOP-079,,,,none,,,,,,,,,,not scorable,non-GAAP FY26 margin actual not on file
+SHOPERSTOP-080,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-081,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-082,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-083,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-084,,,,none,,,,,,,,,,not scorable,guide basis unclear (apparel vs total); no matching actual
+SHOPERSTOP-085,,,,none,,,,,,,,,,not scorable,no reported inventory figures for Q3FY23

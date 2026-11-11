@@ -1,0 +1,82 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+DEVYANI-001,,,,none,,,,,,,,,,not scorable,no numeric target; direction only
+DEVYANI-002,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-003,10,,higher,call,,45.4,45.4%,Q4FY22,4,Pizza Hut added 116 net new stores to reach 413 stores at the year end. SSSG at 45.4% for the year helped brand post,,,,,Pizza Hut FY22 SSSG; floor of 10%
+DEVYANI-004,,,,none,,,,,,,,,,not scorable,no period (steady state)
+DEVYANI-005,,,,none,,,,,,,,,,not scorable,no period; ceiling on closure rate not a dated target
+DEVYANI-006,200,250,higher,call,,246,246 stores,Q4FY22,3,"We added a total of 246 net new stores during the year, led by",,,,,Guide 200-250 net stores; closer-to-250 hedge noted; all-brand net adds. Unsure: brand split on same page sums below 246
+DEVYANI-007,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+DEVYANI-008,,,,none,,,,,,,,,,not scorable,no period; 22.5-23% figure came from analyst
+DEVYANI-009,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-010,,,,none,,,,,,,,,,not scorable,no period (next few years)
+DEVYANI-011,,,,none,,,,,,,,,,not scorable,no period; per-store capex not reported as an actual
+DEVYANI-012,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+DEVYANI-013,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (FY23 capex total not on any stored call)
+DEVYANI-014,16.625,18.375,higher,call,,14.5,14.5%,Q4FY23,4,Brand contribution margin saw a small dip to 14.5% versus 16.3% last,,,,,"Pizza Hut FY23 brand contribution; 17.5% +/-5%; 17.5% came from analyst, mgmt said sustainable"
+DEVYANI-015,,,,none,,,,,,,,,,not scorable,no period (once COVID normalises)
+DEVYANI-016,,,,none,,,,,,,,,,not scorable,no numeric target; product launch
+DEVYANI-017,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-018,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-019,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-020,,,,none,,,,,,,,,,not scorable,no period (medium term)
+DEVYANI-021,,,,none,,,,,,,,,,not scorable,no period; count of flagship locations hedged
+DEVYANI-022,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+DEVYANI-023,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-024,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-025,200,250,higher,call,,305,305 stores,Q4FY23,3,"In FY23, we opened 305 new stores across our brand portfolio with",,,,,FY23 all-brand net adds
+DEVYANI-026,65.835,72.765,higher,call,,68.3,68.3%,Q4FY23,4,"Gross margins at 68.3% , lower by 100 basis points compared to the previous year due to sustained inflation in",,,,,KFC India FY23 gross margin; flat = FY22 base +/-5%; base 69.3% derived as 68.3 plus the 100 bps fall in the quote. Unsure: base is derived
+DEVYANI-027,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-028,,,,none,,,,,,,,,,not scorable,no period; per-year run rate undated
+DEVYANI-029,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-030,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+DEVYANI-031,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-032,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+DEVYANI-033,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-034,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-035,,,,none,,,,,,,,,,not scorable,no period (next few quarters)
+DEVYANI-036,,,,none,,,,,,,,,,not scorable,no period (next few quarters)
+DEVYANI-037,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-038,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-039,,,,none,,,,,,,,,,not scorable,no period; market growth base not a company actual
+DEVYANI-040,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-041,,,,none,,,,,,,,,,not scorable,no period (next few quarters)
+DEVYANI-042,237.5,262.5,higher,call,,305,305 stores,Q4FY23,3,"In FY23, we opened 305 new stores across our brand portfolio with",,,,,FY23 all-brand net adds; ~250 +/-5%
+DEVYANI-043,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-044,,,,none,,,,,,,,,,not scorable,figure came from analyst; no reported actual on the guided basis
+DEVYANI-045,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-046,40,50,higher,call,,57,57 stores,Q4FY23,5,We have added 57 stores during the year to develop our footprint and to reach a total of 112 stores.,,,,,Costa FY23 additions
+DEVYANI-047,,,,none,,,,,,,,,,not scorable,no period (medium term)
+DEVYANI-048,,,,none,,,,,,,,,,not scorable,no period (going forward)
+DEVYANI-049,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-050,1140,1260,higher,call,,1243,"1,243 stores",Q4FY23,2,"We now operate 1,243 stores across our portfolio of countries and brands.",Q3FY23,2,You would recall that we were at a store count of approximately 600 stores,,"Target 2x FY20 base of ~600 = ~1,200 +/-5%; base from Q3FY23 p2 (src2). Unsure: base is approximate"
+DEVYANI-051,,,,none,,,,,,,,,,not scorable,no period (medium term); no number
+DEVYANI-052,250,300,higher,call,,256,256 stores,Q4FY24,2,"We opened 256 new stores, including 47 in the",,,,,"FY24 organic adds; excludes 283 Thailand stores (1,782-283-1,243=256 net)"
+DEVYANI-053,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-054,,,,none,,,,,,,,,,not scorable,no period (medium term)
+DEVYANI-055,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-056,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+DEVYANI-057,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-058,,,,none,,,,,,,,,,not scorable,no period (eventual)
+DEVYANI-059,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-060,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-061,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-062,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-063,,,,none,,,,,,,,,,not scorable,no period (medium term)
+DEVYANI-064,,,,none,,,,,,,,,,not scorable,no period (medium term)
+DEVYANI-065,,,,none,,,,,,,,,,not scorable,no numeric target; implied direction only
+DEVYANI-066,285,315,higher,call,,256,256 stores,Q4FY24,2,"We opened 256 new stores, including 47 in the",,,,,FY24 organic adds; ~300 +/-5%
+DEVYANI-067,95,105,higher,call,,106,106 stores,Q4FY24,6,"KFC in India added 106 new stores in FY’ 24, reaching a total count of 596 stores at the end",,,,,KFC India FY24 net adds (490 to 596); ~100 +/-5%
+DEVYANI-068,95,105,higher,call,,61,61 stores,Q4FY24,6,"During the year, Pizza Hut added 61 new stores reaching a total count",,,,,Pizza Hut India FY24 net adds; ~100 +/-5%
+DEVYANI-069,60,70,higher,call,,67,67 stores,Q4FY24,6,Costa Coffee added 67 new stores during the fiscal year reaching a cumulative store,,,,,Costa FY24 net adds
+DEVYANI-070,,,,none,,,,,,,,,,not scorable,no period (next few quarters)
+DEVYANI-071,275,300,higher,call,,256,256 stores,Q4FY24,2,"We opened 256 new stores, including 47 in the",,,,,FY24 organic adds; guide 275-300
+DEVYANI-072,,,,none,,,,,,,,,,not scorable,period ambiguous (calendar vs fiscal 2026); no reported actual on the guided basis
+DEVYANI-073,,,,none,,,,,,,,,,not scorable,run-rate vs revenue basis unclear; no reported actual on the guided basis
+DEVYANI-074,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-075,,,,none,,,,,,,,,,not scorable,no numeric target
+DEVYANI-076,,,,none,,,,,,,,,,not scorable,no numeric target or period
+DEVYANI-077,,,,none,,,,,,,,,,not scorable,no numeric target (medium term)
+DEVYANI-078,70,75,higher,call,,61,61 stores,Q4FY24,6,"During the year, Pizza Hut added 61 new stores reaching a total count",,,,,Pizza Hut India FY24 net adds; guide 70-75
+DEVYANI-079,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+DEVYANI-080,60,70,higher,call,,67,67 stores,Q4FY24,6,Costa Coffee added 67 new stores during the fiscal year reaching a cumulative store,,,,,Costa FY24 net adds; annual run rate stated for FY24
+DEVYANI-081,,,,none,,,,,,,,,,not scorable,no numeric target or period

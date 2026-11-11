@@ -1,0 +1,75 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+GOCOLORS-074,90,100,lower,call,,104,104 days,Q4FY24,4,"Inventory days as of March 24, stood at 104 days compared to 126 days in March",,,,,Mar-24 inventory days
+GOCOLORS-075,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-076,,,,none,,,,,,,,,,not scorable,no matching reported figure at Nov-25
+GOCOLORS-077,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-078,,,,none,,,,,,,,,,not scorable,no numeric FY24 SSSG reported (flattish)
+GOCOLORS-079,,,,none,,,,,,,,,,not scorable,no Dec-23 figure on the guided basis (97 days was a 9-month average)
+GOCOLORS-080,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-081,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-082,90,95,lower,call,,104,104 days,Q4FY24,4,"Inventory days as of March 24, stood at 104 days compared to 126 days in March",,,,,Mar-24 inventory days
+GOCOLORS-083,,,,none,,,,,,,,,,not scorable,no reported working capital days at Mar-24
+GOCOLORS-084,,,,none,,,,,,,,,,not scorable,no numeric actual reported
+GOCOLORS-085,,,,none,,,,,,,,,,not scorable,no reported count of new products
+GOCOLORS-086,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-087,,,,none,,,,,,,,,,not scorable,"direction only, basis and base unclear"
+GOCOLORS-088,19,21,higher,call,,15,15%,Q4FY24,3,our company achieved a 15% Y-o-Y growth in revenue to INR763 crores in FY '24.,,,,,FY24 revenue growth
+GOCOLORS-089,760,840,higher,call,,763,INR763 crores,Q4FY24,4,"revenue is at INR763 crores in FY '24 as against INR 665 crores in FY '23, a growth of 15% Y -o-Y",,,,,FY24 revenue
+GOCOLORS-090,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-091,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-092,,,,none,,,,,,,,,,not scorable,gross vs net basis unclear
+GOCOLORS-093,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-094,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-095,5,6,higher,call,,3.44,3.44% (752 vs 727),Q4FY24,3,"Our ASP continues to witness growth and stood at INR752 , which was INR727 during FY",,,,,ASP growth FY24 computed as 752/727-1 from the two figures in the quote
+GOCOLORS-096,,,,none,,,,,,,,,,not scorable,no numeric FY24 SSSG reported (flattish)
+GOCOLORS-097,0,,higher,call,,-6,-6%,Q2FY24,8,It is in Q2 volume decline is -6% and in Q1 it was around,,,,,Q2FY24 volume SSSG
+GOCOLORS-098,,,,none,,,,,,,,,,not scorable,EBITDA base for 82% conversion not stated as pre-Ind AS
+GOCOLORS-099,,,,none,,,,,,,,,,not scorable,gross vs net basis unclear
+GOCOLORS-100,,,,none,,,,,,,,,,not scorable,gross vs net basis unclear
+GOCOLORS-101,,,,none,,,,,,,,,,not scorable,no numeric Q2FY24 SSSG reported (stagnant)
+GOCOLORS-102,90,95,lower,call,,104,104 days,Q4FY24,4,"Inventory days as of March 24, stood at 104 days compared to 126 days in March",,,,,Mar-24 inventory days
+GOCOLORS-103,19,21,higher,call,,15,15%,Q4FY24,3,our company achieved a 15% Y-o-Y growth in revenue to INR763 crores in FY '24.,,,,,FY24 revenue growth
+GOCOLORS-104,2,3,lower,call,,2.1,2.1%,Q4FY24,3,"Our A&P spend stood at 2.1%, which is in line with our guidance",,,,,FY24 A&P as % of revenue
+GOCOLORS-105,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-106,58.9525,64.0475,higher,call,,61.7,61.7%,Q4FY24,4,"Gross profit stood at INR471 crores, a growth of 17% Y -o-Y with a gross margin of 61.7% for the full year",,,,,FY24 gross margin
+GOCOLORS-107,114,126,higher,call,,84,84 stores,Q4FY24,3,"we added a net total of 84 stores, bringing us to overall to count to 714 stores",,,,,FY24 net additions
+GOCOLORS-108,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-109,,,,none,,,,,,,,,,not scorable,base for improvement not named
+GOCOLORS-110,760,840,higher,call,,763,INR763 crores,Q4FY24,4,"revenue is at INR763 crores in FY '24 as against INR 665 crores in FY '23, a growth of 15% Y -o-Y",,,,,FY24 revenue
+GOCOLORS-111,,,,none,,,,,,,,,,not scorable,gross vs net basis unclear
+GOCOLORS-112,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-113,,,,none,,,,,,,,,,not scorable,no reported city count at end of FY26
+GOCOLORS-114,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-115,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-116,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-117,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-118,,,,none,,,,,,,,,,not scorable,no reported H2FY24 figure
+GOCOLORS-119,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-120,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-121,100,110,higher,call,,84,84 stores,Q4FY24,3,"we added a net total of 84 stores, bringing us to overall to count to 714 stores",,,,,FY24 net additions
+GOCOLORS-122,142.5,157.5,higher,call,,62,62 stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores",,,,,FY25 net additions
+GOCOLORS-123,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-124,92.15,101.85,lower,call,,104,104 days,Q4FY24,4,"Inventory days as of March 24, stood at 104 days compared to 126 days in March",,,,,Mar-24 inventory days
+GOCOLORS-125,14,16,higher,call,,15,15%,Q4FY24,4,"Our revenues for the quarter stood at INR182 crores as against INR158 crores in Q4 FY '23, a growth of 15% Y -o-Y",,,,,Q4FY24 revenue growth
+GOCOLORS-126,,,,none,,,,,,,,,,not scorable,no clear period or numeric target
+GOCOLORS-127,,2,lower,call,,2.1,2.1%,Q4FY24,3,"Our A&P spend stood at 2.1%, which is in line with our guidance",,,,,FY24 A&P as % of revenue
+GOCOLORS-128,1.9,2.1,lower,call,,2,2%,Q4FY25,4,Our advertising and promotional spend as a percentage of revenue stood at 2% for FY25,,,,,FY25 A&P as % of revenue
+GOCOLORS-129,,,,none,,,,,,,,,,not scorable,no reported FY25 LFS additions
+GOCOLORS-130,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-131,,,,none,,,,,,,,,,not scorable,EBO gross margin not reported separately
+GOCOLORS-132,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-133,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-134,120,150,higher,call,,62,62 stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores",,,,,FY25 net additions
+GOCOLORS-135,,,,none,,,,,,,,,,not scorable,no reported FY25 gross closure count
+GOCOLORS-136,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-137,5,6,higher,call,,2.1,2.1%,Q4FY25,3,Q4FY25 witnessed a recovery in SSSG which stood at 2.,,,,,Q4FY25 SSSG (exit rate)
+GOCOLORS-138,2,3,higher,call,,0.2,0.2%,Q1FY25,3,increasing our total store count to 734. We are optimistic about our continued store expansion efforts and aim to open between 120 and 150 stores for full year FY'25. SSSG during Q1 FY'25 stood at 0.2%,,,,,Q1FY25 SSSG
+GOCOLORS-139,,,,none,,,,,,,,,,not scorable,FY25 ASP basis unclear
+GOCOLORS-140,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-141,58.425,64.575,higher,call,,62.4,62.4%,Q2FY25,5,"Gross profit stood at Rs. 268 crores, a growth of 16% Y-o-Y, with the GP margins of 62.4% for the half year",,,,,H1FY25 gross margin
+GOCOLORS-142,,,,none,,,,,,,,,,not scorable,pre-Ind AS EBITDA margin not reported
+GOCOLORS-143,,,,none,,,,,,,,,,not scorable,no reported metro share of FY25 additions
+GOCOLORS-144,1.9,2.1,lower,call,,2,2%,Q4FY25,4,Our advertising and promotional spend as a percentage of revenue stood at 2% for FY25,,,,,FY25 A&P as % of revenue
+GOCOLORS-145,,,,none,,,,,,,,,,not scorable,no reported count
+GOCOLORS-146,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-147,,,,none,,,,,,,,,,not scorable,no numeric target

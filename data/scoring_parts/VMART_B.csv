@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VMART-075,19,21,higher,call,,19,19 stores closed in Q4FY24 (10 V-Mart + 9 Unlimited),Q4FY24,8,The closure of 10 stores in V-Mart and nine in Unlimited during the quarter will further improve the overall performance going forward.,,,,,sum of 10 and 9 closures in the quarter; point guide 20 +/-5%
+VMART-076,,,,none,,,,,,,,,,not scorable,no period; margin type and basis unclear
+VMART-077,,,,none,,,,,,,,,,not scorable,no period
+VMART-078,,,,none,,,,,,,,,,not scorable,"quarterly path, no single reported actual"
+VMART-079,,,,none,,,,,,,,,,not scorable,hedged optimism; no reported breakeven figure
+VMART-080,,,,none,,,,,,,,,,not scorable,"direction only, no number, no period"
+VMART-081,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+VMART-082,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 opening count
+VMART-083,,,,none,,,,,,,,,,not scorable,"no numeric target, no period"
+VMART-084,,,,none,,,,,,,,,,not scorable,no FY25 refurbishment spend reported on a comparable basis
+VMART-085,47.5,52.5,higher,call,,62,62 stores opened in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,FY25 gross openings; point guide 50 +/-5%
+VMART-086,30,,higher,call,,53,53 net stores in FY25 (62 opened less 9 closed),Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,"net = 62 opened minus 9 closures, both in the one quote; guide 30-plus or 40-plus net, floor 30"
+VMART-087,,,,none,,,,,,,,,,not scorable,no period
+VMART-088,,,,none,,,,,,,,,,not scorable,"vision, hedged; no reported Q4FY25 LimeRoad EBITDA figure on call"
+VMART-089,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+VMART-090,40,50,higher,call,,62,62 stores opened in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,FY25 gross openings vs 40-50 range
+VMART-091,5,10,lower,call,,9,9 closures in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,FY25 closures vs 5-10 range; fewer closures treated as better
+VMART-092,,,,none,,,,,,,,,,not scorable,no reported savings figure
+VMART-093,,7,lower,call,,9,9 closures in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,ceiling of 7 (not more than 5-7); fewer closures treated as better
+VMART-094,,,,none,,,,,,,,,,not scorable,no reported sales per sq ft figure for FY26
+VMART-095,,,,none,,,,,,,,,,not scorable,no period
+VMART-096,,,,none,,,,,,,,,,not scorable,no period
+VMART-097,,50,lower,call,,45,FY25 LimeRoad loss about 45% of FY24 (55% lower),Q4FY25,8,So the last year losses were almost 55% lower than the previous year losses.,,,,,actual = 100 minus 55 (reported as almost 55% lower); ceiling 50% of FY24 loss
+VMART-098,,,,none,,,,,,,,,,not scorable,no management-reported full-year SSSG for FY25 and FY26
+VMART-099,,,,none,,,,,,,,,,not scorable,"pilot experiment, not a commitment; no later count"
+VMART-100,,,,none,,,,,,,,,,not scorable,no period
+VMART-101,,,,none,,,,,,,,,,not scorable,no reported FY25 offline gross margin on guided basis
+VMART-102,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+VMART-103,47.5,52.5,higher,call,,62,62 stores opened in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,FY25 gross openings; point guide 50 +/-5%
+VMART-104,,,,none,,,,,,,,,,not scorable,guide is closures remaining after Q1; only full-year count reported
+VMART-105,,,,none,,,,,,,,,,not scorable,"direction only, quarterly, no single actual"
+VMART-106,,,,none,,,,,,,,,,not scorable,"quarterly path, no reported actuals on basis"
+VMART-107,,,,none,,,,,,,,,,not scorable,YoY base not stated; no reported offline margin comparison
+VMART-108,,,,none,,,,,,,,,,not scorable,"direction only, base not named"
+VMART-109,,,,none,,,,,,,,,,not scorable,no period
+VMART-110,,,,none,,,,,,,,,,not scorable,"direction only, no number, quarterly"
+VMART-111,,,,none,,,,,,,,,,not scorable,pre-IndAS exit rate not reported on a matching basis
+VMART-112,,,,none,,,,,,,,,,not scorable,no management-reported full-year SSSG for FY25 and FY26
+VMART-113,,,,none,,,,,,,,,,not scorable,negligible not quantified
+VMART-114,,50,lower,call,,45,FY25 LimeRoad loss about 45% of FY24 (55% lower),Q4FY25,8,So the last year losses were almost 55% lower than the previous year losses.,,,,,actual = 100 minus 55 (reported as almost 55% lower); ceiling 50% of FY24 loss
+VMART-115,,,,none,,,,,,,,,,not scorable,"platform capacity multiple, not an explicit metric"
+VMART-116,,,,none,,,,,,,,,,not scorable,guide is closures remaining; only full-year count reported
+VMART-117,55,60,higher,call,,62,62 stores opened in FY25,Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,FY25 gross openings vs 55-60 range
+VMART-118,,,,none,,,,,,,,,,not scorable,no reported FY25 offline gross margin on guided basis
+VMART-119,,,,none,,,,,,,,,,not scorable,"direction only, quarterly"
+VMART-120,,,,none,,,,,,,,,,not scorable,no numeric target
+VMART-121,,,,none,,,,,,,,,,not scorable,no reported FY26 area addition
+VMART-122,,,,none,,,,,,,,,,not scorable,metric not explicit; FY30 not yet reported
+VMART-123,,,,none,,,,,,,,,,not scorable,no period
+VMART-124,,,,none,,,,,,,,,,not scorable,negligible not quantified; hedged aspiration
+VMART-125,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+VMART-126,,,,none,,,,,,,,,,not scorable,no period
+VMART-127,,,,none,,,,,,,,,,not scorable,"no number, no period"
+VMART-128,50,,higher,call,,53,53 net stores in FY25 (62 opened less 9 closed),Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,,,,,"net = 62 opened minus 9 closures, both in the one quote; floor 50"
+VMART-129,3,4,lower,call,,4,4 closures in Q4FY25 (9 YTD less 5 at Q3),Q4FY25,7,we opened 13 stores this quarter and 62 YTD with nine closures.,Q3FY25,8,"we opened 21 stores this quarter and 49 year -to-date, with five closures.",,Q4 closures = 9 full-year minus 5 YTD at Q3; fewer closures treated as better
+VMART-130,,,,none,,,,,,,,,,not scorable,no period; unclear basis
+VMART-131,,,,none,,,,,,,,,,not scorable,no period
+VMART-132,,,,none,,,,,,,,,,not scorable,no number; no reported FY26 area addition
+VMART-133,55,65,higher,call,,92,92 stores opened in FY26,Q4FY26,8,We opened 29 stores this quarter and 92 in the full year with 12 closures.,,,,,"FY26 gross openings; net would be 80, still above range"
+VMART-134,,,,none,,,,,,,,,,not scorable,"standing policy, no period, no reported actual"
+VMART-135,,,,none,,,,,,,,,,not scorable,no period; margin type unclear
+VMART-136,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VMART-137,,,,none,,,,,,,,,,not scorable,no reported FY26 area addition
+VMART-138,,,,none,,,,,,,,,,not scorable,no period
+VMART-139,,,,none,,,,,,,,,,not scorable,no period
+VMART-140,,,,none,,,,,,,,,,not scorable,no reported FY26 area addition
+VMART-141,,,,none,,,,,,,,,,not scorable,"accounting effect, no reported actual"
+VMART-142,,,,none,,,,,,,,,,not scorable,FY26 LimeRoad loss reduction reported without clear period or basis
+VMART-143,,,,none,,,,,,,,,,not scorable,no period
+VMART-144,,,,none,,,,,,,,,,not scorable,no rupee amount; FY27 not yet reported
+VMART-145,,,,none,,,,,,,,,,not scorable,no period
+VMART-146,,,,none,,,,,,,,,,not scorable,no reported FY26 area addition
+VMART-147,61.75,68.25,higher,call,,92,92 stores opened in FY26,Q4FY26,8,We opened 29 stores this quarter and 92 in the full year with 12 closures.,,,,,"FY26 gross openings; point guide 65 +/-5%; net would be 80, still above"
+VMART-148,,,,none,,,,,,,,,,not scorable,no reported FY26 split of new stores by existing cities
+VMART-149,,,,none,,,,,,,,,,not scorable,growth measure not named
+VMART-150,,,,none,,,,,,,,,,not scorable,no period
+VMART-151,,,,none,,,,,,,,,,not scorable,no period or base number
+VMART-152,,,,none,,,,,,,,,,not scorable,no period

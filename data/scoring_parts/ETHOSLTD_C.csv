@@ -1,0 +1,25 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ETHOSLTD-155,,,,none,,,,,,,,,,not scorable,baseline unclear: 12 gross stores to Oct vs 12 in H1 plus 4 in Oct; no clean H2 count
+ETHOSLTD-156,,,,none,,,,,,,,,,not scorable,date milestone; no count actual on guided period
+ETHOSLTD-157,,,,none,,,,,,,,,,not scorable,no numeric target; fiscal vs calendar year unclear
+ETHOSLTD-158,,,,none,,,,,,,,,,not due,FY26-FY30 not yet reported
+ETHOSLTD-159,,,,none,,,,,,,,,,not due,FY30 not yet reported
+ETHOSLTD-160,,,,none,,,,,,,,,,not due,FY30 not yet reported
+ETHOSLTD-161,,,,none,,,,,,,,,,not scorable,"later call gives only about 40 or 45 locations at May-25, not at Jan-25"
+ETHOSLTD-162,,,,none,,,,,,,,,,not scorable,no reported FY25 pre-owned growth figure on guided basis; only a bound
+ETHOSLTD-163,,,,none,,,,,,,,,,not due,10 years from Nov-24 not yet reported
+ETHOSLTD-164,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-165,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-166,,,,none,,,,,,,,,,not scorable,no reported boutique count for FY26 in stored sources
+ETHOSLTD-167,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-168,,,,none,,,,,,,,,,not due,10 years from May-25 not yet reported
+ETHOSLTD-169,,,,none,,,,,,,,,,not scorable,no numeric target; no period
+ETHOSLTD-170,,,,none,,,,,,,,,,not scorable,not a company outcome with a numeric actual
+ETHOSLTD-171,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ETHOSLTD-172,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-173,,,,none,,,,,,,,,,not scorable,period ambiguous (next year); no reported actual
+ETHOSLTD-174,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-175,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-176,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-177,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-178,,,,none,,,,,,,,,,not scorable,no numeric target; intention only

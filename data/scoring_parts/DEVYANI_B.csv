@@ -1,0 +1,56 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+DEVYANI-082,2000,,higher,call,,2032,"2,032 stores",Q3FY25,3,"bringing our total store count to 2 ,032 as of December 31st, 2024",,,,,"milestone of 2,000 total stores incl. Thailand; ""by 2026"" ambiguous but 2,032 reached Dec-24, before any 2026 date"
+DEVYANI-083,250,275,higher,call,,256,256 new stores,Q4FY24,2,"We opened 256 new stores, including 47 in the fourth quarter.",,,,,"FY24 new stores opened, consolidated"
+DEVYANI-084,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-085,,,,none,,,,,,,,,,not scorable,"direction on ""overall performance"", not a revenue number"
+DEVYANI-086,,,,none,,,,,,,,,,not scorable,direction only; no numeric target
+DEVYANI-087,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-088,,,,none,,,,,,,,,,not scorable,direction only; no reported actual
+DEVYANI-089,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-090,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-091,,,,none,,,,,,,,,,not scorable,"no period (annual run rate, unspecified)"
+DEVYANI-092,,,,none,,,,,,,,,,not scorable,no period; conditional
+DEVYANI-093,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-094,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-095,250,275,higher,call,,256,256 new stores,Q4FY24,2,"We opened 256 new stores, including 47 in the fourth quarter.",,,,,"FY24 new stores opened, consolidated"
+DEVYANI-096,2000,,higher,call,,2032,"2,032 stores",Q3FY25,3,"bringing our total store count to 2 ,032 as of December 31st, 2024",,,,,total store count at 31 Dec 2024 incl. Thailand
+DEVYANI-097,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-098,,,,none,,,,,,,,,,not scorable,no period; no reported actual on the guided basis
+DEVYANI-099,,,,none,,,,,,,,,,not scorable,no reported actual for Q4FY24 corporate cost on the call
+DEVYANI-100,,,,none,,,,,,,,,,not due,FY31-FY32 not yet reported
+DEVYANI-101,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-102,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-103,250,300,higher,call,,257,257 new stores,Q4FY25,3,"we successfully added 257 new stores during FY2025, elevating our total presence to 2,039 stores as of March 31, 2025",,,,,"FY25 new stores added; same measure as FY24 ""opened new stores""; guide basis (India brands vs incl Thailand) not fully clear"
+DEVYANI-104,,,,none,,,,,,,,,,not scorable,three components in one row; not scored
+DEVYANI-105,,,,none,,,,,,,,,,not scorable,no numeric target; metric unspecified
+DEVYANI-106,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-107,275,300,higher,call,,257,257 new stores,Q4FY25,3,"we successfully added 257 new stores during FY2025, elevating our total presence to 2,039 stores as of March 31, 2025",,,,,"FY25 new stores added; same measure as FY24 ""opened new stores""; guide basis (India brands vs incl Thailand) not fully clear"
+DEVYANI-108,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-109,2000,,higher,call,,2039,"2,039 stores",Q4FY25,3,"we successfully added 257 new stores during FY2025, elevating our total presence to 2,039 stores as of March 31, 2025",,,,,total store count at 31 Mar 2025 incl. Thailand
+DEVYANI-110,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-111,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+DEVYANI-112,,,,none,,,,,,,,,,not scorable,no period; conditional on ADS
+DEVYANI-113,100,,higher,call,,100,100 KFC India stores,Q4FY25,4,"KFC in India added 100 new stores in FY25. With this , the total store count for KFC in India stands at 696 stores as of 31st March 2025",,,,,KFC India FY25 additions
+DEVYANI-114,50,60,higher,call,,41,41 Costa stores,Q4FY25,4,"Costa Coffee added 11 new stores during the quarter and 41 stores during the entire financial year of 2025, reaching a cumulative store count of 220 stores as of 31st March 2025",,,,,Costa FY25 additions
+DEVYANI-115,,,,none,,,,,,,,,,not scorable,calendar-year basis; no CY2024 actual reported
+DEVYANI-116,,,,none,,,,,,,,,,not scorable,calendar-year basis; no CY2024 actual reported
+DEVYANI-117,,,,none,,,,,,,,,,not scorable,no reported actual
+DEVYANI-118,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-119,,,,none,,,,,,,,,,not scorable,no period; direction only
+DEVYANI-120,,,,none,,,,,,,,,,not scorable,no numeric target; direction only
+DEVYANI-121,,,,none,,,,,,,,,,not scorable,no reported Q4FY25 Pizza Hut India brand contribution margin on call
+DEVYANI-122,,,,none,,,,,,,,,,not scorable,no period; conditional on ADS
+DEVYANI-123,,,,none,,,,,,,,,,not scorable,no FY26 Thailand store actual on guided basis
+DEVYANI-124,,,,none,,,,,,,,,,not scorable,no FY26 Thailand SSSG actual on guided basis
+DEVYANI-125,,,,none,,,,,,,,,,not scorable,no FY26 Thailand revenue growth actual on guided basis
+DEVYANI-126,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+DEVYANI-127,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+DEVYANI-128,,,,none,,,,,,,,,,not scorable,no period; not a measurable outcome
+DEVYANI-129,,,,none,,,,,,,,,,not scorable,no numeric target; turnaround milestone
+DEVYANI-130,,,,none,,,,,,,,,,not scorable,direction only; no numeric actual
+DEVYANI-131,,,,none,,,,,,,,,,not scorable,no period
+DEVYANI-132,,,,none,,,,,,,,,,not scorable,no period; conditional on ADS
+DEVYANI-133,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+DEVYANI-134,110,120,higher,call,,87,87 net KFC India stores,Q4FY26,5,We ended the year with 783 KFC stores across India,Q4FY25,4,the total store count for KFC in India stands at 696 stores as of 31st March 2025,,closing 783 minus opening 696 (31 Mar 2025) = 87 net adds; guide read as net KFC India adds
+DEVYANI-135,,,,none,,,,,,,,,,not scorable,no numeric target; hedged
+DEVYANI-136,,,,none,,,,,,,,,,not scorable,direction only; hedged

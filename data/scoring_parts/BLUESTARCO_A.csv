@@ -1,0 +1,70 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BLUESTARCO-001,7.6,8.4,higher,call,,7.0,7.0%,Q4FY22,7,Segment result was Rs 72.05 cr (7.0% of revenue) in Q4FY22 as compared to Rs 62.06 cr (7.9% of revenue) in Q4FY21.,,,,,conditional on no third wave; segment II result margin
+BLUESTARCO-002,6,6.5,higher,call,,6.0,6.0%,Q4FY22,7,"Consequently, segment results improved to Rs 155.86 cr (6.0% of revenue) in FY22 as compared to Rs 108.82 cr (5.8% of revenue) in FY21.",,,,,segment II FY22; actual 6.0% as stated
+BLUESTARCO-003,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-004,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-005,13.5,14,higher,call,,13.25,13.25%,Q4FY22,7,We grew faster than the market and ended the financial year with a market share of 13.25% (FY21: 13%).,,,,,room AC share at FY22 end
+BLUESTARCO-006,,,,none,,,,,,,,,,not scorable,no reported room AC value growth for FY22
+BLUESTARCO-007,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-008,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-009,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+BLUESTARCO-010,8,9,higher,call,,7.0,7.0%,Q4FY22,7,Segment result was Rs 72.05 cr (7.0% of revenue) in Q4FY22 as compared to Rs 62.06 cr (7.9% of revenue) in Q4FY21.,,,,,
+BLUESTARCO-011,28,30,lower,screener,tax_rate:FY23,,,,,,,,,,consolidated effective tax rate
+BLUESTARCO-012,,,,none,,,,,,,,,,not scorable,"two-year capex, no reported actual on normal-capex basis"
+BLUESTARCO-013,,,,none,,,,,,,,,,not scorable,no numeric target; relative to H1
+BLUESTARCO-014,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-015,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-016,,,,none,,,,,,,,,,not scorable,no numeric target
+BLUESTARCO-017,12,15,higher,call,,25.0,25.0%,Q4FY23,8,the growth for the quarter has been 10% and for the year has been around 25% in revenue terms,,,,,"segment I revenue growth FY23, stated as around 25%"
+BLUESTARCO-018,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-019,6.65,7.35,higher,call,,7.0,7.0%,Q4FY22,7,Segment result was Rs 72.05 cr (7.0% of revenue) in Q4FY22 as compared to Rs 62.06 cr (7.9% of revenue) in Q4FY21.,,,,,
+BLUESTARCO-020,5.5,6,higher,call,,6.7,6.7%,Q4FY22,6,Segment result was Rs 75.84 cr (6.7% of revenue) in Q4FY22 as against a profit of Rs 48.50 cr (6.2% of revenue) in Q4FY21.,,,,,
+BLUESTARCO-021,18,20,higher,call,,18.5,18.5%,Q4FY22,8,Segment result was Rs 14.34 cr (18.5% of revenue) in Q4FY22 as compared to Rs 7.22 cr (14.5% of revenue) in Q4FY21.,,,,,
+BLUESTARCO-022,,,,none,,,,,,,,,,not scorable,stores served vs touch points; no reported actual on same measure
+BLUESTARCO-023,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+BLUESTARCO-024,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-025,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-026,,,,none,,,,,,,,,,not scorable,no reported actual on own-manufactured share
+BLUESTARCO-027,,,,none,,,,,,,,,,not scorable,no reported actual on Wada capex
+BLUESTARCO-028,,,,none,,,,,,,,,,not scorable,no reported actual on price hike
+BLUESTARCO-029,,,,none,,,,,,,,,,not scorable,no reported actual on e-commerce share
+BLUESTARCO-030,,33,lower,screener,tax_rate:FY23,,,,,,,,,,ceiling = FY22 tax rate 33 (screener tax_rate:FY22); lower than FY22
+BLUESTARCO-031,,,,none,,,,,,,,,,not scorable,"corporate action, no numeric range"
+BLUESTARCO-032,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-033,,,,none,,,,,,,,,,not scorable,period ambiguous (2025 vs FY25); same goal scored in later rows
+BLUESTARCO-034,8,8.5,higher,call,,7.8,7.8%,Q4FY23,8,average of last year being 6% and average for the current year being 7.8%,,,,,
+BLUESTARCO-035,7,,higher,call,,8.1,8.1%,Q1FY23,6,Segment result was Rs 91.13 cr (8.1% of revenue) in Q1FY23 as compared to Rs 21.77 cr (4.3% of revenue) in Q1FY22.,,,,,
+BLUESTARCO-036,,,,none,,,,,,,,,,not scorable,no reported room AC growth for Apr-Jul 2022 vs 2019
+BLUESTARCO-037,25,,higher,call,,39.0,39.0%,Q4FY23,8,"Coming to Segment 2, again a very good growth - 22% for the quarter and 39% if you look at it on an annual basis.",,,,,segment II revenue growth FY23
+BLUESTARCO-038,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-039,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+BLUESTARCO-040,,,,none,,,,,,,,,,not scorable,no numeric target
+BLUESTARCO-041,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-042,,,,none,,,,,,,,,,not scorable,no room AC growth reported on guided basis (segment II includes refrigeration)
+BLUESTARCO-043,,8.1,higher,call,,6.2,6.2%,Q2FY23,6,Segment result was Rs 32.40 crore (6.2% of revenue) in Q2FY23 as compared to Rs 23.26 crore (5.1% of revenue) in Q2FY22.,Q1FY23,6,Segment result was Rs 91.13 cr (8.1% of revenue) in Q1FY23 as compared to Rs 21.77 cr (4.3% of revenue) in Q1FY22.,,ceiling = Q1FY23 unitary margin 8.1% (src2); actual is Q2FY23
+BLUESTARCO-044,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-045,,,,none,,,,,,,,,,not scorable,needs H1 and H2 segment figures not reported on guided basis
+BLUESTARCO-046,9.5,10.5,higher,call,,8.4,8.4%,Q4FY24,6,Segment results improved to Rs 141.43 crores (8.3% of revenue) in Q4FY24 as compared to Rs 106.95 crores (8.4% of revenue) in Q4FY23.,,,,,Q4FY23 unitary margin from Q4FY24 comparison
+BLUESTARCO-047,8.55,9.45,higher,call,,7.8,7.8%,Q4FY23,8,average of last year being 6% and average for the current year being 7.8%,,,,,
+BLUESTARCO-048,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-049,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-050,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-051,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+BLUESTARCO-052,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-053,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-054,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-055,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-056,6,6.5,higher,call,,6.9,6.9%,Q4FY23,8,Last year we have reported 6.1% average whereas this year it is 6.9% average for the year,,,,,
+BLUESTARCO-057,6.9,,higher,call,,7.2,7.2%,Q4FY24,5,Segment result was Rs 341.09 crores (7.2% of revenue) in FY24 compared to Rs 276.78 crores (6.9% of revenue) in FY23.,,,,,"floor = FY23 segment I margin 6.9%, same quote"
+BLUESTARCO-058,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-059,14.25,15.75,higher,call,,14.0,14.0%,Q4FY25,7,"FY25 witnessed a very strong demand growth, and the overall performance of this business has been exceptional. Our market share now stands close to 14%.",,,,,actual is close to 14% at FY25 end
+BLUESTARCO-060,8,8.5,higher,call,,7.8,7.8%,Q4FY23,8,average of last year being 6% and average for the current year being 7.8%,,,,,
+BLUESTARCO-061,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-062,6,6.5,higher,call,,6.9,6.9%,Q4FY23,8,Last year we have reported 6.1% average whereas this year it is 6.9% average for the year,,,,,
+BLUESTARCO-063,8,8.5,higher,call,,7.8,7.8%,Q4FY23,8,average of last year being 6% and average for the current year being 7.8%,,,,,
+BLUESTARCO-064,14.25,15.75,higher,call,,14.0,14.0%,Q4FY25,7,"FY25 witnessed a very strong demand growth, and the overall performance of this business has been exceptional. Our market share now stands close to 14%.",,,,,actual is close to 14% at FY25 end
+BLUESTARCO-065,8,8.5,higher,call,,8.4,8.4%,Q4FY25,7,"Consequently, segment results improved to Rs. 471.2 Cr, which was 8.4% of revenue in FY25 , as compared to Rs. 360.3 Cr, which was 7.8% of revenue in FY24.",,,,,
+BLUESTARCO-066,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-067,,,,none,,,,,,,,,,not scorable,no period; direction only
+BLUESTARCO-068,,,,none,,,,,,,,,,not scorable,"management estimate for today incl. institutional, not a reported FY23 exit figure"
+BLUESTARCO-069,,,,none,,,,,,,,,,not scorable,no reported Sri City share of FY23 sales

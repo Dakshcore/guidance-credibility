@@ -1,0 +1,15 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SYMPHONY-085,,,,none,,,,,,,,,,not scorable,no numeric target for a reportable metric; spillover amount not a guided outcome
+SYMPHONY-086,,,,none,,,,,,,,,,not scorable,no amount or date
+SYMPHONY-087,,,,none,,,,,,,,,,not scorable,no number; growth not quantified
+SYMPHONY-088,,,,none,,,,,,,,,,not scorable,direction only; no gross margin actual on guided basis
+SYMPHONY-089,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+SYMPHONY-090,,,,none,,,,,,,,,,not scorable,CODB 'slightly below' not quantified; hedged
+SYMPHONY-091,,,,none,,,,,,,,,,not scorable,"no number, no period"
+SYMPHONY-092,,,,none,,,,,,,,,,not scorable,"no period; part of loan, not checkable"
+SYMPHONY-093,,,,none,,,,,,,,,,not scorable,period vague (few quarters); no dated target
+SYMPHONY-094,,,,none,,,,,,,,,,not scorable,conditional; no period; no reported actual
+SYMPHONY-095,,,,none,,,,,,,,,,not scorable,turnaround not defined numerically
+SYMPHONY-096,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-097,,,,none,,,,,,,,,,not scorable,no period; standing policy
+SYMPHONY-098,,,,none,,,,,,,,,,not scorable,later calls give different total (Rs 45 crore) and no completed full-period payment

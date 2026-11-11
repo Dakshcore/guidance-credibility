@@ -1,0 +1,5 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+NYKAA-086,,,,none,,,,,,,,,,not scorable,"no period, no numeric target"
+NYKAA-087,,,,none,,,,,,,,,,not scorable,"no period, no numeric target"
+NYKAA-088,,,,none,,,,,,,,,,not scorable,"no period, no numeric target"
+NYKAA-089,,,,none,,,,,,,,,,not scorable,no period

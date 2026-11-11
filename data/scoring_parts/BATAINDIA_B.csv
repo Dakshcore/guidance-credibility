@@ -1,0 +1,51 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BATAINDIA-077,,,,none,,,,,,,,,,not scorable,no reported actual for Q1FY25 door additions
+BATAINDIA-078,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+BATAINDIA-079,,,,none,,,,,,,,,,not scorable,no reported actual for Power Apparel store count
+BATAINDIA-080,,,,none,,,,,,,,,,not scorable,no reported actual for Nine West store count by Dec-24
+BATAINDIA-081,,,,none,,,,,,,,,,not scorable,"milestone event, no numeric target"
+BATAINDIA-082,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-083,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-084,,,,none,,,,,,,,,,not scorable,no reported actual for FY25 ad spend share
+BATAINDIA-085,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-086,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-087,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-088,,,,none,,,,,,,,,,not scorable,"different basis: guide is H2FY25 per-store lines, only network yoy and ZBM figures reported"
+BATAINDIA-089,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-090,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-091,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+BATAINDIA-092,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+BATAINDIA-093,,,,none,,,,,,,,,,not scorable,no reported actual for Power Apparel store count
+BATAINDIA-094,,,,none,,,,,,,,,,not scorable,no reported actual for Floatz kiosk count
+BATAINDIA-095,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-096,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-097,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-098,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-099,,,,none,,,,,,,,,,not scorable,no reported actual for FY25 Floatz pairs
+BATAINDIA-100,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-101,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BATAINDIA-102,,,,none,,,,,,,,,,not scorable,no reported management actual for FY25 EBO additions (100-odd figure came from analyst)
+BATAINDIA-103,,,,none,,,,,,,,,,not scorable,"share of openings, no reported actual"
+BATAINDIA-104,,,,none,,,,,,,,,,not scorable,no reported actual for tier 3 share of net additions
+BATAINDIA-105,,,,none,,,,,,,,,,not scorable,no reported actual for sourcing partner reduction
+BATAINDIA-106,,,,none,,,,,,,,,,not scorable,no reported actual for sourcing partner reduction
+BATAINDIA-107,,,,none,,,,,,,,,,not scorable,"later call gives a 15-20 door range for Floatz, not a clear same-basis count"
+BATAINDIA-108,237.5,262.5,higher,call,,146,146 ZBM stores,Q4FY25,4,"We are now to about 146 stores. So, it's obviously a very large expansion from less than 40 or so last quarter.",,,,,"Count given at Jun-25 call; Q1FY26 says close to 200 at end Jun-25 after 50 added in the quarter, so Mar-25 count was about 150 at most"
+BATAINDIA-109,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-110,,,,none,,,,,,,,,,not scorable,"milestone event, no numeric target"
+BATAINDIA-111,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-112,,,,none,,,,,,,,,,not scorable,"rollout milestone, no numeric target"
+BATAINDIA-113,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-114,,,,none,,,,,,,,,,not scorable,no reported ZBM store count at end of H1FY26
+BATAINDIA-115,250,300,higher,call,,550,550 ZBM stores,Q4FY26,3,We are now in the position to say that we are already at 550 stores as of last quarter,,,,,"Dec-25 count was already 400 (Q3FY26), above range either way"
+BATAINDIA-116,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-117,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-118,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-119,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-120,,,,none,,,,,,,,,,not scorable,no period
+BATAINDIA-121,,,,none,,,,,,,,,,not scorable,base came from analyst and no reported FY26 net additions on same basis
+BATAINDIA-122,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-123,,,,none,,,,,,,,,,not scorable,no numeric target
+BATAINDIA-124,,,,none,,,,,,,,,,not scorable,no reported FY26 Floatz revenue; only a run-rate remark
+BATAINDIA-125,285,315,higher,call,,400,400 ZBM stores,Q3FY26,3,"This was on the back of persistent implementation of the zero-based merchandising project. Now it has scaled up to 400 stores and obviously, higher marketing spend.",,,,,Stated at Feb-26 call for quarter ended Dec-25
+BATAINDIA-126,,,,none,,,,,,,,,,not scorable,no reported share of retail turnover at Dec-25

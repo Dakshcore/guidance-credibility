@@ -1,0 +1,80 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BAJAJELEC-001,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-002,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-003,,,,none,,,,,,,,,,not scorable,segment EBIT not on Screener; no numeric segment actual in transcripts
+BAJAJELEC-004,,,,none,,,,,,,,,,not scorable,"no net debt figure reported; transcript only says achieved, no number"
+BAJAJELEC-005,,,,none,,,,,,,,,,not scorable,segment margin for Q2-Q4 part-period; no matching reported actual
+BAJAJELEC-006,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-007,,,,none,,,,,,,,,,not scorable,"FY23 EPC result stated only as positive or breakeven, no figure"
+BAJAJELEC-008,,,,none,,,,,,,,,,not scorable,no period; conditional on order book
+BAJAJELEC-009,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-010,,,,none,,,,,,,,,,not scorable,no later consumer or illumination segment EBIT figure on same basis
+BAJAJELEC-011,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-012,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-013,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-014,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-015,,,,none,,,,,,,,,,not scorable,no period; segment margin not reported on later calls
+BAJAJELEC-016,,,,none,,,,,,,,,,not scorable,"FY23 EPC result stated only as positive or breakeven, no figure"
+BAJAJELEC-017,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+BAJAJELEC-018,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-019,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-020,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-021,,,,none,,,,,,,,,,not scorable,net cash not reported on guided basis
+BAJAJELEC-022,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-023,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-024,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-025,,,,none,,,,,,,,,,not scorable,"no period; rank, no numeric target"
+BAJAJELEC-026,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-027,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-028,,,,none,,,,,,,,,,not scorable,no period; segment margin not reported on later calls
+BAJAJELEC-029,,,,none,,,,,,,,,,not scorable,segment margin FY26 not reported on guided basis; demerger changed segments
+BAJAJELEC-030,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-031,,,,none,,,,,,,,,,not scorable,"FY23 EPC result stated only as positive or breakeven, no figure"
+BAJAJELEC-032,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-033,,,,none,,,,,,,,,,not scorable,UP receivables net figure not reported on later call
+BAJAJELEC-034,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-035,,,,none,,,,,,,,,,not scorable,no clear numeric target; segment FY23 margin not reported
+BAJAJELEC-036,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-037,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-038,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-039,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-040,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-041,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-042,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-043,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-044,,,,none,,,,,,,,,,not scorable,no period; segment margin not reported on later calls
+BAJAJELEC-045,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-046,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-047,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-048,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-049,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-050,,,,none,,,,,,,,,,not scorable,no FY25 in-house share reported; management later said no target number
+BAJAJELEC-051,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-052,,,,none,,,,,,,,,,not scorable,no reported manufacturing capex on guided basis
+BAJAJELEC-053,,,,none,,,,,,,,,,not scorable,direction only; Q3 margin figure came from analyst
+BAJAJELEC-054,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-055,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-056,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-057,,,,none,,,,,,,,,,not scorable,no segment margin actuals on same basis
+BAJAJELEC-058,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-059,,,,none,,,,,,,,,,not scorable,no reported Q3 consumer lighting revenue
+BAJAJELEC-060,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-061,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-062,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-063,,,,none,,,,,,,,,,not scorable,H2 ad spend not reported; part-period
+BAJAJELEC-064,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-065,,,,none,,,,,,,,,,not scorable,EPC FY24 margin not reported; EPC demerged
+BAJAJELEC-066,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-067,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-068,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-069,,,,none,,,,,,,,,,not scorable,Q3 base on consumer plus B2C lighting; Q4 2.5% basis unclear
+BAJAJELEC-070,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-071,,,,none,,,,,,,,,,not scorable,no later reported coverage figure
+BAJAJELEC-072,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-073,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-074,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-075,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BAJAJELEC-076,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-077,,,,none,,,,,,,,,,not scorable,no reported FY24 lighting in-house share
+BAJAJELEC-078,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+BAJAJELEC-079,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"

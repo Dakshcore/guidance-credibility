@@ -1,0 +1,35 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+TITAN-001,,,,none,,,,,,,,,,not scorable,no period
+TITAN-002,,,,none,,,,,,,,,,not scorable,"hedged, explicitly not guidance; no reported actual on the guided basis"
+TITAN-003,,,,none,,,,,,,,,,not scorable,direction only; no reported actual on the guided basis
+TITAN-004,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-005,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY22 store additions in stored transcripts
+TITAN-006,,,,none,,,,,,,,,,not scorable,no reported eyecare store count for FY24-FY25 in stored transcripts
+TITAN-007,,,,none,,,,,,,,,,not scorable,no reported eyecare store additions to Jan-23 in stored transcripts
+TITAN-008,,,,none,,,,,,,,,,not scorable,no period
+TITAN-009,,,,none,,,,,,,,,,not scorable,no reported Tanishq H2FY22 store additions in stored transcripts
+TITAN-010,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY22 closing store count in stored transcripts
+TITAN-011,,,,none,,,,,,,,,,not scorable,no reported Tanishq store count for FY25-FY26 in stored transcripts
+TITAN-012,,,,none,,,,,,,,,,not scorable,no period
+TITAN-013,,,,none,,,,,,,,,,not scorable,no reported watches e-com share for Q3FY22 in stored transcripts
+TITAN-014,,,,none,,,,,,,,,,not scorable,"no numeric target, vague period"
+TITAN-015,,,,none,,,,,,,,,,not scorable,no period
+TITAN-016,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY22 store additions in stored transcripts
+TITAN-017,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY23 store additions in stored transcripts
+TITAN-018,,,,none,,,,,,,,,,not scorable,no reported jewellery portfolio store count for FY24 in stored transcripts
+TITAN-019,,,,none,,,,,,,,,,not scorable,no reported eyecare network count for FY23 in stored transcripts
+TITAN-020,,,,none,,,,,,,,,,not scorable,no numeric target; dated milestone with no reported actual
+TITAN-021,,,,none,,,,,,,,,,not scorable,no reported international store count at Feb-25 in stored transcripts
+TITAN-022,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-023,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-024,,,,none,,,,,,,,,,not scorable,"direction only, no named base figure"
+TITAN-025,,,,none,,,,,,,,,,not scorable,direction only; no reported actual on the guided basis
+TITAN-026,,,,none,,,,,,,,,,not scorable,no period
+TITAN-027,,,,none,,,,,,,,,,not scorable,no reported eyecare network count for FY23 in stored transcripts
+TITAN-028,13,,higher,call,,13.7,13.7%,Q4FY23,8,"In the full year FY23, we have got an EBIT margin of 13.7%.",,,,,Guide 13% plus read as floor 13; FY23 jewellery standalone EBIT margin
+TITAN-029,,,,none,,,,,,,,,,not scorable,no reported Fastrack store additions for FY23 in stored transcripts
+TITAN-030,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual on the guided basis
+TITAN-031,,,,none,,,,,,,,,,not scorable,no period
+TITAN-032,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-033,,,,none,,,,,,,,,,not scorable,no period
+TITAN-034,,,,none,,,,,,,,,,not scorable,"direction only, no period"

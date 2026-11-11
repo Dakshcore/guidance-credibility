@@ -1,0 +1,43 @@
+PHASE 3 RESULTS (definitions fixed in docs/prereg.md; intervals are 95%, bootstrap over companies, 2000 draws, seed 20261111)
+
+company-years in panel: 113; with >= 3 scored statements: 87; dropped by that rule: 26
+missing excess return: 0; missing earnings surprise: 14
+
+FORWARD 12-MONTH EXCESS RETURN VS NIFTY 500
+primary specification
+test FY24-FY25                     n=57  companies=34  Spearman -0.030 [-0.342, +0.260]  top-minus-bottom +2.1% [-13.0%, +14.7%]
+train FY22-FY23                    n=30  companies=24  Spearman -0.174 [-0.425, +0.125]  top-minus-bottom -4.5% [-66.7%, +40.2%]
+pooled                             n=87  companies=37  Spearman -0.076 [-0.302, +0.138]  top-minus-bottom -1.0% [-25.1%, +15.9%]
+robustness: two-year score
+test FY24-FY25                     n=67  companies=37  Spearman +0.204 [-0.034, +0.402]  top-minus-bottom +6.2% [-6.2%, +17.3%]
+train FY22-FY23                    n=30  companies=24  Spearman -0.191 [-0.433, +0.101]  top-minus-bottom -4.5% [-66.8%, +38.3%]
+pooled                             n=97  companies=38  Spearman +0.025 [-0.165, +0.216]  top-minus-bottom +2.1% [-21.6%, +17.2%]
+robustness: at least 5 scored statements
+test FY24-FY25                     n=48  companies=29  Spearman -0.024 [-0.351, +0.284]  top-minus-bottom +3.9% [-11.6%, +15.6%]
+train FY22-FY23                    n=25  companies=21  Spearman -0.131 [-0.460, +0.232]  top-minus-bottom +6.6% [-74.6%, +56.4%]
+pooled                             n=73  companies=31  Spearman -0.046 [-0.283, +0.197]  top-minus-bottom +4.8% [-29.4%, +23.7%]
+robustness: excess over the equal-weighted sample mean return
+test FY24-FY25                     n=57  companies=34  Spearman -0.050 [-0.353, +0.241]  top-minus-bottom +1.9% [-12.5%, +14.1%]
+train FY22-FY23                    n=30  companies=24  Spearman -0.177 [-0.445, +0.129]  top-minus-bottom -5.0% [-65.4%, +40.9%]
+pooled                             n=87  companies=37  Spearman -0.108 [-0.344, +0.120]  top-minus-bottom -0.9% [-25.0%, +16.1%]
+
+NEXT-YEAR EARNINGS SURPRISE (random-walk proxy, scaled by sales)
+primary specification
+test FY24-FY25                     n=49  companies=30  Spearman -0.062 [-0.417, +0.272]  top-minus-bottom +0.1% [-2.0%, +2.8%]
+train FY22-FY23                    n=28  companies=22  Spearman -0.194 [-0.545, +0.184]  top-minus-bottom -6.1% [-14.3%, +7.9%]
+pooled                             n=77  companies=33  Spearman -0.071 [-0.332, +0.170]  top-minus-bottom -2.1% [-5.9%, +3.2%]
+robustness: two-year score
+test FY24-FY25                     n=56  companies=32  Spearman -0.139 [-0.420, +0.150]  top-minus-bottom +0.7% [-2.2%, +3.1%]
+train FY22-FY23                    n=28  companies=22  Spearman -0.246 [-0.572, +0.124]  top-minus-bottom -6.1% [-14.4%, +7.9%]
+pooled                             n=84  companies=34  Spearman -0.135 [-0.374, +0.109]  top-minus-bottom -1.6% [-5.5%, +3.0%]
+robustness: at least 5 scored statements
+test FY24-FY25                     n=42  companies=26  Spearman -0.094 [-0.456, +0.251]  top-minus-bottom -0.2% [-2.3%, +2.2%]
+train FY22-FY23                    n=24  companies=20  Spearman -0.102 [-0.481, +0.261]  top-minus-bottom +4.7% [-15.9%, +11.4%]
+pooled                             n=66  companies=28  Spearman -0.051 [-0.330, +0.190]  top-minus-bottom +1.7% [-6.8%, +4.4%]
+
+DESCRIPTION BY SCORE YEAR (company-years with >= 3 scored statements)
+year     n  median score  mean score  index return  mean excess  median excess  mean surprise
+FY22     6         0.789       0.763         12.0%        24.7%          32.0%          13.6%
+FY23    24         0.667       0.632         33.9%        -1.3%         -25.4%           0.9%
+FY24    28         0.519       0.542          4.6%        -6.4%          -9.0%           0.2%
+FY25    29         0.600       0.507         -0.8%       -18.1%         -15.5%           0.6%

@@ -1,0 +1,84 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-001,70,75,higher,call,,72.0,72% (Rs 144 cr vs Rs 200 cr),Q3FY22,6,If you see ou r revenue in Q3 pre-COVID was Rs 200 crore and in Q3 this year was Rs. 144 crore.,,,,,"Q3FY22 revenue as % of Q3FY20 revenue, both in quote; 144/200"
+LEMONTREE-002,,,,none,,,,,,,,,,not scorable,two-part claim; Q2FY22 revenue not stated on any call
+LEMONTREE-003,,,,none,,,,,,,,,,not scorable,no reported Q2FY22 revenue on any stored call
+LEMONTREE-004,115,119.6,higher,call,,143.7,Rs 143.7 cr Q3FY22 revenue,Q4FY22,3,Revenue from operations increased 26% from Rs. 95.1 crore to Rs. 119.5 crore on a year on year and decreased 17% from Rs.143.7 on a quarter-on-quarter basis.,,,,,Guide Rs1.25-1.3 cr/day x 92 days of Q3 = 115-119.6 cr; actual is Q3FY22 revenue
+LEMONTREE-005,157.5,180,higher,call,,119.5,Rs 119.5 cr Q4FY22 revenue,Q4FY22,3,Revenue from operations increased 26% from Rs. 95.1 crore to Rs. 119.5 crore on a year on year and decreased 17% from Rs.143.7 on a quarter-on-quarter basis.,,,,,Guide Rs1.75-2 cr/day x 90 days of Q4 = 157.5-180 cr; guide conditional on no major third wave (one occurred)
+LEMONTREE-006,30,,higher,call,,36.2,36.2% EBITDA margin Q2FY22,Q2FY22,3,Our EBITDA margin expanded by 3159 bps to 36.2% in Q2 FY22 from 4.6% in Q1 FY22.,,,,,"Floor at ~30% base named by analyst; ""a little higher"""
+LEMONTREE-007,,,,none,,,,,,,,,,not scorable,conditional on full recovery not reached; late 40s not a number
+LEMONTREE-008,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-009,,,,none,,,,,,,,,,not scorable,no reported repayment actual on guided basis
+LEMONTREE-010,,,,none,,,,,,,,,,not scorable,"Mumbai market occupancy, no reported actual"
+LEMONTREE-011,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+LEMONTREE-012,,,,none,,,,,,,,,,not scorable,opening date vs Aug-21 not stated on later call
+LEMONTREE-013,1,,higher,call,,1,1 hotel (Coorg Aurika) commissioned in Q2FY22,Q2FY22,3,we commissioned three new hotels under management contracts during this quarter. These include our entry into Coorg (63 rooms) with our first managed resort under the brand Aurika,,,,,"Q2FY22 ended 30-Sep-21, before the Oct-21 deadline; count of 1 opened"
+LEMONTREE-014,,,,none,,,,,,,,,,not scorable,"signings count, no reported actual for period"
+LEMONTREE-015,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-016,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+LEMONTREE-017,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-018,,,,none,,,,,,,,,,not scorable,owned vs operating rooms basis unclear; no reported actual
+LEMONTREE-019,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-020,,0.75,lower,call,,0.63,0.63 staff per room,Q1FY23,15,"And the staff per room ratio is still at 0.66,? Itis at 0.63 now.",,,,,"Ceiling 0.75; figure given on Q1FY23 call (Aug-22), about one year after guide"
+LEMONTREE-021,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-022,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-023,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-024,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-025,,,,none,,,,,,,,,,not scorable,no numeric target
+LEMONTREE-026,,,,none,,,,,,,,,,not scorable,no reported mid-market share actual
+LEMONTREE-027,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-028,,,,none,,,,,,,,,,not scorable,no reported Q1FY22 and Q2FY22 revenue on stored calls
+LEMONTREE-029,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-030,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-031,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+LEMONTREE-032,1710,1890,higher,call,,1700,"1,700 retail rooms/day in Q3",Q3FY22,5,"In Q3, the retail went and I'm referring to pre -COVID Jan and Feb -20, retail went from 12 00 pre -COVID to 1700.",,,,,~1800 +/-5%
+LEMONTREE-033,3420,3780,higher,call,,3901,"Rs 3,901 ARR Q3FY22",Q3FY22,2,"ARR increased 54% Y-o-Y and 29% Q-o-Q to Rs. 3,901.",,,,,~3600 +/-5%; company ARR
+LEMONTREE-034,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-035,,,,none,,,,,,,,,,not scorable,"point-in-time run rate, no reported actual"
+LEMONTREE-036,,,,none,,,,,,,,,,not scorable,pre-COVID base ambiguous; H1FY23 revenue not reported on call
+LEMONTREE-037,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-038,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-039,900,1000,higher,call,,900,900 rooms/day corporate (large + MSME) in Q3,Q3FY22,5,"Large corporates and medium sm all enterprises dropped from 1500 pre-COVID to 900 and most of them were medium, small, and micro enterprises.",,,,,Q3 average per context
+LEMONTREE-040,,,,none,,,,,,,,,,not scorable,no Q4FY22 corporate rooms/day reported
+LEMONTREE-041,,,,none,,,,,,,,,,not scorable,"point-in-time run rate, no reported actual"
+LEMONTREE-042,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-043,,,,none,,,,,,,,,,not scorable,unclear whether banquet or total revenue; Q4FY20 base not stored
+LEMONTREE-044,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-045,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-046,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-047,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-048,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-049,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-050,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-051,,,,none,,,,,,,,,,not scorable,"demand, not revenue; no reported actual"
+LEMONTREE-052,,,,none,,,,,,,,,,not scorable,multi-metric guide; no FY23 Aurika Udaipur actual on call
+LEMONTREE-053,,,,none,,,,,,,,,,not scorable,"hotel-level figure, no reported actual"
+LEMONTREE-054,,,,none,,,,,,,,,,not scorable,H1FY23 signings count not reported
+LEMONTREE-055,,,,none,,,,,,,,,,not scorable,"signings, no reported actual"
+LEMONTREE-056,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-057,,,,none,,,,,,,,,,not scorable,pre-COVID base ambiguous; aim not forecast
+LEMONTREE-058,,,,none,,,,,,,,,,not scorable,"point-in-time run rate, no reported actual"
+LEMONTREE-059,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-060,4000,,higher,call,,4093,"Rs 4,093 ARR Q4FY22",Q4FY22,3,"Average room rates went up by 54% from Rs. 2654 to Rs. 4,093 on a year-on-year basis",,,,,Floor 4000; company gross ARR
+LEMONTREE-061,,,,none,,,,,,,,,,not scorable,no numeric target
+LEMONTREE-062,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-063,50,,higher,screener,ebitda_margin:FY23,51.2,51.2% FY23 EBITDA margin,,,,,,,,Floor; consolidated
+LEMONTREE-064,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-065,,,,none,,,,,,,,,,not scorable,no reported total project cost on stored calls
+LEMONTREE-066,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-067,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-068,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+LEMONTREE-069,,,,none,,,,,,,,,,not scorable,gross debt at Dec-24 not on same basis as available figures
+LEMONTREE-070,,,,none,,,,,,,,,,not scorable,no reported actual
+LEMONTREE-071,,,,none,,,,,,,,,,not scorable,review: no numeric range in the rubric for this wording
+LEMONTREE-072,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+LEMONTREE-073,,,,none,,,,,,,,,,not scorable,no FY23 retail rooms/day reported
+LEMONTREE-074,,,,none,,,,,,,,,,not scorable,no FY23 rooms sold/day reported
+LEMONTREE-075,,,,none,,,,,,,,,,not scorable,no FY23 full-year ARR reported
+LEMONTREE-076,,,,none,,,,,,,,,,not scorable,no FY23 rooms/day reported
+LEMONTREE-077,730,912.5,higher,screener,revenue:FY23,875,Rs 875 cr FY23 revenue,,,,,,,,Guide Rs2-2.5 cr/day x 365 days = 730-912.5 cr; consolidated
+LEMONTREE-078,0,,higher,screener,pat:FY23,141,Rs 141 cr FY23 PAT,,,,,,,,Guide PAT positive; consolidated
+LEMONTREE-079,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+LEMONTREE-080,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+LEMONTREE-081,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-082,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-083,,,,none,,,,,,,,,,not due,FY27 not yet reported

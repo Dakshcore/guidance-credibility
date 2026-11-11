@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ARVINDFASN-001,,,,none,,,,,,,,,,not scorable,no reported actual (Q2 EBITDA post rental not stated as a figure; only cash breakeven)
+ARVINDFASN-002,,,,none,,,,,,,,,,not scorable,no reported actual (loss amounts not stated)
+ARVINDFASN-003,,,,none,,,,,,,,,,not scorable,no reported actual (no discontinued-ops loss figure on later calls)
+ARVINDFASN-004,,,,none,,,,,,,,,,not scorable,no period (next few years)
+ARVINDFASN-005,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+ARVINDFASN-006,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric target"
+ARVINDFASN-007,,,,none,,,,,,,,,,not scorable,no management-reported FY22 store openings count
+ARVINDFASN-008,,,,none,,,,,,,,,,not scorable,no reported actual (online run rate at FY22 exit not stated)
+ARVINDFASN-009,,,,none,,,,,,,,,,not scorable,"part-period actual only (4x in H2FY22, not full year)"
+ARVINDFASN-010,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-011,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-012,,,,none,,,,,,,,,,not scorable,amount received by Nov-21 not by early Sep-21; timing differs
+ARVINDFASN-013,,,,none,,,,,,,,,,not scorable,no figure
+ARVINDFASN-014,,,,none,,,,,,,,,,not scorable,closure count not reported
+ARVINDFASN-015,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-016,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+ARVINDFASN-017,,,,none,,,,,,,,,,not scorable,no reported Sephora store openings for FY22
+ARVINDFASN-018,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-019,,,,none,,,,,,,,,,not scorable,"direction only, no base figure"
+ARVINDFASN-020,,,,none,,,,,,,,,,not scorable,no period (medium term)
+ARVINDFASN-021,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-022,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+ARVINDFASN-023,,,,none,,,,,,,,,,not scorable,"no numeric target, brand-level"
+ARVINDFASN-024,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-025,,,,none,,,,,,,,,,not scorable,no numeric target (closer to)
+ARVINDFASN-026,,,,none,,,,,,,,,,not scorable,no period (soon)
+ARVINDFASN-027,,,,none,,,,,,,,,,not scorable,no reported actual (online run rate at FY22 exit not stated)
+ARVINDFASN-028,,,,none,,,,,,,,,,not scorable,"part-period actual only (4x in H2FY22, not full year)"
+ARVINDFASN-029,,,,none,,,,,,,,,,not scorable,no management-reported gross debt at Mar-22; Screener borrowings include other items
+ARVINDFASN-030,,,,none,,,,,,,,,,not scorable,no reported actual (no discontinued-ops loss figure on later calls)
+ARVINDFASN-031,,,,none,,,,,,,,,,not scorable,no management-reported FY22 store openings count
+ARVINDFASN-032,,,,none,,,,,,,,,,not scorable,"PBT target; management reported H2 net profit (PAT), different line"
+ARVINDFASN-033,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+ARVINDFASN-034,,,,none,,,,,,,,,,not scorable,no period (medium term)
+ARVINDFASN-035,,,,none,,,,,,,,,,not scorable,no period (medium term)
+ARVINDFASN-036,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-037,,,,none,,,,,,,,,,not scorable,period unclear (couple of quarters) and mid-40s has no fixed range; only H2 average reported
+ARVINDFASN-038,,,,none,,,,,,,,,,not scorable,no management-reported FY22 store openings count
+ARVINDFASN-039,,,,none,,,,,,,,,,not scorable,only lower bound reported (net debt reduction more than Rs 525 crore); debt basis unclear
+ARVINDFASN-040,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-041,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-042,,,,none,,,,,,,,,,not scorable,"no period, no numeric target"
+ARVINDFASN-043,,,,none,,,,,,,,,,not scorable,pre-IndAS FY23 margin not reported by management (post-IndAS only)
+ARVINDFASN-044,175,200,higher,call,,175,close to 175 stores,Q4FY23,26,"Now our guidance is to open close to 200 stores, that's our guidance for FY24 as well that we opened close to 175 stores in last year.",,,,,FY23 store openings as stated by management ('close to 175'); guide 175-200 hedged 'likely'
+ARVINDFASN-045,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-046,,,,none,,,,,,,,,,not scorable,"no period, no actual"
+ARVINDFASN-047,,,,none,,,,,,,,,,not scorable,"no numeric target, direction only"
+ARVINDFASN-048,,,,none,,,,,,,,,,not scorable,no reported actual (online run rate at FY22 exit not stated)
+ARVINDFASN-049,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+ARVINDFASN-050,,,,none,,,,,,,,,,not scorable,direction only; no management-reported FY22 store count
+ARVINDFASN-051,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-052,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-053,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-054,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-055,,,,none,,,,,,,,,,not scorable,"no period, no figure"
+ARVINDFASN-056,,,,none,,,,,,,,,,not scorable,no period (near term)
+ARVINDFASN-057,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-058,,,,none,,,,,,,,,,not scorable,"direction only, no base"
+ARVINDFASN-059,,,,none,,,,,,,,,,not scorable,"direction only, no base"
+ARVINDFASN-060,,,,none,,,,,,,,,,not scorable,basis differs (company ROCE definition not reported on a later call)
+ARVINDFASN-061,,,,none,,,,,,,,,,not scorable,no management-reported FY23 channel mix on guided basis
+ARVINDFASN-062,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-063,,,,none,,,,,,,,,,not scorable,direction only; only lower bound reported (more than 4x)
+ARVINDFASN-064,,,,none,,,,,,,,,,not scorable,direction only; net or gross debt unspecified and no management-reported FY23 net debt
+ARVINDFASN-065,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-066,,,,none,,,,,,,,,,not scorable,no management-reported FY23 gross margin figure
+ARVINDFASN-067,,,,none,,,,,,,,,,not scorable,USPA FY23 revenue figure came from an analyst (management said very close); basis not confirmed
+ARVINDFASN-068,,,,none,,,,,,,,,,not scorable,no management-reported pre/post-IndAS USPA FY23 margin on guided basis
+ARVINDFASN-069,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-070,,,,none,,,,,,,,,,not scorable,no management-reported FY23 net debt (gross debt reported)
+ARVINDFASN-071,,,,none,,,,,,,,,,not scorable,only post-IndAS power brand margin reported; guide is pre-IndAS
+ARVINDFASN-072,,,,none,,,,,,,,,,not scorable,"guide excludes COVID-base recovery; reported growth includes it, bases differ"
+ARVINDFASN-073,,,,none,,,,,,,,,,not scorable,no management-reported FY23 capex
+ARVINDFASN-074,,,,none,,,,,,,,,,not scorable,no management-reported FY23 net working capital on guided basis
+ARVINDFASN-075,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-076,,,,none,,,,,,,,,,not scorable,no number given
+ARVINDFASN-077,,,,none,,,,,,,,,,not scorable,only lower bound reported (more than 4x)
+ARVINDFASN-078,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-079,,,,none,,,,,,,,,,not scorable,no management-reported FY23 net debt (only analyst said flat; gross debt reported)
+ARVINDFASN-080,,,,none,,,,,,,,,,not scorable,only post-IndAS power brand margin reported; guide is pre-IndAS
+ARVINDFASN-081,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-082,,,,none,,,,,,,,,,not scorable,quarter-level claim (many quarters); no single-period actual
+ARVINDFASN-083,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-084,,,,none,,,,,,,,,,not scorable,pre-IndAS FY23 margin not reported by management (post-IndAS only)
+ARVINDFASN-085,0,,higher,screener,fcf:FY23,,,,,,,,,,Positive free cash flow means above zero; consolidated FCF FY23 from Screener (Rs 281 crore)

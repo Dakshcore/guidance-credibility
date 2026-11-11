@@ -1,0 +1,67 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-084,50,,higher,call,,51.9,51.9%,Q4FY23,3,our overall total revenue increased by 111% versus FY22 to INR 879 crores with an EBITDA margin of 51.9%,,,,,Floor 50%; FY23 net EBITDA margin 51.9% from Q4FY23 call (Q4FY24 call confirms FY24 49.1% was 278 bps below FY23)
+LEMONTREE-085,10165,11235,higher,call,,10269,"10,269 operational rooms",Q4FY25,3,"the total inventory for the group stands at 212 hotels and 17,116 rooms divided into 10,269 rooms and 111 hotels being operational and the rest in pipeline.",,,,,"~10,700 rooms +/-5%, operational at 31-Mar-25 (FY25); hotels 111 vs 109 would also be inside the band"
+LEMONTREE-086,,,,none,,,,,,,,,,not scorable,"pre-COVID base unclear, demand vs revenue; no reported actual"
+LEMONTREE-087,100,,higher,screener,rev_growth:FY23,,,,,,,,,,Floor 100% growth vs FY22; consolidated revenue
+LEMONTREE-088,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-089,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-090,,,,none,,,,,,,,,,not due,target date Nov-26 not yet reported
+LEMONTREE-091,,,,none,,,,,,,,,,not due,target date Nov-26 not yet reported
+LEMONTREE-092,,,,none,,,,,,,,,,not scorable,no reported daily expense actual on guided basis
+LEMONTREE-093,,,,none,,,,,,,,,,not scorable,base and period unclear; management declined to guide
+LEMONTREE-094,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-095,,15,lower,screener,tax_rate:FY23,,,,,,,,,,"Ceiling 15% of PBT, consolidated; Screener tax rate is consolidated"
+LEMONTREE-096,12,14,lower,screener,tax_rate:FY23,,,,,,,,,,"Best-guess range 12-14%, consolidated"
+LEMONTREE-097,,,,none,,,,,,,,,,not due,target date Nov-26 not yet reported
+LEMONTREE-098,,,,none,,,,,,,,,,not scorable,no numeric target
+LEMONTREE-099,,,,none,,,,,,,,,,not scorable,no reported Keys EBITDA run rate
+LEMONTREE-100,,,,none,,,,,,,,,,not scorable,no reported FY23 renovation expense on stored calls
+LEMONTREE-101,,,,none,,,,,,,,,,not scorable,gross openings for FY23 not reported; net inventory change includes closures
+LEMONTREE-102,,,,none,,,,,,,,,,not scorable,FY23 signings not reported as a full-year figure; part-period sums are only a bound
+LEMONTREE-103,,,,none,,,,,,,,,,not scorable,managed-hotel revenue not reported on stored calls
+LEMONTREE-104,,,,none,,,,,,,,,,not scorable,"third-party fee for FY23 not reported; later total-fee figure includes Fleur, different basis"
+LEMONTREE-105,10141.25,11208.75,higher,call,,10269,"10,269 operational rooms",Q4FY25,3,"the total inventory for the group stands at 212 hotels and 17,116 rooms divided into 10,269 rooms and 111 hotels being operational and the rest in pipeline.",,,,,"10,675 rooms +/-5%, operational at 31-Mar-25 (FY25); hotels 111 vs 110 would also be inside the band"
+LEMONTREE-106,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-107,,,,none,,,,,,,,,,not scorable,gross openings for FY23 not reported; net inventory change includes closures
+LEMONTREE-108,,,,none,,,,,,,,,,not scorable,no reported share of such employees on stored calls
+LEMONTREE-109,,,,none,,,,,,,,,,not scorable,FY23 signings not reported as a full-year figure; part-period sums are only a bound
+LEMONTREE-110,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-111,,,,none,,,,,,,,,,not scorable,no reported renewable share at Aug-26; Q1FY26 call gave 40% for owned portfolio only
+LEMONTREE-112,50,,higher,call,,51.9,51.9%,Q4FY23,3,our overall total revenue increased by 111% versus FY22 to INR 879 crores with an EBITDA margin of 51.9%,,,,,Floor 50%; FY23 net EBITDA margin 51.9% from Q4FY23 call (Q4FY24 call confirms FY24 49.1% was 278 bps below FY23)
+LEMONTREE-113,50,,higher,call,,48.1,"48.1% (FY26, weakest year)",Q4FY26,3,"Our net EBITDA margins for FY26 was 48.1% compared to 49.4% in FY25, a contraction of about 126 bps.",Q4FY24,3,"The net EBITDA margin for the full year stood at 49.1%, which reduced by 278 bps over FY23.",,"Weakest completed year of FY24-FY26 (FY24 49.1%, FY25 49.4%, FY26 48.1%); all below the 50% floor"
+LEMONTREE-114,,,,none,,,,,,,,,,not scorable,"mid-5,000 not defined in rubric; no reported H2 ARR"
+LEMONTREE-115,,,,none,,,,,,,,,,not scorable,mid-70% not defined in rubric; no reported H2 occupancy
+LEMONTREE-116,19,21,lower,screener,tax_rate:FY23,,,,,,,,,,"~20% +/-5%, consolidated"
+LEMONTREE-117,100,,higher,screener,rev_growth:FY23,,,,,,,,,,Floor 100% (at least double FY22); consolidated revenue
+LEMONTREE-118,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-119,,,,none,,,,,,,,,,not scorable,no gross debt reported at Aurika Mumbai opening on stored calls
+LEMONTREE-120,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-121,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-122,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-123,0,,higher,call,,3,+3% QoQ (Rs 197.4 cr),Q2FY23,3,"Total revenues for Q2 FY23 stood at INR 197.4 crore, which is 28% up versus Q2 FY20 and 3% up on a quarter -on-quarter basis.",,,,,"Direction guide, Q2 revenue higher than Q1 (lo 0 on QoQ change); reported on Q2FY23 call"
+LEMONTREE-124,20000,,higher,call,,23381,"23,381 rooms (operational plus pipeline)",Q1FY27,3,"Our combined operational and pipeline inventory now stands at 23,381 rooms across 279 hotels in 170+ cities",,,,,"Floor 20,000 total inventory (operational plus pipeline, as in the guide's 'current 11,000'); Jun-26 is latest reported before Aug-26"
+LEMONTREE-125,,,,none,,,,,,,,,,not scorable,no reported Aurika occupancy for H2FY23
+LEMONTREE-126,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-127,,,,none,,,,,,,,,,not scorable,no reported Keys occupancy for H2FY23
+LEMONTREE-128,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-129,,,,none,,,,,,,,,,not scorable,no reported H2FY23 gross ARR; only Q3 and Q4 separately
+LEMONTREE-130,,,,none,,,,,,,,,,not scorable,no reported FY23 Aurika Udaipur ARR
+LEMONTREE-131,,,,none,,,,,,,,,,not scorable,FY23 third-party fee not stated as a full year; later total-fee basis differs
+LEMONTREE-132,,,,none,,,,,,,,,,not scorable,FY24 third-party fee not stated as a full year; later total-fee basis differs
+LEMONTREE-133,10355,11445,higher,call,,10269,"10,269 operational rooms",Q4FY25,3,"the total inventory for the group stands at 212 hotels and 17,116 rooms divided into 10,269 rooms and 111 hotels being operational and the rest in pipeline.",,,,,"~10,900 rooms +/-5%, operational at 31-Mar-25 (FY25); on rooms this is below the band; the 115 hotels part (111 actual) would be inside its band"
+LEMONTREE-134,,,,none,,,,,,,,,,not scorable,no reported share of such employees on stored calls
+LEMONTREE-135,,,,none,,,,,,,,,,not scorable,no period; no reported total project cost
+LEMONTREE-136,115,140,higher,call,,125.4,H2 = Rs 489 cr = 125% of H1 (Rs 390 cr),Q2FY23,12,"We did INR 390 crore in H1, even if we do a 10% improvement technically in H2, that is INR 424 crore",Q4FY23,3,our overall total revenue increased by 111% versus FY22 to INR 879 crores,,"H2/H1 x100 = (879 - 390)/390; H1 Rs 390 cr from Q2FY23 call (src), FY23 revenue Rs 879 cr from Q4FY23 call (src2)"
+LEMONTREE-137,10,,higher,call,,17,+17% gross ARR vs Q2FY23,Q3FY23,3,Q3 FY23 occupancy increased by 133 bps and gross ARR increased by 17% over Q2 FY23.,,,,,Floor: at least 10% ARR improvement in Q3 over Q2
+LEMONTREE-138,,,,none,,,,,,,,,,not scorable,pre-COVID base ambiguous; Q4FY20 base is itself COVID-hit
+LEMONTREE-139,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-140,,,,none,,,,,,,,,,not scorable,no reported FY24 Aurika Mumbai spend on stored calls
+LEMONTREE-141,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-142,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-143,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-144,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-145,50,,higher,call,,51.9,51.9%,Q4FY23,3,our overall total revenue increased by 111% versus FY22 to INR 879 crores with an EBITDA margin of 51.9%,,,,,Floor 50%; FY23 net EBITDA margin 51.9% from Q4FY23 call (Q4FY24 call confirms FY24 49.1% was 278 bps below FY23)
+LEMONTREE-146,800,,higher,screener,revenue:FY23,,,,,,,,,,Floor Rs 800 cr (double FY22); consolidated revenue
+LEMONTREE-147,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-148,,,,none,,,,,,,,,,not scorable,fee basis unclear (third-party vs total incl. Fleur); no reported full-year actual on guided basis
+LEMONTREE-149,,,,none,,,,,,,,,,not scorable,spend spans FY23-FY24 and part runs through opex; no reported actual

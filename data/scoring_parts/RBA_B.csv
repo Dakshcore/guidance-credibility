@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RBA-069,4.75,5.25,higher,call,,10,10 Popeyes stores,Q4FY23,6,Today in Indonesia we have a 10 very healthy stores which are doing fantastic sales,,,,,Popeyes launched 29-31 Dec 2022 so stores open at 31 Mar 2023 equal openings in FY23
+RBA-070,237.5,262.5,higher,call,,275,275 BK Cafes,Q4FY23,5,that we have built 275 BK Cafés that are operating,,,,,Cafes operating at 31 Mar 2023
+RBA-071,361.0,399.0,higher,call,,391,391 restaurants,Q4FY23,5,"Now just on the growth side, so we ended March 31, 2023, with 391 restaurants.",,,,,BK India restaurants at 31 Mar 2023
+RBA-072,370.5,409.5,higher,call,,391,391 restaurants,Q4FY23,5,"Now just on the growth side, so we ended March 31, 2023, with 391 restaurants.",,,,,BK India restaurants at 31 Mar 2023
+RBA-073,446.5,493.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,BK India restaurants at 31 Mar 2024
+RBA-074,63.65,70.35,higher,call,,66.4,66.4%,Q4FY23,4,Our gross margin again FY2023 we went to 66.4% that was against 65.8% from the previous year,,,,,FY23 India gross margin
+RBA-075,64.6,71.4,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-076,,,,none,,,,,,,,,,not scorable,review: source wording is garbled; figure not certain
+RBA-077,10,,higher,call,,2.9,2.9%,Q4FY24,6,we've been positive at 2.9% of SSSG for the full year,,,,,FY24 India SSSG
+RBA-078,,,,none,,,,,,,,,,not scorable,no numeric target; direction only
+RBA-079,,,,none,,,,,,,,,,not scorable,no period
+RBA-080,,,,none,,,,,,,,,,not scorable,no period
+RBA-081,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+RBA-082,,,,none,,,,,,,,,,not scorable,no reported FY24 corporate cost on guided basis
+RBA-083,,,,none,,,,,,,,,,not scorable,no reported pre-COVID ADS comparison on guided basis
+RBA-084,57.0,63.0,higher,call,,58,58%,Q4FY23,5,The gross margin moved up to 58% versus the previous year of 56.3%,,,,,"Indonesia Burger King portion, FY23"
+RBA-085,,,,none,,,,,,,,,,not scorable,no period
+RBA-086,23.75,26.25,higher,call,,43.1,43.1%,Q4FY23,4,which is a growth of 52.6%. That included a SSSG of 43.1% and if you look at the Q4 numbers,,,,,FY23 India SSSG
+RBA-087,,,,none,,,,,,,,,,not scorable,"analyst number; hedged, no commitment"
+RBA-088,,,,none,,,,,,,,,,not scorable,no period
+RBA-089,28.5,31.5,higher,call,,25,25 Popeyes stores,Q4FY24,10,"This year, we opened 15 stores, and now we have a total of 25 stores portfolio.",,,,,"Total at 31 Mar 2024; if guide meant 30 new builds, FY24 openings (15) also fall short"
+RBA-090,370.5,409.5,higher,call,,391,391 restaurants,Q4FY23,5,"Now just on the growth side, so we ended March 31, 2023, with 391 restaurants.",,,,,BK India restaurants at 31 Mar 2023
+RBA-091,446.5,493.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,BK India restaurants at 31 Mar 2024
+RBA-092,23.75,26.25,higher,call,,43.1,43.1%,Q4FY23,4,which is a growth of 52.6%. That included a SSSG of 43.1% and if you look at the Q4 numbers,,,,,FY23 India SSSG
+RBA-093,7,10,higher,call,,2.9,2.9%,Q4FY24,6,we've been positive at 2.9% of SSSG for the full year,,,,,FY24 India SSSG
+RBA-094,63.65,70.35,higher,call,,66.4,66.4%,Q4FY23,4,Our gross margin again FY2023 we went to 66.4% that was against 65.8% from the previous year,,,,,FY23 India gross margin
+RBA-095,64.6,71.4,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-096,,,,none,,,,,,,,,,not scorable,no period
+RBA-097,,,,none,,,,,,,,,,not scorable,no numeric target
+RBA-098,,,,none,,,,,,,,,,not scorable,no numeric target; launch milestone
+RBA-099,,,,none,,,,,,,,,,not scorable,pre-Ind AS FY24 India company margin not reported as a percent; management said not guidance
+RBA-100,,,,none,,,,,,,,,,not scorable,pre-Ind AS FY25 India company margin not reported as a percent; not formal guidance
+RBA-101,0,,higher,call,,-54.5,INR -54.5 crore (loss of INR54-55 crore),Q4FY24,7,"Last year, we were -- we had a loss of almost around INR95 crores. We brought that down by INR40 crores to INR54 crores or INR55 crores.",,,,,"Indonesia company EBITDA loss FY24 (INR54-55 crore, mid-point used); guide read as at least zero"
+RBA-102,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+RBA-103,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 corporate cost on guided basis
+RBA-104,25,30,higher,call,,25,25 Popeyes stores,Q4FY24,10,"This year, we opened 15 stores, and now we have a total of 25 stores portfolio.",,,,,Total at 31 Mar 2024
+RBA-105,427.5,472.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,BK India restaurants at 31 Mar 2024
+RBA-106,,,,none,,,,,,,,,,not scorable,no period
+RBA-107,,,,none,,,,,,,,,,not scorable,no reported Popeyes Indonesia FY24 store-level EBITDA
+RBA-108,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+RBA-109,,,,none,,,,,,,,,,not scorable,review: source wording is garbled; figure not certain
+RBA-110,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RBA-111,63.65,70.35,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-112,,,,none,,,,,,,,,,not scorable,no period
+RBA-113,0,,higher,call,,-54.5,INR -54.5 crore (loss of INR54-55 crore),Q4FY24,7,"Last year, we were -- we had a loss of almost around INR95 crores. We brought that down by INR40 crores to INR54 crores or INR55 crores.",,,,,Indonesia company EBITDA loss FY24 (INR54-55 crore); cash breakeven read as at least zero
+RBA-114,23.75,26.25,higher,call,,25,25 Popeyes stores,Q4FY24,10,"This year, we opened 15 stores, and now we have a total of 25 stores portfolio.",,,,,Total at 31 Mar 2024; transcript typo read as Mar-24
+RBA-115,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RBA-116,,,,none,,,,,,,,,,not scorable,no period
+RBA-117,,,,none,,,,,,,,,,not scorable,no period
+RBA-118,95.0,105.0,higher,call,,40,INR40 crore improvement,Q4FY24,7,"Last year, we were -- we had a loss of almost around INR95 crores. We brought that down by INR40 crores to INR54 crores or INR55 crores.",,,,,Indonesia company EBITDA loss narrowed from INR95 crore to INR54-55 crore
+RBA-119,,,,none,,,,,,,,,,not scorable,no reported FY24 corporate G&A percent
+RBA-120,,,,none,,,,,,,,,,not scorable,FY24 Indonesia ADS inconsistent across calls; basis unclear
+RBA-121,14.25,15.75,higher,call,,15,15 Popeyes openings,Q4FY24,10,"This year, we opened 15 stores, and now we have a total of 25 stores portfolio.",,,,,FY24 openings
+RBA-122,,,,none,,,,,,,,,,not due,FY28 not yet reported
+RBA-123,,,,none,,,,,,,,,,not due,five-year period to FY28 not yet reported
+RBA-124,427.5,472.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,BK India restaurants at 31 Mar 2024
+RBA-125,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+RBA-126,23.75,26.25,higher,call,,25,25 Popeyes restaurants,Q3FY24,5,"ADS IDR on Popeyes, which is a business today with 25 restaurants open as of December 31, that was at IDR 23.3 million.",,,,,Total at 31 Dec 2023
+RBA-127,0,,higher,call,,-54.5,INR -54.5 crore (loss of INR54-55 crore),Q4FY24,7,"Last year, we were -- we had a loss of almost around INR95 crores. We brought that down by INR40 crores to INR54 crores or INR55 crores.",,,,,"Indonesia company EBITDA loss FY24 (INR54-55 crore); FY24 breakeven part used, FY25 profit part not needed"
+RBA-128,,,,none,,,,,,,,,,not scorable,no period
+RBA-129,,,,none,,,,,,,,,,not scorable,no reported full-year FY24 marketing share on call
+RBA-130,,,,none,,,,,,,,,,not scorable,no reported FY24 corporate cost on guided basis
+RBA-131,,,,none,,,,,,,,,,not scorable,no period
+RBA-132,10,,higher,call,,2.9,2.9%,Q4FY24,6,we've been positive at 2.9% of SSSG for the full year,,,,,FY24 India SSSG
+RBA-133,65.55,72.45,higher,call,,69,69%,Q4FY26,7,We ended the year with a gross margin at 69%.,,,,,"FY26 gross margin, India section of call"
+RBA-134,63.65,70.35,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-135,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RBA-136,,,,none,,,,,,,,,,not scorable,no period
+RBA-137,,,,none,,,,,,,,,,not scorable,no period
+RBA-138,,,,none,,,,,,,,,,not scorable,no period
+RBA-139,450,,higher,call,,441,441 restaurants,Q3FY24,4,"We built 38 restaurants this quarter, bringing us to 441 restaurants.",,,,,India count at 31 Dec 2023; 452 only reached after year-end per same call
+RBA-140,,,,none,,,,,,,,,,not scorable,no reported digital share actual on guided basis
+RBA-141,,,,none,,,,,,,,,,not scorable,no period
+RBA-142,,,,none,,,,,,,,,,not scorable,no period
+RBA-143,23.75,26.25,higher,call,,25,25 Popeyes restaurants,Q3FY24,5,"ADS IDR on Popeyes, which is a business today with 25 restaurants open as of December 31, that was at IDR 23.3 million.",,,,,Total at 31 Dec 2023
+RBA-144,5.7,6.3,higher,call,,2.9,2.9%,Q4FY24,6,we've been positive at 2.9% of SSSG for the full year,,,,,FY24 India SSSG
+RBA-145,,,,none,,,,,,,,,,not scorable,exit-rate target; no quarterly Indonesia figure reported
+RBA-146,,,,none,,,,,,,,,,not scorable,range for very high single digit not defined; no mgmt Q4 SSSG
+RBA-147,,,,none,,,,,,,,,,not scorable,H2FY24 SSSG not reported by management
+RBA-148,63.65,70.35,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-149,,,,none,,,,,,,,,,not scorable,no period
+RBA-150,,,,none,,,,,,,,,,not scorable,exit-rate target; no quarterly Indonesia figure reported
+RBA-151,,,,none,,,,,,,,,,not scorable,no India H2 vs H1 EBITDA reported on guided basis
+RBA-152,,,,none,,,,,,,,,,not scorable,no reported full-year FY24 marketing share on call

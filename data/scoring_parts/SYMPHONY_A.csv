@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SYMPHONY-001,,,,none,,,,,,,,,,not scorable,"no number, direction only; US split not reported"
+SYMPHONY-002,,,,none,,,,,,,,,,not scorable,no numeric target (around historical level)
+SYMPHONY-003,,,,none,,,,,,,,,,not scorable,no numeric target (in line with historical level)
+SYMPHONY-004,,,,none,,,,,,,,,,not scorable,domestic ex-export gross margin not reported; standalone includes exports
+SYMPHONY-005,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+SYMPHONY-006,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-007,,,,none,,,,,,,,,,not scorable,"base not stated, no number"
+SYMPHONY-008,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-009,38,,higher,call,,-43,EBITDA negative Rs 43 crore,Q4FY23,5,"Climate Technologies turnover down by 38% to ₹ 225 Crores, EBITDA at negative ₹ 43 crores and so is PAT at negative ₹ 43 Crores",,,,,Guide: Climate Technologies EBITDA above FY22 Rs 38 crore; FY23 actual reported by management on same subsidiary basis
+SYMPHONY-010,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-011,,,,none,,,,,,,,,,not scorable,no numeric target (historical growth trends undefined)
+SYMPHONY-012,,,,none,,,,,,,,,,not scorable,"no period, no number"
+SYMPHONY-013,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-014,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-015,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-016,,,,none,,,,,,,,,,not due,FY27 not yet reported (FY23-FY27 target)
+SYMPHONY-017,-5,5,higher,call,,-38,turnover down 38% to Rs 225 crore,Q4FY23,5,"Climate Technologies turnover down by 38% to ₹ 225 Crores, EBITDA at negative ₹ 43 crores and so is PAT at negative ₹ 43 Crores",,,,,"In line with FY22 read as flat, +/-5% on growth vs FY22; Climate Technologies FY23 sales growth as reported"
+SYMPHONY-018,,,,none,,,,,,,,,,not scorable,"base not explicit, no number"
+SYMPHONY-019,,,,none,,,,,,,,,,not scorable,Q2 level not stated
+SYMPHONY-020,,,,none,,,,,,,,,,not scorable,"target vague (historical average), no reported actual on guided basis"
+SYMPHONY-021,,,,none,,,,,,,,,,not scorable,"no period, no number"
+SYMPHONY-022,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-023,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-024,,,,none,,,,,,,,,,not scorable,"mixed metric (sales and profit), no clear target"
+SYMPHONY-025,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-026,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-027,,,,none,,,,,,,,,,not scorable,no period; amount executed not a target
+SYMPHONY-028,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-029,,,,none,,,,,,,,,,not scorable,RONW/ROCE change not on disk on guided basis
+SYMPHONY-030,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-031,,,,none,,,,,,,,,,not scorable,US sales not reported separately
+SYMPHONY-032,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-033,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-034,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-035,,,,none,,,,,,,,,,not scorable,US and Australia split not reported
+SYMPHONY-036,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-037,,,,none,,,,,,,,,,not scorable,no reported actual for FY23
+SYMPHONY-038,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-039,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-040,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-041,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+SYMPHONY-042,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-043,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-044,,,,none,,,,,,,,,,not scorable,FY24 ad spend % not reported
+SYMPHONY-045,,,,none,,,,,,,,,,not scorable,base FY23 CODB not reported
+SYMPHONY-046,,,,none,,,,,,,,,,not scorable,"no period, no number"
+SYMPHONY-047,0,,higher,screener,rev_growth:FY24,,,,,,,,,,Direction: top line growth positive in FY24; guide covers consolidated too; consolidated Screener growth
+SYMPHONY-048,,,,none,,,,,,,,,,not scorable,"basis not stated, change not a screener key"
+SYMPHONY-049,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-050,,,,none,,,,,,,,,,not scorable,"base not stated, no reported actual"
+SYMPHONY-051,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-052,,,,none,,,,,,,,,,not scorable,"milestone, no number"
+SYMPHONY-053,,,,none,,,,,,,,,,not scorable,CODB reduction vs acquisition in Rs vs guide basis unclear
+SYMPHONY-054,,,,none,,,,,,,,,,not scorable,"milestone, no number"
+SYMPHONY-055,,,,none,,,,,,,,,,not scorable,"guide in AUD, actual only in Rs"
+SYMPHONY-056,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-057,,,,none,,,,,,,,,,not scorable,"sign of quarterly EBITDA, no reported actual"
+SYMPHONY-058,,,,none,,,,,,,,,,not scorable,no amount
+SYMPHONY-059,,,,none,,,,,,,,,,not scorable,"milestone, no number"
+SYMPHONY-060,,,,none,,,,,,,,,,not scorable,no metric or number
+SYMPHONY-061,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-062,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-063,,,,none,,,,,,,,,,not scorable,FY25 CODB not reported
+SYMPHONY-064,,,,none,,,,,,,,,,not scorable,"milestone, no number"
+SYMPHONY-065,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-066,,,,none,,,,,,,,,,not scorable,price increase not reported
+SYMPHONY-067,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-068,,,,none,,,,,,,,,,not due,"FY27 not yet reported (FY26-FY27 target, standalone basis)"
+SYMPHONY-069,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-070,,,,none,,,,,,,,,,not scorable,receivable days not in sources
+SYMPHONY-071,,,,none,,,,,,,,,,not scorable,no numeric target
+SYMPHONY-072,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-073,,,,none,,,,,,,,,,not scorable,no amount
+SYMPHONY-074,,,,none,,,,,,,,,,not scorable,FY25 Climate Technologies full-year sales not reported
+SYMPHONY-075,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-076,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-077,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-078,,,,none,,,,,,,,,,not scorable,"milestone, no number"
+SYMPHONY-079,,,,none,,,,,,,,,,not scorable,no metric or number
+SYMPHONY-080,,,,none,,,,,,,,,,not scorable,"no period, no number"
+SYMPHONY-081,,,,none,,,,,,,,,,not scorable,"timing milestone, no number"
+SYMPHONY-082,,,,none,,,,,,,,,,not scorable,"no amount, no period"
+SYMPHONY-083,,,,none,,,,,,,,,,not scorable,no period
+SYMPHONY-084,,,,none,,,,,,,,,,not scorable,no period

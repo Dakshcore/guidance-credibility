@@ -1,0 +1,23 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ARVINDFASN-237,8.5,,higher,screener,rev_growth:FY26,,,,,,,,,,
+ARVINDFASN-238,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-239,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-240,,,,none,,,,,,,,,,not scorable,no period; direction only
+ARVINDFASN-241,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (USPA womenswear FY26 growth not stated)
+ARVINDFASN-242,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-243,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-244,,,,none,,,,,,,,,,not scorable,no period; vague pace
+ARVINDFASN-245,,,,none,,,,,,,,,,not scorable,no period; ROCE direction only
+ARVINDFASN-246,,,,none,,,,,,,,,,not due,FY28 not yet reported
+ARVINDFASN-247,,,,none,,,,,,,,,,not scorable,"only a lower bound reported (more than 1.4 lakh), not an exact actual"
+ARVINDFASN-248,,,,none,,,,,,,,,,not scorable,no period (short term)
+ARVINDFASN-249,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-250,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-251,,,,none,,,,,,,,,,not scorable,no period (very near future)
+ARVINDFASN-252,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-253,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-254,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (new format share of FY26 addition not stated)
+ARVINDFASN-255,12,15,higher,screener,rev_growth:FY26,,,,,,,,,,
+ARVINDFASN-256,8.5,,higher,screener,rev_growth:FY26,,,,,,,,,,
+ARVINDFASN-257,,,,none,,,,,,,,,,not scorable,no period; vague
+ARVINDFASN-258,10,,higher,screener,rev_growth:FY26,,,,,,,,,,

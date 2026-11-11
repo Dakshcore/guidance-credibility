@@ -1,0 +1,91 @@
+new_id,ref_id,call_quarter,overlap,new_metric,ref_metric,new_target,ref_target,new_range,ref_range,new_actual,ref_actual,new_verdict,ref_verdict,ref_verdict_mapped,agree,cause
+SENCO-001,G001,Q1FY24,1.00,mix,diamond_share,15% diamond (stud) share,~15% blended (from 9-10%),..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-002,G002,Q1FY24,1.00,store_additions,showroom_additions,8 stores,8 stores in pipeline,..,..,,+3 stores,not scorable,not scorable,not scorable,yes,
+SENCO-003,G003,Q1FY24,0.95,revenue_growth,revenue_growth,15-20%,15-20%,15..20 higher,15..20 higher,28.5504,28.55,beat,beat,beat,yes,
+SENCO-004,G004,Q1FY24,1.00,mix,other,H1 40-45% / H2 55-60% of annual business,H1 40-45% / H2 55-60% of annual revenue,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-006,G006,Q1FY24,1.00,pat,other,"H2 PAT far above H1 (last year H1 30-40 cr, H2 ~130 cr)","H2-weighted PAT as in FY23 (H1 Rs30-40cr, H2 ~Rs130cr)",..,123.5..136.5 higher,,141.0,not scorable,beat,beat,no,not found here
+SENCO-007,G007,Q1FY24,1.00,gross_margin,gross_margin,slightly lower than FY23,slightly lower than FY23,..,..0 higher,,-78.59,not scorable,met,met,no,not found here
+SENCO-008,G008,Q1FY24,1.00,mix,diamond_share,"own stores 14-15%, franchise 7-8% stud ratio",14-15% own stores; 7-8% franchise,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-009,G009,Q1FY24,1.00,revenue_growth,revenue_growth,18-20%,18-20%,18..20 higher,18..20 higher,28.5504,28.55,beat,beat,beat,yes,
+SENCO-010,G010,Q1FY24,1.00,revenue,other,"upwards of Rs 1,000 crore","upwards of Rs1,000 crore revenue",1000.. higher,..,1147,,met,no actual,not scorable,no,newly reported
+SENCO-011,G011,Q1FY24,1.00,other,other,volume growth mid single digit,volume growth mid single digit if gold stable,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-013,G012,Q1FY24,1.00,ebitda_margin,ebitda_margin,"same range as now, no dramatic increase","same range as now (7-8%), no dramatic rise",..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-015,G013,Q2FY24,0.72,store_additions,showroom_additions,25-26 stores,+8-10 more stores; 25-26 total in FY24,25..26 higher,25..26 higher,23 stores,23.0,missed,missed,missed,yes,
+SENCO-017,G014,Q2FY24,1.00,revenue_growth,revenue_growth,18-20%,18-20%,18..20 higher,18..20 higher,28.5504,28.55,beat,beat,beat,yes,
+SENCO-019,G016,Q2FY24,1.00,gross_margin,gross_margin,~18-19%,18-19% in H2,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-021,G017,Q2FY24,1.00,mix,diamond_share,15% diamond (stud) share,15% blended,..,..,,,not due,not due,not due,yes,
+SENCO-022,G018,Q2FY24,1.00,store_additions,showroom_additions,5-6 own stores,+5-6 own and +3-4 franchise,5..6 higher,8..10 higher,4 own stores,6.0,missed,missed,missed,yes,
+SENCO-023,G019,Q2FY24,1.00,store_additions,showroom_additions,"8 stores: 2-3 south/west, 5 east/north","8 stores: 2-3 south/west, 5 east/north",..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-024,G020,Q2FY24,1.00,store_additions,showroom_additions,"20-25 stores a year (15-18 own, 8-10 franchise)","20-25 stores/yr (15-18 own, 8-10 franchise)",20..25 higher,20..25 higher,16 stores,16.0,missed,missed,missed,yes,
+SENCO-025,G021,Q2FY24,1.00,store_count,showroom_count,250 stores,250 stores,..,..,,,not due,not due,not due,yes,
+SENCO-026,G023,Q2FY24,1.00,mix,diamond_share,25% stud ratio in north,north stud ratio 25%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-027,G024,Q2FY24,1.00,mix,diamond_share,10% franchise stud ratio,franchise stud ratio 10%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-028,G025,Q2FY24,0.94,other,other,hedge ratio >=80%,hedge ratio minimum 80%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-031,G026,Q3FY24,1.00,revenue_growth,revenue_growth,minimum 18-20%,minimum 18-20%,18.. higher,..,28.5504,,met,not due,not due,no,newly reported
+SENCO-033,G028,Q3FY24,0.95,debt,debt,debt-equity 1.0x-1.2x,D/E 1.0-1.2x,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-034,G027,Q3FY24,0.96,revenue_growth,revenue_growth,23-24%,23-24%,23..24 higher,23..24 higher,28.5504,28.55,beat,beat,beat,yes,
+SENCO-035,G029,Q3FY24,0.95,store_additions,showroom_additions,1-2 franchise stores,+1-2 franchise stores,1..2 higher,1..2 higher,2 franchise stores,2.0,met,met,met,yes,
+SENCO-036,G031,Q3FY24,0.91,gross_margin,gross_margin,~14% (stable),stable ~14%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-037,G030,Q3FY24,1.00,ebitda_margin,ebitda_margin,~7%,~7%,6.65..7.35 higher,6.65..7.35 higher,7.4222,7.2,beat,met,met,no,different actual
+SENCO-039,G032,Q3FY24,1.00,store_additions,showroom_additions,"18-20 stores (9-10 COCO, 9-10 franchise)","18-20 stores (9-10 own, 9-10 franchise)",18..20 higher,18..20 higher,16 stores,16.0,missed,missed,missed,yes,
+SENCO-041,G035,Q3FY24,0.95,debt,debt,debt-equity 1.2-1.25x,D/E 1.2-1.25x,..,..,,,not due,not due,not due,yes,
+SENCO-042,G036,Q3FY24,1.00,other,other,"existing portfolio ROE >=19-20%, ROCE >=15-16%","existing stores ROE 19-20%, ROCE 15-16%",..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-043,G037,Q3FY24,1.00,store_additions,showroom_additions,10-12 own + 10-12 franchise stores,10-12 own + 10-12 franchise,20..24 higher,20..24 higher,around 40 stores,16.0,beat,missed,missed,no,different actual
+SENCO-045,G038,Q4FY24,0.95,ebitda_margin,ebitda_margin,near 8% and above,~8% and above,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-046,G039,Q4FY24,1.00,revenue_growth,revenue_growth,18-20%,18-20%,18..20 higher,18..20 higher,20.7403,20.73,beat,beat,beat,yes,
+SENCO-047,G040,Q4FY24,1.00,pat_growth,pat_growth,15-20%,15-20%,15..20 higher,15..20 higher,-12.1547,-11.98,missed,missed,missed,yes,
+SENCO-048,G041,Q4FY24,1.00,store_additions,showroom_additions,8-10 COCO + 8-10 franchise,"+16-20 showrooms (8-10 COCO, 8-10 franchise)",16..20 higher,16..20 higher,16 stores,16.0,met,met,met,yes,
+SENCO-050,G042,Q4FY24,1.00,mix,other,70-80% of growth from East and North,70-80% of new stores in East and North,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-052,G043,Q4FY24,1.00,mix,diamond_share,stud ratio +100-130 bps a year,+100-130 bps per year,12.4..12.7 higher,..,10.9%,,missed,not due,not due,no,newly reported
+SENCO-053,G044,Q4FY24,1.00,gross_margin,gross_margin,+20-30 bps,+20-30 bps,..,20..30 higher,,-183.33,not scorable,missed,missed,no,not found here
+SENCO-054,G045,Q4FY24,1.00,ebitda_margin,ebitda_margin,+20-30 bps,+20-30 bps,20..30 higher,20..30 higher,-140.139,-139.42,missed,missed,missed,yes,
+SENCO-055,G046,Q4FY24,1.00,debt,debt,gold metal loan ~75% of borrowing,Gold metal loan ~75% of borrowing,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-057,G047,Q4FY24,0.94,sssg,sssg,SSSG 60-70% of total growth (12-13% if growth is 20%),12-13% (at 20% total growth),12..13 higher,12..13 higher,15%,14.0,beat,beat,beat,yes,
+SENCO-058,G048,Q1FY25,1.00,store_additions,showroom_additions,18-20 stores,+18-20 showrooms,18..20 higher,18..20 higher,16 stores,16.0,missed,missed,missed,yes,
+SENCO-060,G049,Q1FY25,1.00,costs,other,~Rs 50 cr custom duty inventory impact,Rs 50 crore customs duty cut inventory impact,47.5..52.5 lower,47.5..52.5 lower,Rs 56 crore,56.0,missed,missed,missed,yes,
+SENCO-061,G050,Q1FY25,1.00,mix,diamond_share,12.5-13% studded ratio (at least 12%),12.5-13% (floor 12%),12.5..13 higher,12.5..13 higher,10.9%,10.9,missed,missed,missed,yes,
+SENCO-062,G052,Q1FY25,1.00,gross_margin,gross_margin,14.5-15%,14.5-15%,..,14.5..15 higher,,13.46,not scorable,missed,missed,no,not found here
+SENCO-063,G053,Q1FY25,1.00,ebitda_margin,ebitda_margin,7-8%,7-8%,7..8 higher,7..8 higher,6.0209,6.02,missed,missed,missed,yes,
+SENCO-064,G055,Q1FY25,1.00,sssg,sssg,13-14%,13-14%,..,13..14 higher,,14.0,not scorable,met,met,no,not found here
+SENCO-066,G057,Q1FY25,0.96,debt,debt,GML 75% of borrowing,Gold metal loan ~75% of borrowing,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-069,G060,Q2FY25,0.97,pat_growth,pat_growth,15-18%,15-18%,15..18 higher,15..18 higher,-12.1547,-11.98,missed,missed,missed,yes,
+SENCO-070,G061,Q2FY25,1.00,costs,other,~Rs 30 cr remaining duty impact,Total duty impact INR 58-60 crore; balance in Q3,28.5..31.5 lower,58..60 lower,Rs 27 crore,57.4,beat,beat,beat,yes,
+SENCO-071,G062,Q2FY25,0.92,other,other,hedge ratio >=80%,Hedging 80%+ of gold inventory,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-073,G063,Q2FY25,1.00,sssg,sssg,12-15%,12-15%,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-074,G064,Q2FY25,0.92,gross_margin,gross_margin,15-16%,15-16%,..,15..16 higher,,13.46,not scorable,missed,missed,no,not found here
+SENCO-076,G065,Q2FY25,0.97,sssg,sssg,10-12% (new stores add 6-7%),10-12% (new stores add 6-7%),..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-078,G066,Q2FY25,0.97,store_additions,showroom_additions,18-20 stores,+18-20 showrooms (may end at 14-15),18..20 higher,18..20 higher,16 stores,16.0,missed,missed,missed,yes,
+SENCO-080,G068,Q2FY25,1.00,store_count,other,8-10 Sennes stores,8-10 Sennes stores,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-081,G069,Q2FY25,1.00,revenue_growth,revenue_growth,18-20%,18-20%,..,18..20 higher,,22.0,not scorable,beat,beat,no,not found here
+SENCO-082,G070,Q2FY25,1.00,mix,other,65-70% of new stores in East,"65-70% of new stores in East, 15-20% North",..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-083,G071,Q2FY25,1.00,mix,diamond_share,~15% studded ratio,~15%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-084,G072,Q2FY25,0.96,mix,diamond_share,12-12.5% studded ratio,12-12.5%,12..12.5 higher,12..12.5 higher,10.9%,10.9,missed,missed,missed,yes,
+SENCO-087,G073,Q3FY25,1.00,store_additions,showroom_additions,18-20 stores,18-20 stores,18..20 higher,18..20 higher,16 stores,16.0,missed,missed,missed,yes,
+SENCO-089,G077,Q3FY25,1.00,store_additions,showroom_additions,"~20 stores (8-10 own, 8-10 franchise)",~20 stores,19..21 higher,19..21 higher,26 showrooms,26.0,beat,beat,beat,yes,
+SENCO-090,G075,Q3FY25,1.00,store_additions,showroom_additions,3-4 Sennes stores,3-4 Sennes stores,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-094,G076,Q3FY25,1.00,revenue_growth,revenue_growth,18-20%,18-20%,18..20 higher,18..20 higher,33.2174,33.22,beat,beat,beat,yes,
+SENCO-096,G079,Q3FY25,1.00,ebitda_margin,ebitda_margin,7-7.5%,7-7.5%,7..7.5 higher,7..7.5 higher,9.2163,9.2,beat,beat,beat,yes,
+SENCO-097,G080,Q3FY25,1.00,mix,other,60-70% of new stores in East,"New stores: East 60-70%, North ~20%, West/South ~10%",..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-098,G081,Q3FY25,1.00,mix,diamond_share,14-15% studded share,14-15%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-100,G082,Q3FY25,1.00,costs,other,~Rs 7-8 cr extra gold loan interest cost,Gold loan cost impact Rs 7-8 Cr,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-108,G083,Q3FY25,1.00,ebitda_margin,ebitda_margin,7-8%,7-8%,..,..,,,not due,not due,not due,yes,
+SENCO-110,G084,Q3FY25,1.00,revenue,other,"Rs 6,300-6,400 cr","Revenue Rs 6,300-6,400 Cr",6300..6400 higher,6300..6400 higher,6328,6328.07,met,met,met,yes,
+SENCO-112,G085,Q3FY25,1.00,revenue_growth,revenue_growth,>=18-20%,18-20% (value),18.. higher,18..20 higher,21.1961,20.73,met,beat,beat,no,different range
+SENCO-113,G086,Q3FY25,0.55,other,other,volume growth low single digit,Volume growth low single digit,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-114,G087,Q4FY25,1.00,revenue_growth,revenue_growth,18-20%,18-20%,18..20 higher,18..20 higher,33.2174,33.22,beat,beat,beat,yes,
+SENCO-115,G089,Q4FY25,0.93,ebitda_margin,pat_margin,6.8-7.2%,3.5-3.7%,6.8..7.2 higher,3.5..3.7 higher,11.6726,6.81,beat,beat,beat,yes,
+SENCO-116,G088,Q4FY25,1.00,pat_margin,ebitda_margin,3.5-3.7%,6.8-7.2%,3.5..3.7 higher,6.8..7.2 higher,6.809,11.5,beat,beat,beat,yes,
+SENCO-117,G090,Q4FY25,1.00,store_additions,showroom_additions,>=18-20 stores,18-20 stores minimum,18.. higher,18..20 higher,26 showrooms,26.0,met,beat,beat,no,different range
+SENCO-118,G091,Q4FY25,1.00,store_additions,franchise_mix,>=10 franchise stores and 8-10 company-owned stores,"Min 10 franchise, 8-10 company-owned",..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-119,G092,Q4FY25,1.00,mix,other,35-40% wedding share,Wedding segment 35-40% of business,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-122,G093,Q4FY25,1.00,other,other,ROCE 16-17%,ROCE 16-17%,..,..,,,not due,not due,not due,yes,
+SENCO-123,G094,Q4FY25,1.00,costs,other,gold metal loan rate about 100 bps above earlier level,Gold metal loan rate +100 bps vs earlier,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-124,G095,Q4FY25,1.00,other,other,no equity raise for growth,No equity raise for growth,..,..,,,not scorable,met,met,no,not found here
+SENCO-125,G096,Q4FY25,1.00,ebitda_margin,ebitda_margin,7-7.5%,7-7.5%,7..7.5 higher,7..7.5 higher,11.6726,11.5,beat,beat,beat,yes,
+SENCO-126,G097,Q4FY25,1.00,mix,other,<=5% in-house manufacturing,In-house manufacturing max 5%,..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-127,G099,Q4FY25,1.00,mix,other,70-80% of new stores in North and East,"New stores: North+East 70-80%, West/South ~20%",..,..,,,not scorable,not due,not due,no,rubric: undated
+SENCO-128,G100,Q4FY25,1.00,working_capital,working_capital,~Rs 300-400 cr additional,Additional INR 300-400 Cr,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-129,G101,Q4FY25,1.00,debt,debt,debt-to-equity 1.0-1.2x,D/E 1.0-1.2x,1.0..1.2 lower,1.0..1.2 lower,1.0736,1.07,met,met,met,yes,
+SENCO-130,G102,Q4FY25,1.00,debt,debt,<=Rs 350 cr incremental borrowing,Max INR 350 Cr incremental borrowing,..350 lower,..350 lower,640,639.69,missed,missed,missed,yes,
+SENCO-132,G103,Q4FY25,1.00,other,other,diamond volume growth up to 15-20%,Diamond volume growth 15-20%,..,..,,,not scorable,no actual,not scorable,yes,
+SENCO-133,G104,Q4FY25,1.00,store_additions,showroom_additions,3-4 Everlite stores,3-4 Everlite stores (of ~20),..,..,,,not scorable,no actual,not scorable,yes,

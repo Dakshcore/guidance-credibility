@@ -1,0 +1,73 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CHALET-086,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-087,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-088,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-089,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-090,,,,none,,,,,,,,,,not scorable,no reported capex actual for the guided span on this basis
+CHALET-091,,,,none,,,,,,,,,,not scorable,no period
+CHALET-092,,,,none,,,,,,,,,,not scorable,no period
+CHALET-093,,,,none,,,,,,,,,,not scorable,no period
+CHALET-094,,,,none,,,,,,,,,,not scorable,"peak debt vs year-end borrowings or net debt: basis unclear, no reported peak"
+CHALET-095,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-096,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-097,,,,none,,,,,,,,,,not scorable,H2FY23 hospitality margin not separately reported
+CHALET-098,,,,none,,,,,,,,,,not scorable,no period
+CHALET-099,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-100,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-101,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-102,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-103,,,,none,,,,,,,,,,not scorable,no period
+CHALET-104,,,,none,,,,,,,,,,not scorable,no period
+CHALET-105,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-106,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-107,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-108,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-109,,,,none,,,,,,,,,,not scorable,no reported capex actual for the guided span on this basis
+CHALET-110,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-111,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-112,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-113,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-114,,,,none,,,,,,,,,,not scorable,"rooms added in FY24 unclear; Dukes inventory also added, bases uncertain"
+CHALET-115,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+CHALET-116,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-117,,,,none,,,,,,,,,,not scorable,no reported split actual
+CHALET-118,,,,none,,,,,,,,,,not scorable,no reported split actual
+CHALET-119,,,,none,,,,,,,,,,not scorable,no period
+CHALET-120,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+CHALET-121,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-122,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-123,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-124,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-125,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-126,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-127,0,,higher,screener,ebitda_change_bps:FY24,,,,,,,,,,"direction vs FY23: consolidated EBITDA margin change in bps, lo 0, open hi"
+CHALET-128,,,,none,,,,,,,,,,not scorable,no period
+CHALET-129,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-130,,,,none,,,,,,,,,,not scorable,FY24 spend reported includes acquisitions (Rs 6.6 bn); not capex only
+CHALET-131,,,,none,,,,,,,,,,not scorable,no reported commercial capex actual for FY24
+CHALET-132,,,,none,,,,,,,,,,not scorable,no period
+CHALET-133,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-134,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-135,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-136,,,,none,,,,,,,,,,not scorable,no period
+CHALET-137,,,,none,,,,,,,,,,not scorable,no period
+CHALET-138,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CHALET-139,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-140,,,,none,,,,,,,,,,not scorable,no period
+CHALET-141,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-142,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-143,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-144,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CHALET-145,,,,none,,,,,,,,,,not scorable,no period
+CHALET-146,,,,none,,,,,,,,,,not scorable,no period
+CHALET-147,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-148,,,,none,,,,,,,,,,not scorable,no period
+CHALET-149,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+CHALET-150,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CHALET-151,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CHALET-152,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-153,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-154,,,,none,,,,,,,,,,not scorable,"milestone date or leasing status, no numeric actual"
+CHALET-155,,,,none,,,,,,,,,,not scorable,no period
+CHALET-156,,,,none,,,,,,,,,,not scorable,no period
+CHALET-157,,,,none,,,,,,,,,,not scorable,no numeric target

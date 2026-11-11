@@ -1,0 +1,83 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CROMPTON-001,,,,none,,,,,,,,,,not scorable,no number
+CROMPTON-002,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-003,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-004,,,,none,,,,,,,,,,not scorable,no reported FY22 capex in transcripts or Screener
+CROMPTON-005,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-006,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+CROMPTON-007,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-008,,,,none,,,,,,,,,,not scorable,no period; basis not specified
+CROMPTON-009,,,,none,,,,,,,,,,not scorable,no number; no period
+CROMPTON-010,13,15,higher,call,,15,15% 2-year revenue CAGR,Q3FY22,3,Growth over pre -COVID Q3 2019 -20 was 32% representing a CAGR of 15%,,,,,"Two-year CAGR vs pre-COVID Q3FY20, consolidated, as reported on Q3FY22 call"
+CROMPTON-011,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-012,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-013,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-014,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-015,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-016,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (EPS accretion not reported)
+CROMPTON-017,,,,none,,,,,,,,,,not scorable,no number; no period
+CROMPTON-018,,,,none,,,,,,,,,,not scorable,no reported FY23 maintenance capex
+CROMPTON-019,,,,none,,,,,,,,,,not scorable,no measurable outcome reported
+CROMPTON-020,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-021,,,,none,,,,,,,,,,not scorable,no reported rank or share
+CROMPTON-022,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-023,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-024,,,,none,,,,,,,,,,not scorable,no number for normal level
+CROMPTON-025,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (quarterly standalone employee cost not in sources)
+CROMPTON-026,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-027,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-028,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-029,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-030,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (city clusters not reported by Sep-22)
+CROMPTON-031,,,,none,,,,,,,,,,not scorable,no reported actual (city count not reported)
+CROMPTON-032,,,,none,,,,,,,,,,not scorable,no reported market share
+CROMPTON-033,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-034,,,,none,,,,,,,,,,not scorable,no reported actual (EBO count not reported)
+CROMPTON-035,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-036,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-037,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-038,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-039,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-040,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-041,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CROMPTON-042,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-043,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CROMPTON-044,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-045,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-046,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-047,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-048,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-049,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-050,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-051,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-052,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-053,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-054,,,,none,,,,,,,,,,not scorable,no measurable outcome reported
+CROMPTON-055,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-056,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (Butterfly EPS effect not reported)
+CROMPTON-057,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (Butterfly FY23 revenue vs plan)
+CROMPTON-058,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (Butterfly PBT not reported; only EBITDA)
+CROMPTON-059,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-060,,,,none,,,,,,,,,,not scorable,no reported rank or share
+CROMPTON-061,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-062,,,,none,,,,,,,,,,not scorable,no reported actual (FY24 end counts not reported)
+CROMPTON-063,,,,none,,,,,,,,,,not scorable,no reported actual (stores transformed in H1FY24 not reported)
+CROMPTON-064,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-065,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-066,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-067,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-068,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-069,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (Jan-24 repayment not reported)
+CROMPTON-070,,0,lower,call,,300,Rs 300 crore Butterfly acquisition debt outstanding at Jul-24,Q1FY25,20,"The current outstanding debt is about ₹300 crores, and that is expected to be paid in next year, July.",,,,,"Debt-free by Jun/Jul-24; Q1FY25 call (31 Jul 2024) says Rs 300 cr still outstanding, repayment expected Jul-25; acquisition debt basis"
+CROMPTON-071,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-072,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-073,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-074,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-075,,,,none,,,,,,,,,,not scorable,no reported actual
+CROMPTON-076,,,,none,,,,,,,,,,not scorable,no period; basis not specified
+CROMPTON-077,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-078,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-079,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-080,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-081,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-082,,,,none,,,,,,,,,,not scorable,no period

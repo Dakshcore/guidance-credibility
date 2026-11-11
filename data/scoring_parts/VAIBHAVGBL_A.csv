@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VAIBHAVGBL-001,,,,none,,,,,,,,,,not scorable,guide is US+UK constant currency; later calls give no combined actual on that basis
+VAIBHAVGBL-002,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-003,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-004,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-005,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-006,,,,none,,,,,,,,,,not scorable,Germany unit USD figure; no full-year actual reported on call
+VAIBHAVGBL-007,,,,none,,,,,,,,,,not scorable,Germany unit USD figure; no full-year actual reported on call
+VAIBHAVGBL-008,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-009,,,,none,,,,,,,,,,not scorable,inventory days or two-part guide; no matching reported actual on guided basis
+VAIBHAVGBL-010,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-011,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-012,,,,none,,,,,,,,,,not scorable,guide is US+UK constant currency; later calls give no combined actual on that basis
+VAIBHAVGBL-013,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-014,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-015,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-016,,,,none,,,,,,,,,,not scorable,garbled guide; no reported actual on guided basis
+VAIBHAVGBL-017,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-018,,,,none,,,,,,,,,,not scorable,ex-Germany or US/UK-only basis; no actual on that basis
+VAIBHAVGBL-019,,,,none,,,,,,,,,,not scorable,Germany unit USD figure; no full-year actual reported on call
+VAIBHAVGBL-020,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-021,,,,none,,,,,,,,,,not scorable,ex-Germany or US/UK-only basis; no actual on that basis
+VAIBHAVGBL-022,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-023,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-024,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-025,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-026,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-027,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-028,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-029,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-030,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-031,8,10,higher,screener,rev_growth:FY22,,,,,,,,,,consolidated FY22 revenue growth; call also reports 8.4%
+VAIBHAVGBL-032,,,,none,,,,,,,,,,not scorable,guide in constant currency; only INR Screener actual available (basis mismatch)
+VAIBHAVGBL-033,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-034,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-035,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-036,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-037,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-038,,,,none,,,,,,,,,,not scorable,ex-Germany or US/UK-only basis; no actual on that basis
+VAIBHAVGBL-039,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-040,57,63,higher,call,,60,60%,Q4FY22,2,"We maintained our gross margin at 60% in Q4, and 62.3% for FY ‘22, which is at par with FY ‘21.",,,,,"about 60% = 57-63; Q4FY22 gross margin, company-wide"
+VAIBHAVGBL-041,,,,none,,,,,,,,,,not scorable,no full-year FY23 gross margin reported on call
+VAIBHAVGBL-042,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-043,,,,none,,,,,,,,,,not scorable,Germany unit USD figure; no full-year actual reported on call
+VAIBHAVGBL-044,,,,none,,,,,,,,,,not scorable,Germany FY23 full-year loss not reported on call
+VAIBHAVGBL-045,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-046,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-047,0,,higher,screener,ebitda_change_bps:FY23,,,,,,,,,,direction vs FY22: change in EBITDA margin (bps) must be above 0; consolidated
+VAIBHAVGBL-048,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-049,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-050,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-051,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-052,,,,none,,,,,,,,,,not scorable,guide in constant currency; only INR Screener actual available (basis mismatch)
+VAIBHAVGBL-053,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-054,14,16,higher,screener,ebitda_margin:FY24,,,,,,,,,,mid-teens band 14-16; consolidated
+VAIBHAVGBL-055,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-056,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-057,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-058,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-059,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-060,,,,none,,,,,,,,,,not scorable,inventory days or two-part guide; no matching reported actual on guided basis
+VAIBHAVGBL-061,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-062,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-063,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-064,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual on guided basis
+VAIBHAVGBL-065,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-066,,,,none,,,,,,,,,,not scorable,Germany FY23 full-year loss not reported on call
+VAIBHAVGBL-067,,,,none,,,,,,,,,,not scorable,guide in USD terms; call gives INR only
+VAIBHAVGBL-068,,,,none,,,,,,,,,,not scorable,guide in constant currency; only INR Screener actual available (basis mismatch)
+VAIBHAVGBL-069,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-070,,,,none,,,,,,,,,,not scorable,no period
+VAIBHAVGBL-071,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-072,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+VAIBHAVGBL-073,,,,none,,,,,,,,,,not scorable,low double-digit not defined in rubric; cost line definition differs
+VAIBHAVGBL-074,5,,higher,screener,ebitda_growth:FY23,,,,,,,,,,"floor 5%; consolidated EBITDA growth (number came from analyst, adopted by management)"
+VAIBHAVGBL-075,,,,none,,,,,,,,,,not scorable,direction only; no numeric target or no reported actual on guided basis
+VAIBHAVGBL-076,,,,none,,,,,,,,,,not scorable,no full-year FY23 gross margin reported on call
+VAIBHAVGBL-077,,,,none,,,,,,,,,,not scorable,no reported actual
+VAIBHAVGBL-078,,,,none,,,,,,,,,,not scorable,no reported actual

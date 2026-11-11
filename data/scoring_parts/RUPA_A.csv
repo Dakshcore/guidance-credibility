@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RUPA-001,15,18,higher,screener,rev_growth:FY23,,,,,,,,,,
+RUPA-002,17.1,18.9,higher,screener,ebitda_margin:FY23,,,,,,,,,,
+RUPA-003,13,,higher,screener,pat_margin:FY23,,,,,,,,,,
+RUPA-004,,160,lower,call,,270,270 days,Q2FY24,6,"We have target to reduce our working capital days to around 220- 225 days from March, which was 270 days.",,,,,Company-reported working capital days at March 2023
+RUPA-005,,,,none,,,,,,,,,,not scorable,no reported debtors amount at Q1FY23 (only debtor days)
+RUPA-006,,,,none,,,,,,,,,,not scorable,combined four-pillar growth not reported
+RUPA-007,,,,none,,,,,,,,,,not scorable,no period
+RUPA-008,20,,higher,call,,-1.5,-1.5%,Q1FY23,4,"The revenue from operations for quarter ending June, 2022 is 215 crores, down by 1.5% compared to corresponding quarter last year.",,,,,Q1FY23 revenue growth vs Q1FY22; 20% plus treated as floor
+RUPA-009,,,,none,,,,,,,,,,not scorable,FY23 capex total not reported on a later call
+RUPA-010,,,,none,,,,,,,,,,not scorable,volume/value split not reported
+RUPA-011,,,,none,,,,,,,,,,not scorable,Oban GT revenue not reported separately
+RUPA-012,,,,none,,,,,,,,,,not scorable,Oban EBITDA by business not reported
+RUPA-013,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-014,60,,higher,call,,32,32% growth,Q4FY23,3,Modern trade contributed INR 51 Crores also exhibiting a 32% year-on-year increase in growth.,,,,,FY23 modern trade growth
+RUPA-015,70,,higher,call,,25,25% growth,Q4FY23,3,exports accounted for Rs.41 Crores showing 25% stronger year-on-year growth.,,,,,FY23 export growth
+RUPA-016,,,,none,,,,,,,,,,not scorable,FY23 premium segment value growth not reported
+RUPA-017,,,,none,,,,,,,,,,not scorable,FY23 thermal growth not reported
+RUPA-018,,,,none,,,,,,,,,,not scorable,FY23 year-end inventory in rupees not reported
+RUPA-019,,160,lower,call,,270,270 days,Q2FY24,6,"We have target to reduce our working capital days to around 220- 225 days from March, which was 270 days.",,,,,"Guide 155 days, worst case 160; ceiling 160 used. Company-reported days at March 2023"
+RUPA-020,,,,none,,,,,,,,,,not scorable,price rise size not reported
+RUPA-021,,,,none,,,,,,,,,,not scorable,no period
+RUPA-022,,,,none,,,,,,,,,,not scorable,FY23 full-year ad spend % not reported
+RUPA-023,,,,none,,,,,,,,,,not scorable,FY23 full-year ad spend not reported
+RUPA-024,,,,none,,,,,,,,,,not scorable,no period
+RUPA-025,16,18,higher,screener,ebitda_margin:FY23,,,,,,,,,,Two-year guide FY23-FY24; weakest year FY23 used
+RUPA-026,2000,,higher,screener,revenue:FY24,,,,,,,,,,
+RUPA-027,15,18,higher,screener,rev_growth:FY23,,,,,,,,,,FY23-FY25 guide; weakest year FY23 used
+RUPA-028,,,,none,,,,,,,,,,not scorable,softline revenue not reported
+RUPA-029,95,105,higher,call,,31,Rs 31 crores,Q4FY25,4,"Exports also performed well, growing by 24% to Rs. 31 crores, representing 3% of total revenues.",,,,,FY25 export revenue; guide Rs 100 cr in three years from May 2022
+RUPA-030,17.3254,19.1492,higher,screener,ebitda_margin:FY23,,,,,,,,,,Flat vs FY22 18.2373 +/-5% of base
+RUPA-031,,,,none,,,,,,,,,,not scorable,no period
+RUPA-032,,,,none,,,,,,,,,,not scorable,FY23 premium segment value growth not reported
+RUPA-033,30,,higher,call,,27,27% growth,Q1FY23,5,"Women’s wear, there is a growth of around 27%.",,,,,Q1FY23 women's wear growth stated on Q1 call
+RUPA-034,,,,none,,,,,,,,,,not scorable,H1FY23 operating cash flow not reported (only annual)
+RUPA-035,,,,none,,,,,,,,,,not scorable,no period
+RUPA-036,,,,none,,,,,,,,,,not scorable,FY23 full-year ad spend % not reported
+RUPA-037,118.75,131.25,higher,call,,29,29 EBOs,Q1FY25,9,"During this -- total EBO -- currently, we have total 29 EBOs.",,,,,"Count on 10 Aug 2024 call, a few days before the Aug-24 target date"
+RUPA-038,15,18,higher,screener,rev_growth:FY23,,,,,,,,,,
+RUPA-039,16,17,higher,screener,ebitda_margin:FY23,,,,,,,,,,
+RUPA-040,95,105,higher,call,,25,25% growth,Q4FY23,3,exports accounted for Rs.41 Crores showing 25% stronger year-on-year growth.,,,,,FY23 export growth; doubling = 100% growth
+RUPA-041,,,,none,,,,,,,,,,not scorable,no period
+RUPA-042,,,,none,,,,,,,,,,not scorable,no period
+RUPA-043,,,,none,,,,,,,,,,not scorable,no period
+RUPA-044,40,,higher,call,,28,28 stores,Q4FY23,15,At the same time we have shut two EBOs so the correct strength is 28 stores,,,,,"EBO count at May-2023 call, shortly after FY23 end"
+RUPA-045,,,,none,,,,,,,,,,not scorable,FY23 full-year marketing % not reported
+RUPA-046,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-047,,,,none,,,,,,,,,,not scorable,unit-level capex not reported
+RUPA-048,,,,none,,,,,,,,,,not scorable,unit-level capex not reported
+RUPA-049,6.0,,higher,call,,6.7,6.7%,Q4FY23,4,The EBITDA margin stood at 6.7 % in Q4 FY2023 as compared to 16.2 % in Q4 FY2022.,,,,,Base Q3FY23 6%; higher than base means above 6.0
+RUPA-050,6,7,lower,call,,7,7%,Q4FY23,6,"can you give me the ad spend figure for this quarter? Vikash Agarwal: 7%. Shikha Mehta: Okay and that is what we are expecting for… Vikash Agarwal: For Q4 FY2023, probably 7%.",,,,,Hedged ('probably') management reply on Q4 ad spend
+RUPA-051,6,7,lower,call,,5,about 5%,Q4FY24,3,"We invested approximately INR66 crores in the branding and advertising, which constitutes about 5% of our revenues in financial year '24.",,,,,FY24 ad spend as % of revenue
+RUPA-052,15,20,higher,screener,rev_growth:FY24,,,,,,,,,,
+RUPA-053,,,,none,,,,,,,,,,not scorable,no period
+RUPA-054,95,105,higher,call,,31,Rs 31 crores,Q4FY25,4,"Exports also performed well, growing by 24% to Rs. 31 crores, representing 3% of total revenues.",,,,,FY25 export revenue; guide ~Rs 100 cr in 1-2 years from Feb 2023
+RUPA-055,,,,none,,,,,,,,,,not scorable,no period
+RUPA-056,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-057,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-058,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,Rs 2000 cr within three years from May 2023; FY26 revenue
+RUPA-059,,,,none,,,,,,,,,,not scorable,margin type not specified
+RUPA-060,25,,higher,screener,rev_growth:FY24,,,,,,,,,,'at least' 25-30%; floor 25
+RUPA-061,11,,higher,screener,ebitda_margin:FY24,,,,,,,,,,'minimum' 11-12%; floor 11
+RUPA-062,20,25,lower,call,,7.5,INR 7-8 crores,Q4FY24,6,The total capex for FY '24 is around INR 7 -8 crores,,,,,"FY24 total capex; midpoint of 7-8 used, either end is below the range"
+RUPA-063,7,7.5,lower,call,,5,about 5%,Q4FY24,3,"We invested approximately INR66 crores in the branding and advertising, which constitutes about 5% of our revenues in financial year '24.",,,,,FY24 ad spend as % of revenue
+RUPA-064,,,,none,,,,,,,,,,not scorable,no period
+RUPA-065,,,,none,,,,,,,,,,not scorable,no period
+RUPA-066,,,,none,,,,,,,,,,not scorable,working capital to sales ratio not reported for FY24
+RUPA-067,,,,none,,,,,,,,,,not scorable,commissioning date not reported consistently
+RUPA-068,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-069,,,,none,,,,,,,,,,not scorable,net EBO additions by Jul-23 not reported
+RUPA-070,7,8,lower,call,,5,about 5%,Q4FY24,3,"We invested approximately INR66 crores in the branding and advertising, which constitutes about 5% of our revenues in financial year '24.",,,,,FY24 ad spend as % of revenue
+RUPA-071,15,18,higher,call,,17,17% volume growth,Q4FY24,3,"Notably, we achieved a healthy 17% annual growth in volume, driven by a 16% growth in economy segment, 17% in mid-premium segment and 25% growth in premium segment.",,,,,FY24 volume growth
+RUPA-072,,,,none,,,,,,,,,,not scorable,no period
+RUPA-073,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,About Rs 2000 cr over next 3 years from Aug 2023; FY26 revenue
+RUPA-074,18,20,higher,screener,rev_growth:FY24,,,,,,,,,,
+RUPA-075,10,11,higher,screener,ebitda_margin:FY24,,,,,,,,,,
+RUPA-076,,,,none,,,,,,,,,,not scorable,metric not specified
+RUPA-077,15,20,lower,call,,7.5,INR 7-8 crores,Q4FY24,6,The total capex for FY '24 is around INR 7 -8 crores,,,,,FY24 total capex; midpoint of 7-8 used
+RUPA-078,,,,none,,,,,,,,,,not scorable,export base not given
+RUPA-079,,,,none,,,,,,,,,,not scorable,commissioning date not reported consistently
+RUPA-080,,,,none,,,,,,,,,,not scorable,"price increase size not given, no reported actual"
+RUPA-081,23,25,higher,screener,rev_growth:FY24,,,,,,,,,,Union of 23-24% and 24-25% on same call
+RUPA-082,,,,none,,,,,,,,,,not scorable,CAGR not a reported figure
+RUPA-083,,,,none,,,,,,,,,,not scorable,no reported actual
+RUPA-084,,,,none,,,,,,,,,,not scorable,FY24 thermal growth not reported

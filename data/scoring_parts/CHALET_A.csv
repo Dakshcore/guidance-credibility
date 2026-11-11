@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CHALET-001,,,,none,,,,,,,,,,not scorable,no period
+CHALET-002,,,,none,,,,,,,,,,not scorable,"cost estimate revised, no reported actual"
+CHALET-003,,,,none,,,,,,,,,,not scorable,peak debt not reported as a figure; plan restated
+CHALET-004,,,,none,,,,,,,,,,not scorable,three fiscal years of capex needed; not reported on the same basis
+CHALET-005,,,,none,,,,,,,,,,not scorable,qualitative; no clear reported actual on same basis
+CHALET-006,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-007,,,,none,,,,,,,,,,not scorable,"cost estimate, no reported actual"
+CHALET-008,,,,none,,,,,,,,,,not scorable,Koramangala completion by FY26 not reported as completed
+CHALET-009,,,,none,,,,,,,,,,not scorable,no period
+CHALET-010,,,,none,,,,,,,,,,not scorable,no period
+CHALET-011,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-012,0,,higher,screener,rev_growth:FY23,,122.05% revenue growth FY23,,,,,,,,direction vs FY22: growth above 0
+CHALET-013,,,,none,,,,,,,,,,not scorable,"vague, no numeric target"
+CHALET-014,,,,none,,,,,,,,,,not scorable,base and metric unclear (pre-COVID numbers)
+CHALET-015,,,,none,,,,,,,,,,not scorable,garbled figure; peak debt not reported
+CHALET-016,,,,none,,,,,,,,,,not scorable,no period
+CHALET-017,,,,none,,,,,,,,,,not scorable,scope of leasing target unclear; no reported actual
+CHALET-018,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-019,,,,none,,,,,,,,,,not scorable,multi-period capex; no reported actual on same basis
+CHALET-020,,,,none,,,,,,,,,,not scorable,hotel capex split not reported
+CHALET-021,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-022,,,,none,,,,,,,,,,not scorable,no clear reported actual on guided basis
+CHALET-023,,,,none,,,,,,,,,,not scorable,no period
+CHALET-024,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-025,,,,none,,,,,,,,,,not scorable,completion date not clearly reported (OC vs handover)
+CHALET-026,,,,none,,,,,,,,,,not scorable,"vague, no numeric target"
+CHALET-027,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-028,,,,none,,,,,,,,,,not scorable,no reported actual at guided date (94% only by Oct-22)
+CHALET-029,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-030,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-031,,,,none,,,,,,,,,,not scorable,period unclear; no reported actual
+CHALET-032,,,,none,,,,,,,,,,not scorable,no period
+CHALET-033,,,,none,,,,,,,,,,not scorable,"vague, close to pre-pandemic, no numeric target"
+CHALET-034,981,,higher,screener,revenue:FY24,,Rs 1417 cr FY24 vs FY20 Rs 981 cr,,,,,,,,floor = FY20 revenue (revenue:FY20 981)
+CHALET-035,530,540,higher,call,,440,Rs 440 cr capex FY23 (INR4.4 billion),Q4FY23,5,"The company spent INR6 billion, which includes capital expenditure of INR4.4 billion and acquisition cost of Dukes Retreat of INR1.6 billion.",,,,,FY23 capex excl Dukes Retreat acquisition; range 530-540
+CHALET-036,,,,none,,,,,,,,,,not scorable,Q4 capex alone not reported
+CHALET-037,,,,none,,,,,,,,,,not scorable,project level capex not reported
+CHALET-038,,,,none,,,,,,,,,,not scorable,project level capex not reported
+CHALET-039,,,,none,,,,,,,,,,not scorable,hotel capex FY23 not reported
+CHALET-040,,,,none,,,,,,,,,,not scorable,no period
+CHALET-041,,,,none,,,,,,,,,,not scorable,no period
+CHALET-042,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-043,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-044,,,,none,,,,,,,,,,not scorable,renovation completion not clearly reported
+CHALET-045,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-046,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-047,981,,higher,screener,revenue:FY23,,Rs 1128 cr FY23 vs FY20 Rs 981 cr,,,,,,,,floor = FY20 revenue (revenue:FY20 981); consolidated
+CHALET-048,337,,higher,screener,ebitda:FY23,,Rs 453 cr FY23 vs FY20 Rs 337 cr,,,,,,,,floor = FY20 EBITDA (ebitda:FY20 337); consolidated
+CHALET-049,,,,none,,,,,,,,,,not scorable,direction vs earlier estimate; no reported actual
+CHALET-050,,,,none,,,,,,,,,,not scorable,no period
+CHALET-051,,,,none,,,,,,,,,,not scorable,no period
+CHALET-052,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-053,,,,none,,,,,,,,,,not scorable,FY24 capex not reported as a full-year figure
+CHALET-054,513,567,higher,call,,440,Rs 440 cr capex FY23 (INR4.4 billion),Q4FY23,5,"The company spent INR6 billion, which includes capital expenditure of INR4.4 billion and acquisition cost of Dukes Retreat of INR1.6 billion.",,,,,FY23 capex excl Dukes Retreat acquisition; Rs 540 cr +/-5%
+CHALET-055,,,,none,,,,,,,,,,not scorable,FY23 split commercial/hotel capex not reported
+CHALET-056,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-057,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CHALET-058,,,,none,,,,,,,,,,not scorable,peak debt not reported as a figure; plan restated
+CHALET-059,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-060,,,,none,,,,,,,,,,not scorable,"vague, close to pre-pandemic, no numeric target"
+CHALET-061,,,,none,,,,,,,,,,not scorable,monthly RevPAR vs Apr-19 not reported on same basis
+CHALET-062,,,,none,,,,,,,,,,not scorable,debt repayment not reported
+CHALET-063,,,,none,,,,,,,,,,not scorable,Delhi hotel opening date not reported (launch expected Q4FY27)
+CHALET-064,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-065,,,,none,,,,,,,,,,not scorable,review: date milestone; the rubric has no numeric encoding for dates
+CHALET-066,,,,none,,,,,,,,,,not scorable,two dates; completion not clearly reported
+CHALET-067,981,,higher,screener,revenue:FY23,,Rs 1128 cr FY23 vs FY20 Rs 981 cr,,,,,,,,floor = FY20 revenue 981; EBITDA also cleared (453 vs 337)
+CHALET-068,,,,none,,,,,,,,,,not scorable,period unclear (four to five quarters)
+CHALET-069,,,,none,,,,,,,,,,not scorable,review: no numeric range in the rubric for this wording
+CHALET-070,,,,none,,,,,,,,,,not scorable,no period
+CHALET-071,,,,none,,,,,,,,,,not scorable,two statements in one
+CHALET-072,,,,none,,,,,,,,,,not scorable,no reported H1/H2 FY23 figures on same basis
+CHALET-073,,,,none,,,,,,,,,,not scorable,no period
+CHALET-074,,,,none,,,,,,,,,,not scorable,no period
+CHALET-075,,,,none,,,,,,,,,,not scorable,no period
+CHALET-076,,,,none,,,,,,,,,,not scorable,completion date not clearly reported
+CHALET-077,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-078,,,,none,,,,,,,,,,not scorable,"plan restated, not a reported outcome"
+CHALET-079,,,,none,,,,,,,,,,not scorable,no period
+CHALET-080,,,,none,,,,,,,,,,not scorable,no period
+CHALET-081,,,,none,,,,,,,,,,not scorable,full-year FY23 ratio not reported (0.9 only at Sep-22)
+CHALET-082,,,,none,,,,,,,,,,not scorable,no period
+CHALET-083,,,,none,,,,,,,,,,not scorable,no period
+CHALET-084,,,,none,,,,,,,,,,not scorable,no reported actual on same basis
+CHALET-085,,,,none,,,,,,,,,,not scorable,no period

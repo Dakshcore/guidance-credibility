@@ -1,0 +1,84 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-208,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-209,,,,none,,,,,,,,,,not scorable,'significantly' higher than Q1 has no defined size
+LEMONTREE-210,7.6,8.4,higher,call,,7.1,7.1% gross ARR growth Y-o-Y,Q2FY24,3,"Q2 FY24 recorded a gross ARR of INR 5,268 which increased 7.1% Y-o-Y and increased 0.6% Q-o-Q",,,,,about 8% -> 7.6-8.4; actual is company gross ARR growth Y-o-Y
+LEMONTREE-211,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-212,9975,11025,higher,call,,9863,"9,863 rooms",Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms",,,,,"~10,500 rooms by end FY24 (hedged); operational rooms at 31 Mar 2024"
+LEMONTREE-213,,,,none,,,,,,,,,,not scorable,"opening milestone, no reported rooms-operational count at end Oct-23"
+LEMONTREE-214,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-215,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-216,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (Udaipur weddings only)
+LEMONTREE-217,,,,none,,,,,,,,,,not scorable,no reported full-year FY24 third-party fee figure on a stored call
+LEMONTREE-218,,,,none,,,,,,,,,,not scorable,no reported full-year FY25 third-party fee figure on a stored call
+LEMONTREE-219,130,150,higher,call,,73.9,Rs 73.9 crore,Q4FY26,4,"Fees from management and franchised contracts for third-party owned hotels stood at Rs. 73.9 crore in FY26, an increase of 23% YoY.",,,,,third year out taken as FY26; third-party fees only (excludes Fleur)
+LEMONTREE-220,,,,none,,,,,,,,,,not scorable,base and fee definition unclear for tripling
+LEMONTREE-221,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-222,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-223,,,,none,,,,,,,,,,not scorable,no reported full-year count of hotels signed in FY24
+LEMONTREE-224,,,,none,,,,,,,,,,not scorable,multi-year; no consistent full-year ARR growth reported for each year
+LEMONTREE-225,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-226,,,,none,,,,,,,,,,not scorable,no end period
+LEMONTREE-227,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-228,,,,none,,,,,,,,,,not scorable,compound opening statement; no single number
+LEMONTREE-229,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-230,1658.4,1833.0,lower,call,,1889,"Rs 1,889 crore debt at FY24 end",Q4FY25,3,"The debt to the company decreased by about Rs. 190 crore during the year from Rs. 1,889 crore in FY24 to Rs. 1,699 crore this year.",Q4FY24,3,"The debt for the company increased by Rs. 143.3 crore or about 8% from Rs. 1,745.7 crore in FY23",,"base = FY23 debt 1,745.7 (src2) +/-5%; actual FY24 debt 1,889 (src)"
+LEMONTREE-231,,,,none,,,,,,,,,,not scorable,no reported standalone debt at the due date (Feb-Aug 2025)
+LEMONTREE-232,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+LEMONTREE-233,,,,none,,,,,,,,,,not scorable,no reported actual
+LEMONTREE-234,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-235,,,,none,,,,,,,,,,not scorable,"three-year total, no reported actual on the guided basis"
+LEMONTREE-236,,,,none,,,,,,,,,,not scorable,no reported FY25 full-year Aurika Mumbai EBITDA
+LEMONTREE-237,,,,none,,,,,,,,,,not scorable,conditional on Fleur listing or third-party money; debt-free not defined (gross vs net)
+LEMONTREE-238,8,9,higher,call,,7.1,7.1% gross ARR growth Y-o-Y,Q2FY24,3,"Q2 FY24 recorded a gross ARR of INR 5,268 which increased 7.1% Y-o-Y and increased 0.6% Q-o-Q",,,,,price hike 8-9% read as Y-o-Y gross ARR growth; roughly similar to Q1 8-9%
+LEMONTREE-239,15,,higher,call,,10.4,10.4% gross ARR growth Y-o-Y,Q3FY24,2,"Q3 FY24 recorded a gross ARR of Rs. 6,333 which increased 10.4% Y-o-Y and 20% Q-o-Q.",,,,,price increase read as Y-o-Y gross ARR growth
+LEMONTREE-240,14.25,15.75,higher,call,,13.4,13.4% gross ARR growth Y-o-Y,Q4FY24,2,"Q4 FY24 recorded a Gross ARR of Rs. 6,605, which increased by 13.4% Y-o-Y and 4.3% Q-o-Q.",,,,,overall ~15% read as Y-o-Y gross ARR growth
+LEMONTREE-241,,,,none,,,,,,,,,,not scorable,conditional on 17% owned revenue growth; owned-portfolio EBITDA not reported
+LEMONTREE-242,105,,higher,call,,104,104 hotels,Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms",,,,,"guide was >105 hotels and >10,000 rooms; hotels used (rooms were 9,863, also short)"
+LEMONTREE-243,,,,none,,,,,,,,,,not due,multi-year to FY27; FY27 not yet reported
+LEMONTREE-244,,,,none,,,,,,,,,,not scorable,no reported FY24 owned-hotels revenue
+LEMONTREE-245,,,,none,,,,,,,,,,not scorable,no reported FY24 power and fuel share
+LEMONTREE-246,,,,none,,,,,,,,,,not scorable,no reported Q3FY24 Aurika MIAL EBITDA
+LEMONTREE-247,200,,higher,call,,250,about 250 rooms a day,Q3FY24,4,"In Q3, we did sub -40%, in Aurika, which means we did about 250 rooms or something like that.",,,,,hedged broad guess; Q3 average rooms a day per management
+LEMONTREE-248,,,,none,,,,,,,,,,not scorable,"reported Aurika Q3 ARR only as analyst range 8-8.5k, no management figure"
+LEMONTREE-249,,,,none,,,,,,,,,,not scorable,"reported Q4 figure is EBITDAR, not EBITDA"
+LEMONTREE-250,,,,none,,,,,,,,,,not scorable,no reported FY24 renovation spend
+LEMONTREE-251,,,,none,,,,,,,,,,not scorable,"two-year total, no reported actual"
+LEMONTREE-252,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-253,,,,none,,,,,,,,,,not scorable,no reported actual
+LEMONTREE-254,,,,none,,,,,,,,,,not scorable,ambiguous target and period
+LEMONTREE-255,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+LEMONTREE-256,,,,none,,,,,,,,,,not scorable,"internal estimate, no reported signed-room total"
+LEMONTREE-257,,,,none,,,,,,,,,,not scorable,no reported share
+LEMONTREE-258,105,,higher,call,,104,104 hotels,Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms",,,,,"guide was >105 hotels and >10,000 rooms; hotels used (rooms were 9,863, also short)"
+LEMONTREE-259,,1889,lower,call,,1699,"Rs 1,699 crore debt at FY25 end",Q4FY25,3,"The debt to the company decreased by about Rs. 190 crore during the year from Rs. 1,889 crore in FY24 to Rs. 1,699 crore this year.",,,,,"debt falls in FY25 vs FY24 peak: ceiling = FY24 debt 1,889"
+LEMONTREE-260,46.55,51.45,higher,screener,ebitda_margin:FY24,,,,,,,,,,about 49% +/-5%
+LEMONTREE-261,50,,higher,screener,ebitda_margin:FY25,,,,,,,,,,"floor 50%, consolidated"
+LEMONTREE-262,60,,higher,call,,66,about 66% occupancy,Q4FY24,6,"Fourth quarter, we did, I think, about 66%. Let me just pull out the figures for the Aurika, yes, we did about 66%.",,,,,Aurika Mumbai Q4FY24 occupancy
+LEMONTREE-263,,,,none,,,,,,,,,,not scorable,no reported FY25 Aurika occupancy vs company average
+LEMONTREE-264,,,,none,,,,,,,,,,not scorable,no reported FY25 full-year Aurika margin
+LEMONTREE-265,,,,none,,,,,,,,,,not scorable,management gave no specific guidance; analyst figure
+LEMONTREE-266,,,,none,,,,,,,,,,not scorable,"mix components, no reported actual"
+LEMONTREE-267,,,,none,,,,,,,,,,not scorable,no reported FY24 renovation spend
+LEMONTREE-268,,,,none,,,,,,,,,,not scorable,no numeric target
+LEMONTREE-269,3.515,3.885,lower,call,,3.57,3.57x,Q4FY25,3,"Debt to EBITDA ratio in FY25 for the company stood at 2.67x, which is a 25% reduction over 3.57x in FY24.",,,,,~3.7x +/-5%; FY24 value as restated on Q4FY25 call
+LEMONTREE-270,,2.5,lower,call,,2.67,2.67x,Q4FY25,3,"Debt to EBITDA ratio in FY25 for the company stood at 2.67x, which is a 25% reduction over 3.57x in FY24.",,,,,ceiling 2.5x consolidated
+LEMONTREE-271,1.425,1.575,lower,call,,2.25,about 2.25x,Q4FY26,21,"You look at our debt -to-EBITDA today, it is about 2.25 .",,,,,"~1.5x +/-5%; management stated current ratio on Q4FY26 call, approximate"
+LEMONTREE-272,,,,none,,,,,,,,,,not due,FY28 not yet reported
+LEMONTREE-273,,,,none,,,,,,,,,,not scorable,no reported opening date
+LEMONTREE-274,,,,none,,,,,,,,,,not scorable,no reported Keys ARR uplift; no period
+LEMONTREE-275,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-276,,,,none,,,,,,,,,,not scorable,no reported Gurgaon occupancy
+LEMONTREE-277,,,,none,,,,,,,,,,not scorable,no reported actual
+LEMONTREE-278,,,,none,,,,,,,,,,not scorable,no base period
+LEMONTREE-279,95,105,lower,call,,100,Rs 100 crore renovation spend in FY25,Q4FY25,5,We normally spend Rs. 25 crore – Rs. 30 crore. We spent Rs. 100 crore last year.,,,,,point Rs 100 cr +/-5%; management said about Rs 100 crore
+LEMONTREE-280,,,,none,,,,,,,,,,not scorable,no reported FY26 renovation spend
+LEMONTREE-281,,,,none,,,,,,,,,,not scorable,standalone fee figure not reported
+LEMONTREE-282,,,,none,,,,,,,,,,not scorable,no reported FY25 Fleur EBITDA
+LEMONTREE-283,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-284,,,,none,,,,,,,,,,not scorable,no reported company RevPAR growth for FY25-FY26 full years
+LEMONTREE-285,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-286,,,,none,,,,,,,,,,not scorable,no reported Q3FY24 quarter-end debt
+LEMONTREE-287,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-288,,,,none,,,,,,,,,,not scorable,no reported opening date
+LEMONTREE-289,,,,none,,,,,,,,,,not scorable,no reported actual
+LEMONTREE-290,,,,none,,,,,,,,,,not scorable,no reported energy per room

@@ -1,0 +1,76 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BLUESTARCO-070,,,,none,,,,,,,,,,not scorable,"part-period room AC growth, no reported actual on guided basis"
+BLUESTARCO-071,,,,none,,,,,,,,,,not scorable,no reported Blue Star room AC FY24 revenue growth; segment II is a wider basis
+BLUESTARCO-072,,,,none,,,,,,,,,,not scorable,CAGR not a reported figure on a call or Screener key
+BLUESTARCO-073,,,,none,,,,,,,,,,not scorable,CAGR not a reported figure on a call or Screener key
+BLUESTARCO-074,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-075,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-076,,,,none,,,,,,,,,,not scorable,no period (medium term)
+BLUESTARCO-077,,,,none,,,,,,,,,,not scorable,no period (medium term)
+BLUESTARCO-078,,,,none,,,,,,,,,,not scorable,no period (medium term)
+BLUESTARCO-079,47.5,52.5,higher,screener,ebitda_change_bps:FY24,63.9568,,,,,,,,,FY24 consolidated EBITDA margin change in bps from Screener
+BLUESTARCO-080,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-081,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-082,14.25,15.75,higher,call,,14,close to 14%,Q4FY25,7,Our market share now stands close to 14%.,,,,,"FY25 room AC market share, management estimate stated as close to 14%"
+BLUESTARCO-083,1.0,,higher,call,,1.1,11 lakh units,Q4FY25,11,"Blue Star itself, from 8 lakh to 11 lakh to 15.75 lakh kind of volume we have grown.",Q4FY24,15,"crossing some 1.1 million of air conditioners, there will be complaints",,FY24 room AC volume in millions; 11 lakh is the middle figure of the 8/11/15.75 lakh series; corroborated by Q4FY24 p15 mention of 1.1 million
+BLUESTARCO-084,,,,none,,,,,,,,,,not scorable,no reported FY24 consumer finance share
+BLUESTARCO-085,,,,none,,,,,,,,,,not scorable,no reported actual
+BLUESTARCO-086,,,,none,,,,,,,,,,not scorable,no reported actual
+BLUESTARCO-087,,,,none,,,,,,,,,,not scorable,no reported actual
+BLUESTARCO-088,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-089,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-090,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BLUESTARCO-091,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-092,8.0,8.5,higher,call,,7.8,7.8%,Q4FY24,6,"Consequently, segment results improved to Rs 360.31 crores (7.8% of revenue) in FY24 as compared to Rs 282.31 crores (7.8% of revenue) in FY23.",,,,,segment II FY24 result margin
+BLUESTARCO-093,6.5,7.0,higher,call,,7.2,7.2%,Q4FY24,5,Segment result was Rs 341.09 crores (7.2% of revenue) in FY24 compared to Rs 276.78 crores (6.9% of revenue) in FY23.,,,,,segment I FY24 result margin
+BLUESTARCO-094,,,,none,,,,,,,,,,not scorable,no reported Blue Star room AC FY24 revenue growth; segment II is a wider basis
+BLUESTARCO-095,,,,none,,,,,,,,,,not scorable,"part-period room AC growth, no reported actual on guided basis"
+BLUESTARCO-096,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-097,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-098,1.0,,higher,call,,1.1,11 lakh units,Q4FY25,11,"Blue Star itself, from 8 lakh to 11 lakh to 15.75 lakh kind of volume we have grown.",Q4FY24,15,"crossing some 1.1 million of air conditioners, there will be complaints",,FY24 room AC volume in millions; floor of 10 lakh; corroborated by Q4FY24 p15
+BLUESTARCO-099,,,,none,,,,,,,,,,not scorable,no reported Blue Star room AC FY24 revenue growth; segment II is a wider basis
+BLUESTARCO-100,8.0,8.5,higher,call,,7.8,7.8%,Q4FY24,6,"Consequently, segment results improved to Rs 360.31 crores (7.8% of revenue) in FY24 as compared to Rs 282.31 crores (7.8% of revenue) in FY23.",,,,,segment II FY24 result margin
+BLUESTARCO-101,,,,none,,,,,,,,,,not scorable,two periods; FY26 volume not reported as a figure
+BLUESTARCO-102,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-103,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-104,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-105,,,,none,,,,,,,,,,not scorable,no reported Blue Star room AC FY24 revenue growth; segment II is a wider basis
+BLUESTARCO-106,6.5,7.0,higher,call,,7.2,7.2%,Q4FY24,5,Segment result was Rs 341.09 crores (7.2% of revenue) in FY24 compared to Rs 276.78 crores (6.9% of revenue) in FY23.,,,,,segment I FY24 result margin
+BLUESTARCO-107,8.0,8.5,higher,call,,7.8,7.8%,Q4FY24,6,"Consequently, segment results improved to Rs 360.31 crores (7.8% of revenue) in FY24 as compared to Rs 282.31 crores (7.8% of revenue) in FY23.",,,,,segment II FY24 result margin
+BLUESTARCO-108,,,,none,,,,,,,,,,not scorable,no period (medium term)
+BLUESTARCO-109,,,,none,,,,,,,,,,not scorable,no period (medium term)
+BLUESTARCO-110,,,,none,,,,,,,,,,not due,FY29 not yet reported
+BLUESTARCO-111,7.0,7.5,higher,call,,7.2,7.2%,Q4FY24,5,Segment result was Rs 341.09 crores (7.2% of revenue) in FY24 compared to Rs 276.78 crores (6.9% of revenue) in FY23.,,,,,segment I FY24 result margin
+BLUESTARCO-112,8.0,8.5,higher,call,,7.8,7.8%,Q4FY24,6,"Consequently, segment results improved to Rs 360.31 crores (7.8% of revenue) in FY24 as compared to Rs 282.31 crores (7.8% of revenue) in FY23.",,,,,segment II FY24 result margin
+BLUESTARCO-113,,,,none,,,,,,,,,,not scorable,no reported Blue Star room AC FY24 revenue growth; segment II is a wider basis
+BLUESTARCO-114,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-115,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-116,0.95,1.05,higher,call,,1.1,11 lakh units,Q4FY25,11,"Blue Star itself, from 8 lakh to 11 lakh to 15.75 lakh kind of volume we have grown.",Q4FY24,15,"crossing some 1.1 million of air conditioners, there will be complaints",,FY24 room AC volume in millions; corroborated by Q4FY24 p15
+BLUESTARCO-117,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+BLUESTARCO-118,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BLUESTARCO-119,14.25,15.75,higher,call,,14,close to 14%,Q4FY25,7,Our market share now stands close to 14%.,,,,,"FY25 room AC market share, management estimate"
+BLUESTARCO-120,,,,none,,,,,,,,,,not scorable,no reported Q1FY25 Blue Star room AC revenue growth; segment II is a wider basis
+BLUESTARCO-121,8.075,8.925,higher,call,,8.4,8.4%,Q4FY25,7,"Consequently, segment results improved to Rs. 471.2 Cr, which was 8.4% of revenue in FY25",,,,,segment II FY25 result margin
+BLUESTARCO-122,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+BLUESTARCO-123,,,,none,,,,,,,,,,not scorable,two segments with different ranges in one row
+BLUESTARCO-124,23.75,26.25,higher,call,,27.2,27.2%,Q4FY25,6,"Segment revenue for the year grew 27.2% to Rs. 5,998 Cr as compared to Rs. 4,715.5 Cr in FY24.",,,,,segment I FY25 revenue growth
+BLUESTARCO-125,20.0,,higher,call,,22.4,22.4%,Q4FY25,7,"Similarly, the revenue for the year grew by 22.4% to Rs. 5,621.1 Cr in FY25, as compared to Rs. 4,592.2 Cr in FY24.",,,,,segment II FY25 revenue growth
+BLUESTARCO-126,14.25,15.75,higher,call,,14,close to 14%,Q4FY25,7,Our market share now stands close to 14%.,,,,,"FY25 room AC market share, management estimate"
+BLUESTARCO-127,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-128,7.5,8.0,higher,call,,8.2,8.2%,Q4FY25,6,"Segment result was Rs. 490.9 Cr, which is 8.2% of revenue in FY25 compared to Rs. 341.1 Cr, which was 7.2% of revenue in FY24.",,,,,segment I FY25 result margin
+BLUESTARCO-129,8.5,9.0,higher,call,,8.4,8.4%,Q4FY25,7,"Consequently, segment results improved to Rs. 471.2 Cr, which was 8.4% of revenue in FY25",,,,,segment II FY25 result margin
+BLUESTARCO-130,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-131,,,,none,,,,,,,,,,not scorable,no period
+BLUESTARCO-132,20.0,25.0,higher,call,,27.2,27.2%,Q4FY25,6,"Segment revenue for the year grew 27.2% to Rs. 5,998 Cr as compared to Rs. 4,715.5 Cr in FY24.",,,,,segment I FY25 revenue growth
+BLUESTARCO-133,,,,none,,,,,,,,,,not scorable,no reported FY25 exports growth
+BLUESTARCO-134,,,,none,,,,,,,,,,not scorable,no reported capex outturn on guided basis
+BLUESTARCO-135,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BLUESTARCO-136,12.92,14.28,higher,call,,8.5,8.5%,Q4FY25,7,"Segment result was Rs. 29.7 Cr, which was 8.5% of revenue in FY '25 , as compared to Rs. 51.5 Cr, which was 13.6% of revenue in FY24.",,,,,segment III FY25 result margin; base is FY24 13.6% stated in the same quote; band is base +/-5%
+BLUESTARCO-137,350,400,higher,call,,640.35,Rs 640.35 Cr net cash,Q4FY25,6,"The company reported a net cash position of Rs. 640.35 Cr as of March 31, 2025",,,,,consolidated net cash at 31 Mar 2025 in Rs crore
+BLUESTARCO-138,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+BLUESTARCO-139,25.0,30.0,higher,call,,22.4,22.4%,Q4FY25,7,"Similarly, the revenue for the year grew by 22.4% to Rs. 5,621.1 Cr in FY25, as compared to Rs. 4,592.2 Cr in FY24.",,,,,segment II FY25 revenue growth
+BLUESTARCO-140,13.3,14.7,higher,call,,14,close to 14%,Q4FY25,7,Our market share now stands close to 14%.,,,,,"FY25 room AC market share, management estimate"
+BLUESTARCO-141,7.0,7.5,higher,call,,8.2,8.2%,Q4FY25,6,"Segment result was Rs. 490.9 Cr, which is 8.2% of revenue in FY25 compared to Rs. 341.1 Cr, which was 7.2% of revenue in FY24.",,,,,segment I FY25 result margin
+BLUESTARCO-142,8.075,8.925,higher,call,,8.4,8.4%,Q4FY25,7,"Consequently, segment results improved to Rs. 471.2 Cr, which was 8.4% of revenue in FY25",,,,,segment II FY25 result margin
+BLUESTARCO-143,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+BLUESTARCO-144,,,,none,,,,,,,,,,not scorable,"no base number, no clear period"

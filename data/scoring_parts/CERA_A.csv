@@ -1,0 +1,78 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CERA-001,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+CERA-002,16.3305,18.0495,lower,call,,11.12,Rs 11.12 cr,Q4FY22,6,we spent Rs. 11.12 crore against the capex budget of Rs. 17.19 crore,,,,,FY22 capex spent vs budget; capex treated as cost (lower better)
+CERA-003,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+CERA-004,,,,none,,,,,,,,,,not scorable,"FY22 revenue stated as 1,464 on Q4FY22 call but 1,446 later and on Screener; Ind AS 105 basis unclear"
+CERA-005,,,,none,,,,,,,,,,not scorable,no reported actual on vendor price rise
+CERA-006,,,,none,,,,,,,,,,not scorable,no period
+CERA-007,,,,none,,,,,,,,,,not scorable,no period
+CERA-008,,,,none,,,,,,,,,,not scorable,no stated ratio actual; FY22 publicity only given in Rs
+CERA-009,,,,none,,,,,,,,,,not scorable,no period
+CERA-010,,,,none,,,,,,,,,,not scorable,"highly hedged, no commitment"
+CERA-011,,,,none,,,,,,,,,,not scorable,no period
+CERA-012,,,,none,,,,,,,,,,not scorable,no period
+CERA-013,16.3305,18.0495,lower,call,,11.12,Rs 11.12 cr,Q4FY22,6,we spent Rs. 11.12 crore against the capex budget of Rs. 17.19 crore,,,,,FY22 capex spent vs budget; capex treated as cost (lower better)
+CERA-014,,,,none,,,,,,,,,,not scorable,no period
+CERA-015,,,,none,,,,,,,,,,not scorable,no period
+CERA-016,380,,higher,call,,439,Rs 439 crore,Q4FY22,5,Revenues in Q4FY22 were Rs. 439 crore versus Rs. 431 crore in Q4FY21.,,,,,"~400 or slightly higher treated as floor 380; call figure is adjusted basis, reported figure 410 also above floor"
+CERA-017,,,,none,,,,,,,,,,not scorable,no single reported actual for increment; derived
+CERA-018,,,,none,,,,,,,,,,not scorable,no period
+CERA-019,,,,none,,,,,,,,,,not scorable,no period
+CERA-020,14.25,,higher,screener,rev_growth:FY22,,,,,,,,,,at least 1.5x industry 9.5%; floor 14.25
+CERA-021,47.5,52.5,higher,call,,41,41%,Q4FY22,9,so increase of 41% in Faucetware and 30% in Sanitaryware.,,,,,Faucetware FY22 growth reported on call
+CERA-022,,,,none,,,,,,,,,,not scorable,no period
+CERA-023,,,,none,,,,,,,,,,not scorable,no period
+CERA-024,,,,none,,,,,,,,,,not scorable,no period
+CERA-025,,,,none,,,,,,,,,,not scorable,"only Q4 utilisation reported, not full FY23"
+CERA-026,,,,none,,,,,,,,,,not scorable,no FY23 production run-rate reported
+CERA-027,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CERA-028,65.55,72.45,lower,call,,58,Rs 58 cr,Q1FY24,8,"capex for faucetware, which was earmarked at INR 69 crore is now completed at INR 58 crore",,,,,Completed project cost; lower is better
+CERA-029,,,,none,,,,,,,,,,not scorable,no reported land spend for FY23
+CERA-030,,,,none,,,,,,,,,,not scorable,no period (zero date dependent)
+CERA-031,,,,none,,,,,,,,,,not scorable,no period
+CERA-032,,,,none,,,,,,,,,,not scorable,no period
+CERA-033,23.37,25.83,lower,call,,20.49,Rs 20.49 cr,Q4FY23,12,"of INR 24.7 crore, of which INR 20.49 crore was spent.",,,,,FY23 regular capex spent vs budget; capex treated as cost (lower better)
+CERA-034,,,,none,,,,,,,,,,not scorable,no period
+CERA-035,,,,none,,,,,,,,,,not scorable,no period
+CERA-036,18,20,higher,screener,rev_growth:FY25,,,,,,,,,,"Weakest completed year of FY23-FY25 is FY25 (FY23 25.2, FY24 3.8)"
+CERA-037,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+CERA-038,,,,none,,,,,,,,,,not scorable,no number
+CERA-039,50,75,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,"Weakest year of FY23-FY25 is FY25 (FY23 +79, FY24 -45)"
+CERA-040,,,,none,,,,,,,,,,not scorable,total FY23 capex incl. expansion not reported
+CERA-041,,,,none,,,,,,,,,,not scorable,basis and date unclear (annual vs quarterly run-rate)
+CERA-042,,,,none,,,,,,,,,,not scorable,no number
+CERA-043,,,,none,,,,,,,,,,not scorable,no period
+CERA-044,,,,none,,,,,,,,,,not scorable,no period
+CERA-045,,,,none,,,,,,,,,,not scorable,"only Q4 utilisation reported, not full FY23"
+CERA-046,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CERA-047,,,,none,,,,,,,,,,not scorable,no period
+CERA-048,23.465,25.935,lower,call,,20.49,Rs 20.49 cr,Q4FY23,12,"of INR 24.7 crore, of which INR 20.49 crore was spent.",,,,,FY23 regular capex spent vs budget; capex treated as cost (lower better)
+CERA-049,,,,none,,,,,,,,,,not scorable,no period
+CERA-050,,,,none,,,,,,,,,,not scorable,no period
+CERA-051,50,75,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,Weakest year of FY23-FY25 is FY25
+CERA-052,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+CERA-053,65.55,72.45,lower,call,,58,Rs 58 cr,Q1FY24,8,"capex for faucetware, which was earmarked at INR 69 crore is now completed at INR 58 crore",,,,,Completed project cost; lower is better
+CERA-054,,,,none,,,,,,,,,,not scorable,no period
+CERA-055,,,,none,,,,,,,,,,not scorable,analyst-derived; management declined FY23 target
+CERA-056,,,,none,,,,,,,,,,not scorable,no number
+CERA-057,,,,none,,,,,,,,,,not scorable,no period
+CERA-058,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CERA-059,,,,none,,,,,,,,,,not scorable,no period
+CERA-060,,,,none,,,,,,,,,,not scorable,no period
+CERA-061,,,,none,,,,,,,,,,not scorable,"only Q4 utilisation reported, not full FY23"
+CERA-062,,,,none,,,,,,,,,,not scorable,output vs capacity basis unclear
+CERA-063,65.55,72.45,lower,call,,58,Rs 58 cr,Q1FY24,8,"capex for faucetware, which was earmarked at INR 69 crore is now completed at INR 58 crore",,,,,Completed project cost; lower is better
+CERA-064,,,,none,,,,,,,,,,not scorable,no period
+CERA-065,,,,none,,,,,,,,,,not scorable,retailers enrolled not reported; only uploaded invoices
+CERA-066,23.37,25.83,lower,call,,20.49,Rs 20.49 cr,Q4FY23,12,"of INR 24.7 crore, of which INR 20.49 crore was spent.",,,,,FY23 regular capex spent vs budget; capex treated as cost (lower better)
+CERA-067,,,,none,,,,,,,,,,not scorable,no period
+CERA-068,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+CERA-069,,,,none,,,,,,,,,,not scorable,no period
+CERA-070,,,,none,,,,,,,,,,not scorable,no period
+CERA-071,50,75,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,Weakest year of FY23-FY26 is at most FY25 value; FY26 not needed
+CERA-072,,,,none,,,,,,,,,,not scorable,no period
+CERA-073,,,,none,,,,,,,,,,not scorable,no period
+CERA-074,,,,none,,,,,,,,,,not scorable,no period
+CERA-075,,,,none,,,,,,,,,,not scorable,no period
+CERA-076,,,,none,,,,,,,,,,not scorable,no period
+CERA-077,,,,none,,,,,,,,,,not scorable,no stated ratio actual; FY23 spend only given in Rs

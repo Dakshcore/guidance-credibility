@@ -1,0 +1,41 @@
+ticker,company,segment,market_cap_cr,transcripts_in_period,missing_quarters,note
+TITAN,Titan Company Ltd,jewellery,444337,16,,pilot: count of transcripts stored in data/sources.csv
+ASIANPAINT,Asian Paints Ltd,home_paints,240692,16,,count of transcript links on the Screener page
+HAVELLS,Havells India Ltd,durables,72773,16,,count of transcript links on the Screener page
+BLUESTARCO,Blue Star Ltd,durables,32436,16,,count of transcript links on the Screener page
+JUBLFOOD,Jubilant Foodworks Ltd,qsr,28274,16,,pilot: count of transcripts stored in data/sources.csv
+CHALET,Chalet Hotels Ltd,leisure,17779,16,,count of transcript links on the Screener page
+KANSAINER,Kansai Nerolac Paints Ltd,home_paints,16257,16,,count of transcript links on the Screener page
+CROMPTON,Crompton Greaves Consumer Electricals Ltd,durables,14095,16,,count of transcript links on the Screener page
+LEMONTREE,Lemon Tree Hotels Ltd,leisure,9184,16,,count of transcript links on the Screener page
+RBA,Restaurant Brands Asia Ltd,qsr,6320,16,,count of transcript links on the Screener page
+CERA,Cera Sanitaryware Ltd,home_paints,6106,16,,count of transcript links on the Screener page
+ABFRL,Aditya Birla Fashion &amp; Retail Ltd,retail,4872,16,,count of transcript links on the Screener page
+ARVINDFASN,Arvind Fashions Ltd,retail,4653,16,,count of transcript links on the Screener page
+SHOPERSTOP,Shoppers Stop Ltd,retail,4011,16,,count of transcript links on the Screener page
+BAJAJELEC,Bajaj Electricals Ltd,durables,3219,16,,count of transcript links on the Screener page
+VAIBHAVGBL,Vaibhav Global Ltd,jewellery,2779,16,,count of transcript links on the Screener page
+DOLLAR,Dollar Industries Ltd,apparel_footwear,1535,16,,count of transcript links on the Screener page
+PAGEIND,Page Industries Ltd,apparel_footwear,,16,,count of transcript links on the Screener page
+SYMPHONY,Symphony Ltd,durables,3655,15,Q3FY22,count of transcript links on the Screener page
+METROBRAND,Metro Brands Ltd,apparel_footwear,22565,14,Q1FY22 Q2FY22,count of transcript links on the Screener page
+DEVYANI,Devyani International Ltd,qsr,15613,14,Q1FY22 Q2FY22,count of transcript links on the Screener page
+VGUARD,V-Guard Industries Ltd,durables,13047,14,Q2FY22 Q3FY22,count of transcript links on the Screener page
+MANYAVAR,Vedant Fashions Ltd,apparel_footwear,11597,14,Q1FY22 Q2FY22,count of transcript links on the Screener page
+GOCOLORS,Go Fashion (India) Ltd,apparel_footwear,1445,14,Q1FY22 Q2FY22,count of transcript links on the Screener page
+ORIENTELEC,Orient Electric Ltd,durables,,14,Q1FY22 Q2FY22,count of transcript links on the Screener page
+INDHOTEL,Indian Hotels Co Ltd,leisure,126920,13,Q4FY22 Q1FY23 Q2FY23,count of transcript links on the Screener page
+NYKAA,FSN E-Commerce Ventures Ltd,retail,103043,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+KALYANKJIL,Kalyan Jewellers India Ltd,jewellery,63101,13,Q1FY22 Q2FY22 Q3FY22,pilot: count of transcripts stored in data/sources.csv
+VOLTAS,Voltas Ltd,durables,36070,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+KAJARIACER,Kajaria Ceramics Ltd,home_paints,18849,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+PVRINOX,PVR Inox Ltd,leisure,15612,13,Q2FY23 Q3FY23 Q4FY23,count of transcript links on the Screener page
+WESTLIFE,Westlife Foodworld Ltd,qsr,10518,13,Q2FY22 Q3FY22 Q4FY22,count of transcript links on the Screener page
+BATAINDIA,Bata India Ltd,apparel_footwear,8216,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+RAYMOND,Raymond Ltd,apparel_footwear,7282,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+SAPPHIRE,Sapphire Foods India Ltd,qsr,6725,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+VIPIND,V I P Industries Ltd,durables,3401,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+RUPA,Rupa &amp; Company Ltd,apparel_footwear,994,13,Q1FY22 Q2FY22 Q3FY22,count of transcript links on the Screener page
+VMART,V-Mart Retail Ltd,retail,,13,Q2FY22 Q3FY22 Q1FY23,count of transcript links on the Screener page
+TTKPRESTIG,TTK Prestige Ltd,durables,8280,12,Q3FY22 Q1FY23 Q2FY23 Q3FY23,count of transcript links on the Screener page
+ETHOSLTD,Ethos Ltd,jewellery,7548,12,Q1FY22 Q2FY22 Q3FY22 Q3FY25,count of transcript links on the Screener page

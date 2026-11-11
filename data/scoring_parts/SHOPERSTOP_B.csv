@@ -1,0 +1,62 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SHOPERSTOP-086,500,,higher,call,,236,Rs 236 crores,Q4FY25,7,Our 100% subsidiary started 2 years back has reported nearly 100% increase in sales this year with a sales of Rs 236 crores with EBITDA increasing by 3x.,,,,,FY25 sales of Global SSBeauty (distribution subsidiary); floor 500 cr
+SHOPERSTOP-087,,,,none,,,,,,,,,,not scorable,no Q3FY23 inventory base reported on the call
+SHOPERSTOP-088,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-089,,,,none,,,,,,,,,,not scorable,"only a lower bound reported (more than 400,000 / over 4.5 lakh), not an exact count"
+SHOPERSTOP-090,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-091,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-092,,,,none,,,,,,,,,,not scorable,"breakeven, no numeric target and no reported actual"
+SHOPERSTOP-093,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-094,12,14,higher,call,,11,11 department stores,Q4FY23,6,"For the third consecutive year, we have now opened more than 10 department stores. To be precise, we opened 11 department stores and 12 beauty stores.",,,,,FY23 department store openings
+SHOPERSTOP-095,,,,none,,,,,,,,,,not scorable,no full-year FY24 department store count reported
+SHOPERSTOP-096,,,,none,,,,,,,,,,not scorable,no full-year FY24 beauty store count reported
+SHOPERSTOP-097,0,,higher,screener,ebitda_change_bps:FY24,,,,,,,,,,"FY24 EBITDA margin change vs FY23 in bps, Screener consolidated; direction vs base; Q4FY24 call also says reported EBITDA lower than last year"
+SHOPERSTOP-098,,,,none,,,,,,,,,,not scorable,individual brand sales; the three brands are not named
+SHOPERSTOP-099,,,,none,,,,,,,,,,not scorable,no reported actual
+SHOPERSTOP-100,,,,none,,,,,,,,,,not scorable,no quarterly capex reported for Q4FY23
+SHOPERSTOP-101,,,,none,,,,,,,,,,not scorable,"reported capex of 246 cr includes tech; guide excludes tech, bases differ"
+SHOPERSTOP-102,150,200,lower,call,,246,INR 246 crores,Q4FY24,4,"Overall, we invested INR84 crores during the quarter and INR 246 crores for the full year.",,,,,"FY24 total capex incl tech (Q4FY24 p13 says includes everything); lower is better for spend; wording is invested, not capex"
+SHOPERSTOP-103,,,,none,,,,,,,,,,not scorable,SSBeauty-only capex not reported
+SHOPERSTOP-104,,,,none,,,,,,,,,,not scorable,guide excludes distribution business; no matching reported actual
+SHOPERSTOP-105,,,,none,,,,,,,,,,not scorable,no matching reported like-for-like actual for FY23-FY26
+SHOPERSTOP-106,,,,none,,,,,,,,,,not scorable,guide on pre-IndAS gross sales basis; no reported actual on that basis (Screener is IndAS consolidated)
+SHOPERSTOP-107,,,,none,,,,,,,,,,not scorable,guide on pre-IndAS gross sales basis; no reported actual on that basis
+SHOPERSTOP-108,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-109,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-110,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-111,10,12,higher,call,,9,9 department stores,Q4FY25,4,"For the full year, we have opened 73 stores comprising of 52 INTUNE, 9 Department, 7 Beauty and 5 HomeStop stores.",,,,,10-12 per year FY24-FY25; FY25 openings already below floor so weakest year is below 10; FY24 count not needed
+SHOPERSTOP-112,,,,none,,,,,,,,,,not scorable,ROCE basis not matched by any reported figure; Screener ROCE is a different definition
+SHOPERSTOP-113,,,,none,,,,,,,,,,not scorable,mid-double-digit not a defined range in rubric; basis gross vs net unclear
+SHOPERSTOP-114,,,,none,,,,,,,,,,not scorable,no full-year FY24 like-for-like growth reported
+SHOPERSTOP-115,,,,none,,,,,,,,,,not scorable,"incremental contribution, no reported actual"
+SHOPERSTOP-116,,,,none,,,,,,,,,,not scorable,no Q1FY24 total inventory figure reported
+SHOPERSTOP-117,,,,none,,,,,,,,,,not scorable,no year-end working capital figure on the guided basis
+SHOPERSTOP-118,,,,none,,,,,,,,,,not scorable,FY20 revenue base and basis (gross vs net) not stated; no matching reported actual
+SHOPERSTOP-119,,,,none,,,,,,,,,,not scorable,only an analyst figure (119 cr) on the call; no management-reported actual
+SHOPERSTOP-120,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-121,160,200,lower,call,,246,INR 246 crores,Q4FY24,4,"Overall, we invested INR84 crores during the quarter and INR 246 crores for the full year.",,,,,"FY24 yearly capex; lower is better for spend; wording is invested, not capex"
+SHOPERSTOP-122,,,,none,,,,,,,,,,not scorable,recovery not defined numerically
+SHOPERSTOP-123,,,,none,,,,,,,,,,not scorable,subset of Q2 openings (two named stores); no per-store actual
+SHOPERSTOP-124,100,120,lower,call,,100,circa INR100 crores,Q2FY24,8,Our net borrowings remained at circa INR100 crores with no further increase in b orrowings.,,,,,Q2FY24 end net borrowings; circa figure taken as 100
+SHOPERSTOP-125,,,,none,,,,,,,,,,not scorable,no year-end FY24 net debt or cash figure reported on the call
+SHOPERSTOP-126,190,210,lower,call,,246,INR 246 crores,Q4FY24,4,"Overall, we invested INR84 crores during the quarter and INR 246 crores for the full year.",,,,,"FY24 capex ~200 cr +/-5%; lower is better for spend; wording is invested, not capex"
+SHOPERSTOP-127,,,,none,,,,,,,,,,not scorable,no full-year FY24 department store count reported
+SHOPERSTOP-128,4.75,5.25,higher,call,,4,4 department stores,Q2FY24,5,"During the quarter, we opened four large departmental stores, three beauty stores and four Intune stores.",,,,,Q2FY24 department store openings; the further 3 in Q3 not scored
+SHOPERSTOP-129,,,,none,,,,,,,,,,not scorable,no full-year FY24 beauty store count reported
+SHOPERSTOP-130,,,,none,,,,,,,,,,not scorable,no number
+SHOPERSTOP-131,,,,none,,,,,,,,,,not scorable,"date milestone for named stores, no numeric target"
+SHOPERSTOP-132,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-133,,,,none,,,,,,,,,,not scorable,Intune count at 30 Sep 2023 not reported; only a count at call date
+SHOPERSTOP-134,,,,none,,,,,,,,,,not scorable,"direction only, no reported inventory figure"
+SHOPERSTOP-135,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-136,,,,none,,,,,,,,,,not scorable,no reported FY24 ESOP expense
+SHOPERSTOP-137,,,,none,,,,,,,,,,not scorable,no base figure and no reported actual
+SHOPERSTOP-138,,,,none,,,,,,,,,,not scorable,no reported actual for total dilution
+SHOPERSTOP-139,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-140,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-141,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-142,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-143,,,,none,,,,,,,,,,not scorable,no reported inventory figure for the cleared stock
+SHOPERSTOP-144,,,,none,,,,,,,,,,not scorable,share of new stores by tier not reported
+SHOPERSTOP-145,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-146,,,,none,,,,,,,,,,not scorable,no reported FY24 rental expense on the guided basis

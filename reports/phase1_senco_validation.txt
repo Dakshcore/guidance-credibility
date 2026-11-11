@@ -1,0 +1,41 @@
+new SENCO statements: 133; reference statements in the same 8 calls: 104; matched pairs: 90
+verdict agreement on matched pairs: 53 of 90 (58.9%)
+where both scored beat/met/missed: 33 of 37 (89.2%)
+disagreements by cause: {'rubric: undated': 22, 'not found here': 8, 'newly reported': 3, 'different actual': 2, 'different range': 2}
+  SENCO-001 vs G001 (Q1FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-006 vs G006 (Q1FY24): new not scorable [..; actual ] vs ref beat [123.5..136.5 higher; actual 141.0] -> not found here
+  SENCO-007 vs G007 (Q1FY24): new not scorable [..; actual ] vs ref met [..0 higher; actual -78.59] -> not found here
+  SENCO-008 vs G008 (Q1FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-010 vs G010 (Q1FY24): new met [1000.. higher; actual 1147] vs ref no actual [..; actual ] -> newly reported
+  SENCO-013 vs G012 (Q1FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-026 vs G023 (Q2FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-027 vs G024 (Q2FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-028 vs G025 (Q2FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-031 vs G026 (Q3FY24): new met [18.. higher; actual 28.5504] vs ref not due [..; actual ] -> newly reported
+  SENCO-033 vs G028 (Q3FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-036 vs G031 (Q3FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-037 vs G030 (Q3FY24): new beat [6.65..7.35 higher; actual 7.4222] vs ref met [6.65..7.35 higher; actual 7.2] -> different actual
+  SENCO-042 vs G036 (Q3FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-043 vs G037 (Q3FY24): new beat [20..24 higher; actual around 40 stores] vs ref missed [20..24 higher; actual 16.0] -> different actual
+  SENCO-045 vs G038 (Q4FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-052 vs G043 (Q4FY24): new missed [12.4..12.7 higher; actual 10.9%] vs ref not due [..; actual ] -> newly reported
+  SENCO-053 vs G044 (Q4FY24): new not scorable [..; actual ] vs ref missed [20..30 higher; actual -183.33] -> not found here
+  SENCO-055 vs G046 (Q4FY24): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-062 vs G052 (Q1FY25): new not scorable [..; actual ] vs ref missed [14.5..15 higher; actual 13.46] -> not found here
+  SENCO-064 vs G055 (Q1FY25): new not scorable [..; actual ] vs ref met [13..14 higher; actual 14.0] -> not found here
+  SENCO-066 vs G057 (Q1FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-071 vs G062 (Q2FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-074 vs G064 (Q2FY25): new not scorable [..; actual ] vs ref missed [15..16 higher; actual 13.46] -> not found here
+  SENCO-076 vs G065 (Q2FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-081 vs G069 (Q2FY25): new not scorable [..; actual ] vs ref beat [18..20 higher; actual 22.0] -> not found here
+  SENCO-082 vs G070 (Q2FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-083 vs G071 (Q2FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-090 vs G075 (Q3FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-097 vs G080 (Q3FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-098 vs G081 (Q3FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-112 vs G085 (Q3FY25): new met [18.. higher; actual 21.1961] vs ref beat [18..20 higher; actual 20.73] -> different range
+  SENCO-117 vs G090 (Q4FY25): new met [18.. higher; actual 26 showrooms] vs ref beat [18..20 higher; actual 26.0] -> different range
+  SENCO-119 vs G092 (Q4FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-124 vs G095 (Q4FY25): new not scorable [..; actual ] vs ref met [..; actual ] -> not found here
+  SENCO-126 vs G097 (Q4FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated
+  SENCO-127 vs G099 (Q4FY25): new not scorable [..; actual ] vs ref not due [..; actual ] -> rubric: undated

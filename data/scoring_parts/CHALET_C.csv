@@ -1,0 +1,73 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CHALET-158,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-159,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-160,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-161,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-162,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-163,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-164,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-165,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-166,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-167,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-168,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-169,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-170,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-171,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-172,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-173,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-174,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-175,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-176,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-177,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-178,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CHALET-179,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-180,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-181,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-182,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-183,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-184,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-185,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-186,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-187,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-188,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-189,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-190,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-191,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-192,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-193,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-194,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-195,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-196,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-197,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-198,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-199,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-200,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-201,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-202,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-203,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-204,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-205,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-206,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-207,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-208,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-209,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-210,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-211,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-212,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+CHALET-213,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+CHALET-214,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-215,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-216,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-217,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CHALET-218,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CHALET-219,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-220,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-221,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-222,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-223,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-224,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-225,41.2844,,higher,screener,ebitda_margin:FY25,,,,,,,,,,expansion vs FY24 consolidated margin 41.2844 (Screener ebitda_margin:FY24)
+CHALET-226,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-227,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-228,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-229,,,,none,,,,,,,,,,not scorable,no numeric target

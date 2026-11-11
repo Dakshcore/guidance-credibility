@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RUPA-085,,,,none,,,,,,,,,,not scorable,CAGR FY24-FY26 is not a reported figure or Screener key
+RUPA-086,11,12,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated Screener margin; guide basis not stated
+RUPA-087,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RUPA-088,,,,none,,,,,,,,,,not scorable,no period
+RUPA-089,,,,none,,,,,,,,,,not scorable,FY25 capex not reported; FY24 capex only a 7-8 crore range
+RUPA-090,,,,none,,,,,,,,,,not scorable,no reported H2FY24 ad spend share
+RUPA-091,,,,none,,,,,,,,,,not scorable,FY24 working capital days not reported on management basis; Screener basis differs
+RUPA-092,,,,none,,,,,,,,,,not scorable,no price-hike size or period
+RUPA-093,18,20,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated Screener
+RUPA-094,,,,none,,,,,,,,,,not scorable,no period
+RUPA-095,,,,none,,,,,,,,,,not scorable,no period
+RUPA-096,,,,none,,,,,,,,,,not scorable,FY26 women share not reported in transcripts
+RUPA-097,100,150,higher,screener,ebitda_change_bps:FY26,,,,,,,,,,guide 1-1.5 pts per year FY25-FY26; weakest year FY26 used (FY25 was +87.7 bps); unit bps; margin type not named so EBITDA assumed
+RUPA-098,,,,none,,,,,,,,,,not scorable,"direction only, no reported gross margin"
+RUPA-099,13,14,higher,screener,h2_ebitda_margin:FY24,,,,,,,,,,"number came from analyst, management agreed; consolidated Screener"
+RUPA-100,,,,none,,,,,,,,,,not scorable,no period
+RUPA-101,,,,none,,,,,,,,,,not scorable,no period
+RUPA-102,6.5,7,lower,call,,5,about 5% of revenue (FY25); about 5% (FY24),Q4FY25,4,"We invested Rs. 63 crores in branding and advertising in Financial Year ‘ 25, representing 5% of revenues.",Q4FY24,3,"We invested approximately INR66 crores in the branding and advertising, which constitutes about 5% of our revenues in financial year '24.",,"guide FY24-FY25; both years about 5%, FY25 used as src, FY24 as src2 (both below range)"
+RUPA-103,,,,none,,,,,,,,,,not scorable,FY25 capex not reported
+RUPA-104,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RUPA-105,,,,none,,,,,,,,,,not scorable,no numeric target
+RUPA-106,,,,none,,,,,,,,,,not scorable,no period
+RUPA-107,,,,none,,,,,,,,,,not scorable,FY24 inventory days not reported on management basis; Screener basis differs
+RUPA-108,,,,none,,,,,,,,,,not scorable,no period
+RUPA-109,,,,none,,,,,,,,,,not scorable,FY25 thermal segment growth not reported
+RUPA-110,14.25,15.75,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated Screener
+RUPA-111,10,12,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated Screener
+RUPA-112,,,,none,,,,,,,,,,not scorable,no period
+RUPA-113,,,,none,,,,,,,,,,not scorable,no period
+RUPA-114,,,,none,,,,,,,,,,not scorable,no period
+RUPA-115,13,15,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated Screener
+RUPA-116,10,11,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated Screener
+RUPA-117,18,20,higher,call,,7.6,7.6% revenue growth,Q1FY25,3,This quarter we witnessed 7.6% rise in revenue primarily driven by the sale in our core product line.,,,,,Q1FY25 yoy revenue growth stated by management
+RUPA-118,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RUPA-119,,,,none,,,,,,,,,,not scorable,FY25 capex not reported
+RUPA-120,,,,none,,,,,,,,,,not scorable,no reported price hike size
+RUPA-121,,,,none,,,,,,,,,,not scorable,no numeric target
+RUPA-122,171,189,lower,call,,231,231 days,Q4FY25,6,"The net working capital days for FY '25 is 231 days, and we expect that to reduce by 10 - 20 days in FY '26.",,,,,management-reported net working capital days FY25
+RUPA-123,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RUPA-124,,,,none,,,,,,,,,,not scorable,no period
+RUPA-125,12,15,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated Screener
+RUPA-126,10,11,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated Screener
+RUPA-127,,,,none,,,,,,,,,,not scorable,FY25 thermal volume growth not reported
+RUPA-128,,,,none,,,,,,,,,,not scorable,FY25 full-year volume growth not reported
+RUPA-129,,,,none,,,,,,,,,,not scorable,FY25 capex not reported
+RUPA-130,6,7,lower,call,,5,5% of revenues,Q4FY25,4,"We invested Rs. 63 crores in branding and advertising in Financial Year ‘ 25, representing 5% of revenues.",,,,,FY25 ad spend share as reported
+RUPA-131,,,,none,,,,,,,,,,not scorable,no numeric target
+RUPA-132,,,,none,,,,,,,,,,not scorable,no period
+RUPA-133,100,,higher,screener,ebitda_change_bps:FY26,,,,,,,,,,floor of +100 bps vs FY25; unit bps; consolidated Screener
+RUPA-134,,,,none,,,,,,,,,,not scorable,FY25 women share only given in an analyst question
+RUPA-135,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RUPA-136,20,,higher,call,,17,17% growth,Q4FY25,4,"Modern trade saw a robust growth of 17% in '25, taking the top -line to Rs. 63 crores, contributing 5% to overall revenues",,,,,floor at 20 (at least 20-25); FY25 modern trade growth
+RUPA-137,,,,none,,,,,,,,,,not scorable,no period
+RUPA-138,10,12,higher,screener,h2_rev_growth:FY25,,,,,,,,,,consolidated Screener H2
+RUPA-139,10,11,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated Screener
+RUPA-140,47.5,52.5,higher,call,,33,33 EBOs,Q4FY25,11,"honestly, we have around 33 EBOs now, but with just 33 EBOs we are yet to crack a very scalable model",,,,,FY25 closing EBO count
+RUPA-141,,,,none,,,,,,,,,,not scorable,FY25 capex not reported
+RUPA-142,,,,none,,,,,,,,,,not scorable,no reported solar commissioning
+RUPA-143,0,,higher,call,,20,about 20% thermal growth in Q3FY25,Q3FY25,7,"In quarter 3, the thermal has grown and the sales growth in quarter 3 for the thermal is around 20%.",,,,,direction vs Q3FY24 (growth above 0); yoy assumed from context
+RUPA-144,,,,none,,,,,,,,,,not scorable,no period
+RUPA-145,,,,none,,,,,,,,,,not scorable,Q2FY25 and Q3FY25 gross margins only given by analysts
+RUPA-146,,,,none,,,,,,,,,,not scorable,no period
+RUPA-147,,,,none,,,,,,,,,,not scorable,no period
+RUPA-148,,,,none,,,,,,,,,,not scorable,no period
+RUPA-149,7,8,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated Screener
+RUPA-150,7,7.5,lower,call,,5,5% of revenues,Q4FY25,4,"We invested Rs. 63 crores in branding and advertising in Financial Year ‘ 25, representing 5% of revenues.",,,,,FY25 ad spend share as reported
+RUPA-151,8,10,higher,screener,q_rev_growth:Q4FY25,,,,,,,,,,consolidated Screener quarter
+RUPA-152,10,11,higher,screener,ebitda_margin:FY25,,,,,,,,,,consolidated Screener
+RUPA-153,6,7,lower,call,,5,5% of revenues,Q4FY25,4,"We invested Rs. 63 crores in branding and advertising in Financial Year ‘ 25, representing 5% of revenues.",,,,,FY25 ad spend share as reported
+RUPA-154,,,,none,,,,,,,,,,not scorable,no reported Q4FY25 ad spend share
+RUPA-155,,,,none,,,,,,,,,,not scorable,FY25 capex not reported
+RUPA-156,,,,none,,,,,,,,,,not scorable,answer to a volume question; unclear if volume or revenue
+RUPA-157,10,11,higher,screener,q_ebitda_margin:Q4FY25,,,,,,,,,,consolidated Screener quarter
+RUPA-158,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RUPA-159,,,,none,,,,,,,,,,not scorable,"direction only, no number"
+RUPA-160,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RUPA-161,,,,none,,,,,,,,,,not due,FY27 not yet reported
+RUPA-162,,,,none,,,,,,,,,,not scorable,no period
+RUPA-163,9.5,10.5,higher,call,,4,4% volume growth in Q4,Q4FY25,3,"We achieved a 4% volume growth in Q4 and 3% value growth for the full-year,",,,,,Q4FY25 volume growth
+RUPA-164,,,,none,,,,,,,,,,not scorable,no period
+RUPA-165,12,15,higher,screener,rev_growth:FY26,,,,,,,,,,consolidated Screener
+RUPA-166,11,12,higher,screener,ebitda_margin:FY26,,,,,,,,,,consolidated Screener
+RUPA-167,,,,none,,,,,,,,,,not scorable,no period
+RUPA-168,,,,none,,,,,,,,,,not due,FY27 not yet reported

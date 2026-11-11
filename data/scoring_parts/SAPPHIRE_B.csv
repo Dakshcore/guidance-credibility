@@ -1,0 +1,48 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SAPPHIRE-079,1.9,2.1,higher,call,,2.0,doubled (2.0x Dec-21 KFC count),Q3FY25,4,"While we have doubled the store count in 3 years from Decem ber 2021, going forward, we believe that we should be able to continue our current pace of expansion, about 70- 80 stores per year.",,,,,"management states count doubled from Dec-21 by Dec-24; ratio 2.0 used, no exact counts given"
+SAPPHIRE-080,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-081,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-082,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-083,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-084,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-085,0,,higher,call,,2.4,"2.4% (FY25 Pizza Hut restaurant EBITDA, derived)",Q4FY26,3,"Pizza Hut revenue for the year declined by 7%, revenue of INR507 crores with a restaurant EBITDA of minus 3.3%, 570 basis points below last year.",,,,,"FY25 = FY26 -3.3% plus 570 bps = 2.4%; derived from one quote, rounded inputs"
+SAPPHIRE-086,0,9.99,higher,call,,2.4,"2.4% (FY25 Pizza Hut restaurant EBITDA, derived)",Q4FY26,3,"Pizza Hut revenue for the year declined by 7%, revenue of INR507 crores with a restaurant EBITDA of minus 3.3%, 570 basis points below last year.",,,,,single digit read as 0 to 9.99; FY25 = -3.3% plus 5.7 = 2.4%; derived from one quote
+SAPPHIRE-087,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-088,,,,none,,,,,,,,,,not scorable,no numeric target; closures not reported as complete
+SAPPHIRE-089,14,16,higher,call,,15.4,15.4%,Q4FY25,3,Sri Lanka had a very strong turnaround in the full year. We grew revenue in LKR terms by 14% and restaurant EBITDA margins were healthy at 15.4% first time in 3 years that we have been able to clock above 15% restaurant EBITDA,,,,,"mid-teens read as 14-16; Sri Lanka FY25 full-year restaurant EBITDA; condition (SSSG 5-7%) not tested, scored as stated"
+SAPPHIRE-090,,,,none,,,,,,,,,,not scorable,no reported full-year Sri Lanka SSSG on guided basis
+SAPPHIRE-091,,,,none,,,,,,,,,,not scorable,no reported Sri Lanka FY25 store additions
+SAPPHIRE-092,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-093,,,,none,,,,,,,,,,not scorable,no reported KFC restaurant count at Dec-24
+SAPPHIRE-094,0,,higher,call,,-8,"-8% (Q2FY25 KFC SSSG, weakest of Q2/Q3)",Q3FY25,5,"We had minus 5% in Q1 and minus 8% in Q2. So, trajectory has definitely improved.",Q3FY25,4,"In Slide #24, the SSSG came in at minus 3%. Trend improved over the last 2 quarters. The ADS was INR 115,000.",,positive SSSG for Q2 and Q3; weakest quarter Q2 -8% used; Q3 was -3%
+SAPPHIRE-095,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-096,,,,none,,,,,,,,,,not scorable,no firm target; reference point only
+SAPPHIRE-097,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-098,,,,none,,,,,,,,,,not scorable,slightly negative not a defined range; conditional on ADS
+SAPPHIRE-099,,,,none,,,,,,,,,,not scorable,no reported corporate cost on guided basis
+SAPPHIRE-100,-6,-5,higher,call,,-3,-3%,Q3FY25,3,Our KFC SSSG trajectory improved slightly versus our previous 2 quarters. SSSG came in as negative 3%.,,,,,KFC Q3FY25 SSSG; same figure repeated on p4
+SAPPHIRE-101,,,,none,,,,,,,,,,not scorable,no reported KFC restaurant count at Dec-24
+SAPPHIRE-102,20,25,higher,call,,15,15 Pizza Hut stores,Q4FY25,15,this was a year where from a financial year perspective we opened 70 stores only for KFC and Pizza Hut was 15 stores only.,,,,,gross openings in FY25 for Pizza Hut India as stated by CFO
+SAPPHIRE-103,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-104,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-105,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-106,,,,none,,,,,,,,,,not scorable,no numeric target
+SAPPHIRE-107,111,,higher,call,,115,"INR 115,000",Q3FY25,4,"In Slide #24, the SSSG came in at minus 3%. Trend improved over the last 2 quarters. The ADS was INR 115,000.",,,,,"KFC Q3FY25 ADS vs Q2 INR 111,000 (rupees thousand)"
+SAPPHIRE-108,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-109,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-110,-3,,higher,call,,-1,-1%,Q4FY25,4,"In terms of SSSG, the trend continued to improve. We were at -1% and overall revenue grew by 12% on back of 73 restaurant additions which we had in last one year.",,,,,KFC Q4FY25 SSSG vs Q3FY25 -3%
+SAPPHIRE-111,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-112,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-113,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-114,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-115,17.1,18.9,higher,call,,16.3,16.3%,Q4FY26,3,"KFC grew by 11% with a restaurant EBITDA of 16.3%, down 100 basis points.",,,,,"KFC FY26 restaurant EBITDA; ~18% read as 17.1-18.9; condition (5% SSSG) not tested, scored as stated"
+SAPPHIRE-116,0,,higher,call,,-1,"-1% (Q4FY25 KFC SSSG, weakest of Q4FY25/Q1FY26)",Q4FY25,4,"In terms of SSSG, the trend continued to improve. We were at -1% and overall revenue grew by 12% on back of 73 restaurant additions which we had in last one year.",Q1FY26,4,"The SSSG was flat, however, the same store transaction growth, SSTG was positive low single digit, which was very encouraging.",,positive in both quarters; Q4FY25 -1% is weakest; Q1FY26 flat
+SAPPHIRE-117,,3,lower,call,,-3.3,-3.3%,Q4FY26,3,"Pizza Hut revenue for the year declined by 7%, revenue of INR507 crores with a restaurant EBITDA of minus 3.3%, 570 basis points below last year.",,,,,ceiling of low single digit (3); Pizza Hut FY26 restaurant EBITDA
+SAPPHIRE-118,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-119,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-120,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-121,,,,none,,,,,,,,,,not scorable,no reported H1FY27 KFC restaurant EBITDA on stored calls
+SAPPHIRE-122,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+SAPPHIRE-123,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SAPPHIRE-124,,,,none,,,,,,,,,,not scorable,no period
+SAPPHIRE-125,,,,none,,,,,,,,,,not due,FY27 not yet reported

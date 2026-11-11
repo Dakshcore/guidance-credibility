@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VGUARD-086,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-087,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-088,,,,none,,,,,,,,,,not scorable,no period; segment margin not reported
+VGUARD-089,,,,none,,,,,,,,,,not scorable,no reported H2FY24 Sunflame revenue
+VGUARD-090,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-091,,,,none,,,,,,,,,,not scorable,no numeric target; segment gross margin not reported
+VGUARD-092,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-093,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-094,,,,none,,,,,,,,,,not scorable,vague timing; direction only
+VGUARD-095,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-096,,,,none,,,,,,,,,,not scorable,"channel plan, no numeric target"
+VGUARD-097,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-098,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-099,18.6,,higher,call,,17.9,17.9%,Q4FY24,3,"we reported consolidated net revenues of INR1,343 crores in Q4 FY '24, higher by 17.9% on a Y -o-Y basis.",,,,,Q4FY24 consolidated revenue growth vs Q3FY24 growth of 18.6% stated on Q3FY24 call; floor
+VGUARD-100,,,,none,,,,,,,,,,not scorable,"ranking only, no numbers"
+VGUARD-101,9,9.5,higher,screener,ebitda_margin:FY24,,,,,,,,,,FY24 consolidated EBITDA margin
+VGUARD-102,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-103,,,,none,,,,,,,,,,not scorable,direction only; no full-year gross margin on both years reported
+VGUARD-104,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-105,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-106,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-107,,,,none,,,,,,,,,,not scorable,no reported fans revenue
+VGUARD-108,,,,none,,,,,,,,,,not scorable,direction only; no inverter sales figure
+VGUARD-109,,,,none,,,,,,,,,,not scorable,no reported Q4FY24 project charge
+VGUARD-110,,,,none,,,,,,,,,,not scorable,ambiguous wording; no reported actual
+VGUARD-111,12.5,15,higher,screener,rev_growth:FY26,,,,,,,,,,"multi-year FY24-FY26; weakest year used (FY24 17.69, FY25 14.84, FY26 6.96)"
+VGUARD-112,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-113,,,,none,,,,,,,,,,not scorable,no reported capex actual
+VGUARD-114,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-115,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-116,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-117,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-118,,,,none,,,,,,,,,,not scorable,no reported capex actual
+VGUARD-119,,,,none,,,,,,,,,,not scorable,"timing floor, no numeric target"
+VGUARD-120,,,,none,,,,,,,,,,not scorable,no period; direction only
+VGUARD-121,,,,none,,,,,,,,,,not scorable,sequential direction only; no reported actual
+VGUARD-122,,,,none,,,,,,,,,,not scorable,no reported FY25 Sunflame revenue on guided basis
+VGUARD-123,,,,none,,,,,,,,,,not scorable,no reported in-house share at Nov-25
+VGUARD-124,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-125,,,,none,,,,,,,,,,not scorable,direction only; segment margin not reported
+VGUARD-126,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-127,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-128,10,10.5,higher,screener,ebitda_margin:FY25,,,,,,,,,,FY25 consolidated EBITDA margin
+VGUARD-129,,,,none,,,,,,,,,,not scorable,segment margin not reported on guided basis
+VGUARD-130,,,,none,,,,,,,,,,not scorable,direction only; segment margin not reported
+VGUARD-131,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-132,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+VGUARD-133,,,,none,,,,,,,,,,not scorable,company working capital days not on Screener basis
+VGUARD-134,,,,none,,,,,,,,,,not scorable,no reported capex actual
+VGUARD-135,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-136,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-137,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-138,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-139,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-140,9,10,higher,screener,ebitda_margin:FY25,,,,,,,,,,FY25 consolidated EBITDA margin
+VGUARD-141,,,,none,,,,,,,,,,not scorable,no reported FY25 Sunflame revenue
+VGUARD-142,,,,none,,,,,,,,,,not scorable,vague point guide; no reported actual
+VGUARD-143,,,,none,,,,,,,,,,not scorable,non-South revenue amount not reported
+VGUARD-144,,,,none,,,,,,,,,,not due,FY27 not yet reported
+VGUARD-145,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-146,13,15,higher,screener,rev_growth:FY25,,,,,,,,,,FY25 consolidated revenue growth
+VGUARD-147,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-148,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-149,,,,none,,,,,,,,,,not scorable,direction only; no numeric target
+VGUARD-150,,,,none,,,,,,,,,,not scorable,no reported H2FY25 Sunflame growth
+VGUARD-151,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-152,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-153,,,,none,,,,,,,,,,not scorable,no reported Sunflame EBITDA margin
+VGUARD-154,,,,none,,,,,,,,,,not scorable,no numeric target
+VGUARD-155,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-156,,,,none,,,,,,,,,,not scorable,no reported capex actual
+VGUARD-157,,,,none,,,,,,,,,,not scorable,two businesses; no reported FY25 revenue
+VGUARD-158,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-159,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-160,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+VGUARD-161,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+VGUARD-162,,,,none,,,,,,,,,,not due,FY28 not yet reported
+VGUARD-163,,,,none,,,,,,,,,,not scorable,no reported FY26 plant capex
+VGUARD-164,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-165,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-166,,,,none,,,,,,,,,,not due,FY27 not yet reported; direction only
+VGUARD-167,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-168,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-169,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"

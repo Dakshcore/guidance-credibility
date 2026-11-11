@@ -1,0 +1,118 @@
+TRANSCRIPT COVERAGE (calls Q1FY22-Q4FY25 = 16 per company; later calls are actuals sources only)
+ticker       study ok no text missing later ok
+ABFRL              13       0       3        5
+ARVINDFASN         16       0       0        6
+ASIANPAINT         15       1       0        6
+BAJAJELEC          16       0       0        5
+BATAINDIA          13       0       3        6
+BLUESTARCO         16       0       0        6
+CERA               15       0       1        5
+CHALET             16       0       0        5
+CROMPTON           15       1       0        6
+DEVYANI            14       0       2        6
+DOLLAR             13       0       3        5
+ETHOSLTD           12       0       4        0
+GOCOLORS           14       0       2        5
+HAVELLS            15       0       1        6
+INDHOTEL            9       0       7        6
+JUBLFOOD           16       0       0        5
+KAJARIACER         13       0       3        6
+KALYANKJIL         13       0       3        5
+KANSAINER          14       0       2        5
+LEMONTREE          16       0       0        5
+MANYAVAR           14       0       2        5
+METROBRAND         13       1       2        6
+NYKAA              12       1       3        6
+ORIENTELEC         14       0       2        6
+PAGEIND            16       0       0        5
+PVRINOX            13       0       3        6
+RAYMOND            13       0       3        6
+RBA                16       0       0        6
+RUPA               13       0       3        4
+SAPPHIRE           12       0       4        6
+SENCO               8       0       8        5
+SHOPERSTOP         16       0       0        3
+SYMPHONY           13       0       3        5
+TITAN              16       0       0        5
+TTKPRESTIG         11       0       5        5
+VAIBHAVGBL         16       0       0        6
+VGUARD             14       0       2        5
+VIPIND             13       0       3        1
+VMART              13       0       3        6
+VOLTAS             13       0       3        5
+WESTLIFE           12       0       4        6
+ALL               565       4      87      212
+companies: 41; with fewer than 12 study transcripts: INDHOTEL, SENCO, TTKPRESTIG
+
+STATEMENTS AND SCORES
+ticker       stmts scored  share  beat  met missed not scorable not due delivered
+ABFRL          177     20  11.3%     0    6     14          134      23     30.0%
+ARVINDFASN     258     22   8.5%     2   17      3          226      10     86.4%
+ASIANPAINT     134     10   7.5%     0    5      5          117       7     50.0%
+BAJAJELEC      167      1   0.6%     1    0      0          161       5    100.0%
+BATAINDIA      126      8   6.3%     5    2      1          116       2     87.5%
+BLUESTARCO     164     57  34.8%    14   21     22          103       4     61.4%
+CERA           217     38  17.5%    16    8     14          163      16     63.2%
+CHALET         304     11   3.6%     0    8      3          282      11     72.7%
+CROMPTON       132      3   2.3%     0    2      1          124       5     66.7%
+DEVYANI        136     26  19.1%     4   14      8          109       1     69.2%
+DOLLAR         218     89  40.8%     4   15     70          118      11     21.3%
+ETHOSLTD       178     24  13.5%     2    9     13          137      17     45.8%
+GOCOLORS       220     53  24.1%     1   22     30          166       1     43.4%
+HAVELLS        150      0   0.0%     0    0      0          150       0       n/a
+INDHOTEL       136     28  20.6%     4   20      4           98      10     85.7%
+JUBLFOOD       188     23  12.2%     4   12      7          162       3     69.6%
+KAJARIACER     217     58  26.7%     4   17     37          137      22     36.2%
+KALYANKJIL     223     52  23.3%     6   26     20          163       8     61.5%
+KANSAINER      110      6   5.5%     0    4      2          101       3     66.7%
+LEMONTREE      396     69  17.4%     4   38     27          290      37     60.9%
+MANYAVAR        91      7   7.7%     0    5      2           83       1     71.4%
+METROBRAND     141     13   9.2%     2    0     11          128       0     15.4%
+NYKAA           89      4   4.5%     0    2      2           83       2     50.0%
+ORIENTELEC     124      4   3.2%     0    2      2          117       3     50.0%
+PAGEIND        109     16  14.7%     7    6      3           91       2     81.2%
+PVRINOX        144     28  19.4%     4    8     16          112       4     42.9%
+RAYMOND        138      7   5.1%     0    2      5          119      12     28.6%
+RBA            224     61  27.2%     9   41     11          139      24     82.0%
+RUPA           178     67  37.6%    10    9     48          105       6     28.4%
+SAPPHIRE       125     17  13.6%     2   10      5          104       4     70.6%
+SENCO          133     59  44.4%    25   12     22           67       7     62.7%
+SHOPERSTOP     289     60  20.8%     7   15     38          218      11     36.7%
+SYMPHONY        98      3   3.1%     0    0      3           93       2      0.0%
+TITAN          169     13   7.7%     1    8      4          150       6     69.2%
+TTKPRESTIG      71      7   9.9%     0    3      4           61       3     42.9%
+VAIBHAVGBL     234     33  14.1%     0   14     19          185      16     42.4%
+VGUARD         184     17   9.2%     1    6     10          160       7     41.2%
+VIPIND         201     39  19.4%     4    4     31          161       1     20.5%
+VMART          152     21  13.8%     6   11      4          129       2     81.0%
+VOLTAS          90     10  11.1%     2    6      2           79       1     80.0%
+WESTLIFE       124     23  18.5%     0   17      6           82      19     73.9%
+ALL           6959   1107  15.9%   151  427    529         5523     329     52.2%
+statements with no score row: 0
+
+SCORED SHARE BY CALL YEAR (all companies)
+FY22    149 of 1105   13.5%
+FY23    296 of 1902   15.6%
+FY24    350 of 2020   17.3%
+FY25    312 of 1932   16.1%
+
+actual source of scored rows: call 807, screener 300
+
+TOKEN USAGE (subagents only; the main session is not metered by any tool)
+usage rows: 26; tokens recorded: 24,833,779 (audit 157,779, extract 9,353,912, score 15,322,088)
+not recorded: the first Phase 2 extraction run (101 batches), which stopped with the app session before its usage was reported
+
+UNIVERSE: 40 companies in universe.csv; by segment: apparel_footwear 8, durables 10, home_paints 4, jewellery 4, leisure 4, qsr 5, retail 5
+in the dataset but outside universe.csv: SENCO
+
+audit sample: 50 scored statements in data/audit_sample.csv
+
+INDEPENDENT AUDIT of data/audit_sample.csv (50 rows reviewed by a separate agent): no 1, unsure 5, yes 44
+  CERA-182: unsure - Analyst asked about margin "for this year" (Q2FY25 p8), but row scores H2 only; full-year Screener ebitda_margin:FY25 is 15.6802, below 16, which would flip the verdict.
+  GOCOLORS-189: unsure - Guide is ">50% of EBITDA"; Q4FY25 p4 says "converting 50% of our pre IndAS EBITDA", a rounded figure on a pre-IndAS basis, so met at the floor is not clean.
+  INDHOTEL-040: no - Quote (Q1FY24 p6) is about the Ahvaan 2025 target (FY25), not FY26, and is a restated strategy aim; period appears wrong though FY25 33.2% would give the same verdict.
+  METROBRAND-105: unsure - Guide is "open over 100 stores"; actual 70 is net of closures (Q4FY25 p4); gross openings for FY25 are not stated, so net vs gross basis is unclear.
+  SHOPERSTOP-036: unsure - Quote says only "stores"; actual 8 is department stores only (Q4FY22 p7 also lists 12 beauty and 2 airport stores), so the format basis is a judgement call.
+  VIPIND-028: unsure - Transcript quote (Q2FY23 p11) says "18% gross margin going up to 20%"; context (analyst asked about EBITDA margin) suggests EBITDA, but the wording is gross margin.
+
+review overrides (scored by an agent, set to not scorable on review): 64

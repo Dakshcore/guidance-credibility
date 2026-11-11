@@ -1,0 +1,63 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+METROBRAND-080,213.75,236.25,higher,call,,190,190 net stores (70 + 120),Q4FY25,4,"For the quarter, we opened 18 stores and closed 5 stores, which takes us to 70 net new stores for the year.",Q1FY27,15,"Last year, we opened 140 new stores. We closed 20, so there's roughly about 120 new stores, right?",,"FY25 net 70 plus FY26 net 120 (140 opened less 20 closed, stated as roughly 120); summed over two years"
+METROBRAND-081,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-082,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-083,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+METROBRAND-084,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-085,,,,none,,,,,,,,,,not scorable,"vague, no numeric target"
+METROBRAND-086,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-087,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+METROBRAND-088,14,18,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated FY25; Q4FY25 call says 6% for both standalone and consolidated
+METROBRAND-089,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-090,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+METROBRAND-091,95,105,higher,call,,70,70 net stores,Q4FY25,4,"For the quarter, we opened 18 stores and closed 5 stores, which takes us to 70 net new stores for the year.",,,,,FY25 net additions as reported on Q4FY25 call
+METROBRAND-092,213.75,236.25,higher,call,,190,190 net stores (70 + 120),Q4FY25,4,"For the quarter, we opened 18 stores and closed 5 stores, which takes us to 70 net new stores for the year.",Q1FY27,15,"Last year, we opened 140 new stores. We closed 20, so there's roughly about 120 new stores, right?",,"FY25 net 70 plus FY26 net 120 (140 opened less 20 closed, stated as roughly 120); summed over two years"
+METROBRAND-093,,,,none,,,,,,,,,,not scorable,no numeric target; conditional restart
+METROBRAND-094,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-095,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-096,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+METROBRAND-097,12,15,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated FY25; Q4FY25 call says 6% for both standalone and consolidated
+METROBRAND-098,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-099,,,,none,,,,,,,,,,not scorable,"sustainability milestone, no reported actual on guided basis"
+METROBRAND-100,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-101,,,,none,,,,,,,,,,not scorable,direction vs H1; no reported H1 growth key to compare
+METROBRAND-102,,,,none,,,,,,,,,,not scorable,conditional on 12-15% growth; no reported FY25 sales per sq ft
+METROBRAND-103,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-104,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-105,100,,higher,call,,70,70 net stores,Q4FY25,4,"For the quarter, we opened 18 stores and closed 5 stores, which takes us to 70 net new stores for the year.",,,,,FY25 net additions as reported on Q4FY25 call; floor of 100
+METROBRAND-106,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+METROBRAND-107,,,,none,,,,,,,,,,not scorable,standalone guide; only consolidated Q3 actual available
+METROBRAND-108,12,15,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated FY25; Q4FY25 call says 6% for both standalone and consolidated
+METROBRAND-109,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-110,,,,none,,,,,,,,,,not scorable,"vague direction, no number"
+METROBRAND-111,,,,none,,,,,,,,,,not scorable,no number
+METROBRAND-112,,,,none,,,,,,,,,,not scorable,no reported H2FY25 sales per sq ft
+METROBRAND-113,10,15,higher,screener,rev_growth:FY25,,,,,,,,,,consolidated FY25; Q4FY25 call says 6% for both standalone and consolidated
+METROBRAND-114,,,,none,,,,,,,,,,not scorable,standalone guide; no standalone FY25 EBITDA margin reported
+METROBRAND-115,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-116,,,,none,,,,,,,,,,not scorable,working capital definition differs from Screener; no numeric target
+METROBRAND-117,213.75,236.25,higher,call,,190,190 net stores (70 + 120),Q4FY25,4,"For the quarter, we opened 18 stores and closed 5 stores, which takes us to 70 net new stores for the year.",Q1FY27,15,"Last year, we opened 140 new stores. We closed 20, so there's roughly about 120 new stores, right?",,"FY25 net 70 plus FY26 net 120 (140 opened less 20 closed, stated as roughly 120); summed over two years"
+METROBRAND-118,140,145,higher,call,,120,120 net stores,Q1FY27,15,"Last year, we opened 140 new stores. We closed 20, so there's roughly about 120 new stores, right?",,,,,"FY26 net: 140 opened less 20 closed, stated as roughly 120"
+METROBRAND-119,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-120,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-121,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+METROBRAND-122,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-123,,,,none,,,,,,,,,,not scorable,direction vague; CFO declined a number
+METROBRAND-124,130,140,higher,call,,120,120 net stores,Q1FY27,15,"Last year, we opened 140 new stores. We closed 20, so there's roughly about 120 new stores, right?",,,,,"FY26 net: 140 opened less 20 closed, stated as roughly 120"
+METROBRAND-125,,,,none,,,,,,,,,,not scorable,no reported Q4FY25 gross margin figure
+METROBRAND-126,,,,none,,,,,,,,,,not scorable,"vague direction, medium term"
+METROBRAND-127,,,,none,,,,,,,,,,not scorable,no reported actual for cities
+METROBRAND-128,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-129,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-130,,,,none,,,,,,,,,,not scorable,no reported Fila EBO count at Aug-25
+METROBRAND-131,,,,none,,,,,,,,,,not scorable,no reported Crocs openings for FY26
+METROBRAND-132,,,,none,,,,,,,,,,not scorable,no reported Fila loss for FY26
+METROBRAND-133,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-134,,,,none,,,,,,,,,,not scorable,no period (medium term or unspecified)
+METROBRAND-135,,,,none,,,,,,,,,,not scorable,no reported ASP growth
+METROBRAND-136,,,,none,,,,,,,,,,not scorable,no reported FY26 e-commerce share of sales on full-year basis
+METROBRAND-137,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-138,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-139,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-140,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-141,,,,none,,,,,,,,,,not scorable,number from analyst; no reported actual

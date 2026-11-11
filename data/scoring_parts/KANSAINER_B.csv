@@ -1,0 +1,36 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KANSAINER-076,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (capacity % not stated)
+KANSAINER-077,,,,none,,,,,,,,,,not scorable,no reported FY25 decorative volume growth on a later call
+KANSAINER-078,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-079,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-080,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-081,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-082,12.5189,13.8367,higher,screener,ebitda_margin:FY25,,,,,,,,,,maintain vs FY24 base 13.1778 +/-5%; consolidated operating EBITDA margin
+KANSAINER-083,,,,none,,,,,,,,,,not scorable,no reported actual for full-year distribution expansion
+KANSAINER-084,,,,none,,,,,,,,,,not scorable,high double-digit not defined in rubric; no reported actual
+KANSAINER-085,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-086,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-087,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-088,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-089,13,14,higher,screener,ebitda_margin:FY25,,,,,,,,,,13-14% range; consolidated
+KANSAINER-090,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-091,,,,none,,,,,,,,,,not due,FY27 not yet reported
+KANSAINER-092,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-093,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-094,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-095,,,,none,,,,,,,,,,not scorable,no reported actual for full-year distribution expansion
+KANSAINER-096,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-097,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-098,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-099,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-100,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-101,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+KANSAINER-102,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-103,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-104,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-105,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-106,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-107,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+KANSAINER-108,,,,none,,,,,,,,,,not scorable,no period
+KANSAINER-109,,,,none,,,,,,,,,,not scorable,no numeric target
+KANSAINER-110,,,,none,,,,,,,,,,not scorable,no period

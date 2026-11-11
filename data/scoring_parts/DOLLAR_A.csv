@@ -1,0 +1,77 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+DOLLAR-001,1900,2100,higher,screener,revenue:FY25,,,,,,,,,,point Rs2000 Cr +/-5%; consolidated revenue FY25
+DOLLAR-002,,,,none,,,,,,,,,,not scorable,"Lakshya reported as revenue share, not share of distributors"
+DOLLAR-003,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+DOLLAR-004,,,,none,,,,,,,,,,not scorable,"date milestone, no clear reported completion date"
+DOLLAR-005,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis; mgmt says cycle similar +/-3 days
+DOLLAR-006,,,,none,,,,,,,,,,not scorable,only short-term working capital debt planned; no clear numeric debt target
+DOLLAR-007,15,17,higher,screener,rev_growth:FY23,,,,,,,,,,consolidated revenue growth FY23
+DOLLAR-008,9,,higher,call,,5,about 5% volume growth FY23,Q4FY23,3,"If we talk about FY ""23 versus FY ""22, then we have achieved volume growth of approximately 5%.",,,,,floor 9% (weaker end of 9-10)
+DOLLAR-009,,,,none,,,,,,,,,,not scorable,"only volume growth reported for Force NXT FY23, not revenue growth"
+DOLLAR-010,,,,none,,,,,,,,,,not scorable,no reported athleisure growth for FY23
+DOLLAR-011,190,210,higher,call,,87,87 distributors added in FY23,Q4FY23,4,"This year, FY 23, we have added 87 distributors under this project.",,,,,~200 +/-5%
+DOLLAR-012,23.75,26.25,higher,call,,14,14 EBOs opened in FY23,Q4FY23,4,"During the year, company opened 14 EBOs, Exclusive Brand Outlets, to cater the demand of consumers",,,,,~25 +/-5%
+DOLLAR-013,,,,none,,,,,,,,,,not scorable,no reported EBO count for FY25
+DOLLAR-014,90,100,lower,call,,101,Rs 101 crore advertising FY23,Q4FY23,3,"Our advertisement expenses for the year FY 23 stood at INR101 crores, which is 7.22% of our total revenue",,,,,ad spend; lower is better
+DOLLAR-015,,,,none,,,,,,,,,,not scorable,no reported FY23 capex figure
+DOLLAR-016,17,17.5,higher,screener,ebitda_margin:FY23,,,,,,,,,,consolidated EBITDA margin FY23
+DOLLAR-017,,,,none,,,,,,,,,,not scorable,no reported Pepe JV revenue for FY23
+DOLLAR-018,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-019,25,30,higher,call,,14,14 EBOs opened in FY23,Q4FY23,4,"During the year, company opened 14 EBOs, Exclusive Brand Outlets, to cater the demand of consumers",,,,,second range same call; union 25-30
+DOLLAR-020,,,,none,,,,,,,,,,not scorable,no numeric target for pan-India date
+DOLLAR-021,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-022,5,5.5,lower,call,,7.22,7.22% of revenue FY23,Q4FY23,3,"Our advertisement expenses for the year FY 23 stood at INR101 crores, which is 7.22% of our total revenue",,,,,ad ratio; lower is better
+DOLLAR-023,25,,higher,call,,14,14 EBOs opened in FY23,Q4FY23,4,"During the year, company opened 14 EBOs, Exclusive Brand Outlets, to cater the demand of consumers",,,,,floor 25
+DOLLAR-024,16.5,17,higher,screener,ebitda_margin:FY23,,,,,,,,,,"aspiration, mgmt declined formal guide; consolidated FY23"
+DOLLAR-025,75,80,lower,call,,101,Rs 101 crore advertising FY23,Q4FY23,3,"Our advertisement expenses for the year FY 23 stood at INR101 crores, which is 7.22% of our total revenue",,,,,ad spend; lower is better
+DOLLAR-026,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis; mgmt says cycle similar +/-3 days
+DOLLAR-027,,,,none,,,,,,,,,,not scorable,no clean reported gross margin for Q1 and Q2 FY23 on one basis
+DOLLAR-028,15,17,higher,screener,rev_growth:FY23,,,,,,,,,,consolidated revenue growth FY23
+DOLLAR-029,,,,none,,,,,,,,,,not scorable,no reported Dollar Woman revenue
+DOLLAR-030,,,,none,,,,,,,,,,not scorable,brand naming differs (Missy vs Dollar Woman); basis unclear
+DOLLAR-031,,,,none,,,,,,,,,,not scorable,no reported split on guided basis
+DOLLAR-032,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+DOLLAR-033,150,200,higher,call,,87,87 distributors added in FY23,Q4FY23,4,"This year, FY 23, we have added 87 distributors under this project.",,,,,
+DOLLAR-034,600,700,higher,call,,317,317 Lakshya distributors at FY25 end,Q4FY25,6,"our distributor numbers are 317 with respect to 290 last fiscal, like last March 2024.",,,,,distributor count; FY25 end
+DOLLAR-035,25,30,higher,call,,14,14 EBOs opened in FY23,Q4FY23,4,"During the year, company opened 14 EBOs, Exclusive Brand Outlets, to cater the demand of consumers",,,,,
+DOLLAR-036,1900,2100,higher,screener,revenue:FY25,,,,,,,,,,point Rs2000 Cr +/-5%; consolidated revenue FY25
+DOLLAR-037,5.5,6,lower,call,,7.22,7.22% of revenue FY23,Q4FY23,3,"Our advertisement expenses for the year FY 23 stood at INR101 crores, which is 7.22% of our total revenue",,,,,ad ratio; lower is better
+DOLLAR-038,14,15,higher,screener,rev_growth:FY23,,,,,,,,,,consolidated revenue growth FY23
+DOLLAR-039,13,14,higher,screener,ebitda_margin:FY23,,,,,,,,,,full year consolidated EBITDA margin FY23
+DOLLAR-040,,,,none,,,,,,,,,,not scorable,"launch timing, no numeric target"
+DOLLAR-041,,,,none,,,,,,,,,,not scorable,metric not named; no clear actual
+DOLLAR-042,,,,none,,,,,,,,,,not scorable,no reported Q3FY23 inventory loss figure
+DOLLAR-043,137.75,152.25,lower,call,,159,159 days FY23,Q4FY24,3,The cash conversion cycle in FY24 improved to 150 days down from 159 days in FY23.,,,,,~145 +/-5%; cash conversion cycle used as the working capital cycle
+DOLLAR-044,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+DOLLAR-045,,,,none,,,,,,,,,,not scorable,no reported FY23 export sales
+DOLLAR-046,,,,none,,,,,,,,,,not scorable,"date milestone, reports conflict on commissioning"
+DOLLAR-047,,,,none,,,,,,,,,,not scorable,no reported maintenance capex for FY24-FY25
+DOLLAR-048,,,,none,,,,,,,,,,not scorable,no reported H2FY23 EBITDA margin on call
+DOLLAR-049,,,,none,,,,,,,,,,not scorable,no reported EBO revenue
+DOLLAR-050,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-051,,,,none,,,,,,,,,,not scorable,no reported EBO count for FY25
+DOLLAR-052,95,105,lower,call,,100,about Rs 100 crore advertising FY24,Q4FY24,4,"For FY24, advertising expense was around INR100 crores, keeping in line with our annual target of 6% to 6.5% of top line.",,,,,~100 +/-5%; ad spend; lower is better
+DOLLAR-053,5,6,higher,call,,2,2 EBOs in Q4FY23 (14 for year less 12 at Q3 call),Q4FY23,4,"During the year, company opened 14 EBOs, Exclusive Brand Outlets, to cater the demand of consumers",Q3FY23,4,We at Dollar are happy to announce that we have opened our 12th EBO on pan-India level.,,Q4 additions = 14 for FY23 minus 12th EBO opened by Q3 call (src2)
+DOLLAR-054,1900,2100,higher,screener,revenue:FY25,,,,,,,,,,point Rs2000 Cr +/-5%; consolidated revenue FY25
+DOLLAR-055,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-056,,,,none,,,,,,,,,,not scorable,"date milestone, no clear reported go-live"
+DOLLAR-057,,,,none,,,,,,,,,,not scorable,base not named; no stated actual
+DOLLAR-058,14,15,higher,call,,8,8% Q4FY23 revenue growth YoY,Q4FY23,4,"it is INR407.57 crores compared with year-on-year INR375.72 crores, a growth of 8% over last year.",,,,,
+DOLLAR-059,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-060,16,17,higher,screener,ebitda_margin:FY25,,,,,,,,,,conditional on Rs2000 Cr revenue; scored as stated; consolidated FY25
+DOLLAR-061,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-062,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-063,0,,higher,call,,2.56,+256 bps (32.2% vs 29.6%),Q4FY24,5,"Gross profit margin stood at 32.2% against 29.6% in FY23, expanding by 256 basis points.",,,,,"direction vs FY23: change in percentage points, lo 0"
+DOLLAR-064,,,,none,,,,,,,,,,not scorable,"vague: good improvement, no number"
+DOLLAR-065,6.175,6.825,lower,call,,6.5,6.5% of sales FY24,Q4FY24,14,"last year, our advertisement expenses were somewhere around 7%, 7.5%. Vis-a-vis 6.5%, this particular fiscal.",,,,,~6.5 +/-5%; ad ratio; lower is better
+DOLLAR-066,11,12,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin FY24
+DOLLAR-067,12,13,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+DOLLAR-068,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-069,,,,none,,,,,,,,,,not scorable,segment growth not reported on the guided basis; multi-year
+DOLLAR-070,,,,none,,,,,,,,,,not scorable,distributor share not reported; Lakshya reported as revenue share
+DOLLAR-071,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+DOLLAR-072,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-073,,120,lower,call,,156,156 days net working capital cycle FY25,Q4FY25,6,"over 4 years' time period, we have reduced it to around 160 days -- 155 to 160 days currently -- sorry, 156 days to be precise.",,,,,ceiling 120 days by Mar-25
+DOLLAR-074,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-075,,,,none,,,,,,,,,,not scorable,"date milestone, reports conflict on commissioning"
+DOLLAR-076,100,140,higher,call,,61,61 distributors added in FY24 (290 less 229),Q4FY24,4,increasing our total distributor count to 290 from 229 distributors we had as on March 23.,,,,,"290 at Mar-24 minus 229 at Mar-23, both in the one quote"

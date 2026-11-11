@@ -1,0 +1,96 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+JUBLFOOD-001,150,,higher,call,,230,230 stores,Q4FY22,4,We added 230 new stores and entered 48 new cities in FY22. We intend to continue with this new pace of network expansion and plan to open around 250 new stores in the FY23.,,,,,Floor of 150 taken from 'at least 150 to 175'; Domino's India additions in FY22
+JUBLFOOD-002,150,175,higher,call,,230,230 stores,Q4FY22,4,We added 230 new stores and entered 48 new cities in FY22. We intend to continue with this new pace of network expansion and plan to open around 250 new stores in the FY23.,,,,,Domino's India additions in FY22; condition: ground conditions permitting
+JUBLFOOD-003,,,,none,,,,,,,,,,not scorable,"medium term, potential"
+JUBLFOOD-004,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-005,,,,none,,,,,,,,,,not scorable,"no period, no number"
+JUBLFOOD-006,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric target"
+JUBLFOOD-007,,,,none,,,,,,,,,,not scorable,"no period, hedged"
+JUBLFOOD-008,,,,none,,,,,,,,,,not scorable,"medium term, potential"
+JUBLFOOD-009,150,175,higher,call,,230,230 stores,Q4FY22,4,We added 230 new stores and entered 48 new cities in FY22. We intend to continue with this new pace of network expansion and plan to open around 250 new stores in the FY23.,,,,,Domino's India additions in FY22
+JUBLFOOD-010,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric target"
+JUBLFOOD-011,,,,none,,,,,,,,,,not scorable,no precise number
+JUBLFOOD-012,,,,none,,,,,,,,,,not scorable,"no number, no period"
+JUBLFOOD-013,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+JUBLFOOD-014,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+JUBLFOOD-015,,,,none,,,,,,,,,,not scorable,"potential, not a commitment"
+JUBLFOOD-016,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-017,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-018,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-019,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-020,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-021,,,,none,,,,,,,,,,not scorable,"no number, no period"
+JUBLFOOD-022,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-023,190,210,higher,call,,230,230 stores,Q4FY22,4,We added 230 new stores and entered 48 new cities in FY22. We intend to continue with this new pace of network expansion and plan to open around 250 new stores in the FY23.,,,,,Point guide ~200 +/-5%; Domino's India additions in FY22
+JUBLFOOD-024,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-025,,,,none,,,,,,,,,,not scorable,"threshold from analyst, no period"
+JUBLFOOD-026,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-027,,,,none,,,,,,,,,,not scorable,potential only
+JUBLFOOD-028,237.5,262.5,higher,call,,249,249 net stores,Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,,,,"Point guide ~250 +/-5%; Domino's India FY23 net additions (1 closure, so about 250 gross)"
+JUBLFOOD-029,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+JUBLFOOD-030,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+JUBLFOOD-031,237.5,262.5,higher,call,,249,249 net stores,Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,,,,"Point guide ~250 +/-5%; Domino's India FY23 net additions (1 closure, so about 250 gross)"
+JUBLFOOD-032,237.5,262.5,higher,call,,249,249 net stores,Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,,,,"Point guide 250 +/-5%; Domino's India FY23 net additions (1 closure, so about 250 gross)"
+JUBLFOOD-033,,,,none,,,,,,,,,,not scorable,no management-reported actual (closing count only from analyst)
+JUBLFOOD-034,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-035,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+JUBLFOOD-036,,,,none,,,,,,,,,,not scorable,no reported actual
+JUBLFOOD-037,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+JUBLFOOD-038,,,,none,,,,,,,,,,not scorable,"margin type unspecified, 'trend line' qualifier"
+JUBLFOOD-039,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-040,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-041,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-042,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-043,,,,none,,,,,,,,,,not scorable,no management-reported actual (capex stated by analyst)
+JUBLFOOD-044,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-045,237.5,262.5,higher,call,,249,249 net stores,Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,,,,"Point guide ~250 +/-5%; Domino's India FY23 net additions (1 closure, so about 250 gross)"
+JUBLFOOD-046,,,,none,,,,,,,,,,not scorable,no management-reported actual (closing count only from analyst)
+JUBLFOOD-047,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-048,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-049,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-050,23.75,26.25,higher,call,,22.7,22.7%,Q4FY23,4,"EBITDA came in at Rs. 11.6 billion, and EBITDA margin was at 22.7%.",,,,,Point guide ~25% +/-5%; hedged aspiration; company-reported FY23 EBITDA margin (Screener consolidated 22.02 gives same verdict)
+JUBLFOOD-051,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-052,237.5,262.5,higher,call,,249,249 net stores,Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,,,,"Point guide 250 +/-5%; Domino's India FY23 net additions (1 closure, so about 250 gross)"
+JUBLFOOD-053,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-054,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-055,,,,none,,,,,,,,,,not scorable,"no period, conditional"
+JUBLFOOD-056,,,,none,,,,,,,,,,not scorable,no management-reported actual (closing count only from analyst)
+JUBLFOOD-057,,,,none,,,,,,,,,,not scorable,"no period, no number"
+JUBLFOOD-058,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+JUBLFOOD-059,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-060,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-061,31.67,35.0,higher,call,,33.6,84 of about 250 stores (33.6%),Q4FY23,5,"During the year, we opened 84 new split stores.",Q4FY23,5,We opened 56 new Domino's stores during the quarter and 249 net stores during the year.,,Share of FY23 Domino's India openings that were split stores: 84 split stores divided by 250 gross openings (249 net plus 1 closure); roughly 1/3 +/-5%
+JUBLFOOD-062,,,,none,,,,,,,,,,not scorable,"no management-reported actual (Rs 770 crore stated by analyst, cash flow basis)"
+JUBLFOOD-063,,,,none,,,,,,,,,,not scorable,"FY23 spend vs total project cost, bases differ"
+JUBLFOOD-064,,,,none,,,,,,,,,,not scorable,no management-reported actual (closing count only from analyst)
+JUBLFOOD-065,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-066,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-067,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-068,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-069,,,,none,,,,,,,,,,not scorable,"no period, no number"
+JUBLFOOD-070,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-071,,,,none,,,,,,,,,,not scorable,"no period, no number"
+JUBLFOOD-072,,,,none,,,,,,,,,,not scorable,"no period, conditional"
+JUBLFOOD-073,,,,none,,,,,,,,,,not scorable,"no period, no numeric target"
+JUBLFOOD-074,,,,none,,,,,,,,,,not scorable,no period (medium term)
+JUBLFOOD-075,,,,none,,,,,,,,,,not scorable,no period (short run)
+JUBLFOOD-076,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-077,,,,none,,,,,,,,,,not scorable,no period (medium term)
+JUBLFOOD-078,,,,none,,,,,,,,,,not scorable,"only a restated plan was found, no reported outcome"
+JUBLFOOD-079,,,,none,,,,,,,,,,not scorable,direction only
+JUBLFOOD-080,,,,none,,,,,,,,,,not scorable,"no management-reported actual (Rs 770 crore stated by analyst, cash flow basis)"
+JUBLFOOD-081,,,,none,,,,,,,,,,not scorable,no reported actual
+JUBLFOOD-082,,,,none,,,,,,,,,,not scorable,"12-18 month window straddles FY24, no reported actual"
+JUBLFOOD-083,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-084,200,225,higher,call,,180,about 180 stores,Q4FY24,20,"no player has opened ~180 stores in the year, LFL delivery growth of nearly 7.8% in this environment.",,,,,Management's approximate figure for Domino's India openings in FY24; guide was gross 200-225
+JUBLFOOD-085,,,,none,,,,,,,,,,not scorable,no management-reported Popeyes FY24 addition count
+JUBLFOOD-086,,,,none,,,,,,,,,,not scorable,"no date, no number"
+JUBLFOOD-087,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-088,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-089,,,,none,,,,,,,,,,not scorable,"no period, conditional"
+JUBLFOOD-090,,,,none,,,,,,,,,,not scorable,no number
+JUBLFOOD-091,,,,none,,,,,,,,,,not scorable,"no period, ambition"
+JUBLFOOD-092,,,,none,,,,,,,,,,not scorable,no management-reported actual for FY24 capex
+JUBLFOOD-093,,,,none,,,,,,,,,,not scorable,no management-reported actual
+JUBLFOOD-094,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-095,,,,none,,,,,,,,,,not scorable,no reported closure count

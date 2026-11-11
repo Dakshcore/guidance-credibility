@@ -1,0 +1,74 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+INDHOTEL-001,,,,none,,,,,,,,,,not scorable,multi-metric record quarter; no Q4FY23 quarterly actual on file
+INDHOTEL-002,17,18,higher,call,,16,16 hotels,Q4FY23,4,"Last year, we signed 36 new contracts were added to our pipeline and we have opened 16 hotels.",,,,,FY23 hotels opened; guide 17-18 is openings
+INDHOTEL-003,,,,none,,,,,,,,,,not scorable,cumulative count over a window; no reported cumulative actual
+INDHOTEL-004,,,,none,,,,,,,,,,not scorable,no reported count on the guided basis
+INDHOTEL-005,,,,none,,,,,,,,,,not scorable,"only an approximate count as of Apr-23, not Mar-23"
+INDHOTEL-006,,,,none,,,,,,,,,,not scorable,target figure came from analyst; no reported actual
+INDHOTEL-007,31.35,34.65,higher,screener,ebitda_margin:FY26,,,,,,,,,,consolidated EBITDA margin vs 33%
+INDHOTEL-008,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-009,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-010,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-011,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-012,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-013,,,,none,,,,,,,,,,not scorable,"no reported actual on the guided basis (60/40 stated, different basis)"
+INDHOTEL-014,31.35,34.65,higher,screener,ebitda_margin:FY26,,,,,,,,,,consolidated EBITDA margin vs 33%
+INDHOTEL-015,20,,higher,call,,20,20 hotels,Q4FY24,5,"We had guided 20 for last fiscal. If we include Tree of Life, it's 34. If we exclude that, it's 20 hotels open as we had guided",,,,,FY24 openings excl Tree of Life per management; 34 incl
+INDHOTEL-016,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-017,,,,none,,,,,,,,,,not scorable,"business on books, no numeric target"
+INDHOTEL-018,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-019,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-020,,,,none,,,,,,,,,,not scorable,Ginger brand margin not reported on guided basis
+INDHOTEL-021,,,,none,,,,,,,,,,not scorable,no reported FY24 capex as percent of revenue
+INDHOTEL-022,,,,none,,,,,,,,,,not scorable,no numeric target
+INDHOTEL-023,31.35,34.65,higher,screener,ebitda_margin:FY24,,,,,,,,,,point 33% +/-5%; wording within guidance of 33%
+INDHOTEL-024,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-025,,,,none,,,,,,,,,,not scorable,no reported rooms opened for FY24
+INDHOTEL-026,,,,none,,,,,,,,,,not scorable,no reported rooms opened for FY25
+INDHOTEL-027,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-028,,,,none,,,,,,,,,,not scorable,"no numeric target, no reported actual"
+INDHOTEL-029,,,,none,,,,,,,,,,not scorable,no numeric target
+INDHOTEL-030,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-031,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-032,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-033,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-034,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-035,20,,higher,call,,20,20 hotels,Q4FY24,5,"We had guided 20 for last fiscal. If we include Tree of Life, it's 34. If we exclude that, it's 20 hotels open as we had guided",,,,,FY24 openings excl Tree of Life per management; 34 incl
+INDHOTEL-036,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-037,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-038,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-039,,,,none,,,,,,,,,,not scorable,no numeric target
+INDHOTEL-040,31.35,34.65,higher,screener,ebitda_margin:FY26,,,,,,,,,,consolidated EBITDA margin vs 33%
+INDHOTEL-041,,,,none,,,,,,,,,,not scorable,no reported FY24 RevPAR growth on the guided basis
+INDHOTEL-042,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-043,20,,higher,call,,20,20 hotels,Q4FY24,5,"We had guided 20 for last fiscal. If we include Tree of Life, it's 34. If we exclude that, it's 20 hotels open as we had guided",,,,,FY24 openings excl Tree of Life per management; 34 incl
+INDHOTEL-044,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-045,,,,none,,,,,,,,,,not scorable,"opening date, not numeric"
+INDHOTEL-046,,,,none,,,,,,,,,,not scorable,no numeric target
+INDHOTEL-047,,,,none,,,,,,,,,,not scorable,no reported F&B growth for H2FY24
+INDHOTEL-048,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-049,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-050,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-051,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-052,31.35,34.65,higher,screener,ebitda_margin:FY26,,,,,,,,,,consolidated EBITDA margin vs 33%
+INDHOTEL-053,,,,none,,,,,,,,,,not scorable,no reported FY24 RevPAR growth on the guided basis
+INDHOTEL-054,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-055,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-056,,,,none,,,,,,,,,,not scorable,no reported FY25 Taj SATS revenue on a stored call
+INDHOTEL-057,,,,none,,,,,,,,,,not due,FY27-FY29 not yet reported
+INDHOTEL-058,,,,none,,,,,,,,,,not due,"3 years after opening, not yet reported"
+INDHOTEL-059,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-060,,,,none,,,,,,,,,,not scorable,"no reported actual on the guided basis (60/40 stated, different basis)"
+INDHOTEL-061,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-062,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+INDHOTEL-063,,,,none,,,,,,,,,,not scorable,metric not named; base growth not a clear figure
+INDHOTEL-064,,,,none,,,,,,,,,,not scorable,no period
+INDHOTEL-065,10,,higher,screener,rev_growth:FY25,,,,,,,,,,"double digit floor, consolidated"
+INDHOTEL-066,25,,higher,call,,26,26 openings,Q4FY25,4,"We have set a new growth benchmark with 74 signings and 26 openings in FY '24-'25, taking our portfolio to 381 hotels with 247 hotels operational as on date.",,,,,FY25 openings; floor 25
+INDHOTEL-067,,,,none,,,,,,,,,,not scorable,new businesses vertical definition changed (Tree of Life added); not same basis
+INDHOTEL-068,,,,none,,,,,,,,,,not scorable,new businesses vertical definition changed (Tree of Life added); not same basis
+INDHOTEL-069,,,,none,,,,,,,,,,not due,by 2030 not yet reported
+INDHOTEL-070,,,,none,,,,,,,,,,not scorable,"dividend proposal, not a forward outcome"
+INDHOTEL-071,,,,none,,,,,,,,,,not due,FY27 not yet reported
+INDHOTEL-072,,,,none,,,,,,,,,,not scorable,no numeric target
+INDHOTEL-073,,,,none,,,,,,,,,,not scorable,no period

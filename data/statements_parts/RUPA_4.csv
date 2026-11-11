@@ -1,0 +1,11 @@
+call_quarter,page,speaker,quote,metric,target_value,target_period,notes
+Q4FY25,4,Vikash Agarwal,"Financial year '26, we plan to increase the ASR -Ad to sales ratio by 100 - 150 basis points.",costs,ad-to-sales ratio up 100-150 bps vs FY25 (5%),FY26,Plan; ad spend as % of sales
+Q4FY25,4,Vikash Agarwal,"We project revenue growth of 11% to 12% in Financial Year ‘26, supported mainly by volumes.",revenue_growth,11-12%,FY26,
+Q4FY25,4,Vikash Agarwal,"We also expect our EBITDA margin to be in the range of 11%, 10.5% - 11% for the coming year.",ebitda_margin,10.5-11%,FY26,"Transcript wording garbled (11%, 10.5% - 11%); range taken as 10.5-11%"
+Q4FY25,5,Sumit Khowala,There is no major CAPEX planned. There will be a routine CAPEX of Rs. 12 crores to Rs. 15 crores for FY '26.,capex,Rs 12-15 crore,FY26,Answer to analyst question
+Q4FY25,6,Sumit Khowala,For FY '26 we project that ad expenses will be around 6% - 6.5%.,costs,ad expenses 6-6.5% of revenue,FY26,Conflicts with earlier remark of 100-150 bps rise from 5% (6.5% upper); union 6-6.5%
+Q4FY25,6,Sumit Khowala,"The net working capital days for FY '25 is 231 days, and we expect that to reduce by 10 - 20 days in FY '26.",working_capital,reduce by 10-20 days from 231 (i.e. 211-221 days),FY26,
+Q4FY25,6,Vikash Agarwal,"We are looking for a 10% to 12% growth every year, ma'am, with a volume growth of anywhere between 8% to 9% for next two years at least.",revenue_growth,10-12% per year,FY26-FY27,Hedge: 'looking for'; basis not stated; answer to analyst question on 2-3 year trajectory
+Q4FY25,6,Vikash Agarwal,"We are looking for a 10% to 12% growth every year, ma'am, with a volume growth of anywhere between 8% to 9% for next two years at least.",other,volume growth 8-9% per year,FY26-FY27,"Volume growth, not value; 'at least'"
+Q4FY25,7,Vikash Agarwal,"So, yes, I mean, increasing 0.5% EBITDA margin every year is quite achievable.",ebitda_margin,+0.5 pp per year,unspecified,Hedge: 'quite achievable'; no end date; follows analyst question on margin sustainability
+Q4FY25,11,Vikash Agarwal,we are looking for some senior team who can actually help us to reach our target of 100 stores.,store_count,100 EBOs (from 33),unspecified,Management says plan is slightly delayed; analyst referred to tripling in two to three years

@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+NYKAA-001,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-002,,,,none,,,,,,,,,,not scorable,no period (medium term); no number
+NYKAA-003,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+NYKAA-004,,,,none,,,,,,,,,,not scorable,no period (over time)
+NYKAA-005,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-006,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+NYKAA-007,,,,none,,,,,,,,,,not scorable,Q2-Q4FY23 employee cost ratios not all reported on calls
+NYKAA-008,,,,none,,,,,,,,,,not scorable,no period (midterm); no numeric target
+NYKAA-009,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+NYKAA-010,,,,none,,,,,,,,,,not scorable,"priority, not a commitment; quarterly figures not all reported"
+NYKAA-011,,,,none,,,,,,,,,,not scorable,no figure; growth measure unspecified; rounded Q1 and Q2 BPC GMV growth tie
+NYKAA-012,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-013,,,,none,,,,,,,,,,not scorable,no period (medium term); no numeric target
+NYKAA-014,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-015,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-016,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-017,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+NYKAA-018,,,,none,,,,,,,,,,not scorable,no period (medium term); no number
+NYKAA-019,,,,none,,,,,,,,,,not scorable,IPO fulfilment spend amount not stated; no numeric target
+NYKAA-020,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+NYKAA-021,,,,none,,,,,,,,,,not scorable,no figure
+NYKAA-022,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-023,,,,none,,,,,,,,,,not scorable,no Nov-24 store count reported; couple-of-years period is loose; only call-date counts
+NYKAA-024,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+NYKAA-025,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+NYKAA-026,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-027,,,,none,,,,,,,,,,not scorable,no period (medium term); no reported FY actual on NSV basis
+NYKAA-028,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-029,-12.6,,higher,call,,-10.6,-10.6% Others contribution margin FY24,Q4FY24,14,the contribution margin for the others vertical has also improved significantly from -19.9% to -10.6%.,,,,,smaller loss than -12.6% stated; FY23 full-year was -19.9% so met on either base; Others vertical contribution margin
+NYKAA-030,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-031,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-032,,,,none,,,,,,,,,,not scorable,no full-period actual; AOV basis differs
+NYKAA-033,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (FY24 fashion marketing % NSV not on call)
+NYKAA-034,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-035,,,,none,,,,,,,,,,not due,FY27 not yet reported
+NYKAA-036,,,,none,,,,,,,,,,not due,FY27 not yet reported
+NYKAA-037,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+NYKAA-038,,,,none,,,,,,,,,,not scorable,no numeric target; basis not stated
+NYKAA-039,,,,none,,,,,,,,,,not scorable,"no period; direction only, no base"
+NYKAA-040,,,,none,,,,,,,,,,not scorable,warehouse count not reported; no numeric range
+NYKAA-041,,,,none,,,,,,,,,,not scorable,"review: actual is a count at a call date or a bound, not a period-end figure"
+NYKAA-042,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+NYKAA-043,44.65,49.35,higher,call,,27,about 27% Fashion GMV growth FY24,Q4FY24,9,"From an annualized full year perspective, FY24 has closed at Rs. 3,270 crores and similar growth through the year at about 27%.",,,,,~47% point +/-5%; Fashion GMV YoY FY24
+NYKAA-044,,,,none,,,,,,,,,,not scorable,H1FY24 fashion contribution margin not reported as a half-year figure
+NYKAA-045,,,,none,,,,,,,,,,not scorable,no reported FY24 fashion loss figure on call
+NYKAA-046,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-047,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+NYKAA-048,,,,none,,,,,,,,,,not scorable,no period (at scale)
+NYKAA-049,,,,none,,,,,,,,,,not scorable,basis (GMV vs revenue) and period 'by 2026' unclear
+NYKAA-050,,,,none,,,,,,,,,,not scorable,no numeric target; vague period
+NYKAA-051,,,,none,,,,,,,,,,not scorable,no numeric target; window inferred
+NYKAA-052,22.8,25.2,higher,call,,23,23% BPC GMV growth Q2FY24,Q2FY24,3,you can see that the GMV grew at 23% on a year-on- year basis,,,,,similar to Q1FY24 BPC GMV +24% (Q1FY24 call p3); band 24 +/-5%
+NYKAA-053,,,,none,,,,,,,,,,not scorable,no period; no number
+NYKAA-054,,,,none,,,,,,,,,,not scorable,"disclosure commitment, no numeric range"
+NYKAA-055,,,,none,,,,,,,,,,not scorable,"growth measure unspecified (GMV vs revenue, beauty vs fashion)"
+NYKAA-056,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-057,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-058,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-059,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-060,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-061,,,,none,,,,,,,,,,not scorable,no period; figure came from analyst
+NYKAA-062,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+NYKAA-063,,,,none,,,,,,,,,,not scorable,direction only; FY27 not yet reported
+NYKAA-064,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-065,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-066,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-067,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-068,,,,none,,,,,,,,,,not scorable,no period (at scale)
+NYKAA-069,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-070,,,,none,,,,,,,,,,not scorable,growth measure unspecified (GMV 28% vs revenue 24%); 25% came from analyst
+NYKAA-071,,,,none,,,,,,,,,,not scorable,direction only; FY25-FY26 marketing % not reported on call
+NYKAA-072,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (FY25 fashion marketing % NSV not on call)
+NYKAA-073,,,,none,,,,,,,,,,not scorable,no period (medium term)
+NYKAA-074,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-075,,,,none,,,,,,,,,,not scorable,no later reported fragrance share figure
+NYKAA-076,,,,none,,,,,,,,,,not scorable,"later call reports different basis (110 cities, Dec-24) not metros at Sep-24"
+NYKAA-077,,,,none,,,,,,,,,,not scorable,later call reports different basis and date
+NYKAA-078,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+NYKAA-079,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-080,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-081,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-082,,,,none,,,,,,,,,,not scorable,no numeric target
+NYKAA-083,,,,none,,,,,,,,,,not scorable,no period
+NYKAA-084,0,,higher,call,,-2.6,-2.6% Fashion EBITDA margin FY26,Q4FY26,11,"A significant improvement in EBITDA margin from minus 8.3% in FY '25 to minus 2.6%, which is a 570 basis points improvement in EBITDA for the full year",,,,,breakeven read as floor of 0; Fashion vertical FY26 EBITDA margin; breakeven came from analyst question
+NYKAA-085,,,,none,,,,,,,,,,not scorable,no period; no numeric target

@@ -1,0 +1,79 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ARVINDFASN-159,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-160,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-161,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-162,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-163,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-164,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-165,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-166,,,,none,,,,,,,,,,not scorable,no reported FY24 capex figure on later calls
+ARVINDFASN-167,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-168,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-169,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-170,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-171,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-172,,,,none,,,,,,,,,,not scorable,no reported quarterly depreciation actual on guided basis
+ARVINDFASN-173,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-174,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-175,4,,higher,call,,10,10% revenue growth in Q1FY25,Q1FY25,14,we had said that we are expecting a higher revenue growth compared to where we were at Q4 and we w ere at 5% and we have now delivered 10%,,,,,base is Q4FY24 growth of 4% per Q4FY24 call (management later says 5%); either base gives same verdict
+ARVINDFASN-176,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-177,,,,none,,,,,,,,,,not scorable,no reported FY25 net sq ft growth % (only absolute sq ft added)
+ARVINDFASN-178,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-179,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-180,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-181,,,,none,,,,,,,,,,not scorable,no reported FY25 advertising % of sales
+ARVINDFASN-182,,,,none,,,,,,,,,,not scorable,review: no numeric range in the rubric for this wording
+ARVINDFASN-183,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-184,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-185,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-186,100,,higher,call,,100,100 bps EBITDA margin expansion,Q4FY25,5,"annual EBITDA has gone up by 100 basis points to INR 637 crores, a growth of 17% in value over last year",,,,,"unit bps; EBITDA margin on management (pre-Ind AS) basis, not Screener"
+ARVINDFASN-187,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-188,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-189,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-190,,,,none,,,,,,,,,,not due,May-27 not yet reported
+ARVINDFASN-191,,,,none,,,,,,,,,,not scorable,no reported FY25 net sq ft growth % (only absolute sq ft added)
+ARVINDFASN-192,4.6695,,higher,screener,rev_growth:FY25,,,,,,,,,,higher than FY24 growth (screener rev_growth:FY24 = 4.6695)
+ARVINDFASN-193,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-194,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-195,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-196,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-197,7,,higher,screener,rev_growth:FY25,,,,,,,,,,"high single digit (7-9) with maybe double digit, so upper end open"
+ARVINDFASN-198,100,,higher,call,,100,100 bps EBITDA margin expansion,Q4FY25,5,"annual EBITDA has gone up by 100 basis points to INR 637 crores, a growth of 17% in value over last year",,,,,"unit bps; EBITDA margin on management (pre-Ind AS) basis, not Screener"
+ARVINDFASN-199,,,,none,,,,,,,,,,not scorable,no reported Q2FY25 net debt figure
+ARVINDFASN-200,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-201,,,,none,,,,,,,,,,not scorable,no reported FY25-end net debt level; only change in debt stated
+ARVINDFASN-202,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-203,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+ARVINDFASN-204,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+ARVINDFASN-205,,,,none,,,,,,,,,,not scorable,"capex ~100 cr restated as plan on later call, no reported actual"
+ARVINDFASN-206,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-207,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-208,,,,none,,,,,,,,,,not scorable,no reported FY25 net sq ft growth % (only absolute sq ft added)
+ARVINDFASN-209,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-210,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+ARVINDFASN-211,,,,none,,,,,,,,,,not due,Oct-27 not yet reported
+ARVINDFASN-212,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+ARVINDFASN-213,,,,none,,,,,,,,,,not due,"FY25-FY27 span, FY27 not yet reported"
+ARVINDFASN-214,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-215,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-216,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-217,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-218,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-219,1.425,1.575,higher,call,,1.22,1.22 lakh sq ft net added in FY25,Q4FY25,14,"to give you a final number, we opened net 50 stores of adding up 1.22 lakh square feet",,,,,unit lakh sq ft; guide ~1.5 lakh +/-5%; net addition for full FY25
+ARVINDFASN-220,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-221,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-222,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-223,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-224,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-225,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-226,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-227,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-228,,,,none,,,,,,,,,,not scorable,B2C share of online not reported as a figure on a later call
+ARVINDFASN-229,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-230,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-231,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-232,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-233,,,,none,,,,,,,,,,not scorable,no period
+ARVINDFASN-234,,,,none,,,,,,,,,,not scorable,no numeric target
+ARVINDFASN-235,,,,none,,,,,,,,,,not scorable,brand-level PAT not reported; no period
+ARVINDFASN-236,,,,none,,,,,,,,,,not due,"FY26-FY27 span, FY27 not yet reported"

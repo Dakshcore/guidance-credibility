@@ -1,0 +1,1 @@
+company-years: 145; with >= 3 scored statements: 108; scored statements with unreadable period: 2 -> data\credibility_yearly.csv

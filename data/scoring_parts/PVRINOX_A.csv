@@ -1,0 +1,82 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+PVRINOX-001,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-002,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-003,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-004,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-005,-110,,higher,call,,-94,EBITDA loss Rs 94 crore,Q2FY22,4,"Numbers for the quarter ended September 30th, 2021, our total revenues were about 142 crores, EBITDA loss was 94 crores and PAT loss was 160 crores",Q1FY22,4,Our total revenues was 71 crores and the EBITDA loss was 110 crores and PAT loss was 142 crores,,"range floor = Q1FY22 EBITDA loss of 110 cr (EBITDA -110, same ex-Ind AS 116 basis, src2); lower loss = EBITDA above -110"
+PVRINOX-006,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-007,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-008,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-009,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-010,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-011,,,,none,,,,,,,,,,not scorable,"no numeric target (direction only, no base figure)"
+PVRINOX-012,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-013,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-014,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-015,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-016,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-017,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-018,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-019,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-020,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-021,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-022,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-023,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-024,,,,none,,,,,,,,,,not scorable,"basis unclear (PVR or combined), no reported actual"
+PVRINOX-025,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (FY23 openings not stated on a later call)
+PVRINOX-026,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-027,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-028,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-029,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-030,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-031,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-032,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-033,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-034,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-035,,,,none,,,,,,,,,,not scorable,"no reported actual; Screener borrowings is gross incl. leases, not the guided net debt"
+PVRINOX-036,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-037,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-038,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-039,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-040,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-041,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-042,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-043,,,,none,,,,,,,,,,not scorable,"no reported actual; Screener borrowings is gross incl. leases, not the guided net debt"
+PVRINOX-044,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-045,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-046,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-047,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-048,,,,none,,,,,,,,,,not scorable,"no numeric target (no fundraise statement, nothing reported)"
+PVRINOX-049,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-050,150,165,higher,call,,130,130 new screens,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,gross openings FY24
+PVRINOX-051,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-052,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-053,50,60,higher,call,,85,85 screens exited,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,closures FY24; better=higher read as plan delivered
+PVRINOX-054,0,,higher,call,,116,Rs 116 crore free cash flow,Q4FY24,4,"Despite a volatile year, the business generated free cash flow of about INR116 crores in FY'24.",,,,,FCF positive FY24; floor 0
+PVRINOX-055,150,160,higher,call,,130,130 new screens,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,gross openings FY24
+PVRINOX-056,57,63,higher,call,,85,85 screens exited,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,closures FY24; guide 60 +/-5%; better=higher read as plan delivered
+PVRINOX-057,,,,none,,,,,,,,,,not scorable,no reported actual; free to be checked but not stated on call
+PVRINOX-058,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-059,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-060,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-061,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-062,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-063,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-064,130,150,higher,call,,45,45 net screens,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,"net addition = 130 opened less 85 exited, stated on call"
+PVRINOX-065,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-066,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-067,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-068,160,170,higher,call,,130,130 new screens,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,gross openings FY24
+PVRINOX-069,73.15,80.85,higher,call,,85,85 screens exited,Q4FY24,4,"On the growth front, the company has opened 130 new screens and exited 85 screens resul ting in a net addition of 45 screens during the year.",,,,,closures FY24; guide 77 +/-5%; better=higher read as plan delivered
+PVRINOX-070,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-071,,,,none,,,,,,,,,,not scorable,no numeric target
+PVRINOX-072,150,160,higher,call,,77,77 new screens,Q4FY25,4,we made a strategic decision to exit 72 underperforming screens and opened 77 new screens during the year.,,,,,FY25 gross openings; guide stated as new screen openings
+PVRINOX-073,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-074,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-075,,,,none,,,,,,,,,,not scorable,"no reported actual; Screener borrowings is gross incl. leases, not the guided net debt"
+PVRINOX-076,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-077,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-078,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-079,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+PVRINOX-080,,,,none,,,,,,,,,,not scorable,no period
+PVRINOX-081,,,,none,,,,,,,,,,not scorable,no numeric target

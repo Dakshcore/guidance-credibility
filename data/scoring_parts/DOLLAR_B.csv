@@ -1,0 +1,81 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+DOLLAR-077,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-078,6,6.5,lower,call,,6.5,6.5% of sales,Q4FY24,14,"last year, our advertisement expenses were somewhere around 7%, 7.5%. Vis-a-vis 6.5%, this particular fiscal.",,,,,FY24 ad spend % of revenue as stated by CFO
+DOLLAR-079,,,,none,,,,,,,,,,not scorable,no management-stated EBO count at Mar-25
+DOLLAR-080,,,,none,,,,,,,,,,not scorable,no matching period or basis (Aug-25 mid-year)
+DOLLAR-081,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-082,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-083,13,14,higher,call,,21,over 21%,Q4FY24,3,The total volume grew by over 21% in FY24 and net profit for FY24 was at INR90 crores,,,,,
+DOLLAR-084,11,12,higher,screener,rev_growth:FY24,,,,,,,,,,
+DOLLAR-085,11,12,higher,screener,ebitda_margin:FY24,,,,,,,,,,
+DOLLAR-086,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-087,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-088,300,325,higher,call,,290,290 distributors,Q4FY24,4,increasing our total distributor count to 290 from 229 distributors we had as on March 23,,,,,
+DOLLAR-089,,,,none,,,,,,,,,,not scorable,revenue multiple; later call gives volume only
+DOLLAR-090,,,,none,,,,,,,,,,not scorable,no reported actual on segment basis
+DOLLAR-091,,,,none,,,,,,,,,,not scorable,no reported actual on segment basis
+DOLLAR-092,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-093,6,6.5,lower,call,,6.5,6.5% of sales,Q4FY24,14,"last year, our advertisement expenses were somewhere around 7%, 7.5%. Vis-a-vis 6.5%, this particular fiscal.",,,,,FY24 ad spend % of revenue as stated by CFO
+DOLLAR-094,,,,none,,,,,,,,,,not scorable,"unclear measure, no reported actual"
+DOLLAR-095,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-096,12,13,higher,screener,rev_growth:FY24,,,,,,,,,,
+DOLLAR-097,10.45,11.55,higher,screener,ebitda_margin:FY24,,,,,,,,,,
+DOLLAR-098,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,hedged; assumes price hikes
+DOLLAR-099,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-100,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-101,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-102,,,,none,,,,,,,,,,not scorable,no FY26 exports share on call
+DOLLAR-103,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-104,,,,none,,,,,,,,,,not scorable,no clear FY26 full-year share on call
+DOLLAR-105,,,,none,,,,,,,,,,not scorable,no reported FY26 actual
+DOLLAR-106,,,,none,,,,,,,,,,not scorable,only analyst figure for EBO count
+DOLLAR-107,,,,none,,,,,,,,,,not due,Nov-26 after latest reported call
+DOLLAR-108,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-109,11,12,higher,screener,rev_growth:FY24,,,,,,,,,,
+DOLLAR-110,6,6.5,lower,call,,6.5,6.5% of sales,Q4FY24,14,"last year, our advertisement expenses were somewhere around 7%, 7.5%. Vis-a-vis 6.5%, this particular fiscal.",,,,,FY24 ad spend % of revenue as stated by CFO
+DOLLAR-111,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-112,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-113,18,19,higher,call,,23,23%,Q4FY24,4,Our revenue from operations rose by 23% year-on-year to INR500 crores in Q4 FY24 from INR406 crores in Q4 FY23.,,,,,
+DOLLAR-114,23,24,higher,call,,21,over 21%,Q4FY24,3,The total volume grew by over 21% in FY24 and net profit for FY24 was at INR90 crores,,,,,
+DOLLAR-115,23.75,26.25,higher,call,,17.6,around 17.6%,Q4FY24,3,The total volume grew by around 17.6% year-on-year in Q4 FY24,,,,,
+DOLLAR-116,475,525,higher,screener,q_revenue:Q4FY24,,,,,,,,,,
+DOLLAR-117,,,,none,,,,,,,,,,not scorable,"reported 107 days is average of opening and closing, not Mar-24 closing"
+DOLLAR-118,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-119,12,13,higher,screener,rev_growth:FY25,,,,,,,,,,
+DOLLAR-120,,,,none,,,,,,,,,,not scorable,no reported value growth for FY25
+DOLLAR-121,10.5,11,higher,screener,ebitda_margin:FY24,,,,,,,,,,
+DOLLAR-122,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-123,13,14,higher,screener,q_ebitda_margin:Q4FY24,,,,,,,,,,
+DOLLAR-124,30,,higher,call,,13.4,13.4%,Q4FY25,3,Force NXT registered a 13.4% year-on-year volume growth,,,,,FY25 Force NXT volume growth
+DOLLAR-125,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-126,12,13,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+DOLLAR-127,13,14,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+DOLLAR-128,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-129,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-130,,,,none,,,,,,,,,,not scorable,working capital days basis differs from Screener
+DOLLAR-131,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-132,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-133,19,21,higher,call,,9,9% volume,Q4FY24,4,"In FY24, Missy brand grew by 7% in value terms and 9% in volume terms.",,,,,Missy segment FY24 volume
+DOLLAR-134,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-135,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-136,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-137,,,,none,,,,,,,,,,not scorable,no full-year FY26 figure on call
+DOLLAR-138,,,,none,,,,,,,,,,not scorable,"garbled wording, no reported actual"
+DOLLAR-139,,,,none,,,,,,,,,,not scorable,"garbled wording, no reported actual"
+DOLLAR-140,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-141,12,13,higher,screener,rev_growth:FY25,,,,,,,,,,
+DOLLAR-142,13,14,higher,screener,rev_growth:FY26,,,,,,,,,,
+DOLLAR-143,10.45,11.55,higher,call,,4.6,4.6%,Q4FY25,3,Volume for FY '25 grew by 4.6% over FY '24.,,,,,
+DOLLAR-144,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,hedged by couple of years; scored on FY26
+DOLLAR-145,95,105,higher,screener,ebitda_change_bps:FY26,,,,,,,,,,weakest of FY25 (65 bps) and FY26
+DOLLAR-146,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-147,13,14,higher,screener,ebitda_margin:FY26,,,,,,,,,,"tied to Rs 2,000 cr revenue; scored as stated"
+DOLLAR-148,,,,none,,,,,,,,,,not scorable,ad spend in crores not reported; revenue condition unmet
+DOLLAR-149,10,11,higher,call,,4.6,4.6%,Q4FY25,3,Volume for FY '25 grew by 4.6% over FY '24.,,,,,scored on volume leg only; value 2-3% leg not tested
+DOLLAR-150,32.3,35.7,higher,call,,33.0,33.0%,Q4FY26,3,Gross profit margins stood at 33.0% for the full year.,,,,,FY26 gross margin; guide was sustainable 34%
+DOLLAR-151,11.5,12,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+DOLLAR-152,,,,none,,,,,,,,,,not due,FY25-FY27 span; FY27 not yet reported
+DOLLAR-153,,,,none,,,,,,,,,,not scorable,garbled; basis differs from Screener
+DOLLAR-154,,,,none,,,,,,,,,,not scorable,basis differs from Screener
+DOLLAR-155,,,,none,,,,,,,,,,not scorable,no reported FY26 actual
+DOLLAR-156,,,,none,,,,,,,,,,not scorable,no management-stated EBO count

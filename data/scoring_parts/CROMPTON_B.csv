@@ -1,0 +1,51 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CROMPTON-083,,,,none,,,,,,,,,,not scorable,"direction only, Butterfly quarter-on-quarter, no reported actual"
+CROMPTON-084,,,,none,,,,,,,,,,not scorable,no numeric target; management gave no forward guidance
+CROMPTON-085,,,,none,,,,,,,,,,not scorable,no reported actual on indirect cost base
+CROMPTON-086,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+CROMPTON-087,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-088,,,,none,,,,,,,,,,not scorable,"hedged action, no numeric target"
+CROMPTON-089,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-090,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+CROMPTON-091,,,,none,,,,,,,,,,not scorable,no period; Butterfly basis
+CROMPTON-092,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no reported actual"
+CROMPTON-093,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-094,,,,none,,,,,,,,,,not scorable,"vague period and basis (above ~10%, standalone or consolidated not stated)"
+CROMPTON-095,,,,none,,,,,,,,,,not scorable,no number
+CROMPTON-096,,,,none,,,,,,,,,,not scorable,"direction only, no reported fans gross margin"
+CROMPTON-097,,,,none,,,,,,,,,,not scorable,direction only
+CROMPTON-098,,,,none,,,,,,,,,,not scorable,"plan, no date or volume"
+CROMPTON-099,,,,none,,,,,,,,,,not scorable,"ambiguous run-rate framing, no reported actual"
+CROMPTON-100,,,,none,,,,,,,,,,not scorable,"level proposed by analyst, no FY25 A&P ratio reported on call"
+CROMPTON-101,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual on guided basis"
+CROMPTON-102,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-103,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-104,,,,none,,,,,,,,,,not scorable,"hedged intention, no numeric target"
+CROMPTON-105,,,,none,,,,,,,,,,not scorable,no reported actual for FY25-FY26 capex
+CROMPTON-106,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-107,,,,none,,,,,,,,,,not scorable,no period; profit not defined
+CROMPTON-108,,,,none,,,,,,,,,,not scorable,no reported H2FY25 Butterfly figure on guided basis (only Q4)
+CROMPTON-109,,,,none,,,,,,,,,,not scorable,no period; no target share
+CROMPTON-110,,,,none,,,,,,,,,,not scorable,"loosely worded, no numeric target"
+CROMPTON-111,,,,none,,,,,,,,,,not due,FY28 not yet reported
+CROMPTON-112,,,,none,,,,,,,,,,not scorable,no period; conditional on new categories
+CROMPTON-113,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-114,,,,none,,,,,,,,,,not scorable,no period; ranking not measurable from stored sources
+CROMPTON-115,285,315,higher,call,,300,Rs 300 Cr NCD fully repaid,Q1FY26,4,"This quarter, we also became a zero-debt company, having fully repaid the last loan that we had of a Rs. 300 Cr NCD.",,,,,"NCD repaid in Apr-Jun 2025, before Jul-25"
+CROMPTON-116,,,,none,,,,,,,,,,not scorable,"qualitative, no number"
+CROMPTON-117,,,,none,,,,,,,,,,not scorable,no period; no number
+CROMPTON-118,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-119,,,,none,,,,,,,,,,not scorable,"conditional, no numeric target"
+CROMPTON-120,,,,none,,,,,,,,,,not due,FY30 not yet reported
+CROMPTON-121,,,,none,,,,,,,,,,not scorable,no reported H2FY25 Butterfly figure on guided basis (only Q4)
+CROMPTON-122,,,,none,,,,,,,,,,not scorable,no period
+CROMPTON-123,,,,none,,,,,,,,,,not scorable,no period; phase 1 outlay with no reported actual
+CROMPTON-124,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+CROMPTON-125,,,,none,,,,,,,,,,not due,Nov-27 not yet reached
+CROMPTON-126,,,,none,,,,,,,,,,not scorable,no numeric target
+CROMPTON-127,,,,none,,,,,,,,,,not scorable,direction only
+CROMPTON-128,,,,none,,,,,,,,,,not scorable,no reported FY26 full-year Butterfly revenue growth on call
+CROMPTON-129,,,,none,,,,,,,,,,not scorable,no reported FY26 full-year Butterfly EBITDA margin on call
+CROMPTON-130,,,,none,,,,,,,,,,not due,FY30 not yet reported
+CROMPTON-131,,,,none,,,,,,,,,,not due,FY30 not yet reported
+CROMPTON-132,,,,none,,,,,,,,,,not scorable,basis not defined

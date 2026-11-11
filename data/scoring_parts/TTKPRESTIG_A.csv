@@ -1,0 +1,72 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+TTKPRESTIG-001,10,,higher,screener,rev_growth:FY22,,,,,,,,,,guide >=10%
+TTKPRESTIG-002,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-003,,,,none,,,,,,,,,,not scorable,no numeric range or margin basis differs from Screener
+TTKPRESTIG-004,4750,5250,higher,screener,revenue:FY25,,,,,,,,,,point 5000 +/-5%
+TTKPRESTIG-005,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-006,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-007,,,,none,,,,,,,,,,not scorable,no clean reported full-year capex; call figure inconsistent
+TTKPRESTIG-008,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-009,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-010,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-011,,,,none,,,,,,,,,,not due,target period ends after latest reported (Mar-27 / FY27)
+TTKPRESTIG-012,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-013,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-014,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-015,4750,5250,higher,screener,revenue:FY25,,,,,,,,,,point 5000 +/-5%
+TTKPRESTIG-016,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-017,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-018,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-019,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-020,,,,none,,,,,,,,,,not scorable,no numeric range or margin basis differs from Screener
+TTKPRESTIG-021,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-022,,,,none,,,,,,,,,,not scorable,Q1FY24 not in Screener; no reported H1 actual
+TTKPRESTIG-023,,,,none,,,,,,,,,,not scorable,H2FY23 base not available
+TTKPRESTIG-024,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-025,3325,3675,higher,screener,revenue:FY25,,,,,,,,,,"point 3500 +/-5%; consolidated revenue used, organic basis not separately reported"
+TTKPRESTIG-026,15,17,higher,screener,rev_growth:FY24,,,,,,,,,,multi-year FY24-FY25; weakest year FY24
+TTKPRESTIG-027,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-028,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-029,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-030,,,,none,,,,,,,,,,not scorable,"no reported actual on guided basis (mgmt margin incl other income, Screener excludes)"
+TTKPRESTIG-031,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-032,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-033,,,,none,,,,,,,,,,not scorable,"event, no number"
+TTKPRESTIG-034,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-035,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-036,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-037,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-038,,,,none,,,,,,,,,,not scorable,Q3FY23 base not available
+TTKPRESTIG-039,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-040,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-041,,,,none,,,,,,,,,,not scorable,H2FY23 base not available
+TTKPRESTIG-042,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-043,,,,none,,,,,,,,,,not scorable,no monthly data
+TTKPRESTIG-044,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+TTKPRESTIG-045,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-046,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-047,0,,higher,call,,2.5,2.5% topline growth,Q4FY24,3,"Just to give you an overview of the quarter that just went by, we had a marginal growth of 2.5% in topline and about a proportional increase in our PBT also.",,,,,Q4FY24 YoY top line growth as stated by management
+TTKPRESTIG-048,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-049,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-050,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-051,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-052,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-053,,,,none,,,,,,,,,,not scorable,period Phase 1 unclear
+TTKPRESTIG-054,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-055,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-056,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-057,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-058,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-059,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-060,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-061,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-062,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-063,0,,higher,screener,q_rev_growth:Q1FY26,,,,,,,,,,positive growth
+TTKPRESTIG-064,,,,none,,,,,,,,,,not scorable,no numeric target
+TTKPRESTIG-065,,,,none,,,,,,,,,,not due,target period ends after latest reported (Mar-27 / FY27)
+TTKPRESTIG-066,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TTKPRESTIG-067,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-068,,,,none,,,,,,,,,,not due,target period ends after latest reported (Mar-27 / FY27)
+TTKPRESTIG-069,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-070,,,,none,,,,,,,,,,not scorable,no period
+TTKPRESTIG-071,,,,none,,,,,,,,,,not scorable,no period

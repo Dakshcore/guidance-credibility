@@ -1,0 +1,62 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+SHOPERSTOP-229,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-230,95,105,higher,call,,52,52 INTUNE stores,Q4FY25,4,"For the full year, we have opened 73 stores comprising of 52 INTUNE, 9 Department, 7 Beauty and 5 HomeStop stores.",,,,,FY25 INTUNE openings; guide ~100 INTUNE
+SHOPERSTOP-231,,,,none,,,,,,,,,,not scorable,"only vague almost-10-stores reported, format unclear"
+SHOPERSTOP-232,,,,none,,,,,,,,,,not scorable,"single month, no reported actual"
+SHOPERSTOP-233,,,,none,,,,,,,,,,not scorable,no H2 like-for-like figure reported on guided basis
+SHOPERSTOP-234,60,65,higher,call,,37,37 stores (16 in Q3 + 21 in Q4),Q4FY25,4,"We opened 21 stores, which includes 15 INTUNE stores, 5 Departmental stores and 1 Beauty store.",Q3FY25,7,Now let me talk about the capex and capital and cash flow. We added 16 stores during the quarter.,,H2FY25 openings all formats = Q3 16 plus Q4 21
+SHOPERSTOP-235,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-236,,,,none,,,,,,,,,,not scorable,store-level INTUNE EBITDA sign not reported for FY25
+SHOPERSTOP-237,,,,none,,,,,,,,,,not scorable,INTUNE store-level margin not reported for FY25
+SHOPERSTOP-238,,,,none,,,,,,,,,,not scorable,"vague, no number"
+SHOPERSTOP-239,,,,none,,,,,,,,,,not scorable,no reported FY26 INTUNE opening total on stored calls
+SHOPERSTOP-240,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-241,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-242,,,,none,,,,,,,,,,not scorable,non-GAAP margin not stated; Screener is IndAS basis
+SHOPERSTOP-243,,,,none,,,,,,,,,,not scorable,non-GAAP margin FY26 not reported on stored calls; Screener is IndAS
+SHOPERSTOP-244,,,,none,,,,,,,,,,not scorable,non-GAAP margin FY26 not reported on stored calls; Screener is IndAS
+SHOPERSTOP-245,,,,none,,,,,,,,,,not scorable,"basis unclear (non-GAAP vs IndAS), no clean actual"
+SHOPERSTOP-246,,,,none,,,,,,,,,,not scorable,Mar-25 debt on guided basis not reported
+SHOPERSTOP-247,200,230,lower,call,,192,Rs 192 crores,Q4FY25,6,"Overall, for the year, we had invested Rs 192 crores in fixed assets and deposits and another Rs 126 crores in working capital",,,,,"capex plus deposits, same basis as Q3 call (141 YTD + 90 = 231); capex alone was Rs 160 cr, also below range"
+SHOPERSTOP-248,,,,none,,,,,,,,,,not scorable,"vague, no number"
+SHOPERSTOP-249,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-250,,,,none,,,,,,,,,,not scorable,net debt at Mar-25 not reported on stored calls
+SHOPERSTOP-251,,,,none,,,,,,,,,,not scorable,net debt FY26 not reported on stored calls
+SHOPERSTOP-252,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-253,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-254,,,,none,,,,,,,,,,not scorable,"direction only, no reported actual"
+SHOPERSTOP-255,240,250,higher,call,,236,Rs 236 crores,Q4FY25,7,has reported nearly 100% increase in sales this year with a sales of Rs 236 crores with EBITDA increasing by 3x.,,,,,Global SS Beauty FY25 sales
+SHOPERSTOP-256,,,,none,,,,,,,,,,not scorable,no measurable outcome
+SHOPERSTOP-257,24.7,27.3,higher,call,,15,15 INTUNE stores,Q4FY25,4,"We opened 21 stores, which includes 15 INTUNE stores, 5 Departmental stores and 1 Beauty store.",,,,,Q4FY25 INTUNE openings
+SHOPERSTOP-258,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+SHOPERSTOP-259,30.4,33.6,higher,call,,21,21 stores,Q4FY25,4,"We opened 21 stores, which includes 15 INTUNE stores, 5 Departmental stores and 1 Beauty store.",,,,,Q4FY25 openings all formats
+SHOPERSTOP-260,,,,none,,,,,,,,,,not scorable,no reported FY26 renovation count on stored calls
+SHOPERSTOP-261,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+SHOPERSTOP-262,85.5,94.5,lower,call,,52,Rs 52 crores,Q4FY25,4,we invested Rs 52 crores for the quarter and Rs160 crores for the full year in capex and Rs 32 crores in deposits for the full year.,,,,,Q4 spend; cross-check 192 FY less 141 YTD = 51
+SHOPERSTOP-263,,,,none,,,,,,,,,,not scorable,no H2 like-for-like figure reported on guided basis
+SHOPERSTOP-264,5.7,6.3,higher,call,,5,5 departmental stores,Q4FY25,4,"We opened 21 stores, which includes 15 INTUNE stores, 5 Departmental stores and 1 Beauty store.",,,,,Q4FY25 departmental openings
+SHOPERSTOP-265,,,,none,,,,,,,,,,not scorable,no reported FY26 departmental opening total on stored calls
+SHOPERSTOP-266,,,,none,,,,,,,,,,not scorable,complete INTUNE breakeven incl. support cost not reported
+SHOPERSTOP-267,,,,none,,,,,,,,,,not scorable,FY26 departmental closures not reported separately
+SHOPERSTOP-268,,,,none,,,,,,,,,,not scorable,campaign sales FY26 not reported
+SHOPERSTOP-269,80.75,89.25,higher,call,,71,71 INTUNE stores,Q4FY25,10,"if you look at the 71 -store network that INTUNE has, the majority of those stores are less than 6 months old.",,,,,INTUNE network at Mar-25
+SHOPERSTOP-270,,,,none,,,,,,,,,,not scorable,no reported FY26 INTUNE opening total on stored calls
+SHOPERSTOP-271,218.5,241.5,lower,call,,192,Rs 192 crores,Q4FY25,6,"Overall, for the year, we had invested Rs 192 crores in fixed assets and deposits and another Rs 126 crores in working capital",,,,,"capex plus deposits (Q3 guide was on same basis); capex alone Rs 160 cr, also below range"
+SHOPERSTOP-272,,,,none,,,,,,,,,,not scorable,INTUNE working capital investment not reported
+SHOPERSTOP-273,,,,none,,,,,,,,,,not scorable,no number
+SHOPERSTOP-274,0,,higher,screener,rev_growth:FY26,,,,,,,,,,direction vs FY25; consolidated revenue growth
+SHOPERSTOP-275,,,,none,,,,,,,,,,not scorable,"trying, working capital basis not reported"
+SHOPERSTOP-276,,,,none,,,,,,,,,,not scorable,Screener borrowings include leases; guide basis differs
+SHOPERSTOP-277,,,,none,,,,,,,,,,not scorable,Q1FY26 INTUNE openings not reported as a total on stored calls
+SHOPERSTOP-278,,,,none,,,,,,,,,,not scorable,no reported FY26 departmental opening total on stored calls
+SHOPERSTOP-279,,,,none,,,,,,,,,,not scorable,no reported FY26 INTUNE opening total on stored calls
+SHOPERSTOP-280,,,,none,,,,,,,,,,not scorable,FY26 Global SS Beauty sales not reported
+SHOPERSTOP-281,,,,none,,,,,,,,,,not due,FY27 not yet reported
+SHOPERSTOP-282,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-283,,,,none,,,,,,,,,,not scorable,no period
+SHOPERSTOP-284,0,,higher,screener,rev_growth:FY26,,,,,,,,,,positive sales growth FY26; consolidated revenue growth
+SHOPERSTOP-285,,,,none,,,,,,,,,,not scorable,EBITDA basis unclear (non-GAAP vs IndAS)
+SHOPERSTOP-286,,,,none,,,,,,,,,,not scorable,profit basis unclear (non-GAAP vs PAT)
+SHOPERSTOP-287,,,,none,,,,,,,,,,not scorable,"departmental-store only, direction vague"
+SHOPERSTOP-288,,,,none,,,,,,,,,,not due,FY28 not yet reported
+SHOPERSTOP-289,,,,none,,,,,,,,,,not scorable,no period

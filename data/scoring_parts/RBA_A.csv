@@ -1,0 +1,69 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+RBA-001,304.0,336.0,higher,call,,315,315 restaurants,Q4FY22,4,We kind of ended the quarter with 315 restaurants.,,,,,
+RBA-002,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+RBA-003,,,,none,,,,,,,,,,not scorable,no period
+RBA-004,,,,none,,,,,,,,,,not scorable,no full-year FY22 ADS reported on guided basis; ambiguous guide
+RBA-005,446.5,493.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,
+RBA-006,62.7,69.3,higher,call,,65.8,65.8%,Q4FY22,5,we ended the year at 65.8%,,,,,FY22 India gross margin
+RBA-007,64.6,71.4,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-008,,,,none,,,,,,,,,,not scorable,explicitly not guided; no period
+RBA-009,,,,none,,,,,,,,,,not scorable,5-7% on FY20 ADS base; not comparable to reported yoy SSSG
+RBA-010,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+RBA-011,304.0,336.0,higher,call,,315,315 restaurants,Q4FY22,4,We kind of ended the quarter with 315 restaurants.,,,,,
+RBA-012,370.5,409.5,higher,call,,391,391 restaurants,Q4FY23,5,"we ended March 31, 2023, with 391 restaurants.",,,,,
+RBA-013,446.5,493.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,
+RBA-014,,,,none,,,,,,,,,,not scorable,no period
+RBA-015,,,,none,,,,,,,,,,not scorable,baseline unclear (75 more cafes); no clean count
+RBA-016,64.6,71.4,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-017,,,,none,,,,,,,,,,not scorable,5-7% on ADS base; not comparable to reported SSSG
+RBA-018,,,,none,,,,,,,,,,not scorable,no period
+RBA-019,,,,none,,,,,,,,,,not scorable,milestone with no numeric range
+RBA-020,,,,none,,,,,,,,,,not scorable,no period
+RBA-021,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+RBA-022,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+RBA-023,304.0,336.0,higher,call,,315,315 restaurants,Q4FY22,4,We kind of ended the quarter with 315 restaurants.,,,,,
+RBA-024,370.5,409.5,higher,call,,391,391 restaurants,Q4FY23,5,"we ended March 31, 2023, with 391 restaurants.",,,,,
+RBA-025,,,,none,,,,,,,,,,not scorable,FY23 dine-in share ambiguous (year vs exit); no clear actual
+RBA-026,,,,none,,,,,,,,,,not scorable,no numeric target
+RBA-027,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+RBA-028,,,,none,,,,,,,,,,not scorable,no period
+RBA-029,,,,none,,,,,,,,,,not due,Jan-27 not yet reported
+RBA-030,,,,none,,,,,,,,,,not scorable,no period
+RBA-031,,,,none,,,,,,,,,,not scorable,no period
+RBA-032,370.5,409.5,higher,call,,391,391 restaurants,Q4FY23,5,"we ended March 31, 2023, with 391 restaurants.",,,,,
+RBA-033,446.5,493.5,higher,call,,455,455 restaurants,Q4FY24,11,"We have 455 as of March 31, and our outlook for FY '27 continues to remain the same.",,,,,
+RBA-034,23.75,26.25,higher,call,,43.1,43.1%,Q4FY23,4,That included a SSSG of 43.1% and,,,,,FY23 India SSSG
+RBA-035,,,,none,,,,,,,,,,not scorable,FY23 ADS stated inconsistently on call (118k vs garbled figure)
+RBA-036,7,10,higher,call,,2.9,2.9%,Q4FY24,6,we've been positive at 2.9% of SSSG for the full year,,,,,FY24 India SSSG
+RBA-037,190.0,210.0,higher,call,,275,275 BK Cafes,Q4FY23,5,that we have built 275 BK Cafés that are operating,,,,,Cafes operating at 31 Mar 2023
+RBA-038,63.65,70.35,higher,call,,66.4,66.4%,Q4FY23,4,Our gross margin again FY2023 we went to 66.4% that was against 65.8%,,,,,FY23 India gross margin
+RBA-039,64.6,71.4,higher,call,,67,67%,Q4FY24,7,"For the full year, now we reported 67% gross margins.",,,,,FY24 India gross margin
+RBA-040,,,,none,,,,,,,,,,not scorable,no period
+RBA-041,300,,higher,call,,351,351 restaurants with BK Cafe,Q4FY24,8,Now BK Café experience is now available at 351 restaurants across the country.,,,,,"Restaurants with a cafe, per call of 17 May 2024"
+RBA-042,,,,none,,,,,,,,,,not scorable,no period
+RBA-043,,,,none,,,,,,,,,,not scorable,no reported pre-COVID % for Indonesia sales on guided basis
+RBA-044,,,,none,,,,,,,,,,not scorable,no period
+RBA-045,,,,none,,,,,,,,,,not scorable,no period
+RBA-046,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RBA-047,,,,none,,,,,,,,,,not scorable,basis unclear (company vs consolidated PAT)
+RBA-048,,,,none,,,,,,,,,,not scorable,no period
+RBA-049,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis; conditional
+RBA-050,,,,none,,,,,,,,,,not scorable,no period
+RBA-051,,,,none,,,,,,,,,,not scorable,no period
+RBA-052,23.75,26.25,higher,call,,43.1,43.1%,Q4FY23,4,That included a SSSG of 43.1% and,,,,,FY23 India SSSG
+RBA-053,351.5,388.5,higher,call,,391,391 restaurants,Q4FY23,5,"we ended March 31, 2023, with 391 restaurants.",,,,,India BK restaurants at 31 Mar 2023
+RBA-054,237.5,262.5,higher,call,,275,275 BK Cafes,Q4FY23,5,that we have built 275 BK Cafés that are operating,,,,,Cafes operating at 31 Mar 2023
+RBA-055,,,,none,,,,,,,,,,not scorable,no period
+RBA-056,1,,higher,call,,3,3 Popeyes restaurants,Q3FY23,5,"the 3 restaurants we opened were on 29th, 30th and 31st",,,,,Popeyes Indonesia openings by 31 Dec 2022; guide read as at least one
+RBA-057,,,,none,,,,,,,,,,not due,10-year plan from Aug-22 not yet complete
+RBA-058,,,,none,,,,,,,,,,not scorable,hedged probability of a raise; no firm number
+RBA-059,,,,none,,,,,,,,,,not scorable,no reported pre-COVID % for Indonesia on guided basis
+RBA-060,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RBA-061,,,,none,,,,,,,,,,not scorable,no clear reported Indonesia FY23 restaurant-level EBITDA
+RBA-062,,,,none,,,,,,,,,,not scorable,no numeric target
+RBA-063,,,,none,,,,,,,,,,not scorable,review: source wording is garbled; figure not certain
+RBA-064,,,,none,,,,,,,,,,not scorable,no period
+RBA-065,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+RBA-066,,,,none,,,,,,,,,,not scorable,no reported Q4 exit restaurant margin on guided basis
+RBA-067,,,,none,,,,,,,,,,not scorable,no period
+RBA-068,,,,none,,,,,,,,,,not scorable,no period

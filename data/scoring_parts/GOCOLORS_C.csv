@@ -1,0 +1,74 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+GOCOLORS-148,120,150,higher,call,,62,62 net stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores.",,,,,
+GOCOLORS-149,90,95,lower,call,,102,102 days,Q4FY25,4,A disciplined inventory management has resulted in maintaining our inventory days at 102 days.,,,,,year-end inventory days
+GOCOLORS-150,,,,none,,,,,,,,,,not scorable,date milestone; no numeric reported actual for FY25
+GOCOLORS-151,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-152,19,20,higher,call,,16.8,16.8%,Q4FY26,12,"So from a full year basis, if you see our EBITDA for the full year pre- Ind AS EBITDA is 11.5% and last year was 16.8%.",,,,,pre-IndAS FY25 EBITDA margin as stated on Q4FY26 call
+GOCOLORS-153,,,,none,,,,,,,,,,not scorable,no period; direction vs part-period base
+GOCOLORS-154,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-155,,,,none,,,,,,,,,,not scorable,no reported FY25 closure total
+GOCOLORS-156,5,,higher,call,,2.1,2.1%,Q4FY25,3,Q4FY25 witnessed a recovery in SSSG which stood at 2.1% for Q4FY25.,,,,,Q4FY25 SSSG
+GOCOLORS-157,,,,none,,,,,,,,,,not due,Jul-29 not yet reported
+GOCOLORS-158,,,,none,,,,,,,,,,not scorable,conditional; no reported FY25 volume SSSG
+GOCOLORS-159,,,,none,,,,,,,,,,not scorable,normalized-year aspiration; no matching reported actual
+GOCOLORS-160,,2,lower,call,,2,2%,Q4FY25,4,"Our advertising and promotional spend as a percentage of revenue stood at 2% for FY25, which is in line with our previous commentary.",,,,,ceiling 2% of revenue; reported as 2%
+GOCOLORS-161,,,,none,,,,,,,,,,not scorable,number from analyst; no clear gross margin basis
+GOCOLORS-162,,,,none,,,,,,,,,,not scorable,no numeric target; no reported outcome
+GOCOLORS-163,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-164,,,,none,,,,,,,,,,not scorable,no reported FY25 EBO growth on call
+GOCOLORS-165,,,,none,,,,,,,,,,not scorable,no reported FY25 full-year SSSG
+GOCOLORS-166,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-167,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-168,,,,none,,,,,,,,,,not scorable,no reported H2 closure count
+GOCOLORS-169,,,,none,,,,,,,,,,not scorable,no reported FY25 gross additions
+GOCOLORS-170,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-171,90,95,lower,call,,102,102 days,Q4FY25,4,A disciplined inventory management has resulted in maintaining our inventory days at 102 days.,,,,,March-25 inventory days
+GOCOLORS-172,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-173,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-174,,,,none,,,,,,,,,,not scorable,no reported H2FY25 growth on call
+GOCOLORS-175,57,63,higher,call,,21,21 net stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores.",Q2FY25,8,"As far as store openings are concerned, on a net basis, we have opened about 41 stores in H1, and we are falling short of the guidance",,H2 net = FY25 net 62 minus H1 net 41
+GOCOLORS-176,95,105,higher,call,,62,62 net stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores.",,,,,
+GOCOLORS-177,,,,none,,,,,,,,,,not scorable,no reported FY25 capex for store openings
+GOCOLORS-178,,,,none,,,,,,,,,,not scorable,only a lower bound (50-plus closures) reported
+GOCOLORS-179,,,,none,,,,,,,,,,not scorable,no reported FY26 net additions
+GOCOLORS-180,,,,none,,,,,,,,,,not scorable,no H2FY25 figure reported
+GOCOLORS-181,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-182,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-183,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-184,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-185,,,,none,,,,,,,,,,not scorable,date milestone; no numeric reported actual
+GOCOLORS-186,,,,none,,,,,,,,,,not scorable,no reported Q4FY25 closure count
+GOCOLORS-187,80,90,higher,call,,62,62 net stores,Q4FY25,4,"In FY25, we added a net total of 62 new stores, bringing our total store count to 776 stores.",,,,,
+GOCOLORS-188,90,95,lower,call,,102,102 days,Q4FY25,4,A disciplined inventory management has resulted in maintaining our inventory days at 102 days.,,,,,year-end inventory days
+GOCOLORS-189,50,,higher,call,,50,50%,Q4FY25,4,I am pleased to share that we successfully achieved our target of converting 50% of our pre IndAS EBITDA into operating cash flows during FY25.,,,,,guide >50%; reported as converting 50%; floor treated as 50
+GOCOLORS-190,,,,none,,,,,,,,,,not scorable,"FY26 SSSG reported only as negative, no figure"
+GOCOLORS-191,,,,none,,,,,,,,,,not scorable,no reported FY26 net additions
+GOCOLORS-192,,,,none,,,,,,,,,,not scorable,only a lower bound (50-plus closures) reported
+GOCOLORS-193,10,,higher,call,,-1.18,-1.2% (Rs838 cr vs Rs848 cr),Q4FY26,6,Coming to FY '26 performance. Revenue stood at INR838 crores. Gross profit stood at INR529 crores with a GP margin of 63.2%.,Q4FY25,6,"Revenue stood at Rs.848 crores in FY25 as against Rs.763 crores in FY24, a growth of 11% YoY.",,growth = 838/848-1 from FY26 and FY25 reported revenue
+GOCOLORS-194,,,,none,,,,,,,,,,not scorable,no reported FY26 SSSG figure
+GOCOLORS-195,1,3,higher,call,,2.1,2.1%,Q4FY25,3,Q4FY25 witnessed a recovery in SSSG which stood at 2.1% for Q4FY25.,,,,,low single digit = 1-3; Q4FY25 SSSG
+GOCOLORS-196,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-197,,,,none,,,,,,,,,,not scorable,no numeric target
+GOCOLORS-198,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-199,18,,higher,call,,11.5,11.5%,Q4FY26,12,"So from a full year basis, if you see our EBITDA for the full year pre- Ind AS EBITDA is 11.5% and last year was 16.8%.",,,,,pre-IndAS FY26 EBITDA margin
+GOCOLORS-200,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-201,,,,none,,,,,,,,,,not scorable,"FY26 SSSG reported only as negative, no figure"
+GOCOLORS-202,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+GOCOLORS-203,,,,none,,,,,,,,,,not scorable,no reported FY26 net additions
+GOCOLORS-204,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+GOCOLORS-205,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-206,,,,none,,,,,,,,,,not scorable,date milestone; no numeric reported actual
+GOCOLORS-207,,,,none,,,,,,,,,,not scorable,pilot pipeline; period unclear
+GOCOLORS-208,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-209,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-210,,,,none,,,,,,,,,,not scorable,no reported FY26 LFS gross additions
+GOCOLORS-211,,,,none,,,,,,,,,,not scorable,"per sq ft cost, no reported actual"
+GOCOLORS-212,,,,none,,,,,,,,,,not scorable,only a lower bound (50-plus closures) reported
+GOCOLORS-213,,,,none,,,,,,,,,,not scorable,no reported FY26 free cash flow
+GOCOLORS-214,,,,none,,,,,,,,,,not scorable,no reported debtor days outcome
+GOCOLORS-215,,,,none,,,,,,,,,,not scorable,no reported FY26 inventory days
+GOCOLORS-216,,,,none,,,,,,,,,,not scorable,no reported FY26 A&P share
+GOCOLORS-217,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-218,,,,none,,,,,,,,,,not scorable,no period
+GOCOLORS-219,62,,higher,call,,63.2,63.2%,Q4FY26,6,Gross profit stood at INR529 crores with a GP margin of 63.2%.,,,,,62-63% or a little higher; floor 62
+GOCOLORS-220,,,,none,,,,,,,,,,not scorable,margin line unspecified

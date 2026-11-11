@@ -1,0 +1,16 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VGUARD-170,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-171,,,,none,,,,,,,,,,not scorable,no period; no numeric target
+VGUARD-172,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-173,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-174,,,,none,,,,,,,,,,not due,plant by Nov-26 to May-27; window ends after latest reported call
+VGUARD-175,,,,none,,,,,,,,,,not scorable,no period; capacity not a company revenue forecast
+VGUARD-176,,,,none,,,,,,,,,,not scorable,"investee launch, no numeric target"
+VGUARD-177,,,,none,,,,,,,,,,not scorable,milestone with no numeric target
+VGUARD-178,,,,none,,,,,,,,,,not scorable,no numeric target; no FY26 Sunflame GT/e-commerce actual
+VGUARD-179,,,,none,,,,,,,,,,not scorable,no numeric target; no summer category actual
+VGUARD-180,8.7541,9.6755,higher,screener,ebitda_margin:FY26,,,,,,,,,,maintain = FY25 ebitda_margin 9.2148 +/- 5% relative
+VGUARD-181,,,,none,,,,,,,,,,not scorable,segment wires sequential revenue not reported on a later call
+VGUARD-182,,,,none,,,,,,,,,,not scorable,no period
+VGUARD-183,,,,none,,,,,,,,,,not scorable,no reported actual on FY26 capex
+VGUARD-184,14,15,higher,screener,rev_growth:FY26,,,,,,,,,,consolidated revenue growth FY26

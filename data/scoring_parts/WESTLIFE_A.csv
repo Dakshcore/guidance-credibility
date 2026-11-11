@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+WESTLIFE-001,17,19,higher,call,,11,11 stores,Q1FY23,4,"This quarter we have opened five new restaurants . W ith this we have a total of 331 restaurants, 267 McCafés, 65 drive-throughs and 132 EOTF",Q2FY23,5,We have added six new restaurants and entered four new cit,,H1 = 5 (Q1) + 6 (Q2) new restaurants
+WESTLIFE-002,35,40,higher,call,,35,35 new restaurants,Q4FY23,5,"During the quarter, we added 18 new restaurants achieving the annual target of 35 new restaurants in FY '23.",,,,,FY23 gross openings
+WESTLIFE-003,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-004,,,,none,,,,,,,,,,not scorable,contractual rate; no reported actual by year on stored calls
+WESTLIFE-005,,,,none,,,,,,,,,,not due,FY27 onwards not yet reported
+WESTLIFE-006,,,,none,,,,,,,,,,not scorable,cumulative FY23-26 needs four annual gross counts; no single reported figure
+WESTLIFE-007,,,,none,,,,,,,,,,not scorable,base not stated (previous quarters level unclear)
+WESTLIFE-008,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-009,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-010,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-011,95,105,higher,screener,ebitda_change_bps:FY25,,,,,,,,,,"~+100 bps a year FY23-FY25; weakest completed year is FY25 (FY23 +427, FY24 -101); Screener EBITDA matches company operating EBITDA"
+WESTLIFE-012,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-013,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-014,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-015,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-016,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-017,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-018,,,,none,,,,,,,,,,not scorable,cumulative FY23-26 needs four annual gross counts; no single reported figure
+WESTLIFE-019,35,40,higher,call,,35,35 new restaurants,Q4FY23,5,"During the quarter, we added 18 new restaurants achieving the annual target of 35 new restaurants in FY '23.",,,,,FY23 gross openings
+WESTLIFE-020,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-021,,,,none,,,,,,,,,,not scorable,no management-reported FY23 capex; only analyst figure
+WESTLIFE-022,63.65,70.35,higher,call,,66,INR66 million,Q4FY23,4,Our average unit volumes crossed INR66 million with nearly 60% of sales driven th rough digital.,,,,,~67 million +/-5%; FY23 AUV stated as 'crossed 66 million'
+WESTLIFE-023,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-024,,,,none,,,,,,,,,,not scorable,no reported Q3 vs Q2 revenue per store
+WESTLIFE-025,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-026,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-027,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-028,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-029,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-030,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-031,35,40,higher,call,,35,35 new restaurants,Q4FY23,5,"During the quarter, we added 18 new restaurants achieving the annual target of 35 new restaurants in FY '23.",,,,,FY23 gross openings
+WESTLIFE-032,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-033,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-034,,,,none,,,,,,,,,,not scorable,"no EOTF share reported at Jan-25; later call says almost all, not numeric"
+WESTLIFE-035,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-036,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-037,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-038,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-039,40,45,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-040,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-041,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-042,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-043,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-044,,,,none,,,,,,,,,,not scorable,no management-reported FY24 capex
+WESTLIFE-045,,,,none,,,,,,,,,,not scorable,no reported actual; guide contradicted on same call
+WESTLIFE-046,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-047,,,,none,,,,,,,,,,not scorable,no reported innovation share of business
+WESTLIFE-048,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-049,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-050,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-051,,,,none,,,,,,,,,,not scorable,needs four quarterly counts; no H1 vs H2 figure reported
+WESTLIFE-052,7,9,higher,call,,-1.5,-1.5%,Q4FY24,5,Same-store sales decline was limited to negative 1.5% on a base of 36% of growth last year,,,,,FY24 SSSG
+WESTLIFE-053,66,,higher,call,,63,INR 63 million,Q4FY24,5,Our average sales per store on a trailing 12-month basis was at INR 63 million.,,,,,INR 6.6 crore = 66 million; trailing 12-month AUV at Mar-24
+WESTLIFE-054,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-055,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-056,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-057,40,45,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-058,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-059,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-060,0,,higher,screener,ebitda_change_bps:FY24,,,,,,,,,,EBITDA margin FY24 vs FY23 change in bps
+WESTLIFE-061,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-062,,,,none,,,,,,,,,,not scorable,no EOTF conversion count reported
+WESTLIFE-063,40,42,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-064,40,,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-065,,,,none,,,,,,,,,,not scorable,no FY24 royalty actual on guided basis (ex-GST)
+WESTLIFE-066,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-067,,,,none,,,,,,,,,,not scorable,no reported FY24 G&A % of sales
+WESTLIFE-068,,,,none,,,,,,,,,,not scorable,quarterly G&A not reported for each quarter on stored calls
+WESTLIFE-069,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-070,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-071,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-072,40,45,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-073,,,,none,,,,,,,,,,not scorable,no management-reported FY24 capex
+WESTLIFE-074,,,,none,,,,,,,,,,not scorable,no reimaging count reported
+WESTLIFE-075,,,,none,,,,,,,,,,not scorable,no FY24 gross margin level reported; only +40 bps change
+WESTLIFE-076,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-077,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-078,,,,none,,,,,,,,,,not due,FY27 not yet reported
+WESTLIFE-079,40,45,higher,call,,41,41 new stores,Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,,,,FY24 gross openings
+WESTLIFE-080,0,,higher,call,,6,47 vs 41 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",Q4FY24,3,We remain steadfast in our mission and successfully opened 41 new stores.,,FY25 openings 47 minus FY24 openings 41 = +6
+WESTLIFE-081,45,50,higher,call,,47,47 stores,Q4FY25,6,"For the full -year, we added 47 stores, in line with our guidance of 45 to 50 for FY '25.",,,,,FY25 gross openings
+WESTLIFE-082,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-083,,,,none,,,,,,,,,,not scorable,no period
+WESTLIFE-084,,,,none,,,,,,,,,,not scorable,no measurable launch scale

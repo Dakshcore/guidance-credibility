@@ -1,0 +1,76 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+KAJARIACER-001,15,20,higher,call,,11,11% tile volume growth,Q4FY23,7,"in spite of a difficult year, which I've been saying for the entire last year, we grew at 11% in volume terms.",,,,,FY23 tile volume growth as stated by management
+KAJARIACER-002,,,,none,,,,,,,,,,not scorable,"guide is tiles revenue growth; only consolidated FY23 growth available, different basis"
+KAJARIACER-003,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-004,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-005,15,,higher,call,,6,6% volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,floor 15% a year FY24-FY25 on volume; weakest year is FY25 at 6% (FY24 was 6.93% from 108 vs 101 msm)
+KAJARIACER-006,,,,none,,,,,,,,,,not scorable,no reported capex actual for FY23-FY25
+KAJARIACER-007,,,,none,,,,,,,,,,not scorable,dealer additions: no reported full-period actual on guided basis
+KAJARIACER-008,,,,none,,,,,,,,,,not scorable,exclusive dealer additions not reported for the period
+KAJARIACER-009,30,35,higher,call,,12.5,12.5% bathware revenue growth FY24 (Rs360 cr vs Rs320 cr),Q4FY24,5,"3.6 billion is the revenue, bathware revenue in FY2024.",Q4FY23,13,We did Rs. 320 crore last year. This year's target is Rs. 440 crores to Rs. 450 crores.,,"FY24 bathware growth 360/320-1 is below the 30-35% a year guide so the span cannot be met; FY23 was also below (320 vs 275); turnover scored, not volume"
+KAJARIACER-010,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-011,,,,none,,,,,,,,,,not scorable,no reported actual for retail/project mix
+KAJARIACER-012,80,,higher,call,,108,Rs 108 crore,Q1FY24,9,"So, last year we spent INR108 crores in advertising . This year the target is roughly INR135 crores.",,,,,floor: spend higher than Rs80 cr; ad spend treated as commitment so higher is better
+KAJARIACER-013,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-014,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-015,15,,higher,call,,11,11% tile volume growth,Q4FY23,7,"in spite of a difficult year, which I've been saying for the entire last year, we grew at 11% in volume terms.",,,,,FY23 tile volume growth as stated by management
+KAJARIACER-016,100,,higher,call,,108,Rs 108 crore,Q1FY24,9,"So, last year we spent INR108 crores in advertising . This year the target is roughly INR135 crores.",,,,,floor Rs100 cr; ad spend treated as commitment so higher is better
+KAJARIACER-017,15,,higher,call,,6,6% volume growth,Q4FY25,3,"In the full Financial Year we have attained a 6% volume growth, reaching 115 million square meters.",,,,,floor 15% a year FY24-FY25 on volume; weakest year is FY25 at 6% (FY24 was 6.93% from 108 vs 101 msm)
+KAJARIACER-018,,,,none,,,,,,,,,,not scorable,no reported capex actual for FY24-FY25
+KAJARIACER-019,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-020,15,20,higher,call,,11,11% tile volume growth,Q4FY23,7,"in spite of a difficult year, which I've been saying for the entire last year, we grew at 11% in volume terms.",,,,,FY23 tile volume growth as stated by management
+KAJARIACER-021,,,,none,,,,,,,,,,not scorable,no reported actual for the acquired plant revenue
+KAJARIACER-022,,,,none,,,,,,,,,,not scorable,no reported actual for the acquired plant revenue
+KAJARIACER-023,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-024,54.15,59.85,lower,call,,66,66 days,Q3FY23,4,"As on December 31st 2022, our working capital days have also increased by four days to 66 days as compared to 62 days as on 30th of September 2022",,,,,working capital days at 31 Dec 2022 as reported by management
+KAJARIACER-025,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-026,,,,none,,,,,,,,,,not scorable,no reported capex actual for the company share
+KAJARIACER-027,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-028,14,,higher,call,,12.2,12.20%,Q3FY23,4,EBITDA margin for this quarter stood at 12.20% as compared to 17.21% in the corresponding quarter of the previous year.,,,,,guide 14% plus in both Q3 and Q4; Q3 EBITDA margin 12.20% is the weaker quarter and is below the floor
+KAJARIACER-029,52.25,57.75,lower,call,,53,Rs 53 per SCM,Q3FY23,5,"In the 3rd quarter, the fuel prices was Rs. 53.",,,,,Q3FY23 average fuel price per SCM
+KAJARIACER-030,14.25,15.75,higher,call,,11,11% tile volume growth,Q4FY23,7,"in spite of a difficult year, which I've been saying for the entire last year, we grew at 11% in volume terms.",,,,,FY23 tile volume growth as stated by management
+KAJARIACER-031,95,105,higher,call,,108,Rs 108 crore,Q1FY24,9,"So, last year we spent INR108 crores in advertising . This year the target is roughly INR135 crores.",,,,,ad spend treated as commitment so higher is better
+KAJARIACER-032,,,,none,,,,,,,,,,not scorable,no reported capex actual for FY23
+KAJARIACER-033,,,,none,,,,,,,,,,not scorable,no reported capex actual for Nepal JV
+KAJARIACER-034,,,,none,,,,,,,,,,not scorable,no reported capex actual for Nepal JV
+KAJARIACER-035,351.5,388.5,higher,call,,320,Rs 320 crore,Q4FY23,13,We did Rs. 320 crore last year. This year's target is Rs. 440 crores to Rs. 450 crores.,,,,,bathware (Kerovit) revenue FY23; same series as the Rs275 cr FY22 base given on the Q2FY23 call
+KAJARIACER-036,,,,none,,,,,,,,,,not scorable,no reported actual for net capacity addition
+KAJARIACER-037,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+KAJARIACER-038,,,,none,,,,,,,,,,not scorable,dealer additions for FY23 not reported; gross vs net
+KAJARIACER-039,,,,none,,,,,,,,,,not scorable,dealer additions: no reported actual on guided basis
+KAJARIACER-040,,,,none,,,,,,,,,,not scorable,dealer additions for H2FY23 not reported
+KAJARIACER-041,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-042,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-043,,,,none,,,,,,,,,,not scorable,H2FY23 advertisement spend not reported separately
+KAJARIACER-044,47.5,52.5,higher,call,,38,Rs 38 crore,Q1FY24,15,"So last year, we had a turnover of INR38 crores in the adhesive division with a PBT of roughly INR7 crores",,,,,"FY23 adhesive turnover; Q4FY24 call gives Rs35 cr for FY23, both below the range"
+KAJARIACER-045,,,,none,,,,,,,,,,not scorable,no period; second year of operation not defined
+KAJARIACER-046,,,,none,,,,,,,,,,not scorable,Q3FY23 share of propane and LPG not reported
+KAJARIACER-047,13,15,higher,call,,6.93,6.93% (108 vs 101 msm),Q4FY24,3,"Our current annual capacity, is 86.47 million square meters . We sold last year 108 million square meters.",Q4FY23,2,"I am happy to inform you that in spite of difficult year, your company has sold 101 million square meters of tiles in the financial year 2022-23",,"FY24 volume growth = 108 msm sold in FY24 over 101 msm sold in FY23, both stated by management"
+KAJARIACER-048,47,48,lower,call,,46,Rs 46 per SCM,Q4FY23,8,"On gas prices , for the quarter it is around Rs. 46 per SCM",,,,,"Q4FY23 average gas price per SCM; on the Q3FY23 call management said fuel price and gas price were the same average (Rs53), so same series"
+KAJARIACER-049,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-050,,,,none,,,,,,,,,,not scorable,no reported actual for Feb-23 alternate fuel share
+KAJARIACER-051,14,,higher,call,,14.6,14.6%,Q1FY24,5,"EBITDA margin for the quarter stood at 15.9%, expan ded by 130 basis points quarter -to- quarter",,,,,"Q4FY23 EBITDA margin = Q1FY24 margin 15.9% less 130 bps q-o-q = 14.6%; derived, not stated directly"
+KAJARIACER-052,,,,none,,,,,,,,,,not scorable,no reported capex actual for FY23
+KAJARIACER-053,,,,none,,,,,,,,,,not scorable,no reported capex actual for FY24 on guided basis
+KAJARIACER-054,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+KAJARIACER-055,,66,lower,call,,59,59 days,Q1FY24,5,"As of 30th June 2023, the working capital days increased to 62 days from 59 days as of March 31st, 2023.",,,,,working capital days at 31 Mar 2023; ceiling 66
+KAJARIACER-056,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-057,,,,none,,,,,,,,,,not scorable,no reported actual for Feb-23 alternate fuel share
+KAJARIACER-058,,,,none,,,,,,,,,,not scorable,dealer additions: no reported actual on guided basis
+KAJARIACER-059,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported
+KAJARIACER-060,,,,none,,,,,,,,,,not scorable,dealer additions: gross vs net not reported on guided basis
+KAJARIACER-061,135,140,higher,call,,131,Rs 131 crore,Q4FY24,9,FY24 we spend 131 crore. I already said that.,,,,,brand promotion / advertising spend FY24; treated as commitment so higher is better
+KAJARIACER-062,,,,none,,,,,,,,,,not scorable,no reported actual for constituencies covered
+KAJARIACER-063,14,16,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth FY24
+KAJARIACER-064,13,15,higher,call,,6.93,6.93% (108 vs 101 msm),Q4FY24,3,"Our current annual capacity, is 86.47 million square meters . We sold last year 108 million square meters.",Q4FY23,2,"I am happy to inform you that in spite of difficult year, your company has sold 101 million square meters of tiles in the financial year 2022-23",,"FY24 volume growth = 108 msm sold in FY24 over 101 msm sold in FY23, both stated by management"
+KAJARIACER-065,14,16,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin FY24
+KAJARIACER-066,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-067,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-068,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-069,,,,none,,,,,,,,,,not scorable,no reported capex actual for the project
+KAJARIACER-070,,,,none,,,,,,,,,,not scorable,no numeric target; no reported price actual
+KAJARIACER-071,440,450,higher,call,,360,Rs 360 crore,Q4FY24,5,"3.6 billion is the revenue, bathware revenue in FY2024.",,,,,FY24 bathware (sanitaryware and faucet) revenue; guide base Rs320 cr matches bathware series; plywood is reported separately
+KAJARIACER-072,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-073,,,,none,,,,,,,,,,not scorable,no period
+KAJARIACER-074,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+KAJARIACER-075,,,,none,,,,,,,,,,not scorable,no reported actual for fuel saving

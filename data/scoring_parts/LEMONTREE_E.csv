@@ -1,0 +1,83 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-291,11000,,higher,call,,10269,"10,269 rooms",Q4FY25,3,"divided into 10,269 rooms and 111 hotels being operational and the rest in pipeline",,,,,"guide was 120+ hotels and 11,000+ rooms; rooms used; hotels actual 111 also below 120"
+LEMONTREE-292,,,,none,,,,,,,,,,not scorable,FY24 and FY25 full-year ARR growth not stated on a later call
+LEMONTREE-293,,,,none,,,,,,,,,,not scorable,no numeric target; much better is vague and metric not named
+LEMONTREE-294,,,,none,,,,,,,,,,not scorable,Keys segment EBITDA not reported on a later call
+LEMONTREE-295,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-296,14.25,15.75,higher,screener,rev_growth:FY25,,,,,,,,,,point 15% +/-5%; consolidated revenue growth
+LEMONTREE-297,,,,none,,,,,,,,,,not due,FY28 not yet reported
+LEMONTREE-298,,0,lower,screener,borrowing_change:FY25,,,,,,,,,,direction: borrowings change vs FY24 at most 0; consolidated Rs crore
+LEMONTREE-299,,,,none,,,,,,,,,,not scorable,full-year pipeline signings not reported; total inventory change not a clean count
+LEMONTREE-300,1200,2000,higher,call,,406,406 rooms,Q4FY25,3,"divided into 10,269 rooms and 111 hotels being operational and the rest in pipeline",Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms",,"rooms opened = operational rooms at Mar-25 (10,269) minus at Mar-24 (9,863)"
+LEMONTREE-301,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-302,,,,none,,,,,,,,,,not scorable,Keys ARR for Oct-25 not reported on a later call
+LEMONTREE-303,,,,none,,,,,,,,,,not scorable,Red Fox ARR not reported on a later call
+LEMONTREE-304,,,,none,,,,,,,,,,not scorable,Lemon Tree and Premier ARR not reported on a later call
+LEMONTREE-305,,,,none,,,,,,,,,,not scorable,no size given; price hikes not measurable
+LEMONTREE-306,,,,none,,,,,,,,,,not scorable,metric not named; no numeric target
+LEMONTREE-307,,,,none,,,,,,,,,,not scorable,capex and opex split not reported; FY26 spend not reported on guided basis
+LEMONTREE-308,,,,none,,,,,,,,,,not scorable,EBITDA hit in rupees not reported; only 2.7% of revenue stated for FY25
+LEMONTREE-309,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target or reported actual"
+LEMONTREE-310,,,,none,,,,,,,,,,not due,about FY28 not yet reported
+LEMONTREE-311,,,,none,,,,,,,,,,not scorable,P&L renovation amount not reported on guided basis
+LEMONTREE-312,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-313,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-314,,,,none,,,,,,,,,,not scorable,ROCE on management basis not reported; Screener ROCE is a different basis
+LEMONTREE-315,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target or reported actual"
+LEMONTREE-316,,,,none,,,,,,,,,,not scorable,ARR uplift on renovated rooms not reported on guided basis
+LEMONTREE-317,,,,none,,,,,,,,,,not scorable,metric not specified
+LEMONTREE-318,,,,none,,,,,,,,,,not scorable,F&B cost ratio not reported
+LEMONTREE-319,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-320,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-321,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-322,,,,none,,,,,,,,,,not scorable,property level mix not reported on a later call
+LEMONTREE-323,1250,,higher,screener,revenue:FY25,,,,,,,,,,"floor north of Rs 1,250 crore; consolidated"
+LEMONTREE-324,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-325,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-326,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-327,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-328,,,,none,,,,,,,,,,not scorable,no period; conditional on 70% occupancy
+LEMONTREE-329,47.5,52.5,higher,call,,49.4,49.4%,Q4FY25,3,EBITDA margin for FY25 stood at 49.4% which is ~60 bps less than the stable EBITDA margin of 50%,,,,,point ~50% +/-5%; net EBITDA margin as reported by management
+LEMONTREE-330,,,,none,,,,,,,,,,not due,Aug-28 not yet reached
+LEMONTREE-331,,,,none,,,,,,,,,,not due,CY27 not yet reached
+LEMONTREE-332,,,,none,,,,,,,,,,not due,CY27 not yet reached
+LEMONTREE-333,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-334,,,,none,,,,,,,,,,not scorable,cumulative renovation spend FY24-FY26 not reported as an outcome
+LEMONTREE-335,,,,none,,,,,,,,,,not due,May-28 not yet reached
+LEMONTREE-336,,,,none,,,,,,,,,,not scorable,"later call gives occupancy only as early 70s, no figure"
+LEMONTREE-337,,,,none,,,,,,,,,,not scorable,FY25 third-party fee income not stated; only Q4 figure and FY26 figure reported
+LEMONTREE-338,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-339,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-340,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target or reported actual"
+LEMONTREE-341,,,,none,,,,,,,,,,not scorable,"guide is for Oct-Nov trading same store, only part period; no actual on that basis"
+LEMONTREE-342,,,,none,,,,,,,,,,not scorable,"guide is for Oct-Nov trading, only part period; no actual on that basis"
+LEMONTREE-343,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-344,,,,none,,,,,,,,,,not due,Nov-27 not yet reached; Fleur not listed by Q1FY27 call
+LEMONTREE-345,,,,none,,,,,,,,,,not scorable,owned rooms operational in H2FY25 not reported on same basis
+LEMONTREE-346,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-347,,,,none,,,,,,,,,,not scorable,Aurika Mumbai hotel-level margin not reported
+LEMONTREE-348,,,,none,,,,,,,,,,not scorable,property level mix not reported
+LEMONTREE-349,,,,none,,,,,,,,,,not scorable,absolute renovation expense for H1FY25 and H1FY26 not reported
+LEMONTREE-350,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-351,,,,none,,,,,,,,,,not due,Feb-28 not yet reached
+LEMONTREE-352,,,,none,,,,,,,,,,not scorable,"later call gives Q4 occupancy only as over 80%, a bound not a figure"
+LEMONTREE-353,,,,none,,,,,,,,,,not scorable,Aurika Mumbai H2FY26 occupancy and ARR not reported
+LEMONTREE-354,19000,21000,higher,call,,22581,"22,581 rooms",Q4FY26,3,"Our combined operational and signed pipeline inventory now stands at 22,581 rooms across 268 hotels",,,,,"point 20,000 +/-5%; signed plus operational inventory at Mar-26, before the May-26 date"
+LEMONTREE-355,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-356,,,,none,,,,,,,,,,not scorable,no period; hotel not built
+LEMONTREE-357,,,,none,,,,,,,,,,not scorable,Shillong capex not reported
+LEMONTREE-358,,,,none,,,,,,,,,,not scorable,no period; hotel not built
+LEMONTREE-359,,,,none,,,,,,,,,,not due,Feb-28 not yet reached
+LEMONTREE-360,,,,none,,,,,,,,,,not due,Feb-27 not yet reached; Fleur not listed by Q1FY27 call
+LEMONTREE-361,,1.7,lower,call,,2.25,2.25x,Q4FY26,21,"You look at our debt -to-EBITDA today, it is about 2.25",,,,,"ceiling 1.7x at Mar-26; actual is approximate, stated on Q4FY26 call in late May-26"
+LEMONTREE-362,,,,none,,,,,,,,,,not scorable,direction only; very significant has no numeric magnitude
+LEMONTREE-363,,,,none,,,,,,,,,,not scorable,cash profit share of Q4 not reported
+LEMONTREE-364,,,,none,,,,,,,,,,not scorable,"milestone, no numeric target"
+LEMONTREE-365,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-366,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-367,,,,none,,,,,,,,,,not scorable,"vague, significant portion has no number"
+LEMONTREE-368,,,,none,,,,,,,,,,not scorable,"rooms renovated reported on a different base (70% of portfolio), not cumulative count"
+LEMONTREE-369,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-370,,,,none,,,,,,,,,,not scorable,adjusted EBITDA margin ex renovation not reported; reported margin is a different basis
+LEMONTREE-371,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-372,,,,none,,,,,,,,,,not due,Feb-27 not yet reached

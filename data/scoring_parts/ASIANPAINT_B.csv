@@ -1,0 +1,56 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ASIANPAINT-080,,,,none,,,,,,,,,,not scorable,"committed amount, no reported actual on the same basis"
+ASIANPAINT-081,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-082,,,,none,,,,,,,,,,not scorable,"direction only, no numeric base"
+ASIANPAINT-083,,,,none,,,,,,,,,,not scorable,review: different period from the guide
+ASIANPAINT-084,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-085,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-086,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+ASIANPAINT-087,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+ASIANPAINT-088,,,,none,,,,,,,,,,not scorable,guide is additions but opening count not stated; tally and additions mixed
+ASIANPAINT-089,,,,none,,,,,,,,,,not due,Dec-28 not yet reported
+ASIANPAINT-090,,,,none,,,,,,,,,,not scorable,no numeric target
+ASIANPAINT-091,,,,none,,,,,,,,,,not scorable,ambiguous date and not numeric
+ASIANPAINT-092,,,,none,,,,,,,,,,not due,Dec-26 not yet reported
+ASIANPAINT-093,,,,none,,,,,,,,,,not scorable,"later figure of 8.45 lakh covers plumbers, carpenters and painters, not the guided basis"
+ASIANPAINT-094,10,,higher,call,,2.5,2.5% volume growth FY25,Q4FY25,4,"On a 12 monthly basis, we are up by about 2.5% on volume terms",,,,,decorative volume growth for FY25 as reported on Q4FY25 call
+ASIANPAINT-095,5,6,lower,call,,8.2,8.2 points (2.5% volume vs -5.7% value),Q4FY25,4,"On a 12 monthly basis, we are up by about 2.5% on volume terms and on a value we are down by about - 5.7%",,,,,"gap = 2.5 - (-5.7) = 8.2 points, both figures in the one quote; decorative, FY25"
+ASIANPAINT-096,,,,none,,,,,,,,,,not scorable,FY25 full-year standalone PBDIT not stated; Screener is consolidated; 18.5% on Q4FY25 call is quarterly
+ASIANPAINT-097,,,,none,,,,,,,,,,not scorable,no numeric target
+ASIANPAINT-098,,,,none,,,,,,,,,,not scorable,direction only
+ASIANPAINT-099,,,,none,,,,,,,,,,not scorable,direction only
+ASIANPAINT-100,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-101,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-102,,,,none,,,,,,,,,,not scorable,no FY25 year-end store count stated; 72 stores on Q1FY26 call is part-period
+ASIANPAINT-103,,,,none,,,,,,,,,,not due,FY29 not yet reported
+ASIANPAINT-104,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-105,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-106,1.4,1.5,lower,call,,1.5,inflation of about 1.5%,Q2FY25,21,"If you look at the current quarter, we had an inflation of about 1.5%",,,,,raw material inflation in Q2FY25 as reported on Q2FY25 call; lower inflation is better
+ASIANPAINT-107,,,,none,,,,,,,,,,not scorable,no size and no period
+ASIANPAINT-108,,,,none,,,,,,,,,,not scorable,"direction against Q1FY25 base, no numeric B2B growth reported"
+ASIANPAINT-109,,,,none,,,,,,,,,,not scorable,no numeric Q2FY25 volume growth reported ('just about the base')
+ASIANPAINT-110,5,6,lower,call,,8.2,8.2 points (2.5% volume vs -5.7% value),Q4FY25,4,"On a 12 monthly basis, we are up by about 2.5% on volume terms and on a value we are down by about - 5.7%",,,,,"gap = 2.5 - (-5.7) = 8.2 points, both figures in the one quote; decorative, FY25"
+ASIANPAINT-111,10,,higher,call,,2.5,2.5% volume growth FY25,Q4FY25,4,"On a 12 monthly basis, we are up by about 2.5% on volume terms",,,,,decorative volume growth for FY25 as reported on Q4FY25 call
+ASIANPAINT-112,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-113,,,,none,,,,,,,,,,not scorable,"direction only, no percentage"
+ASIANPAINT-114,0,,higher,call,,1.7,1.7% volume growth,Q3FY25,5,"When we look at the volume growth, we are at about 1.7% in terms of the overall volume growth",,,,,"Q3FY25 decorative plus industrial volume growth; guide was 'some volume growth', read as positive"
+ASIANPAINT-115,,,,none,,,,,,,,,,not scorable,no H2FY25 PBDIT stated on guided (standalone) basis; Screener is consolidated
+ASIANPAINT-116,,,,none,,,,,,,,,,not scorable,review: no numeric range in the rubric for this wording
+ASIANPAINT-117,,,,none,,,,,,,,,,not scorable,no reported realization decline for FY25
+ASIANPAINT-118,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-119,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-120,,,,none,,,,,,,,,,not scorable,direction only
+ASIANPAINT-121,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-122,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-123,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-124,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-125,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+ASIANPAINT-126,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-127,,,,none,,,,,,,,,,not due,Apr-27 not yet reached
+ASIANPAINT-128,0.5,1,higher,call,,1,deflation closer to 1%,Q1FY26,17,"So, the overall deflation is what we have seen this quarter is closer to 1%",,,,,Q1FY26 raw material deflation; 'closer to 1%' taken as 1.0; more deflation is better
+ASIANPAINT-129,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-130,1,9,higher,call,,4.3,4.3% value growth FY26,Q4FY26,11,"On a yearly level, volume growth is close to about 9%, which is quite commendable, and the value growth is about 4.3%",,,,,single digit read as 1 to 9; decorative value growth FY26 as reported on Q4FY26 call
+ASIANPAINT-131,,,,none,,,,,,,,,,not scorable,no FY26 reported capex outflow on same basis; Q1FY26 figure is a part-year commitment
+ASIANPAINT-132,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ASIANPAINT-133,,,,none,,,,,,,,,,not scorable,no period
+ASIANPAINT-134,,,,none,,,,,,,,,,not scorable,no period

@@ -1,0 +1,69 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ABFRL-082,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-083,30,35,higher,call,,29,29 stores,Q4FY24,7,So we opened about 29 stores during the course of the year.,,,,,Pantaloons gross openings FY24 as reported on Q4FY24 call
+ABFRL-084,,,,none,,,,,,,,,,not scorable,"event, no reported actual on a later call found"
+ABFRL-085,2660,2940,lower,call,,2862,"INR2,862 crore",Q4FY24,5,"Our net debt at consolidated level stood at INR2,862 crores",,,,,"Consolidated net debt at Mar-24 (incl. GIC proceeds, TCNS)"
+ABFRL-086,30,40,higher,call,,29,29 stores,Q4FY24,7,So we opened about 29 stores during the course of the year.,,,,,Pantaloons gross openings FY24 as reported on Q4FY24 call
+ABFRL-087,,,,none,,,,,,,,,,not scorable,"peak losses direction, no reported actual"
+ABFRL-088,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-089,,,,none,,,,,,,,,,not scorable,figure came from analyst; no reported actual
+ABFRL-090,2700,2800,lower,call,,2862,"INR2,862 crore",Q4FY24,5,"Our net debt at consolidated level stood at INR2,862 crores",,,,,"Consolidated net debt at Mar-24 (incl. GIC proceeds, TCNS)"
+ABFRL-091,,,,none,,,,,,,,,,not scorable,"direction only, no figure"
+ABFRL-092,,,,none,,,,,,,,,,not due,FY27-FY28 target period not yet reported; TCNS segment
+ABFRL-093,,,,none,,,,,,,,,,not due,FY27-FY28 target period not yet reported; segment margin
+ABFRL-094,,,,none,,,,,,,,,,not scorable,run rate figure from analyst; no reported actual on guided basis
+ABFRL-095,2700,2800,lower,call,,2862,"INR2,862 crore",Q4FY24,5,"Our net debt at consolidated level stood at INR2,862 crores",,,,,"Consolidated net debt at Mar-24 (incl. GIC proceeds, TCNS)"
+ABFRL-096,,,,none,,,,,,,,,,not due,FY27-FY28 target period not yet reported
+ABFRL-097,,,,none,,,,,,,,,,not scorable,no reported Tasva store count at Mar-24 found
+ABFRL-098,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-099,,,,none,,,,,,,,,,not due,FY25-FY27 period not fully reported; TMRW losses
+ABFRL-100,,,,none,,,,,,,,,,not scorable,"no period, no number"
+ABFRL-101,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-102,28.5,31.5,higher,call,,29,29 stores,Q4FY24,7,So we opened about 29 stores during the course of the year.,,,,,Pantaloons gross openings FY24 as reported on Q4FY24 call
+ABFRL-103,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-104,,,,none,,,,,,,,,,not scorable,equity raise amount; no reported actual found on later calls
+ABFRL-105,,,,none,,,,,,,,,,not due,FY27-FY28 target period not yet reported; brand level
+ABFRL-106,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-107,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-108,,,,none,,,,,,,,,,not scorable,gross Tasva additions FY25 not reported; only approximate network counts
+ABFRL-109,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-110,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-111,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+ABFRL-112,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis (net cash vs analyst figure)
+ABFRL-113,,,,none,,,,,,,,,,not scorable,combined capex of both entities not reported by management; analyst figures only
+ABFRL-114,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+ABFRL-115,,,,none,,,,,,,,,,not scorable,"direction only, no figure"
+ABFRL-116,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-117,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-118,,,,none,,,,,,,,,,not scorable,level not stated; segment profit not reported on a later call
+ABFRL-119,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-120,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-121,,,,none,,,,,,,,,,not scorable,number came from analyst; segment margin
+ABFRL-122,,,,none,,,,,,,,,,not scorable,"no period, potential not a commitment"
+ABFRL-123,,,,none,,,,,,,,,,not scorable,"event, fiscal/calendar year ambiguous"
+ABFRL-124,,,,none,,,,,,,,,,not scorable,segment margin; no reported actual on guided basis
+ABFRL-125,,,,none,,,,,,,,,,not due,FY25-FY29 target period not yet reported
+ABFRL-126,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-127,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-128,,,,none,,,,,,,,,,not scorable,half-year net debt change on guided basis not reported
+ABFRL-129,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-130,,,,none,,,,,,,,,,not scorable,level and profit measure not stated; segment
+ABFRL-131,,,,none,,,,,,,,,,not scorable,H2FY25 lifestyle brands openings not reported on guided basis
+ABFRL-132,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-133,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-134,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-135,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-136,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual"
+ABFRL-137,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+ABFRL-138,,,,none,,,,,,,,,,not scorable,ABLBL store counts not in ABFRL calls on guided basis
+ABFRL-139,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis for demerged ABFRL opening cash
+ABFRL-140,,,,none,,,,,,,,,,not due,Mar-28 not yet reported
+ABFRL-141,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-142,,,,none,,,,,,,,,,not scorable,range from analyst; no period
+ABFRL-143,40,50,higher,call,,24,about 24 stores (net),Q4FY26,6,"The network now stands at 94 stores, and we will continue to expand selectively in high potential wedding markets.",Q4FY25,7,The current network of around 70 stores is expected to scale to over 200 stores over the next 3 years.,,Closing 94 (Mar-26) minus opening around 70 (Mar-25) = 24; opening is approximate
+ABFRL-144,,,,none,,,,,,,,,,not scorable,no reported FY25 Pantaloons gross openings found on later calls
+ABFRL-145,,,,none,,,,,,,,,,not scorable,no reported FY26 Pantaloons gross openings found on later calls
+ABFRL-146,,,,none,,,,,,,,,,not due,FY27-FY28 target period not yet reported
+ABFRL-147,48,50,higher,call,,46,46 stores,Q4FY25,6,expanding its footprint to 46 stores with 7 new additions during this quarter.,,,,,Style Up network at Mar-25
+ABFRL-148,47.5,52.5,higher,call,,34,34 stores,Q4FY26,5,This included 12 new stores added during the quarter and 34 stores added in FY '26.,,,,,Style Up renamed OWND (Q4FY26 p11 says rebranded OWND); FY26 additions
+ABFRL-149,,,,none,,,,,,,,,,not scorable,"event, amount not given"

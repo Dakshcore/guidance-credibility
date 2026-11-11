@@ -1,0 +1,66 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+HAVELLS-086,,,,none,,,,,,,,,,not scorable,"direction only, no number; segment margin not reported"
+HAVELLS-087,,,,none,,,,,,,,,,not scorable,no numeric target; ECD segment growth not in sources
+HAVELLS-088,,,,none,,,,,,,,,,not scorable,no numeric target; green shoots undefined
+HAVELLS-089,,,,none,,,,,,,,,,not scorable,"Lighting segment, no period"
+HAVELLS-090,,,,none,,,,,,,,,,not scorable,no reported actual: FY24 capex not stated on later calls or in Screener
+HAVELLS-091,,,,none,,,,,,,,,,not scorable,no numeric target; mix not reported
+HAVELLS-092,,,,none,,,,,,,,,,not scorable,Lloyd contribution margin; no reported actual on that basis
+HAVELLS-093,,,,none,,,,,,,,,,not scorable,no period
+HAVELLS-094,,,,none,,,,,,,,,,not scorable,"no period; capacity addition, no reported actual"
+HAVELLS-095,,,,none,,,,,,,,,,not scorable,"no numeric target; core business basis not defined, analyst base; no reported actual on that basis"
+HAVELLS-096,,,,none,,,,,,,,,,not scorable,no reported actual: FY25 capex not stated on later calls or in Screener
+HAVELLS-097,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range; commissioning reported later but not scored"
+HAVELLS-098,,,,none,,,,,,,,,,not scorable,"direction only, no period; segment margin"
+HAVELLS-099,,,,none,,,,,,,,,,not scorable,no numeric target; no period
+HAVELLS-100,,,,none,,,,,,,,,,not scorable,"mix direction, no figure"
+HAVELLS-101,,,,none,,,,,,,,,,not scorable,no period; capacity addition
+HAVELLS-102,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric target"
+HAVELLS-103,,,,none,,,,,,,,,,not scorable,"aspiration, medium term, no period"
+HAVELLS-104,,,,none,,,,,,,,,,not scorable,no reported actual: FY25 capex not stated on later calls or in Screener
+HAVELLS-105,,,,none,,,,,,,,,,not scorable,"direction only, no period; 63 days from analyst, Screener inventory days on a different basis"
+HAVELLS-106,,,,none,,,,,,,,,,not scorable,no period
+HAVELLS-107,,,,none,,,,,,,,,,not scorable,no period; segment margin
+HAVELLS-108,,,,none,,,,,,,,,,not scorable,no period; contribution margin aspiration
+HAVELLS-109,,,,none,,,,,,,,,,not scorable,no reported actual: FY26-FY27 capex not stated; also multi-year
+HAVELLS-110,,,,none,,,,,,,,,,not scorable,no numeric target; approvals milestone
+HAVELLS-111,,,,none,,,,,,,,,,not scorable,no numeric target; approvals milestone
+HAVELLS-112,,,,none,,,,,,,,,,not scorable,no reported actual: Lloyd FY25 capex not stated on later calls
+HAVELLS-113,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+HAVELLS-114,,,,none,,,,,,,,,,not scorable,no numeric target; ECD segment growth not in sources
+HAVELLS-115,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+HAVELLS-116,,,,none,,,,,,,,,,not scorable,"no period; committed capex, no completion date"
+HAVELLS-117,,,,none,,,,,,,,,,not scorable,"no period; segment growth, conditional"
+HAVELLS-118,,,,none,,,,,,,,,,not scorable,"count of categories, no reported actual"
+HAVELLS-119,,,,none,,,,,,,,,,not scorable,no numeric target; segment margin level not given
+HAVELLS-120,,,,none,,,,,,,,,,not scorable,no numeric target; segment margin
+HAVELLS-121,,,,none,,,,,,,,,,not scorable,no numeric target; segment margin
+HAVELLS-122,,,,none,,,,,,,,,,not scorable,A&P percent of revenue FY25 not reported on later calls or in Screener
+HAVELLS-123,,,,none,,,,,,,,,,not scorable,no numeric target; Lighting segment
+HAVELLS-124,,,,none,,,,,,,,,,not scorable,no period; segment growth
+HAVELLS-125,,,,none,,,,,,,,,,not scorable,no period; segment margin
+HAVELLS-126,,,,none,,,,,,,,,,not scorable,no reported actual: FY25 capex not stated on later calls or in Screener
+HAVELLS-127,,,,none,,,,,,,,,,not scorable,no period; multi-year committed capex
+HAVELLS-128,,,,none,,,,,,,,,,not scorable,direction only; Lloyd segment margin not reported
+HAVELLS-129,,,,none,,,,,,,,,,not scorable,employee cost growth FY26 not reported on guided basis; hedged direction
+HAVELLS-130,,,,none,,,,,,,,,,not scorable,no period; aspiration
+HAVELLS-131,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment; capacity addition no reported actual"
+HAVELLS-132,,,,none,,,,,,,,,,not scorable,"no period; announced capex, not a target"
+HAVELLS-133,,,,none,,,,,,,,,,not scorable,no period; contribution margin
+HAVELLS-134,,,,none,,,,,,,,,,not scorable,direction only; segment volume
+HAVELLS-135,,,,none,,,,,,,,,,not scorable,no period; segment margin
+HAVELLS-136,,,,none,,,,,,,,,,not scorable,no period; normalized level
+HAVELLS-137,,,,none,,,,,,,,,,not scorable,no period; segment contribution margin
+HAVELLS-138,,,,none,,,,,,,,,,not scorable,"medium term, no period; segment margin"
+HAVELLS-139,,,,none,,,,,,,,,,not scorable,"ex-Lloyd EBITDA margin; Screener is consolidated, no reported actual on that basis"
+HAVELLS-140,,,,none,,,,,,,,,,not scorable,"mix of capex, no reported actual"
+HAVELLS-141,,,,none,,,,,,,,,,not scorable,no period; mix
+HAVELLS-142,,,,none,,,,,,,,,,not scorable,unclear if annual or run rate; no reported actual
+HAVELLS-143,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+HAVELLS-144,,,,none,,,,,,,,,,not scorable,no period; segment margin
+HAVELLS-145,,,,none,,,,,,,,,,not scorable,no numeric target; medium term
+HAVELLS-146,,,,none,,,,,,,,,,not scorable,no period; aspiration
+HAVELLS-147,,,,none,,,,,,,,,,not scorable,"no period; Havells ex-Lloyd margin, Screener is consolidated"
+HAVELLS-148,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+HAVELLS-149,,,,none,,,,,,,,,,not scorable,no reported actual: capex for FY26-FY27 not stated as an outturn
+HAVELLS-150,,,,none,,,,,,,,,,not scorable,"direction only, no period"

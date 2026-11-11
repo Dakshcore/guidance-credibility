@@ -1,0 +1,94 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+JUBLFOOD-096,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-097,200,225,higher,call,,180,~180 stores,Q4FY24,20,"no player has opened ~180 stores in the year, LFL delivery growth of nearly 7.8% in this environment.",,,,,"Domino's India FY24 net adds ~180 per Q4FY24 call; cross-check 1,995 (Q1FY25 2,029 less 34) minus 1,815 (Q1FY24 1,838 less 23)"
+JUBLFOOD-098,30,35,higher,call,,29,29 stores,Q2FY24,5,"In Popeyes, we opened 9 stores and have entered four new cities in H1.",Q4FY24,13,"So now for the last two quarters, we've added 10 stores each",,"Popeyes FY24 additions = 9 (H1) + 10 (Q3) + 10 (Q4) = 29; counted as added stores, 42 stores at Mar-24"
+JUBLFOOD-099,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-100,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-101,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-102,,,,none,,,,,,,,,,not scorable,no full-year reimage count reported on later calls
+JUBLFOOD-103,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-104,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-105,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-106,,,,none,,,,,,,,,,not scorable,no full-year reimage count reported on later calls
+JUBLFOOD-107,200,,higher,call,,180,~180 stores,Q4FY24,20,"no player has opened ~180 stores in the year, LFL delivery growth of nearly 7.8% in this environment.",,,,,"Domino's India FY24 net adds ~180 per Q4FY24 call; cross-check 1,995 (Q1FY25 2,029 less 34) minus 1,815 (Q1FY24 1,838 less 23)"
+JUBLFOOD-108,28.5,31.5,higher,call,,29,29 stores,Q2FY24,5,"In Popeyes, we opened 9 stores and have entered four new cities in H1.",Q4FY24,13,"So now for the last two quarters, we've added 10 stores each",,"Popeyes FY24 additions = 9 (H1) + 10 (Q3) + 10 (Q4) = 29; counted as added stores, 42 stores at Mar-24"
+JUBLFOOD-109,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-110,,,,none,,,,,,,,,,not scorable,management says not guidance; no numeric target; period from analyst
+JUBLFOOD-111,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-112,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-113,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-114,190,210,higher,call,,180,~180 stores,Q4FY24,20,"no player has opened ~180 stores in the year, LFL delivery growth of nearly 7.8% in this environment.",,,,,"Domino's India FY24 net adds ~180 per Q4FY24 call; cross-check 1,995 (Q1FY25 2,029 less 34) minus 1,815 (Q1FY24 1,838 less 23)"
+JUBLFOOD-115,,,,none,,,,,,,,,,not due,payback by Nov-27 not yet reportable
+JUBLFOOD-116,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-117,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-118,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-119,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+JUBLFOOD-120,0,,higher,call,,3,+3% LFL,Q1FY25,5,"led by record high orders, registering 16% growth yoy with LFL at +3%.",,,,,Domino's India Q1FY25 LFL; guide was positive LFL for the quarter
+JUBLFOOD-121,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-122,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-123,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-124,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-125,,,,none,,,,,,,,,,not scorable,Q4FY25 Domino's India net adds not stated on a later call; 9M only
+JUBLFOOD-126,,,,none,,,,,,,,,,not scorable,no full-year FY25 count on guided basis
+JUBLFOOD-127,,,,none,,,,,,,,,,not scorable,no full-year FY25 count on guided basis
+JUBLFOOD-128,66.5,73.5,higher,call,,63,63 cafes,Q4FY25,5,"COFFY continues to make strides, with its network reaching 160",Q1FY25,6,"store network of 707 and 105 respectively. We added 4 and 8 stores this quarter for the two brands,",,COFFY net adds FY25 = 160 (Mar-25) minus 97 (Mar-24 = 105 at Q1FY25 less 8 added in Q1)
+JUBLFOOD-129,,,,none,,,,,,,,,,not scorable,no full-year FY25 count on guided basis
+JUBLFOOD-130,,,,none,,,,,,,,,,not scorable,no full-year FY25 count on guided basis
+JUBLFOOD-131,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-132,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-133,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-134,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-135,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-136,2.85,3.15,higher,call,,7.5,7.5% LFL,Q4FY25,5,revenue growth of 13.4% stood out powered by 7.5% LFL growth,,,,,Domino's India FY25 LFL
+JUBLFOOD-137,,,,none,,,,,,,,,,not scorable,guide basis (Domino's India operating EBITDA) not reported on same basis; reported 14.5% pre-Ind AS
+JUBLFOOD-138,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-139,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-140,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-141,,,,none,,,,,,,,,,not scorable,Q4FY25 Domino's India net adds not stated on a later call; 9M only
+JUBLFOOD-142,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-143,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-144,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-145,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-146,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-147,,,,none,,,,,,,,,,not scorable,no full-year FY25 count on guided basis
+JUBLFOOD-148,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-149,20,,higher,call,,33.8,33.8% order growth,Q3FY25,5,"Revenue surged by 18.3% year -over-year, fuelled by an impressive 33.8% increase in order growth.",,,,,Domino's India Q3FY25 order growth yoy; guide was >20% (quarter-to-date remark)
+JUBLFOOD-150,8.1,,higher,call,,18.3,18.3% revenue growth,Q3FY25,5,"Revenue surged by 18.3% year -over-year, fuelled by an impressive 33.8% increase in order growth.",,,,,Domino's India Q3FY25 revenue growth vs Q2FY25 8.1% (Q2FY25 p5 'Domino's growth came in at 8.1%'); base is the lower bound
+JUBLFOOD-151,2.8,,higher,call,,12.5,12.5% LFL,Q3FY25,5,"LFL sales grew by a strong 12.5% year -over-year, driven by exceptional Delivery LFL growth of 24.7%.",,,,,Domino's India Q3FY25 LFL vs Q2FY25 LFL 2.8% (Q2FY25 p5); base is the lower bound
+JUBLFOOD-152,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-153,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-154,,,,none,,,,,,,,,,not scorable,DPEU H2FY25 margin not reported as a single figure on guided basis
+JUBLFOOD-155,,,,none,,,,,,,,,,not scorable,DPEU H2FY25 margin not reported as a single figure on guided basis
+JUBLFOOD-156,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-157,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-158,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-159,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-160,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-161,,,,none,,,,,,,,,,not scorable,"period spans 2-3 quarters, no clear end quarter"
+JUBLFOOD-162,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-163,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-164,,,,none,,,,,,,,,,not scorable,no reported FY26 actual on guided basis
+JUBLFOOD-165,,,,none,,,,,,,,,,not scorable,no reported FY26 actual on guided basis
+JUBLFOOD-166,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-167,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+JUBLFOOD-168,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-169,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-170,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-171,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-172,,,,none,,,,,,,,,,not scorable,FY26 full-year network count not stated on later calls
+JUBLFOOD-173,,,,none,,,,,,,,,,not scorable,FY26 full-year network count not stated on later calls
+JUBLFOOD-174,,,,none,,,,,,,,,,not scorable,FY26 full-year network count not stated on later calls
+JUBLFOOD-175,,,,none,,,,,,,,,,not scorable,FY26 full-year network count not stated on later calls
+JUBLFOOD-176,,,,none,,,,,,,,,,not due,FY27 not yet reported
+JUBLFOOD-177,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-178,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-179,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-180,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+JUBLFOOD-181,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-182,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-183,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual
+JUBLFOOD-184,,,,none,,,,,,,,,,not due,FY28 not yet reported
+JUBLFOOD-185,,,,none,,,,,,,,,,not scorable,no period
+JUBLFOOD-186,,,,none,,,,,,,,,,not scorable,no numeric target
+JUBLFOOD-187,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"
+JUBLFOOD-188,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target or no matching reported actual"

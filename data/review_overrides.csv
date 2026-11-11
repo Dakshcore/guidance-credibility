@@ -1,0 +1,65 @@
+id,reason
+ABFRL-111,actual may be on a different basis or perimeter
+ABFRL-114,actual may be on a different basis or perimeter
+ABFRL-137,actual may be on a different basis or perimeter
+ABFRL-161,guide can be read two ways that give different verdicts
+ABFRL-174,actual may be on a different basis or perimeter
+ARVINDFASN-182,no numeric range in the rubric for this wording
+ASIANPAINT-083,different period from the guide
+ASIANPAINT-116,no numeric range in the rubric for this wording
+BAJAJELEC-017,actual may be on a different basis or perimeter
+BATAINDIA-075,different period from the guide
+BATAINDIA-078,"actual is a count at a call date or a bound, not a period-end figure"
+BATAINDIA-091,"actual is a count at a call date or a bound, not a period-end figure"
+BATAINDIA-092,"actual is a count at a call date or a bound, not a period-end figure"
+CERA-001,actual may be on a different basis or perimeter
+CERA-037,different period from the guide
+CERA-052,different period from the guide
+CERA-068,different period from the guide
+CERA-079,"actual may be part of the total, not the full figure"
+CERA-093,"actual may be part of the total, not the full figure"
+CERA-110,"actual may be part of the total, not the full figure"
+CERA-186,guide can be read two ways that give different verdicts
+CHALET-006,date milestone; the rubric has no numeric encoding for dates
+CHALET-021,date milestone; the rubric has no numeric encoding for dates
+CHALET-027,date milestone; the rubric has no numeric encoding for dates
+CHALET-045,date milestone; the rubric has no numeric encoding for dates
+CHALET-046,date milestone; the rubric has no numeric encoding for dates
+CHALET-064,date milestone; the rubric has no numeric encoding for dates
+CHALET-065,date milestone; the rubric has no numeric encoding for dates
+CHALET-069,no numeric range in the rubric for this wording
+CROMPTON-006,actual may be on a different basis or perimeter
+INDHOTEL-109,actual may be on a different basis or perimeter
+KAJARIACER-037,actual may be on a different basis or perimeter
+KAJARIACER-054,actual may be on a different basis or perimeter
+LEMONTREE-071,no numeric range in the rubric for this wording
+LEMONTREE-079,different period from the guide
+LEMONTREE-080,different period from the guide
+METROBRAND-065,actual may be on a different basis or perimeter
+NYKAA-024,"actual is a count at a call date or a bound, not a period-end figure"
+NYKAA-025,"actual is a count at a call date or a bound, not a period-end figure"
+NYKAA-041,"actual is a count at a call date or a bound, not a period-end figure"
+PVRINOX-099,actual may be on a different basis or perimeter
+PVRINOX-108,actual may be on a different basis or perimeter
+PVRINOX-125,no numeric range in the rubric for this wording
+RAYMOND-001,actual may be on a different basis or perimeter
+RAYMOND-018,actual may be on a different basis or perimeter
+RAYMOND-033,actual may be on a different basis or perimeter
+RAYMOND-037,actual may be on a different basis or perimeter
+RBA-046,actual may be on a different basis or perimeter
+RBA-060,actual may be on a different basis or perimeter
+RBA-063,source wording is garbled; figure not certain
+RBA-065,actual may be on a different basis or perimeter
+RBA-076,source wording is garbled; figure not certain
+RBA-109,source wording is garbled; figure not certain
+RUPA-087,actual may be on a different basis or perimeter
+RUPA-104,actual may be on a different basis or perimeter
+RUPA-118,actual may be on a different basis or perimeter
+RUPA-135,actual may be on a different basis or perimeter
+RUPA-158,actual may be on a different basis or perimeter
+VAIBHAVGBL-083,actual may be on a different basis or perimeter
+VAIBHAVGBL-234,actual may be on a different basis or perimeter
+VIPIND-031,actual may be on a different basis or perimeter
+VIPIND-033,actual may be on a different basis or perimeter
+VIPIND-063,actual may be on a different basis or perimeter
+VMART-021,"actual may be part of the total, not the full figure"

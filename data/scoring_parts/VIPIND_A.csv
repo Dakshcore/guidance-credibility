@@ -1,0 +1,80 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VIPIND-001,,,,none,,,,,,,,,,not scorable,no reported actual for controlled manufacturing share FY23
+VIPIND-002,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-003,1714,,higher,screener,revenue:FY23,,,,,,,,,,floor = FY20 consolidated revenue (revenue:FY20 = 1714); conditional on no disruptions
+VIPIND-004,,,,none,,,,,,,,,,not scorable,event with no amount; no checkable figure
+VIPIND-005,,,,none,,,,,,,,,,not scorable,only a lower bound on total capex reported (manufacturing capex ~100 cr); different basis
+VIPIND-006,,,,none,,,,,,,,,,not scorable,no reported actual on commissioning date
+VIPIND-007,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-008,,,,none,,,,,,,,,,not scorable,no reported actual on Bangladesh share
+VIPIND-009,,,,none,,,,,,,,,,not scorable,only a lower bound reported (crossed 500 mark); no count
+VIPIND-010,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-011,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+VIPIND-012,,,,none,,,,,,,,,,not scorable,direction only; no reported actual
+VIPIND-013,,,,none,,,,,,,,,,not scorable,no reported actual on FY23 store additions; only crossed 500 mark
+VIPIND-014,,,,none,,,,,,,,,,not scorable,no H2FY23 EBITDA margin reported in sources
+VIPIND-015,,,,none,,,,,,,,,,not scorable,only a lower bound on total capex reported (manufacturing capex ~100 cr); different basis
+VIPIND-016,,,,none,,,,,,,,,,not scorable,no reported recovery amount by Q3FY23 (timing still unknown on Q4FY23 call)
+VIPIND-017,,,,none,,,,,,,,,,not scorable,no reported FY23 A&P share
+VIPIND-018,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-019,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-020,22.5,23,lower,screener,tax_rate:FY23,,,,,,,,,,Screener tax rate is a whole number (22); beat holds for any value that rounds to 22
+VIPIND-021,,,,none,,,,,,,,,,not scorable,normalized base not available; Screener growth is on reported base
+VIPIND-022,,,,none,,,,,,,,,,not scorable,only a lower bound reported (crossed 500 mark); no count
+VIPIND-023,,,,none,,,,,,,,,,not scorable,no amount stated; no checkable figure
+VIPIND-024,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-025,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-026,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-027,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-028,18,20,higher,screener,ebitda_margin:FY23,,,,,,,,,,full-year consolidated EBITDA margin per Screener
+VIPIND-029,2000,,higher,screener,revenue:FY23,,,,,,,,,,floor; consolidated revenue
+VIPIND-030,,,,none,,,,,,,,,,not scorable,no reported actual on own manufacturing share
+VIPIND-031,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+VIPIND-032,,,,none,,,,,,,,,,not scorable,only a lower bound reported (crossed 500 mark); no count
+VIPIND-033,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+VIPIND-034,18,19,lower,screener,tax_rate:FY23,,,,,,,,,,effective tax rate; Screener whole number
+VIPIND-035,18,20,lower,screener,tax_rate:FY24,,,,,,,,,,effective tax rate; Screener whole number
+VIPIND-036,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-037,,,,none,,,,,,,,,,not scorable,no reported actual on sourcing split
+VIPIND-038,,,,none,,,,,,,,,,not scorable,no reported actual on sourcing split
+VIPIND-039,,,,none,,,,,,,,,,not scorable,no reported actual on sourcing split
+VIPIND-040,,,,none,,,,,,,,,,not scorable,no amount; event timing only
+VIPIND-041,,,,none,,,,,,,,,,not scorable,no period (medium term)
+VIPIND-042,19,21,higher,screener,ebitda_margin:FY24,,,,,,,,,,"conditional on FY24 gross margin of 52-53%, not reported for the year; scored as stated"
+VIPIND-043,,,,none,,,,,,,,,,not scorable,no reported export revenue on a later call
+VIPIND-044,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-045,,,,none,,,,,,,,,,not scorable,no reported FY24 capex
+VIPIND-046,,,,none,,,,,,,,,,not scorable,"upper-bound ambition (as high as 800), not a point or floor target"
+VIPIND-047,,,,none,,,,,,,,,,not scorable,no reported actual on town coverage target
+VIPIND-048,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year gross margin
+VIPIND-049,17,18,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin per Screener
+VIPIND-050,,,,none,,,,,,,,,,not scorable,management working capital days basis differs from Screener working_capital_days
+VIPIND-051,,,,none,,,,,,,,,,not scorable,no reported actual on franchise share of new EBOs
+VIPIND-052,,,,none,,,,,,,,,,not scorable,no reported FY24 opening count; additions not stated
+VIPIND-053,,,,none,,,,,,,,,,not scorable,"capacity potential, not a sales forecast"
+VIPIND-054,15,,higher,screener,rev_growth:FY24,,,,,,,,,,floor
+VIPIND-055,19,21,higher,screener,rev_growth:FY25,,,,,,,,,,two-year span FY24-FY25; weakest year used (FY25 -2.98 vs FY24 7.83); unclear if annual or CAGR
+VIPIND-056,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-057,12,15,higher,screener,rev_growth:FY24,,,,,,,,,,consolidated revenue growth
+VIPIND-058,,,,none,,,,,,,,,,not scorable,no reported FY24 full-year gross margin
+VIPIND-059,16,17,higher,screener,ebitda_margin:FY24,,,,,,,,,,consolidated EBITDA margin per Screener
+VIPIND-060,,,,none,,,,,,,,,,not scorable,direction only; period unclear
+VIPIND-061,,,,none,,,,,,,,,,not scorable,operational milestone; no reported actual
+VIPIND-062,,,,none,,,,,,,,,,not scorable,"only a range for two quarters reported, not Q3FY24 alone"
+VIPIND-063,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+VIPIND-064,,,,none,,,,,,,,,,not scorable,calendar or fiscal 2025 unclear; no reported actual
+VIPIND-065,16.15,17.85,higher,screener,q_ebitda_margin:Q4FY24,,,,,,,,,,three quarters Q2-Q4FY24; weakest quarter used; every quarter was below the range
+VIPIND-066,636,,higher,screener,q_revenue:Q3FY24,,,,,,,,,,floor = Q1FY24 revenue (q_revenue:Q1FY24 = 636)
+VIPIND-067,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-068,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-069,,,,none,,,,,,,,,,not scorable,no reported count of launches by Feb-24
+VIPIND-070,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-071,16.0867,16.5867,higher,screener,h2_ebitda_margin:FY24,,,,,,,,,,guide is H1FY24 margin 11.3367 plus 5 points +/-5% (4.75 to 5.25); H2 level compared with that range
+VIPIND-072,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-073,,,,none,,,,,,,,,,not scorable,no reported FY24 capex
+VIPIND-074,,,,none,,,,,,,,,,not scorable,no period
+VIPIND-075,,,,none,,,,,,,,,,not scorable,direction only; no period
+VIPIND-076,,,,none,,,,,,,,,,not scorable,FY24 additions need three figures across calls and counts conflict (541 vs 507)
+VIPIND-077,,,,none,,,,,,,,,,not scorable,no numeric target
+VIPIND-078,,,,none,,,,,,,,,,not scorable,no date
+VIPIND-079,,,,none,,,,,,,,,,not scorable,no reported kiosk count

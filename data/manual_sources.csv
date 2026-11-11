@@ -1,0 +1,8 @@
+ticker,quarter,call_month,url,found_via
+JUBLFOOD,Q2FY22,Oct 2021,https://www.jubilantfoodworks.com/Uploads/Files/647foodfile-JFLQ2FY22ConcallTranscript.pdf,Company investor page https://www.jubilantfoodworks.com/investors-financial-information (Screener lists the call without a transcript link)
+JUBLFOOD,Q3FY22,Feb 2022,https://www.jubilantfoodworks.com/Uploads/Files/671foodfile-JubilantFoodworksQ3FY22ConcallTranscript.pdf,Company investor page (call not listed on Screener; BSE invite dated 2022-01-27 confirms a call on 2022-02-02)
+JUBLFOOD,Q1FY23,Jul 2022,https://www.jubilantfoodworks.com/Uploads/Files/751foodfile-04-08-Q1FY23CallTranscript.pdf,Company investor page (BSE filing 0b788052-fe71-4b47-9bd2-f86de2cec324 dated 2022-08-04 points to the company site)
+KALYANKJIL,Q3FY25,Feb 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=109f65b2-54e2-49d7-9ffe-6f5984785ba0.pdf,Screener lists two calls for the quarter; the Jan 2025 one is a general update call so the Feb 2025 results call is used
+KALYANKJIL,Q1FY22,Aug 2021,,No transcript published: BSE has only the call intimation (2021-08-05) and the company quarterly-results page lists no FY22 transcript before Q4
+KALYANKJIL,Q2FY22,Nov 2021,,No transcript published: BSE has only the call intimation (2021-11-05) and the company quarterly-results page lists no FY22 transcript before Q4
+KALYANKJIL,Q3FY22,Feb 2022,,No transcript published: BSE has only the call intimations (2022-01-31 and 2022-02-01) and the company quarterly-results page lists no FY22 transcript before Q4

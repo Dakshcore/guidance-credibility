@@ -1,0 +1,76 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+CHALET-230,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric actual on guided date"
+CHALET-231,,,,none,,,,,,,,,,not scorable,no rooms count; date milestone
+CHALET-232,,,,none,,,,,,,,,,not scorable,"later call gives only a status after the date, not an outcome at Aug-24"
+CHALET-233,,,,none,,,,,,,,,,not scorable,no rupee figure
+CHALET-234,,,,none,,,,,,,,,,not scorable,no single reported actual for rest of FY25 on a stated basis
+CHALET-235,,,,none,,,,,,,,,,not scorable,no reported spend for the 7 quarters
+CHALET-236,,,,none,,,,,,,,,,not scorable,"ROCE, no period"
+CHALET-237,,,,none,,,,,,,,,,not scorable,"same-store hospitality basis, no reported actual for Q2-Q4FY25"
+CHALET-238,,,,none,,,,,,,,,,not scorable,no period
+CHALET-239,,,,none,,,,,,,,,,not scorable,no period
+CHALET-240,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+CHALET-241,,,,none,,,,,,,,,,not scorable,no period
+CHALET-242,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-243,,,,none,,,,,,,,,,not scorable,no reported actual
+CHALET-244,,,,none,,,,,,,,,,not scorable,no period
+CHALET-245,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-246,,,,none,,,,,,,,,,not scorable,rooms added after Dec-24; no reported count for the guided date
+CHALET-247,,,,none,,,,,,,,,,not scorable,vague share (majority)
+CHALET-248,,,,none,,,,,,,,,,not due,"FY28 opening, not yet reported"
+CHALET-249,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-250,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-251,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-252,,,,none,,,,,,,,,,not scorable,no reported spend for the 6 quarters
+CHALET-253,,,,none,,,,,,,,,,not scorable,no period
+CHALET-254,,,,none,,,,,,,,,,not scorable,no reported count at Jan-25
+CHALET-255,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+CHALET-256,,,,none,,,,,,,,,,not scorable,no period
+CHALET-257,,,,none,,,,,,,,,,not scorable,leased-plus-LOI share at Q3FY25 not reported on stated basis
+CHALET-258,85.5,94.5,higher,call,,77,77% committed leasing,Q4FY25,6,"As of today, we stand at an overall committed leasing of 77% and lease space of 71% of the available inventory.",,,,,Guide ~90% leased plus LOI by Mar-25; actual is committed leasing (leased plus LOI) as of the May-25 Q4FY25 call
+CHALET-259,,,,none,,,,,,,,,,not scorable,"later calls give partial room counts, not 146 at Mar-25"
+CHALET-260,,,,none,,,,,,,,,,not scorable,no reported actual
+CHALET-261,,,,none,,,,,,,,,,not scorable,no period
+CHALET-262,,,,none,,,,,,,,,,not scorable,no numeric target
+CHALET-263,,,,none,,,,,,,,,,not scorable,direction only; no single reported actual
+CHALET-264,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-265,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-266,,,,none,,,,,,,,,,not scorable,vague full-lease target; no matching actual
+CHALET-267,,,,none,,,,,,,,,,not due,FY28 not yet reported
+CHALET-268,,,,none,,,,,,,,,,not scorable,121 rooms added in May-25 after the guided quarter; no reported Q4FY25 count
+CHALET-269,,,,none,,,,,,,,,,not scorable,vague performance comparison
+CHALET-270,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-271,,,,none,,,,,,,,,,not scorable,no period
+CHALET-272,,,,none,,,,,,,,,,not scorable,no period
+CHALET-273,,,,none,,,,,,,,,,not scorable,no period
+CHALET-274,,,,none,,,,,,,,,,not scorable,"contract rate step, no reported actual"
+CHALET-275,,,,none,,,,,,,,,,not scorable,no period
+CHALET-276,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-277,,,,none,,,,,,,,,,not scorable,no reported handover count for Q4FY25
+CHALET-278,,,,none,,,,,,,,,,not scorable,no reported actual
+CHALET-279,,,,none,,,,,,,,,,not scorable,no period
+CHALET-280,,,,none,,,,,,,,,,not scorable,no period
+CHALET-281,,,,none,,,,,,,,,,not scorable,no period
+CHALET-282,,,,none,,,,,,,,,,not scorable,no reported spend for the 3 quarters
+CHALET-283,,,,none,,,,,,,,,,not scorable,no period
+CHALET-284,,,,none,,,,,,,,,,not scorable,no period
+CHALET-285,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-286,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-287,,,,none,,,,,,,,,,not due,FY28 not yet reported
+CHALET-288,,,,none,,,,,,,,,,not due,FY27 not yet reported
+CHALET-289,,,,none,,,,,,,,,,not due,FY28 not yet reported
+CHALET-290,,,,none,,,,,,,,,,not scorable,no reported actual
+CHALET-291,,,,none,,,,,,,,,,not scorable,no reported FY26 occupancy for Westin Himalaya
+CHALET-292,,,,none,,,,,,,,,,not scorable,"may refer to industry RevPAR, not company; basis unclear"
+CHALET-293,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-294,,,,none,,,,,,,,,,not scorable,no reported actual
+CHALET-295,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-296,4750,5250,higher,call,,5044,"5,044 keys (3,389 operating + 1,655 pipeline)",Q4FY26,5,"Chalet now has 3,389 operating keys with a pipeline of approximately 1,655 keys across 7 assets.",,,,,"Operating plus pipeline, summed from the two figures in one quote; guide ~5,000 by May-26, call dated May-26"
+CHALET-297,,,,none,,,,,,,,,,not scorable,"later figures are occupancy, not committed, at Feb-26; basis not matched"
+CHALET-298,,,,none,,,,,,,,,,not scorable,no period
+CHALET-299,,,,none,,,,,,,,,,not scorable,floor on delay; no numeric actual
+CHALET-300,,,,none,,,,,,,,,,not scorable,no period
+CHALET-301,,,,none,,,,,,,,,,not scorable,date milestone; no numeric actual
+CHALET-302,,,,none,,,,,,,,,,not scorable,no period
+CHALET-303,,,,none,,,,,,,,,,not scorable,no period
+CHALET-304,,,,none,,,,,,,,,,not scorable,no period

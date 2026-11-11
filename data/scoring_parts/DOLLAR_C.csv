@@ -1,0 +1,63 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+DOLLAR-157,,,,none,,,,,,,,,,not scorable,no reported full-year Lakshya share for FY26 on the guided basis
+DOLLAR-158,,,,none,,,,,,,,,,not scorable,no reported FY26 modern trade and e-commerce share
+DOLLAR-159,12,13,higher,screener,rev_growth:FY25,,,,,,,,,,operating income growth = consolidated revenue growth
+DOLLAR-160,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-161,11,11.5,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+DOLLAR-162,,,,none,,,,,,,,,,not scorable,no reported full-year Lakshya share for FY26 on the guided basis
+DOLLAR-163,70,80,higher,call,,27,27 distributors,Q4FY25,6,"our distributor numbers are 317 with respect to 290 last fiscal, like last March 2024",,,,,net additions = 317 - 290 in one quote; Lakshya distributor count per context
+DOLLAR-164,,,,none,,,,,,,,,,not scorable,no reported FY25 South growth
+DOLLAR-165,,,,none,,,,,,,,,,not scorable,"two-quarter span, no single reported actual"
+DOLLAR-166,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-167,,,,none,,,,,,,,,,not scorable,two-part target (volume and value)
+DOLLAR-168,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-169,135,140,lower,call,,160,160 days,Q4FY26,4,Our cash conversion cycle has come down to 154 days in FY26 from 160 days in FY25.,,,,,FY25 cash conversion cycle as restated on Q4FY26 call (Q4FY25 call said 156)
+DOLLAR-170,,,,none,,,,,,,,,,not scorable,no management-reported FY25 Lakshya share
+DOLLAR-171,35,36,higher,call,,33.2,33.2%,Q4FY25,4,"The gross margin for FY '25 improved to 33.2%, up from 32.2% in FY '24, an expansion of 100 basis points.",,,,,
+DOLLAR-172,12,13,higher,screener,rev_growth:FY25,,,,,,,,,,operating income growth = consolidated revenue growth
+DOLLAR-173,,,,none,,,,,,,,,,not scorable,no reported full-year Lakshya share for FY26 on the guided basis
+DOLLAR-174,,,,none,,,,,,,,,,not scorable,no reported FY26 modern trade and e-commerce share
+DOLLAR-175,11,11.5,higher,screener,ebitda_margin:FY25,,,,,,,,,,
+DOLLAR-176,13,14,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+DOLLAR-177,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,"point Rs 2,000 crore +/-5%"
+DOLLAR-178,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-179,9,10,higher,call,,4.6,4.6%,Q4FY25,3,"For the fiscal year 2025, operating income reached INR1,710 crores, reflecting a steady year-on-year growth of 8.8%. Volume for FY '25 grew by 4.6% over FY '24.",,,,,
+DOLLAR-180,,,,none,,,,,,,,,,not scorable,no period and no reported actual
+DOLLAR-181,,,,none,,,,,,,,,,not due,Nov-27 not yet reported
+DOLLAR-182,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-183,128.25,141.75,lower,call,,154,154 days,Q4FY26,4,Our cash conversion cycle has come down to 154 days in FY26 from 160 days in FY25.,,,,,cash conversion cycle
+DOLLAR-184,95,105,lower,call,,100,INR100 crores,Q4FY25,3,"in FY '25, advertising expense was around INR100 crores, keeping in line with our annual target of about 6% of our top line.",,,,,point Rs 100 crore +/-5%
+DOLLAR-185,370,400,higher,screener,q_revenue:Q3FY25,,,,,,,,,,
+DOLLAR-186,551,609,higher,screener,q_revenue:Q4FY25,,,,,,,,,,"number came from analyst, management agreed"
+DOLLAR-187,135,140,lower,call,,154,154 days,Q4FY26,4,Our cash conversion cycle has come down to 154 days in FY26 from 160 days in FY25.,,,,,working capital days taken as cash conversion cycle
+DOLLAR-188,,,,none,,,,,,,,,,not due,FY27/FY28 not yet reported
+DOLLAR-189,12,13,higher,screener,rev_growth:FY25,,,,,,,,,,operating income growth = consolidated revenue growth
+DOLLAR-190,,,,none,,,,,,,,,,not scorable,no reported full-year Lakshya share for FY26 on the guided basis
+DOLLAR-191,10.45,11.55,higher,screener,ebitda_margin:FY25,,,,,,,,,,point 11% +/-5%
+DOLLAR-192,1900,2100,higher,screener,revenue:FY26,,,,,,,,,,"point Rs 2,000 crore +/-5%"
+DOLLAR-193,13,14,higher,screener,ebitda_margin:FY26,,,,,,,,,,
+DOLLAR-194,,,,none,,,,,,,,,,not scorable,no comparable reported Mar-25 inventory days; direction only
+DOLLAR-195,140,145,lower,call,,154,154 days,Q4FY26,4,Our cash conversion cycle has come down to 154 days in FY26 from 160 days in FY25.,,,,,cash conversion cycle
+DOLLAR-196,,,,none,,,,,,,,,,not due,FY27 not yet reported
+DOLLAR-197,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-198,,,,none,,,,,,,,,,not due,FY27 not yet reported
+DOLLAR-199,,,,none,,,,,,,,,,not scorable,no reported actual
+DOLLAR-200,,,,none,,,,,,,,,,not due,Feb-28 not yet reported
+DOLLAR-201,,,,none,,,,,,,,,,not scorable,no comparable reported Mar-25 inventory days
+DOLLAR-202,,,,none,,,,,,,,,,not due,Feb-27 not yet reported
+DOLLAR-203,,,,none,,,,,,,,,,not scorable,no clear metric or period
+DOLLAR-204,,,,none,,,,,,,,,,not scorable,no full-period reported actual
+DOLLAR-205,11,12,higher,call,,9.8,9.8%,Q4FY26,3,"Our volume growth accelerated to 12 .0% year-on-year in Q4, closing the full year at a strong 9.8% year-on-year.",,,,,FY26 volume growth
+DOLLAR-206,12,13,higher,screener,ebitda_margin:FY26,,,,,,,,,,guide excluded price increase
+DOLLAR-207,,5.5,lower,call,,5.5,5.5% of operating income,Q4FY26,6,We successfully rationalized our advertisement spend to 5.5% of Operating Income in FY26.,,,,,cap treated as ceiling
+DOLLAR-208,34,34.5,higher,call,,33.0,33.0%,Q4FY26,3,Gross profit margins stood at 33.0% for the full year.,,,,,33.5% + 0.5-1 pt
+DOLLAR-209,,,,none,,,,,,,,,,not scorable,no period
+DOLLAR-210,10,12,higher,call,,6,6 days reduction,Q4FY26,4,Our cash conversion cycle has come down to 154 days in FY26 from 160 days in FY25.,,,,,reduction = 160 - 154 from one quote
+DOLLAR-211,,,,none,,,,,,,,,,not scorable,no numeric target
+DOLLAR-212,,,,none,,,,,,,,,,not scorable,no reported FY26 repairs and maintenance capex
+DOLLAR-213,0,,higher,call,,5.6,35.4% vs 29.8% (+5.6 pts),Q1FY26,5,Our gross profit for quarter 1 FY '26 grew by 19.0% year-over-year to INR141.48 crores with a gross margin of 35.4%.,Q4FY25,4,Our gross profit for quarter 4 FY '25 came in at INR163.40 crores with a gross margin of 29.8%,,change = 35.4 - 29.8
+DOLLAR-214,,,,none,,,,,,,,,,not due,FY27 not yet reported
+DOLLAR-215,,,,none,,,,,,,,,,not scorable,basis not stated (volume or value); no matching reported figure
+DOLLAR-216,,,,none,,,,,,,,,,not due,FY26-FY28 span not complete
+DOLLAR-217,,,,none,,,,,,,,,,not scorable,no reported FY26 EBO count
+DOLLAR-218,,,,none,,,,,,,,,,not due,FY27/FY28 not yet reported

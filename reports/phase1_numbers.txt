@@ -1,0 +1,42 @@
+TRANSCRIPT COVERAGE (calls Q1FY22-Q4FY25 = 16 per company; later calls are actuals sources only)
+ticker      study ok  missing later ok
+SENCO              8        8        5
+TITAN             16        0        5
+KALYANKJIL        13        3        5
+TRENT              0       16        0
+JUBLFOOD          16        0        5
+ALL               53       27       20
+
+STATEMENTS AND SCORES
+ticker      stmts scored  share  beat  met missed not scorable not due delivered
+SENCO         133     59  44.4%    25   12     22           67       7     62.7%
+TITAN         169     13   7.7%     1    8      4          150       6     69.2%
+KALYANKJIL    223     52  23.3%     6   26     20          163       8     61.5%
+JUBLFOOD      188     23  12.2%     4   12      7          162       3     69.6%
+ALL           713    147  20.6%    36   58     53          542      24     63.9%
+
+SCORED SHARE BY CALL YEAR
+JUBLFOOD   FY22     7 of 44    15.9%
+JUBLFOOD   FY23     5 of 51     9.8%
+JUBLFOOD   FY24     8 of 42    19.0%
+JUBLFOOD   FY25     3 of 51     5.9%
+KALYANKJIL FY22     5 of 17    29.4%
+KALYANKJIL FY23    15 of 62    24.2%
+KALYANKJIL FY24    20 of 90    22.2%
+KALYANKJIL FY25    12 of 54    22.2%
+SENCO      FY24    25 of 57    43.9%
+SENCO      FY25    34 of 76    44.7%
+TITAN      FY22     1 of 34     2.9%
+TITAN      FY23     7 of 69    10.1%
+TITAN      FY24     5 of 40    12.5%
+TITAN      FY25     0 of 26     0.0%
+
+actual source of scored rows: call 104, screener 43
+
+TOKEN USAGE (subagents only; the main session is not metered by any tool)
+subagent runs: 23; tokens: 4,068,067 (extract 2,518,607, score 1,549,460)
+study transcripts processed: 53; tokens per transcript: 76,756
+projected, companies not yet processed: 37 companies, 535 transcripts, 41,064,450 tokens = 10.1x pilot (ABOVE the 10x stop line)
+projected, all proposed companies: 40 companies, 580 transcripts, 44,518,469 tokens = 10.9x pilot (ABOVE the 10x stop line)
+
+PROPOSED UNIVERSE: 40 companies in universe.csv; by segment: apparel_footwear 8, durables 10, home_paints 4, jewellery 4, leisure 4, qsr 5, retail 5

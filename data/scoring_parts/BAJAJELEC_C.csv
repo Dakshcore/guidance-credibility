@@ -1,0 +1,13 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BAJAJELEC-156,,,,none,,,,,,,,,,not scorable,no full-year FY26 brand spend % reported in transcripts (only part-period Q1/Q2)
+BAJAJELEC-157,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-158,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-159,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-160,,,,none,,,,,,,,,,not scorable,no reported actual: FY26 normal capex not stated; Screener has no capex key
+BAJAJELEC-161,,,,none,,,,,,,,,,not scorable,conditional on new factory; no reported FY26 capex actual
+BAJAJELEC-162,,,,none,,,,,,,,,,not scorable,"no numeric target; direction against industry base, no actual"
+BAJAJELEC-163,,,,none,,,,,,,,,,not scorable,no industry growth figure to compare; no numeric target
+BAJAJELEC-164,,,,none,,,,,,,,,,not due,FY28 not yet reported
+BAJAJELEC-165,,,,none,,,,,,,,,,not scorable,no reported actual on consumer products segment basis for full FY26 (only analyst remark)
+BAJAJELEC-166,,,,none,,,,,,,,,,not scorable,no reported actual for FY26 EPR charge
+BAJAJELEC-167,,,,none,,,,,,,,,,not due,FY28-FY29 not yet reported

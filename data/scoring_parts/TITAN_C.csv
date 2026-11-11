@@ -1,0 +1,67 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+TITAN-104,12,13,higher,call,,12.3,12.3%,Q4FY24,6,We still ended the year with a fairly healthy 12.3% EBIT margin.,,,,,FY24 jewellery EBIT margin stated by Ajoy Chawla
+TITAN-105,,,,none,,,,,,,,,,not scorable,"two-metric comparison, no single range"
+TITAN-106,,,,none,,,,,,,,,,not scorable,no numeric value for the target
+TITAN-107,0,,higher,screener,pat_growth:FY24,,,,,,,,,,"Direction vs FY23; consolidated PAT growth, floor 0"
+TITAN-108,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-109,,,,none,,,,,,,,,,not scorable,no period
+TITAN-110,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-111,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-112,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-113,,,,none,,,,,,,,,,not scorable,no reported international store count at FY24 end in stored transcripts
+TITAN-114,,,,none,,,,,,,,,,not scorable,no period
+TITAN-115,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-116,,,,none,,,,,,,,,,not scorable,no period
+TITAN-117,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-118,,,,none,,,,,,,,,,not scorable,no reported watches FY26 revenue on guided basis
+TITAN-119,12,13,higher,call,,12.3,12.3%,Q4FY24,6,We still ended the year with a fairly healthy 12.3% EBIT margin.,,,,,FY24 jewellery EBIT margin stated by Ajoy Chawla
+TITAN-120,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-121,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment"
+TITAN-122,,,,none,,,,,,,,,,not scorable,no reported Zoya store count at Oct-24 in stored transcripts
+TITAN-123,,,,none,,,,,,,,,,not scorable,no exact Zoya FY24 growth reported; only just under INR 300 cr turnover
+TITAN-124,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-125,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-126,,,,none,,,,,,,,,,not scorable,no reported watches EBIT margin for the guided quarters in stored transcripts
+TITAN-127,12,13,higher,call,,12.3,12.3%,Q4FY24,6,We still ended the year with a fairly healthy 12.3% EBIT margin.,,,,,FY24 jewellery EBIT margin stated by Ajoy Chawla
+TITAN-128,,,,none,,,,,,,,,,not scorable,no reported watches FY26 EBIT margin in stored transcripts
+TITAN-129,285,315,higher,call,,300,300 odd towns,Q4FY25,12,Whereas our presence is across 300 odd towns.,,,,,"Tanishq towns; reported May-25, before the Mar-26 date; approximate figure"
+TITAN-130,,,,none,,,,,,,,,,not scorable,no reported Taneira store count at FY24 end in stored transcripts
+TITAN-131,,,,none,,,,,,,,,,not scorable,no period
+TITAN-132,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-133,,,,none,,,,,,,,,,not due,FY27 not yet reported
+TITAN-134,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-135,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-136,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-137,,,,none,,,,,,,,,,not scorable,no reported jewellery FY25 or FY26 full-year EBIT margin in stored transcripts
+TITAN-138,,,,none,,,,,,,,,,not scorable,no period
+TITAN-139,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-140,,,,none,,,,,,,,,,not scorable,no period
+TITAN-141,,,,none,,,,,,,,,,not scorable,no reported jewellery FY25 full-year EBIT margin in stored transcripts
+TITAN-142,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-143,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-144,,,,none,,,,,,,,,,not scorable,no period
+TITAN-145,,,,none,,,,,,,,,,not scorable,no period
+TITAN-146,,,,none,,,,,,,,,,not scorable,no reported total customs duty loss in stored transcripts
+TITAN-147,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-148,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-149,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-150,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+TITAN-151,,,,none,,,,,,,,,,not scorable,no reported jewellery FY25 full-year EBIT margin in stored transcripts
+TITAN-152,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-153,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-154,,,,none,,,,,,,,,,not scorable,no period
+TITAN-155,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY25 store additions in stored transcripts
+TITAN-156,,,,none,,,,,,,,,,not scorable,no reported Mia store count at Mar-25 in stored transcripts
+TITAN-157,,,,none,,,,,,,,,,not scorable,no reported CaratLane store additions in stored transcripts
+TITAN-158,,,,none,,,,,,,,,,not scorable,no reported customs duty loss amount for Q3FY25 in stored transcripts
+TITAN-159,,,,none,,,,,,,,,,not scorable,no reported jewellery FY25 full-year EBIT margin in stored transcripts
+TITAN-160,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-161,,,,none,,,,,,,,,,not scorable,no numeric target
+TITAN-162,,,,none,,,,,,,,,,not scorable,no period
+TITAN-163,,,,none,,,,,,,,,,not scorable,no reported jewellery FY26 EBIT margin in stored transcripts
+TITAN-164,,,,none,,,,,,,,,,not scorable,no reported jewellery FY26 growth on guided basis in stored transcripts
+TITAN-165,,,,none,,,,,,,,,,not scorable,no reported jewellery FY26 growth on guided basis in stored transcripts
+TITAN-166,,,,none,,,,,,,,,,not scorable,no reported jewellery FY26 growth on guided basis in stored transcripts
+TITAN-167,,,,none,,,,,,,,,,not scorable,no reported Tanishq FY26 store additions in stored transcripts
+TITAN-168,,,,none,,,,,,,,,,not scorable,no reported renovation count for FY26 in stored transcripts
+TITAN-169,,,,none,,,,,,,,,,not scorable,no reported jewellery FY26 EBIT growth in stored transcripts

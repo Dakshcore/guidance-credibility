@@ -1,0 +1,42 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ORIENTELEC-084,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+ORIENTELEC-085,,,,none,,,,,,,,,,not scorable,opening FY25 DTM state count not reported directly
+ORIENTELEC-086,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+ORIENTELEC-087,,,,none,,,,,,,,,,not scorable,no reported FY25 EPR cost on later calls
+ORIENTELEC-088,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-089,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-090,,,,none,,,,,,,,,,not scorable,no period (medium term); fans segment only
+ORIENTELEC-091,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-092,,,,none,,,,,,,,,,not scorable,direction only; no reported FY25 A&P figure
+ORIENTELEC-093,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-094,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-095,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-096,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-097,,,,none,,,,,,,,,,not scorable,no period; market share not reported
+ORIENTELEC-098,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+ORIENTELEC-099,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-100,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-101,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-102,,,,none,,,,,,,,,,not scorable,no period; B2B share not reported
+ORIENTELEC-103,,,,none,,,,,,,,,,not scorable,FY25 saving Rs75 cr equals FY24 base Rs75 cr at rounded figures; surpass untestable
+ORIENTELEC-104,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-105,,,,none,,,,,,,,,,not scorable,direction only; exit-rate base not defined
+ORIENTELEC-106,,,,none,,,,,,,,,,not scorable,"vague direction toward 9%, no committed number"
+ORIENTELEC-107,,,,none,,,,,,,,,,not scorable,no reported FY25 EPR cost on later calls; figure came from analyst
+ORIENTELEC-108,,,,none,,,,,,,,,,not scorable,no numeric target
+ORIENTELEC-109,,,,none,,,,,,,,,,not scorable,no reported FY25 capex on later calls
+ORIENTELEC-110,,,,none,,,,,,,,,,not scorable,Sep-24 base vs seasonal year-end day count; bases not comparable
+ORIENTELEC-111,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+ORIENTELEC-112,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-113,,,,none,,,,,,,,,,not scorable,appliance growth not quantified on later calls
+ORIENTELEC-114,,,,none,,,,,,,,,,not scorable,"no period, direction only"
+ORIENTELEC-115,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-116,,,,none,,,,,,,,,,not scorable,direction only; quarter not specified
+ORIENTELEC-117,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-118,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-119,,,,none,,,,,,,,,,not scorable,which quarter unspecified; operating EBITDA basis not matched
+ORIENTELEC-120,,,,none,,,,,,,,,,not scorable,"no period, base not stated"
+ORIENTELEC-121,,,,none,,,,,,,,,,not due,Mar-27 not yet reported
+ORIENTELEC-122,,,,none,,,,,,,,,,not scorable,no period (medium term)
+ORIENTELEC-123,,,,none,,,,,,,,,,not scorable,no period
+ORIENTELEC-124,,,,none,,,,,,,,,,not scorable,no period

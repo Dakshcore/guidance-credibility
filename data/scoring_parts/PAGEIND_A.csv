@@ -1,0 +1,85 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+PAGEIND-001,,,,none,,,,,,,,,,not scorable,no full-year actual on the guided basis
+PAGEIND-002,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-003,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-004,,,,none,,,,,,,,,,not scorable,no full-year price-increase figure on the guided basis
+PAGEIND-005,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-006,,,,none,,,,,,,,,,not scorable,target in US dollars; no US dollar actual reported
+PAGEIND-007,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-008,,,,none,,,,,,,,,,not scorable,"only a lower bound reported (over 106,000 MBOs), not an exact count"
+PAGEIND-009,,,,none,,,,,,,,,,not scorable,no FY25 in-house capacity reported on the guided basis
+PAGEIND-010,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-011,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-012,,,,none,,,,,,,,,,not due,FY26-FY27 not fully reported for EBO count
+PAGEIND-013,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-014,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-015,,,,none,,,,,,,,,,not scorable,target in US dollars; no US dollar actual reported
+PAGEIND-016,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-017,,,,none,,,,,,,,,,not scorable,"only a lower bound reported (over 106,000 MBOs), not an exact count"
+PAGEIND-018,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-019,,,,none,,,,,,,,,,not scorable,target in US dollars; no US dollar actual reported
+PAGEIND-020,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-021,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-022,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+PAGEIND-023,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-024,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-025,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-026,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-027,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-028,,,,none,,,,,,,,,,not scorable,no reported capex actual for the period
+PAGEIND-029,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-030,,,,none,,,,,,,,,,not scorable,no reported capex actual for the period
+PAGEIND-031,,,,none,,,,,,,,,,not scorable,no reported effective tax rate for the period
+PAGEIND-032,,,,none,,,,,,,,,,not scorable,no reported effective tax rate for the period
+PAGEIND-033,,13592,lower,call,,15953,"Rs 15,953 million",Q4FY24,5,"Inventory at the quarter end was INR 11,703 million, as against INR 15,953 million at the end of Q4 FY '23",,,,,"Inventory at end of Q4FY23 (end of H2FY23) vs Q2FY23 level of Rs 13,592 mn guided"
+PAGEIND-034,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-035,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-036,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+PAGEIND-037,,,,none,,,,,,,,,,not scorable,H2 margin not reported; only single quarters
+PAGEIND-038,,,,none,,,,,,,,,,not scorable,no marketing spend % of revenue reported for the period
+PAGEIND-039,,,,none,,,,,,,,,,not scorable,no end date
+PAGEIND-040,,,,none,,,,,,,,,,not scorable,"medium term, no period"
+PAGEIND-041,,,,none,,,,,,,,,,not scorable,"multi-quarter direction, no end period"
+PAGEIND-042,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-043,,15950,lower,call,,14321,"Rs 14,321 million",Q1FY24,4,"Inventory was Rs. 14,321 million as in quarter end as against Rs 15,921 million in the end of Q4FY20 23",,,,,"Weakest FY24 quarter (Q1FY24); Q2 13,619, Q3 12,436, Q4 11,703 are all lower and falling"
+PAGEIND-044,18,21,higher,call,,19.04,19.04%,Q4FY24,5,"EBITDA was INR8,722 million, growing marginally by 1.1%.",Q4FY24,5,"Coming to the annual performance for FY '24, revenue and volume was INR45,817 million and 208.3 million pieces.",,"Same call also gives 19-21% (PAGEIND-046); wider union used. FY24 EBITDA margin = EBITDA 8,722 / revenue 45,817 (both Q4FY24 p5) = 19.04%; margin not stated directly"
+PAGEIND-045,,,,none,,,,,,,,,,not scorable,no numeric target
+PAGEIND-046,18,21,higher,call,,19.04,19.04%,Q4FY24,5,"EBITDA was INR8,722 million, growing marginally by 1.1%.",Q4FY24,5,"Coming to the annual performance for FY '24, revenue and volume was INR45,817 million and 208.3 million pieces.",,"Same call also gives 18-20% (PAGEIND-044); wider union used. FY24 EBITDA margin = EBITDA 8,722 / revenue 45,817 (both Q4FY24 p5) = 19.04%; margin not stated directly"
+PAGEIND-047,19,21,higher,call,,19.04,19.04%,Q4FY24,5,"EBITDA was INR8,722 million, growing marginally by 1.1%.",Q4FY24,5,"Coming to the annual performance for FY '24, revenue and volume was INR45,817 million and 208.3 million pieces.",,"FY24 EBITDA margin = EBITDA 8,722 / revenue 45,817 (both Q4FY24 p5) = 19.04%; margin not stated directly"
+PAGEIND-048,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+PAGEIND-049,,,,none,,,,,,,,,,not scorable,no marketing spend % of revenue reported for the period
+PAGEIND-050,,,,none,,,,,,,,,,not scorable,no price increase; no numeric actual
+PAGEIND-051,,,,none,,,,,,,,,,not scorable,no marketing spend % of revenue reported for the period
+PAGEIND-052,,,,none,,,,,,,,,,not due,FY27-FY28 not yet reported
+PAGEIND-053,19,21,higher,call,,19.04,19.04%,Q4FY24,5,"EBITDA was INR8,722 million, growing marginally by 1.1%.",Q4FY24,5,"Coming to the annual performance for FY '24, revenue and volume was INR45,817 million and 208.3 million pieces.",,"FY24 EBITDA margin = EBITDA 8,722 / revenue 45,817 (both Q4FY24 p5) = 19.04%; margin not stated directly"
+PAGEIND-054,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-055,,,,none,,,,,,,,,,not scorable,unclear whether low single digit refers to company or sector
+PAGEIND-056,,,,none,,,,,,,,,,not scorable,no price increase; no numeric actual
+PAGEIND-057,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-058,,,,none,,,,,,,,,,not scorable,no numeric target
+PAGEIND-059,18,21,higher,call,,21.5,21.5%,Q4FY25,5,EBITDA margin in the full year was 21.5%.,,,,,FY25 EBITDA margin as stated on Q4FY25 call
+PAGEIND-060,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-061,,,,none,,,,,,,,,,not scorable,no price increase; no numeric actual
+PAGEIND-062,,,,none,,,,,,,,,,not scorable,"channel inventory; qualitative, no reported figure"
+PAGEIND-063,,,,none,,,,,,,,,,not scorable,no marketing spend % of revenue reported for the period
+PAGEIND-064,18,21,higher,call,,21.5,21.5%,Q4FY25,5,EBITDA margin in the full year was 21.5%.,,,,,FY25 EBITDA margin as stated on Q4FY25 call
+PAGEIND-065,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+PAGEIND-066,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+PAGEIND-067,,,,none,,,,,,,,,,not scorable,"walk-back of earlier target, not a new target"
+PAGEIND-068,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-069,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-070,,,,none,,,,,,,,,,not scorable,"channel inventory; qualitative, no reported figure"
+PAGEIND-071,19,21,higher,call,,21.5,21.5%,Q4FY25,5,EBITDA margin in the full year was 21.5%.,,,,,FY25 EBITDA margin as stated on Q4FY25 call
+PAGEIND-072,,,,none,,,,,,,,,,not scorable,"channel inventory; qualitative, no reported figure"
+PAGEIND-073,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-074,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-075,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-076,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-077,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+PAGEIND-078,10.45,11.55,higher,call,,7.1,7.1%,Q3FY25,4,"For Q3, we recorded a 7.1% increase in revenue and then impressive 34.3% growth in profit after tax.",,,,,Q3FY25 revenue growth vs Q2 growth of 11% (point guide +/-5%)
+PAGEIND-079,,,,none,,,,,,,,,,not scorable,gross openings guided; only net EBO count reported
+PAGEIND-080,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+PAGEIND-081,,,,none,,,,,,,,,,not scorable,no period
+PAGEIND-082,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+PAGEIND-083,,,,none,,,,,,,,,,not scorable,"direction only, no numeric target"
+PAGEIND-084,,,,none,,,,,,,,,,not scorable,no marketing spend % of revenue reported for the period

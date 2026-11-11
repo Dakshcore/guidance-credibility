@@ -1,0 +1,25 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-373,,,,none,,,,,,,,,,not scorable,"only asset-light signings reported (4,912); total additions incl. owned not reported, lower bound"
+LEMONTREE-374,20000,,higher,call,,22581,"22,581 rooms",Q4FY26,3,"Our combined operational and signed pipeline inventory now stands at 22,581 rooms across 268 hotels, of which 131 hotels and 11,811 rooms are already operational.",,,,,operational plus signed pipeline at FY26 end
+LEMONTREE-375,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-376,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-377,,,,none,,,,,,,,,,not due,Dec-28 not yet reported
+LEMONTREE-378,,,,none,,,,,,,,,,not scorable,no reported Aurika Mumbai winter ARR on later calls
+LEMONTREE-379,,,,none,,,,,,,,,,not due,FY28 not yet reported
+LEMONTREE-380,,,,none,,,,,,,,,,not scorable,no reported FY26 renovation spend on guided basis
+LEMONTREE-381,,,,none,,,,,,,,,,not scorable,"no reported FY26 renovation share of revenue; only combined 5.8% for GST, tech, renovation"
+LEMONTREE-382,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-383,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-384,,,,none,,,,,,,,,,not scorable,"only net borrowings change reported, not gross repayment"
+LEMONTREE-385,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-386,,,,none,,,,,,,,,,not scorable,no reported share of high-value renovation done in FY26
+LEMONTREE-387,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-388,14,19,higher,screener,q_rev_growth:Q1FY26,,,,,,,,,,mid to high teens = 14-19; consolidated quarter growth
+LEMONTREE-389,,,,none,,,,,,,,,,not scorable,"pipeline, not a commitment; no period"
+LEMONTREE-390,,,,none,,,,,,,,,,not due,FY27 not yet reported
+LEMONTREE-391,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-392,,,,none,,,,,,,,,,not scorable,non-numeric milestone
+LEMONTREE-393,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-394,,,,none,,,,,,,,,,not due,May-27 not yet reached
+LEMONTREE-395,,,,none,,,,,,,,,,not scorable,no reported actual for revenue loss from renovation
+LEMONTREE-396,,,,none,,,,,,,,,,not scorable,no period

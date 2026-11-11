@@ -1,0 +1,59 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+LEMONTREE-150,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-151,,,,none,,,,,,,,,,not scorable,no reported actual on stored calls
+LEMONTREE-152,,,,none,,,,,,,,,,not scorable,no reported actual on stored calls
+LEMONTREE-153,,,,none,,,,,,,,,,not scorable,no reported Q4FY23 group occupancy figure
+LEMONTREE-154,5738,,higher,call,,5824,"Rs 5,824",Q4FY23,3,"Gross ARR stood at INR 5,824, which increased by 2% versus Q3 and by 29% versus Q4 FY20.",,,,,"Floor = Q3FY23 gross ARR Rs 5,738 (base from the statement); Q4FY23 gross ARR reported on the Q4FY23 call"
+LEMONTREE-155,,,,none,,,,,,,,,,not scorable,FY23 full-year signings not reported; part-period sums only
+LEMONTREE-156,,,,none,,,,,,,,,,not scorable,FY24 full-year signings not reported as one figure
+LEMONTREE-157,,,,none,,,,,,,,,,not scorable,FY24 managed-hotel openings not reported as one figure; inventory change includes owned and closures
+LEMONTREE-158,,,,none,,,,,,,,,,not scorable,"composite guide (hotels, rooms, cities); reported hotels match but rooms fall short"
+LEMONTREE-159,,,,none,,,,,,,,,,not scorable,no reported owned:managed mix on stored calls
+LEMONTREE-160,,,,none,,,,,,,,,,not scorable,no reported Keys renovation spend actual
+LEMONTREE-161,,,,none,,,,,,,,,,not scorable,no reported Keys portfolio ARR for FY24-FY25; only restated plan
+LEMONTREE-162,,,,none,,,,,,,,,,not scorable,no reported Keys portfolio occupancy after renovation
+LEMONTREE-163,50,,higher,call,,51.9,51.9%,Q4FY23,3,"In FY23, our overall total revenue increased by 111% versus FY22 to INR 879 crores with an EBITDA margin of 51.9%.",,,,,Floor 50% net EBITDA margin; FY23 company EBITDA margin 51.9% from Q4FY23 call (Screener OPM 51.2 is a different basis)
+LEMONTREE-164,100,,higher,screener,rev_growth:FY23,,,,,,,,,,Well over 2x FY22 revenue = growth floor 100%; consolidated revenue
+LEMONTREE-165,20,,higher,screener,rev_growth:FY24,,,,,,,,,,"Floor 20% FY24 revenue growth, consolidated"
+LEMONTREE-166,0,,higher,call,,-278,-278 bps vs FY23,Q4FY24,3,"The net EBITDA margin for the full year stood at 49.1%, which reduced by 278 bps over FY23.",,,,,Direction vs FY23 net EBITDA margin; change in bps as reported (FY24 49.1% vs FY23 51.9%); lo 0 bps
+LEMONTREE-167,40,50,higher,screener,pat_growth:FY24,,,,,,,,,,"PAT growth 40-50% FY24, consolidated PAT"
+LEMONTREE-168,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-169,,,,none,,,,,,,,,,not scorable,no reported Aurika MIAL FY25 ARR on stored calls
+LEMONTREE-170,,,,none,,,,,,,,,,not scorable,no reported Aurika MIAL FY25 ARR on stored calls
+LEMONTREE-171,,,,none,,,,,,,,,,not scorable,renovation spend for FY24 not reported; later call restates plan only
+LEMONTREE-172,,,,none,,,,,,,,,,not scorable,"FY23 third-party management fee not reported; total fee includes Fleur, different basis"
+LEMONTREE-173,,,,none,,,,,,,,,,not scorable,"FY24 third-party management fee not reported; total fee includes Fleur, different basis"
+LEMONTREE-174,,,,none,,,,,,,,,,not scorable,management fee basis unclear (third party vs total incl Fleur)
+LEMONTREE-175,,,,none,,,,,,,,,,not due,target date Mar-27 not yet reported
+LEMONTREE-176,,,,none,,,,,,,,,,not scorable,no reported FY24 opex increase from extra renovation
+LEMONTREE-177,10500,,higher,call,,9863,"9,863 operational rooms",Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms, and our pipeline comprises an additional ~4,000 rooms.",,,,,"Floor 10,500 operating rooms at end FY24 (31-Mar-24)"
+LEMONTREE-178,109.25,120.75,higher,call,,104,104 operational hotels,Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms, and our pipeline comprises an additional ~4,000 rooms.",,,,,"~115 hotels +/-5%, operational at 31-Mar-24"
+LEMONTREE-179,13000,,higher,call,,13863,"9,863 operational + ~4,000 pipeline rooms",Q4FY24,3,"As of 31st March 2024, the inventory for the group stands at 104 hotels operational, with 9,863 rooms, and our pipeline comprises an additional ~4,000 rooms.",,,,,"Floor 13,000 rooms operating plus signed; actual = 9,863 operating + ~4,000 pipeline (both in one quote, pipeline approximate)"
+LEMONTREE-180,,,,none,,,,,,,,,,not scorable,FY24 full-year openings not reported as one figure
+LEMONTREE-181,,,,none,,,,,,,,,,not scorable,FY24 full-year signings not reported as one figure
+LEMONTREE-182,,,,none,,,,,,,,,,not due,target FY28 not yet reported
+LEMONTREE-183,,,,none,,,,,,,,,,not scorable,no reported owned share of portfolio on stored calls
+LEMONTREE-184,,,,none,,,,,,,,,,not scorable,FY24 renovation capex not reported; later call restates plan only
+LEMONTREE-185,,,,none,,,,,,,,,,not scorable,FY24 renovation opex not reported; later call restates plan only
+LEMONTREE-186,,,,none,,,,,,,,,,not scorable,no reported Aurika Skycity remaining spend
+LEMONTREE-187,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-188,50,,higher,call,,49.1,49.1%,Q4FY24,3,"The net EBITDA margin for the full year stood at 49.1%, which reduced by 278 bps over FY23.",,,,,Floor 50% full-year net EBITDA margin; FY24 company net EBITDA margin 49.1% from Q4FY24 call
+LEMONTREE-189,,,,none,,,,,,,,,,not scorable,"counterfactual base, not a reported number"
+LEMONTREE-190,,,,none,,,,,,,,,,not scorable,Aurika Skycity standalone margin not reported
+LEMONTREE-191,,,,none,,,,,,,,,,not scorable,no reported standalone debt at FY26
+LEMONTREE-192,,,,none,,,,,,,,,,not scorable,no numeric target
+LEMONTREE-193,,,,none,,,,,,,,,,not due,target Jun-27 not yet reported
+LEMONTREE-194,,,,none,,,,,,,,,,not due,target Jun-28 not yet reported
+LEMONTREE-195,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-196,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-197,,,,none,,,,,,,,,,not scorable,no reported three-year renovation spend
+LEMONTREE-198,,,,none,,,,,,,,,,not scorable,no reported Aurika Skycity remaining spend
+LEMONTREE-199,,,,none,,,,,,,,,,not scorable,"dated milestone, no numeric outcome"
+LEMONTREE-200,,,,none,,,,,,,,,,not scorable,second year of operation unclear; no reported Aurika Skycity EBITDA
+LEMONTREE-201,,,,none,,,,,,,,,,not scorable,no reported standalone debt at Dec-25
+LEMONTREE-202,,0,lower,call,,1657.9,"Rs 1,657.9 crore gross debt",Q1FY27,3,"Our gross debt on 30th June 2026 stood at Rs. 1,475 crore, down 11% from Rs. 1,657.9 crore a year ago",,,,,"Debt free by Jun-25 = ceiling 0; group gross debt at 30-Jun-25 per Q1FY27 call; conditional on Fleur listing, scored as stated"
+LEMONTREE-203,,,,none,,,,,,,,,,not scorable,FY24 like-to-like RevPAR growth on guided basis not reported
+LEMONTREE-204,,,,none,,,,,,,,,,not scorable,FY24 rooms renovated not reported as one figure
+LEMONTREE-205,,,,none,,,,,,,,,,not scorable,base and period unclear
+LEMONTREE-206,,,,none,,,,,,,,,,not scorable,no period
+LEMONTREE-207,,,,none,,,,,,,,,,not scorable,base not defined

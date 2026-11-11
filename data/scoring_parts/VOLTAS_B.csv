@@ -1,0 +1,13 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+VOLTAS-079,,,,none,,,,,,,,,,not scorable,no period; localisation aim with no date
+VOLTAS-080,,,,none,,,,,,,,,,not scorable,no reported total of the Rs 400-450 cr additional capex on the guided basis
+VOLTAS-081,,,,none,,,,,,,,,,not scorable,no period; compressor capex depends on technology partner
+VOLTAS-082,,,,none,,,,,,,,,,not scorable,no reported completion of the Chennai ramp-up capex
+VOLTAS-083,,,,none,,,,,,,,,,not scorable,no reported Voltbek EBITDA breakeven outcome for Mar-25 in stored calls
+VOLTAS-084,,,,none,,,,,,,,,,not scorable,no year given for depreciation
+VOLTAS-085,7,9,higher,call,,9.9769,"9.98% (UCP segment result INR345 cr / revenue INR3,458 cr)",Q4FY25,4,Segment result for the quarter was INR345 crores against INR270 crores for the same quarter last year.,Q4FY25,4,"segment revenue grew by 17%, totaling INR3,458 crores , compared to INR2,955 crores in the same quarter last year.",,"UCP Q4FY25 margin = segment result / segment revenue, both from Q4FY25 call page 4"
+VOLTAS-086,,,,none,,,,,,,,,,not scorable,basis ambiguous (company vs UCP segment)
+VOLTAS-087,,,,none,,,,,,,,,,not scorable,no amount; no numeric target
+VOLTAS-088,5.8724,,higher,call,,9.9769,"9.98% (UCP segment result INR345 cr / revenue INR3,458 cr)",Q4FY25,4,Segment result for the quarter was INR345 crores against INR270 crores for the same quarter last year.,Q4FY25,4,"segment revenue grew by 17%, totaling INR3,458 crores , compared to INR2,955 crores in the same quarter last year.",,lo = Q3FY25 UCP margin = segment result 104 / revenue 1771 (Q3FY25 call page 5); actual = Q4FY25 UCP segment result / revenue
+VOLTAS-089,,,,none,,,,,,,,,,not scorable,no period; localisation aim with no date
+VOLTAS-090,,,,none,,,,,,,,,,not scorable,no reported FY26 CAC and CR revenue growth on the guided basis

@@ -1,0 +1,77 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+BAJAJELEC-080,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-081,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+BAJAJELEC-082,,,,none,,,,,,,,,,not scorable,"direction only, no base"
+BAJAJELEC-083,,,,none,,,,,,,,,,not scorable,no amount
+BAJAJELEC-084,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-085,,,,none,,,,,,,,,,not scorable,segment margin; no reported segment actual for the period
+BAJAJELEC-086,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-087,,,,none,,,,,,,,,,not scorable,"direction only, no base"
+BAJAJELEC-088,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-089,,,,none,,,,,,,,,,not scorable,direction only
+BAJAJELEC-090,,,,none,,,,,,,,,,not scorable,direction only
+BAJAJELEC-091,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-092,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (logistics cost level not reported)
+BAJAJELEC-093,,,,none,,,,,,,,,,not scorable,"direction only, conditional"
+BAJAJELEC-094,,,,none,,,,,,,,,,not scorable,segment margin; no reported actual on the guided basis
+BAJAJELEC-095,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-096,,,,none,,,,,,,,,,not scorable,no size
+BAJAJELEC-097,,,,none,,,,,,,,,,not scorable,direction only
+BAJAJELEC-098,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+BAJAJELEC-099,,,,none,,,,,,,,,,not scorable,no number given
+BAJAJELEC-100,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-101,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (logistics cost level not reported)
+BAJAJELEC-102,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-103,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-104,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-105,,,,none,,,,,,,,,,not scorable,"period is a rolling 12 months, not a fiscal year; no reported actual"
+BAJAJELEC-106,,,,none,,,,,,,,,,not scorable,"date milestone, no numeric range"
+BAJAJELEC-107,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-108,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-109,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (only approximate later claims on a different window)
+BAJAJELEC-110,,,,none,,,,,,,,,,not scorable,"no reported actual on the guided basis (later claim is about 100 bps over one year, different baseline)"
+BAJAJELEC-111,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis (segment quarterly revenue not stored)
+BAJAJELEC-112,,,,none,,,,,,,,,,not scorable,direction only
+BAJAJELEC-113,,,,none,,,,,,,,,,not scorable,EPC demerged; no reported actual on the guided basis
+BAJAJELEC-114,,,,none,,,,,,,,,,not scorable,no period; number came from analyst
+BAJAJELEC-115,,,,none,,,,,,,,,,not scorable,number came from analyst; calendar vs fiscal year unclear
+BAJAJELEC-116,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-117,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-118,,,,none,,,,,,,,,,not scorable,no reported actual found
+BAJAJELEC-119,,,,none,,,,,,,,,,not scorable,base only approximate; no exact reported A&P for Q3FY24
+BAJAJELEC-120,,,,none,,,,,,,,,,not scorable,direction only
+BAJAJELEC-121,,,,none,,,,,,,,,,not scorable,"increment, no reported actual on the guided basis"
+BAJAJELEC-122,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-123,,,,none,,,,,,,,,,not scorable,no reported actual
+BAJAJELEC-124,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-125,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-126,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-127,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-128,,,,none,,,,,,,,,,not scorable,conditional; 9-10% came from analyst; possibility not commitment
+BAJAJELEC-129,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-130,,,,none,,,,,,,,,,not scorable,no size
+BAJAJELEC-131,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-132,,,,none,,,,,,,,,,not scorable,no reported FY25 fans growth
+BAJAJELEC-133,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-134,,,,none,,,,,,,,,,not scorable,"opportunity size, not a dated commitment"
+BAJAJELEC-135,,,,none,,,,,,,,,,not scorable,no numeric target
+BAJAJELEC-136,11.4,12.6,lower,call,,9.5,Rs 9.5 crore,Q4FY25,15,So EPR for this year is about. Rs. 9.5 crores and last year also was similar.,,,,,FY25 EPR cost stated on Q4FY25 call; guide ~12 cr +/-5%
+BAJAJELEC-137,,,,none,,,,,,,,,,not scorable,no reported capex for FY25/FY26
+BAJAJELEC-138,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BAJAJELEC-139,,,,none,,,,,,,,,,not scorable,no reported FY25 in-house share
+BAJAJELEC-140,,,,none,,,,,,,,,,not scorable,new-product revenue share not reported
+BAJAJELEC-141,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+BAJAJELEC-142,,,,none,,,,,,,,,,not scorable,no reported actual for Sep-25; later claims approximate
+BAJAJELEC-143,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-144,,,,none,,,,,,,,,,not scorable,no period; conditional
+BAJAJELEC-145,,,,none,,,,,,,,,,not scorable,basis unclear (consumer products); no clear base
+BAJAJELEC-146,,,,none,,,,,,,,,,not scorable,"milestone, no numeric range"
+BAJAJELEC-147,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-148,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-149,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-150,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-151,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BAJAJELEC-152,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-153,,,,none,,,,,,,,,,not scorable,no period
+BAJAJELEC-154,,,,none,,,,,,,,,,not due,FY27 not yet reported
+BAJAJELEC-155,,,,none,,,,,,,,,,not scorable,no reported FY26 capex

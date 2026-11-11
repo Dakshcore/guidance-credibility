@@ -1,0 +1,86 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+HAVELLS-001,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-002,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-003,,,,none,,,,,,,,,,not scorable,direction only or base from analyst; no reported actual on guided basis
+HAVELLS-004,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-005,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-006,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-007,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-008,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-009,,,,none,,,,,,,,,,not scorable,direction only or base from analyst; no reported actual on guided basis
+HAVELLS-010,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-011,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-012,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-013,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-014,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-015,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-016,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-017,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-018,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-019,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-020,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-021,,,,none,,,,,,,,,,not scorable,direction only or base from analyst; no reported actual on guided basis
+HAVELLS-022,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-023,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-024,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-025,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-026,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-027,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-028,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-029,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-030,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-031,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-032,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-033,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-034,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-035,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+HAVELLS-036,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-037,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-038,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-039,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-040,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-041,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-042,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-043,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-044,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+HAVELLS-045,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-046,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-047,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-048,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-049,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-050,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-051,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-052,,,,none,,,,,,,,,,not scorable,direction only or base from analyst; no reported actual on guided basis
+HAVELLS-053,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-054,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-055,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-056,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-057,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-058,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-059,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-060,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-061,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-062,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-063,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-064,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-065,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-066,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-067,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-068,,,,none,,,,,,,,,,not scorable,ad spend or cost ratio: no management-reported full-period actual on same basis
+HAVELLS-069,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-070,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-071,,,,none,,,,,,,,,,not scorable,no reported actual on guided basis
+HAVELLS-072,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-073,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-074,,,,none,,,,,,,,,,not scorable,no period or no numeric commitment
+HAVELLS-075,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-076,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-077,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-078,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"
+HAVELLS-079,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-080,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-081,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-082,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-083,,,,none,,,,,,,,,,not scorable,capex: management reports no full-period capex actual in stored transcripts; not on Screener
+HAVELLS-084,,,,none,,,,,,,,,,not scorable,no numeric target or segment actual not reported; no reported actual on guided basis
+HAVELLS-085,,,,none,,,,,,,,,,not scorable,"milestone date, no numeric range"

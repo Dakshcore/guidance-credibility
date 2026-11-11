@@ -1,0 +1,80 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ASIANPAINT-001,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-002,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-003,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-004,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-005,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-006,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-007,,,,none,,,,,,,,,,not scorable,"only a count at the call date after period end (bound), not the period-end count"
+ASIANPAINT-008,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-009,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-010,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-011,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-012,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-013,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-014,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-015,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-016,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-017,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-018,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-019,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-020,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-021,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-022,,,,none,,,,,,,,,,not scorable,"only a count at the call date after period end (bound), not the period-end count"
+ASIANPAINT-023,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-024,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ASIANPAINT-025,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-026,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-027,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-028,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-029,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-030,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-031,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-032,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-033,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-034,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-035,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-036,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-037,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-038,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-039,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-040,,,,none,,,,,,,,,,not due,Oct-27 not yet reached
+ASIANPAINT-041,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-042,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-043,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-044,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-045,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-046,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-047,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-048,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-049,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-050,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-051,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-052,95,105,higher,call,,67,67 stores,Q4FY25,14,"our beautiful home stores, which are today about 67 stores across the country in the 53 cities",,,,,count on May-2025 call vs ~100 stores target by May-25
+ASIANPAINT-053,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-054,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-055,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-056,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-057,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-058,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-059,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-060,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-061,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-062,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-063,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-064,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-065,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-066,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-067,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-068,,,,none,,,,,,,,,,not scorable,"only a count at the call date after period end (bound), not the period-end count"
+ASIANPAINT-069,,,,none,,,,,,,,,,not scorable,no period or no reported actual on guided basis
+ASIANPAINT-070,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ASIANPAINT-071,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-072,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis
+ASIANPAINT-073,,,,none,,,,,,,,,,not scorable,"direction only, no checkable size or no named metric"
+ASIANPAINT-074,,,,none,,,,,,,,,,not scorable,standalone PBDIT/gross margin; only consolidated Screener data or no full-period call figure
+ASIANPAINT-075,10,,higher,call,,12,12% volume growth,Q3FY24,23,"a 12% volume growth, a 5.2% value growth, gross margins are up. The greatest part is that the PBDIT",,,,,Q3FY24 standalone volume growth reported on Q3FY24 call; double digit = at least 10
+ASIANPAINT-076,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-077,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-078,,,,none,,,,,,,,,,not scorable,no numeric target or no reported actual in stored sources
+ASIANPAINT-079,,,,none,,,,,,,,,,not scorable,no reported actual for the full guided period on the guided basis

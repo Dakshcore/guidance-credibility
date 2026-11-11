@@ -1,0 +1,82 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ABFRL-001,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-002,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-003,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-004,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-005,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-006,65,75,higher,call,,63,63 stores,Q1FY24,17,63 new stores is what we had opened last year,,,,,Pantaloons FY23 gross openings as stated by management on Q1FY24 call
+ABFRL-007,,,,none,,,,,,,,,,not scorable,ethnic segment FY26 revenue; no reported actual on the guided basis
+ABFRL-008,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-009,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-010,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-011,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-012,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-013,,,,none,,,,,,,,,,not scorable,no numeric target; no reported actual
+ABFRL-014,,,,none,,,,,,,,,,not scorable,no explicit numeric guidance
+ABFRL-015,65,70,higher,call,,50,close to 50-odd stores,Q1FY24,9,"last year, we added close to 50- odd stores",,,,,Tasva FY23 additions; approximate wording (50-odd) taken as 50; verdict not sensitive since well below 65
+ABFRL-016,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-017,,,,none,,,,,,,,,,not scorable,H1 store count; no reported actual on the guided basis
+ABFRL-018,70,80,higher,call,,63,63 stores,Q1FY24,17,63 new stores is what we had opened last year,,,,,Pantaloons FY23 gross openings as stated by management on Q1FY24 call
+ABFRL-019,,,,none,,,,,,,,,,not scorable,no reported Tasva closing count at Mar-23
+ABFRL-020,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-021,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-022,66.5,73.5,higher,call,,63,63 stores,Q1FY24,17,63 new stores is what we had opened last year,,,,,Pantaloons FY23 gross openings as stated by management on Q1FY24 call
+ABFRL-023,,,,none,,,,,,,,,,not scorable,franchise share of additions; no reported actual
+ABFRL-024,,,,none,,,,,,,,,,not scorable,deferred tax rate not on guided basis in sources
+ABFRL-025,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-026,,,,none,,,,,,,,,,not scorable,no reported Tasva closing count at Mar-23
+ABFRL-027,,,,none,,,,,,,,,,not scorable,"later call says innerwear about INR500 crores last year; approximate, not clearly above guide"
+ABFRL-028,,,,none,,,,,,,,,,not scorable,innerwear demerged; no reported actual on the guided basis
+ABFRL-029,,,,none,,,,,,,,,,not scorable,innerwear demerged; no reported actual on the guided basis
+ABFRL-030,65,70,higher,call,,50,close to 50-odd stores,Q1FY24,9,"last year, we added close to 50- odd stores",,,,,Tasva FY23 additions; approximate wording (50-odd) taken as 50; verdict not sensitive since well below 65
+ABFRL-031,,,,none,,,,,,,,,,not scorable,undated launch base; no reported actual
+ABFRL-032,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-033,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-034,50,,higher,screener,rev_growth:FY23,,,,,,,,,,floor 50%; consolidated
+ABFRL-035,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-036,60,70,higher,call,,63,63 stores,Q1FY24,17,63 new stores is what we had opened last year,,,,,Pantaloons FY23 gross openings as stated by management on Q1FY24 call
+ABFRL-037,12000,,higher,screener,revenue:FY23,,,,,,,,,,"floor; same call gave 12,000 and 12,500 so wider union 12,000 used"
+ABFRL-038,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-039,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-040,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-041,,,,none,,,,,,,,,,not scorable,FY26 consolidated perimeter changed by Madura demerger; no actual on guided basis
+ABFRL-042,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-043,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-044,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-045,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-046,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-047,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-048,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-049,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-050,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-051,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-052,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-053,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-054,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ABFRL-055,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-056,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-057,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-058,,,,none,,,,,,,,,,not scorable,pre-IndAS net debt/EBITDA ratio not reported on guided basis
+ABFRL-059,,,,none,,,,,,,,,,not scorable,pre-IndAS net debt/EBITDA; perimeter changed by demerger; no reported actual
+ABFRL-060,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-061,,,,none,,,,,,,,,,not scorable,FY26 consolidated perimeter changed by Madura demerger; no actual on guided basis
+ABFRL-062,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-063,,,,none,,,,,,,,,,not scorable,EPS accretion not reported on guided basis
+ABFRL-064,,,,none,,,,,,,,,,not scorable,date milestone; not expressible as a range
+ABFRL-065,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ABFRL-066,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-067,,,,none,,,,,,,,,,not scorable,no reported FY24 TMRW loss on later calls
+ABFRL-068,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-069,,,,none,,,,,,,,,,not scorable,no reported Tasva FY24 additions or closing count
+ABFRL-070,35,40,higher,call,,29,29 stores,Q4FY24,7,we opened about 29 stores during the course of the year,,,,,"Pantaloons FY24 gross openings (43 closed, not netted)"
+ABFRL-071,,,,none,,,,,,,,,,not scorable,direction only; no reported actual on the guided basis
+ABFRL-072,,,,none,,,,,,,,,,not scorable,per-quarter additions; no reported actual on the guided basis
+ABFRL-073,,,,none,,,,,,,,,,not scorable,"later call gives only 160-plus stores, a lower bound"
+ABFRL-074,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-075,2660,2940,lower,call,,2862,"INR2,862 crores",Q4FY24,5,"Our net debt at consolidated level stood at INR2,862 crores",,,,,"guide was closing debt ~2,800 incl GIC inflow; management reports consolidated net debt against that guidance"
+ABFRL-076,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-077,,,,none,,,,,,,,,,not due,FY27 breakeven; FY27 not yet reported
+ABFRL-078,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ABFRL-079,,,,none,,,,,,,,,,not scorable,launch date unclear; no reported actual
+ABFRL-080,,,,none,,,,,,,,,,not scorable,no reported Tasva closing count at Mar-24
+ABFRL-081,,,,none,,,,,,,,,,not scorable,"later call gives only a range of 25-28 stores, not a point actual"

@@ -1,0 +1,78 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ETHOSLTD-078,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-079,,,,none,,,,,,,,,,not scorable,"direction only, no named base"
+ETHOSLTD-080,,,,none,,,,,,,,,,not scorable,FY24 gross openings only given by an analyst; net count is a different basis
+ETHOSLTD-081,,,,none,,,,,,,,,,not scorable,FY24 gross openings only given by an analyst; net count is a different basis
+ETHOSLTD-082,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ETHOSLTD-083,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+ETHOSLTD-084,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-085,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-086,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-087,,,,none,,,,,,,,,,not scorable,quarter-days guide vs annual days; no clear target
+ETHOSLTD-088,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+ETHOSLTD-089,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ETHOSLTD-090,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+ETHOSLTD-091,,,,none,,,,,,,,,,not scorable,"direction vs H1, no number"
+ETHOSLTD-092,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-093,25,,higher,screener,rev_growth:FY24,,,,,,,,,,floor 25%; consolidated revenue growth
+ETHOSLTD-094,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-095,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-096,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-097,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-098,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-099,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-100,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-101,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-102,,,,none,,,,,,,,,,not due,FY34 not yet reported
+ETHOSLTD-103,,,,none,,,,,,,,,,not due,FY30 not yet reported
+ETHOSLTD-104,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-105,23.75,26.25,higher,call,,14,14 boutiques,Q4FY25,3,We successfully inaugurated 14 new boutiques in FY '24-'25 and reached a count of 73 boutiques across 26 cities.,,,,,gross openings in FY25 as reported by management
+ETHOSLTD-106,,,,none,,,,,,,,,,not due,Mar-30 not yet reported
+ETHOSLTD-107,,,,none,,,,,,,,,,not scorable,no reported actual for FY26 in stored transcripts
+ETHOSLTD-108,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ETHOSLTD-109,,,,none,,,,,,,,,,not due,FY34 not yet reported
+ETHOSLTD-110,,,,none,,,,,,,,,,not scorable,no reported actual for FY25-FY26 on the guided basis
+ETHOSLTD-111,,,,none,,,,,,,,,,not scorable,no reported actual; Rimowa opening not stated as done
+ETHOSLTD-112,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-113,,,,none,,,,,,,,,,not scorable,"per-boutique revenue, no reported actual"
+ETHOSLTD-114,,,,none,,,,,,,,,,not due,FY34 not yet reported
+ETHOSLTD-115,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-116,,,,none,,,,,,,,,,not scorable,"only a lower bound (over 30%) reported for CPO, not a full-year figure"
+ETHOSLTD-117,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-118,,,,none,,,,,,,,,,not scorable,"rate-dependent, no numeric target"
+ETHOSLTD-119,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+ETHOSLTD-120,19,26.25,higher,call,,14,14 boutiques,Q4FY25,3,We successfully inaugurated 14 new boutiques in FY '24-'25 and reached a count of 73 boutiques across 26 cities.,,,,,union of ~20 (19-21) and 25 (23.75-26.25) said on same call; gross openings
+ETHOSLTD-121,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-122,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-123,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-124,,,,none,,,,,,,,,,not scorable,no reported actual; second Rimowa still to launch in May-25 call
+ETHOSLTD-125,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-126,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-127,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-128,19,26.25,higher,call,,14,14 boutiques,Q4FY25,3,We successfully inaugurated 14 new boutiques in FY '24-'25 and reached a count of 73 boutiques across 26 cities.,,,,,union of ~20 (19-21) and 25 (23.75-26.25) said on same call; gross openings
+ETHOSLTD-129,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-130,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-131,0.95,1.05,higher,call,,1,1 boutique (Kochi),Q1FY25,4,"We successfully opened 3 new boutiques in Kochi, Dehradun and Pune.",,,,,"Kochi opened in Q1FY25 (Apr-Jun 24), before Jul-24"
+ETHOSLTD-132,0.95,1.05,higher,call,,1,1 boutique (Dehradun),Q1FY25,4,"We successfully opened 3 new boutiques in Kochi, Dehradun and Pune.",,,,,"Dehradun opened in Q1FY25 (Apr-Jun 24), reported opened in Q1FY25 (quarter ended Jun-24); exact date not stated"
+ETHOSLTD-133,,,,none,,,,,,,,,,not scorable,"event date; opening reported after target, no numeric actual"
+ETHOSLTD-134,,,,none,,,,,,,,,,not scorable,"direction only, no period"
+ETHOSLTD-135,,,,none,,,,,,,,,,not due,Mar-30 not yet reported
+ETHOSLTD-136,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-137,18.6957,,higher,screener,q_rev_growth:Q4FY25,,,,,,,,,,"base Q1FY25 growth 18.6957 (screener); weakest of Q2-Q4 is Q4FY25; hedged ""might"""
+ETHOSLTD-138,,,,none,,,,,,,,,,not scorable,no numeric target
+ETHOSLTD-139,,,,none,,,,,,,,,,not scorable,"event date; opening reported after target, no numeric actual"
+ETHOSLTD-140,,,,none,,,,,,,,,,not scorable,"units, no period"
+ETHOSLTD-141,4.75,5.25,higher,call,,5,5 stores added in Q2FY25,Q2FY25,13,"So last year we closed at 62 stores and in Q1 we added 3 stores Q2, 5 store.",,,,,gross additions in Q2FY25
+ETHOSLTD-142,,,,none,,,,,,,,,,not scorable,"event date; opening reported after target, no numeric actual"
+ETHOSLTD-143,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-144,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-145,20,25,higher,call,,14,14 boutiques,Q4FY25,3,We successfully inaugurated 14 new boutiques in FY '24-'25 and reached a count of 73 boutiques across 26 cities.,,,,,union with 22-23 on same call; gross openings
+ETHOSLTD-146,20,25,higher,call,,14,14 boutiques,Q4FY25,3,We successfully inaugurated 14 new boutiques in FY '24-'25 and reached a count of 73 boutiques across 26 cities.,,,,,union with 20-25 on same call; gross openings
+ETHOSLTD-147,,,,none,,,,,,,,,,not due,Mar-30 not yet reported
+ETHOSLTD-148,,,,none,,,,,,,,,,not scorable,no reported actual on the guided basis
+ETHOSLTD-149,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-150,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-151,,,,none,,,,,,,,,,not scorable,no period
+ETHOSLTD-152,,,,none,,,,,,,,,,not scorable,"event, no numeric target"
+ETHOSLTD-153,,,,none,,,,,,,,,,not scorable,no reported actual
+ETHOSLTD-154,,,,none,,,,,,,,,,not scorable,no period

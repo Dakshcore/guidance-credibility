@@ -1,0 +1,29 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+ABFRL-150,,,,none,,,,,,,,,,not due,multi-year to FY28 not yet reported
+ABFRL-151,,,,none,,,,,,,,,,not scorable,ABLBL separate entity; no ABLBL actual in stored transcripts
+ABFRL-152,,,,none,,,,,,,,,,not due,3-year target to FY28 not yet reported
+ABFRL-153,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ABFRL-154,,,,none,,,,,,,,,,not due,3-year target to FY28 not yet reported
+ABFRL-155,,,,none,,,,,,,,,,not due,FY30 not yet reported
+ABFRL-156,,,,none,,,,,,,,,,not due,FY30 not yet reported
+ABFRL-157,,,,none,,,,,,,,,,not due,"next couple of years runs to FY27, not yet reported"
+ABFRL-158,,,,none,,,,,,,,,,not scorable,event with no numeric range
+ABFRL-159,,,,none,,,,,,,,,,not scorable,no reported Pantaloons FY26 store additions on call
+ABFRL-160,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-161,,,,none,,,,,,,,,,not scorable,review: guide can be read two ways that give different verdicts
+ABFRL-162,,,,none,,,,,,,,,,not scorable,FY26 capex reported on standalone; guide basis demerged ABFRL; analyst figure of 500 not management actual
+ABFRL-163,47.5,52.5,higher,call,,34,34 stores,Q4FY26,5,This included 12 new stores added during the quarter and 34 stores added in FY '26.,,,,,Style Up rebranded OWND; FY26 additions
+ABFRL-164,,,,none,,,,,,,,,,not due,2-3 year target to FY28 not yet reported
+ABFRL-165,,,,none,,,,,,,,,,not scorable,no numeric target
+ABFRL-166,,,,none,,,,,,,,,,not due,losses end FY28 not yet reported
+ABFRL-167,,,,none,,,,,,,,,,not scorable,ABLBL separate entity; no ABLBL actual in stored transcripts
+ABFRL-168,,,,none,,,,,,,,,,not scorable,ABLBL separate entity; no ABLBL actual in stored transcripts
+ABFRL-169,,,,none,,,,,,,,,,not due,3-4 year goal to FY29 not yet reported
+ABFRL-170,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-171,,,,none,,,,,,,,,,not scorable,only analyst figure of 38% for Tasva; no management-reported actual
+ABFRL-172,,,,none,,,,,,,,,,not scorable,no period
+ABFRL-173,,,,none,,,,,,,,,,not due,4-5 year horizon to FY30 not yet reported
+ABFRL-174,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+ABFRL-175,,,,none,,,,,,,,,,not due,FY27 not yet reported
+ABFRL-176,,,,none,,,,,,,,,,not scorable,ABLBL separate entity; no ABLBL actual in stored transcripts
+ABFRL-177,,,,none,,,,,,,,,,not scorable,Ind AS interest ambiguity; no clear reported actual on guided basis

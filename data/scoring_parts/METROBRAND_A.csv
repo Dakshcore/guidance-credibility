@@ -1,0 +1,80 @@
+id,lo,hi,better,basis,screener_key,actual_num,actual_text,src_call,src_page,src_quote,src2_call,src2_page,src2_quote,verdict_override,reason
+METROBRAND-001,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-002,,,,none,,,,,,,,,,not scorable,no Q4FY22 quarterly gross margin stated on a call; only FY22 figure
+METROBRAND-003,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-004,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-005,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-006,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-007,,,,none,,,,,,,,,,not scorable,no full-year FitFlop store total reported
+METROBRAND-008,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-009,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-010,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-011,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-012,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-013,,,,none,,,,,,,,,,not scorable,no numeric actual for inventory days at guided date
+METROBRAND-014,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-015,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-016,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-017,55,57,higher,call,,58.1,58.1%,Q4FY23,3,"In FY23, our revenue was up by 58%, our gross margin was steady at 58.1%, and we delivered EBITDA and PAT of 32 % and 17.2% respectively.",,,,,FY23 consolidated gross margin
+METROBRAND-018,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-019,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-020,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-021,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-022,,,,none,,,,,,,,,,not scorable,no full-year FitFlop store total reported
+METROBRAND-023,,,,none,,,,,,,,,,not scorable,no Q2FY23 share of products above Rs 3000 stated
+METROBRAND-024,80,85,higher,call,,115,115 net new stores,Q4FY23,2,We also opened a record 115 net new stores. This is a net of 29 closed and 13 relocated stores,,,,,FY23 net new stores; guide was derived from net 260 over three years
+METROBRAND-025,,,,none,,,,,,,,,,not scorable,no FY23 capex figure reported
+METROBRAND-026,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-027,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-028,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-029,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-030,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-031,,,,none,,,,,,,,,,not scorable,no numeric actual for inventory days at guided date
+METROBRAND-032,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-033,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-034,,,,none,,,,,,,,,,not scorable,no full-year FitFlop store total reported
+METROBRAND-035,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-036,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-037,,,,none,,,,,,,,,,not scorable,no reported actual
+METROBRAND-038,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-039,,,,none,,,,,,,,,,not scorable,"Cravatex/FILA basis, no reported actual"
+METROBRAND-040,,,,none,,,,,,,,,,not scorable,"Cravatex/FILA basis, no reported actual"
+METROBRAND-041,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-042,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-043,,,,none,,,,,,,,,,not scorable,guided on standalone basis; FY24 standalone margin not stated on any call
+METROBRAND-044,,,,none,,,,,,,,,,not scorable,guided on standalone basis; FY24 standalone margin not stated on any call
+METROBRAND-045,,,,none,,,,,,,,,,not scorable,guided on standalone basis; FY24 standalone margin not stated on any call
+METROBRAND-046,,,,none,,,,,,,,,,not scorable,no base or number for slightly elevated
+METROBRAND-047,,,,none,,,,,,,,,,not scorable,moderation not quantified
+METROBRAND-048,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-049,,,,none,,,,,,,,,,not scorable,no FY24 ASP growth figure reported
+METROBRAND-050,,,,none,,,,,,,,,,not scorable,guided on standalone basis; FY24 standalone margin not stated on any call
+METROBRAND-051,,,,none,,,,,,,,,,not scorable,guided on standalone basis; FY24 standalone margin not stated on any call
+METROBRAND-052,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-053,,,,none,,,,,,,,,,not scorable,no reported actual
+METROBRAND-054,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-055,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-056,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-057,,,,none,,,,,,,,,,not scorable,"Cravatex/FILA basis, no reported actual"
+METROBRAND-058,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-059,,,,none,,,,,,,,,,not scorable,"relative direction, standalone, no clear range"
+METROBRAND-060,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-061,,,,none,,,,,,,,,,not scorable,no FY24 full-year gross margin stated on guided basis
+METROBRAND-062,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-063,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-064,,,,none,,,,,,,,,,not scorable,no FY24 share of sales above Rs 1500 reported
+METROBRAND-065,,,,none,,,,,,,,,,not scorable,review: actual may be on a different basis or perimeter
+METROBRAND-066,,,,none,,,,,,,,,,not scorable,"multi-year net store count; reported net counts include FitFlop, Fila/Foot Locker changes; not on guided basis"
+METROBRAND-067,,,,none,,,,,,,,,,not scorable,"direction and timing only, no count"
+METROBRAND-068,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-069,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-070,,,,none,,,,,,,,,,not scorable,no FY24 ad spend ratio reported
+METROBRAND-071,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-072,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-073,,,,none,,,,,,,,,,not scorable,"qualitative milestone, no numeric target"
+METROBRAND-074,,,,none,,,,,,,,,,not scorable,no FY24 Crocs store count reported
+METROBRAND-075,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-076,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-077,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-078,,,,none,,,,,,,,,,not scorable,no period
+METROBRAND-079,,,,none,,,,,,,,,,not scorable,later call restates plan (breakeven next year); no FY26 actual reported
